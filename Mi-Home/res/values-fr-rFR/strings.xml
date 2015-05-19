@@ -683,6 +683,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="get_camera_backup_error_router_info_name">Le routeur n\'a pu obtenir le nom de la caméra</string>
     <string name="get_camera_backup_error_router_info_service_token">Défaillance de l\'accès à la caméra par le routeur</string>
     <string name="get_camera_backup_error_router_info_backup">Le routeur n\'a pu obtenir les informations de sauvegarde de la caméra</string>
+    <string name="get_camera_backup_error_router_no_backup_file">暂无视频备份到路由，无法查看</string>
     <string name="not_support_router_backup">Sauvegarde non supportée, assurez-vous que l\'appareil est connecté à un routeur et le compte Mi correct</string>
     <string name="camera_vidoe_save_path">Chemin de stockage: </string>
     <string name="camera_vidoe_get_router_save_path_failed">Impossible d\'obtenir le chemin de stockage du routeur</string>
@@ -741,6 +742,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_bind_error">Echec de la liaison</string>
     <string name="camera_bind_trigger_camera_token_error">Aucune caméra intelligente détectée dans la zone de détection</string>
     <string name="camera_bind_erro_verify_coder">Erreur de saisie du code de confirmation</string>
+    <string name="camera_bind_erro_time_out">摄像机连接超时，请重置摄像机重新绑定</string>
     <string name="developer_remote_debug">Test de la couverture réseau du domicile</string>
     <string name="developer_plug_debug">Mode développeur</string>
     <string name="device_shop_sure">Déterminer</string>
@@ -804,6 +806,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="device_shop_cart_good_edit_consumption_failed">Échec de modification du panier！</string>
     <string name="device_shop_cart_good_del_title">Êtes-vous sûr de vouloir supprimer cet article？</string>
     <string name="device_shop_cart_good_insure_button_title">Service d\'achat ￥%1$s/partie</string>
+    <string name="device_shop_cart_good_insure_title">手机意外保障服务</string>
     <string name="device_shop_cart_supply_price">￥%1$s</string>
     <string name="device_shop_cart_supply_price2">Offre Spéciale￥%1$s</string>
     <string name="device_shop_cart_supply_multi">(Autre section)</string>
@@ -955,6 +958,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_color_lamp_setting_subtitle">Pas de paramètres</string>
     <string name="gateway_night_bright_setting">Paramètres de détection de luminosité nocturne</string>
     <string name="gateway_light_time_setting">Paramètres des lampes stroboscopiques</string>
+    <string name="gateway_light_time_swich">定时开关</string>
     <string name="gateway_light_time_choose">Réglages de l\'heure</string>
     <string name="gateway_system_setting">Paramètres système</string>
     <string name="gateway_system_brightness_setting">Système d\'éclairage</string>
@@ -974,8 +978,11 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_arming_text">Vigilance</string>
     <string name="gateway_light_text">Interrupteur</string>
     <string name="gateway_night_light_text">Veilleuses</string>
+    <string name="gateway_night_light_setting_text">彩灯设置</string>
+    <string name="gateway_door_bell_select_title">门铃条件</string>
     <string name="gateway_music_text">Musique</string>
-    <string name="gateway_auto_alarm_time">Heure de l\'alarme automatique</string>
+    <string name="gateway_alarm_music_text">警戒铃音</string>
+    <string name="gateway_auto_alarm_time">警戒定时</string>
     <string name="gateway_no_setting">Aucun réglage défini</string>
     <string name="guard_settings">Paramètres d\'alarme</string>
     <string name="night_light">Réglage de la lumière de nuit</string>
@@ -1000,6 +1007,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_bodysensor_trig">Déclencheurs du capteur de mouvements</string>
     <string name="gateway_bodysensor_night_pass">Capteur de mouvements nocturne </string>
     <string name="gateway_bodysensor_night_title">Capteur de luminosité pendant la nuit</string>
+    <string name="gateway_bodysensor_night_swich">感应开关</string>
     <string name="gateway_light_time_delay">Réglages de la temporisation</string>
     <string name="gateway_doorbell_light">Passerelle d\'éclairage multifonction </string>
     <string name="gateway_bind_no_set">Aucun réglage</string>
@@ -1044,12 +1052,21 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_switchsensor_press_twice">Appuyez deux fois</string>
     <string name="gateway_switchsensor_setting">Paramètres</string>
     <string name="gateway_door_bell_setting">Paramètres de la sonnette</string>
+    <string name="gateway_doorbell_message_title">门铃提醒</string>
+    <string name="gateway_doorbell_message">消息提醒</string>
     <string name="gateway_alarm_setting">Paramètres de l\'alarme</string>
     <string name="gateway_switch_sensor_click_alarm">Bouton d\'alarme intelligent</string>
     <string name="gateway_voice">Voix</string>
     <string name="gateway_voice_broadcast">Diffusion de la voix</string>
     <string name="gateway_welcome_setting">Paramètres de diffusion de la voix</string>
     <string name="gateway_voice_select">Sélectionner la voix</string>
+    <string name="gateway_swich_voice_select">请选择门铃声</string>
+    <string name="gateway_swich_select">请选择无线开关</string>
+    <string name="gateway_swich_doorbell_ring">请选择按键一次门铃音</string>
+    <string name="gateway_swich_welcome_ring">请选择按键两次门铃音</string>
+    <string name="gateway_doorbell_note_text">无线开关按键门铃音</string>
+    <string name="gateway_doorbell_swich_text">按动无线开关响门铃</string>
+    <string name="gateway_doorbell_message_text">有人按门铃发送消息提醒</string>
     <string name="gateway_system_bell">Système de la sonnette</string>
     <string name="gateway_no_log">Aucun journal</string>
     <string name="gateway_log_sample_time">À 12h18 le 8 Janvier</string>
@@ -1070,6 +1087,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_magnet_sensor_no_close">La porte n\'est pas fermée</string>
     <string name="gateway_log_switchsensor_click">Une fois</string>
     <string name="gateway_log_switchsensor_double_click">Deux fois</string>
+    <string name="gateway_log_doorbell_click">触发门铃</string>
     <string name="gateway_log_arming_magnet_open">Déclencher l\'alarme</string>
     <string name="gateway_log_arming_motion_motion">Déclencher l\'alarme</string>
     <string name="gateway_log_arming_switch_click">Déclencher l\'alarme</string>
@@ -1092,7 +1110,10 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_remove_subdevice_tips">OK pour supprimer les périphériques enfants</string>
     <string name="gateway_add_subdevice_ok">Connexion réussie</string>
     <string name="gateway_add_subdevice_detail">Cliquez pour réinitialiser les périphériques</string>
-    <string name="gateway_add_subdevice_gelight">Merci d\'allumer la source d'alimentation de la lampe GE</string>
+    <string name="gateway_add_body_sensor_detail">请按一下人体传感器的重置孔</string>
+    <string name="gateway_add_window_sensor_detail">请按一下门窗传感器的重置孔</string>
+    <string name="gateway_add_swich_sensor_detail">请按一下无线开关的重置孔</string>
+    <string name="gateway_add_subdevice_gelight">请连接智能灯泡的电源</string>
     <string name="gateway_add_subdevice_otherdevice">Merci de continuer à ajouter des appareils en fonction de votre équipement</string>
     <string name="gateway_continue_add">Continuer à ajouter</string>
     <string name="gateway_add_finish">OK</string>
@@ -1123,6 +1144,7 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_alarm_6">Fusil de sniper</string>
     <string name="gateway_alarm_7">Troupe terrestre</string>
     <string name="gateway_alarm_8">Raid aérien</string>
+    <string name="gateway_alarm_9">狗叫声</string>
     <string name="gateway_door_bell_1">Sonnerie de la porte</string>
     <string name="gateway_door_bell_2">Cognement</string>
     <string name="gateway_door_bell_3">Sonnerie drôle</string>
@@ -1138,10 +1160,19 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_bodysensor_no_motion_30">Temporisation de 30 minutes avant l\'activation du détecteur de mouvements</string>
     <string name="gateway_user_cant_not_access">Aucune autorisation pour partager ces équipements</string>
     <string name="gateway_myscene">Ma scène</string>
+    <string name="gateway_long_voice">长铃音</string>
+    <string name="gateway_short_voice">短铃音</string>
     <string name="gateway_onlinescene">Ma scène en ligne</string>
     <string name="gateway_log_today_text">Aujourd\'hui</string>
     <string name="gateway_log_yesterday_text">Hier</string>
     <string name="gateway_log_before_yesterday_text">Avant-hier</string>
+    <string name="gateway_no_device">暂无此设备或固件不支持</string>
+    <string name="gateway_sub_device_offline_text">"1、触发一下传感器后刷新列表
+ 2、按一下传感器的重置孔
+ \u0009\u0009闪烁一次 - 未连接网关，请连接
+ \u0009\u0009闪烁两次 - 已连接网关，请检查距离或重置
+ \u0009\u0009未闪烁 - 电池没电或死机，请更换电池或拔电池"</string>
+    <string name="gateway_sub_device_offline_url">请检查距离或重置</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -2317,14 +2348,33 @@ Type : piles bouton %2$s"</string>
     <string name="nick_too_long">昵称需要在20个字符之内</string>
     <string name="error_led_status">指示灯状态</string>
     <string name="timer_title">定时器列表</string>
-    <string name="smarthome_scene_plug_220_on">Brancher le 220v</string>
-    <string name="smarthome_scene_plug_220_off">Débrancher le 220v</string>
-    <string name="smarthome_scene_plug_220">Prise 220v</string>
-    <string name="smarthome_scene_plug_usb_on">Brancher l\'usb</string>
-    <string name="smarthome_scene_plug_usb_off">Débrancher l\'usb</string>
-    <string name="smarthome_scene_plug_usb">Prise usb</string>
-    <string name="smarthome_scene_airpurify_on">On</string>
-    <string name="smarthome_scene_airpurify_off">Off</string>
+    <string name="tab_title_model_update">设备升级</string>
+    <string name="tab_title_app_update">App升级</string>
+    <string name="update_all">全部升级</string>
+    <string name="waiting_for_update">等待升级</string>
+    <string name="model_updating">升级中…</string>
+    <string name="model_update_success">升级成功</string>
+    <string name="model_rebooting">正在重启</string>
+    <string name="list_item_rebooting">重启中…</string>
+    <string name="activity_title_upgrade">升级</string>
+    <string name="list_item_latest_version">最新版本</string>
+    <string name="list_item_curr_version">当前版本</string>
+    <string name="all_model_latest">所有设备已经是最新版本</string>
+    <string name="model_latest">固件已经是最新版本</string>
+    <string name="app_tip_latest">App已经是最新版本</string>
+    <string name="update_to_version">可升级到:</string>
+    <string name="update_now">立即升级</string>
+    <string name="app_curr_version">当前版本：</string>
+    <string name="update_failed_retry">获取升级失败，点击重试</string>
+    <string name="app_updating">正在升级…</string>
+    <string name="smarthome_scene_plug_220_on">Brancher le 220V</string>
+    <string name="smarthome_scene_plug_220_off">Débrancher le 220V</string>
+    <string name="smarthome_scene_plug_220">Prise 220V</string>
+    <string name="smarthome_scene_plug_usb_on">Brancher l\'USB</string>
+    <string name="smarthome_scene_plug_usb_off">Débrancher l\'USB</string>
+    <string name="smarthome_scene_plug_usb">Prise USB</string>
+    <string name="smarthome_scene_airpurify_on">Activé</string>
+    <string name="smarthome_scene_airpurify_off">Désactivé</string>
     <string name="smarthome_scene_airpurify_on_off">Interrupteur</string>
     <string name="smarthome_scene_airpurify_auto">调至自动模式</string>
     <string name="smarthome_scene_airpurify_weak">调至静音模式</string>
@@ -2335,6 +2385,7 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_gateway_night_light_on">打开夜灯</string>
     <string name="smarthome_scene_gateway_night_light_off">关闭夜灯</string>
     <string name="smarthome_scene_gateway_night_light">开关夜灯</string>
+    <string name="smarthome_scene_gateway_ring_on">开门铃</string>
     <string name="smarthome_lock_router_download">下载</string>
     <string name="smarthome_lock_router_device">设备</string>
     <string name="bind_device_error_4">绑定时间超时，请重置设备重新快连</string>
@@ -2393,6 +2444,12 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_bulb_on">打开智能灯</string>
     <string name="smarthome_scene_bulb_off">关闭智能灯</string>
     <string name="smarthome_scene_bulb">开关智能灯</string>
+    <string name="smarthome_unbind_camera_tips">解绑摄像机后，需要重置才能重新绑定，确定解绑吗？</string>
+    <string name="found_new_unbind_mitvdevice">发现未登陆新电视设备,点击授权登陆新设备</string>
+    <string name="scene_default_mikey">单击米键</string>
+    <string name="add_timer_hint">还没有添加定时哦</string>
+    <string name="toast_lock_switch_failed">操作失败，请检查网络</string>
+    <string name="update_no_device">无可升级设备</string>
     <string name="umtitle">Purificateur d\'eau</string>
     <string name="umimg">mg</string>
     <string name="umdig">1</string>
@@ -2505,4 +2562,3 @@ Toute l\'eau concentrée dans le recyclage vous sera destinée</string>
     <string name="yeelight_btn_txt_del">Effacer</string>
     <string name="yeelight_btn_txt_ok">OK</string>
 </resources>
-
