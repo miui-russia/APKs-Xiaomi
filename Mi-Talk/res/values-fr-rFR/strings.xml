@@ -152,7 +152,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
 taille: %2$.2f Mo"</string>
     <string name="anime_fix_success">Réparé</string>
     <string name="anime_fix_title">Réparer Emoticons</string>
-    <string name="anime_list_retry_text">"Échec afin d'obtenir les informations de l'emoticon information, merci de vérifier votrre connexion et de réessayer à nouveau"</string>
+    <string name="anime_list_retry_text">"Échec d'obtention des informations de l'emoticon, merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="animemoji_btn_coin">Mi-Crédits</string>
     <string name="animemoji_btn_delete">Supprimer</string>
     <string name="animemoji_btn_download">Télécharger</string>
@@ -161,7 +161,7 @@ taille: %2$.2f Mo"</string>
     <string name="animemoji_btn_in_use">"En cours d'utilisation"</string>
     <string name="animemoji_delete_confirm">Continuez pour effacer cet emoticon?</string>
     <string name="animemoji_detail_title">Détails</string>
-    <string name="animemoji_entrance_title">表情</string>
+    <string name="animemoji_entrance_title">Emoticon</string>
     <string name="animemoji_pay_free">Obtenir le lien de téléchargement</string>
     <string name="animemoji_store_title">Boutique des Stickers</string>
     <string name="animemoji_unzip_fail">Erreur de connexion, merci de réessayer</string>
@@ -4968,8 +4968,8 @@ Maintenant, asseyez-vous et profitez de la vie en ayant Mi-Talk !</string>
     <string name="zero_buddy_tips_find_friends">Inviter davantage d\'amis</string>
     <string name="zero_buddy_tips_invite_friends">Email et SMS</string>
     <string name="zero_friend_tips">Pas d\'amis ? Découvrez ces persoones</string>
-    <string name="zero_miliao_friends_from_fb">Il semblerait qu\'aucunun de vos amis sur Facebook n\'utilisent Mi-Talk.</string>
-    <string name="zero_miliao_friends_from_renren">Il semblerait qu\'aucunun de vos amis sur Renren n\'utilisent Mi-Talk.</string>
+    <string name="zero_miliao_friends_from_fb">Il semblerait qu\'aucun de vos amis sur Facebook n\'utilisent Mi-Talk.</string>
+    <string name="zero_miliao_friends_from_renren">Il semblerait qu\'aucun de vos amis sur Renren n\'utilisent Mi-Talk.</string>
     <string name="ziliao">Profil</string>
 </resources>
 
