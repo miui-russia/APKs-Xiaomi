@@ -1110,10 +1110,10 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_remove_subdevice_tips">OK pour supprimer les périphériques enfants</string>
     <string name="gateway_add_subdevice_ok">Connexion réussie</string>
     <string name="gateway_add_subdevice_detail">Cliquez pour réinitialiser les périphériques</string>
-    <string name="gateway_add_body_sensor_detail">请按一下人体传感器的重置孔</string>
-    <string name="gateway_add_window_sensor_detail">请按一下门窗传感器的重置孔</string>
-    <string name="gateway_add_swich_sensor_detail">请按一下无线开关的重置孔</string>
-    <string name="gateway_add_subdevice_gelight">请连接智能灯泡的电源</string>
+    <string name="gateway_add_body_sensor_detail">Cliquer sur le bouton Reset situé dans un trou pour réinitialiser le détecteur de mouvements</string>
+    <string name="gateway_add_window_sensor_detail">Cliquer sur le bouton Reset situé dans un trou pour réinitialiser les capteurs des portes et fenêtres</string>
+    <string name="gateway_add_swich_sensor_detail">Cliquer sur le bouton Reset situé dans un trou pour réinitialiser l\interrupteur sans fil</string>
+    <string name="gateway_add_subdevice_gelight">Merci de connecter la source d\'alimentation de la lampe intelligente</string>
     <string name="gateway_add_subdevice_otherdevice">Merci de continuer à ajouter des appareils en fonction de votre équipement</string>
     <string name="gateway_continue_add">Continuer à ajouter</string>
     <string name="gateway_add_finish">OK</string>
@@ -1144,7 +1144,7 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_alarm_6">Fusil de sniper</string>
     <string name="gateway_alarm_7">Troupe terrestre</string>
     <string name="gateway_alarm_8">Raid aérien</string>
-    <string name="gateway_alarm_9">狗叫声</string>
+    <string name="gateway_alarm_9">Aboiements de chiens</string>
     <string name="gateway_door_bell_1">Sonnerie de la porte</string>
     <string name="gateway_door_bell_2">Cognement</string>
     <string name="gateway_door_bell_3">Sonnerie drôle</string>
