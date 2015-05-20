@@ -1064,9 +1064,9 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_swich_select">Merci de choisir une touche de la sonnette sans fil</string>
     <string name="gateway_swich_doorbell_ring">Merci de choisir une touche de la sonnette pour la sonnerie</string>
     <string name="gateway_swich_welcome_ring">Merci de choisir une touche de la sonnette pour le message de bienvenue</string>
-    <string name="gateway_doorbell_note_text">无线开关按键门铃音</string>
-    <string name="gateway_doorbell_swich_text">按动无线开关响门铃</string>
-    <string name="gateway_doorbell_message_text">有人按门铃发送消息提醒</string>
+    <string name="gateway_doorbell_note_text">Touche de sonnerie de la sonnette sans fil</string>
+    <string name="gateway_doorbell_swich_text">Appuyer sur la touche de sonnerie pour faire retentir la sonnette sans fil</string>
+    <string name="gateway_doorbell_message_text">Message de rappel indiquant que certaines personnes ont sonné à la porte</string>
     <string name="gateway_system_bell">Système de la sonnette</string>
     <string name="gateway_no_log">Aucun journal</string>
     <string name="gateway_log_sample_time">À 12h18 le 8 Janvier</string>
@@ -1087,7 +1087,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_magnet_sensor_no_close">La porte n\'est pas fermée</string>
     <string name="gateway_log_switchsensor_click">Une fois</string>
     <string name="gateway_log_switchsensor_double_click">Deux fois</string>
-    <string name="gateway_log_doorbell_click">触发门铃</string>
+    <string name="gateway_log_doorbell_click">Déclencher la sonnerie de la sonnette</string>
     <string name="gateway_log_arming_magnet_open">Déclencher l\'alarme</string>
     <string name="gateway_log_arming_motion_motion">Déclencher l\'alarme</string>
     <string name="gateway_log_arming_switch_click">Déclencher l\'alarme</string>
