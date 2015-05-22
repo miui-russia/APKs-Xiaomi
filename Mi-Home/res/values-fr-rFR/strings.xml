@@ -940,8 +940,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_color_light">Luminosité</string>
     <string name="gateway_power_is_off">Alimentation coupée</string>
     <string name="gateway_main_title">Kits de maison intelligente</string>
-    <string name="gateway_title">Passerelle multifonction</string>
-    <string name="gateway_switch_name">Passerelle Wi-fi</string>
+    <string name="gateway_title">Système de surveillance multifonction</string>
+    <string name="gateway_switch_name">Système de surveillance Wi-fi</string>
     <string name="gateway_magnet_name">Capteur de porte</string>
     <string name="gateway_motion_name">Capteur de mouvements</string>
     <string name="gateway_ge_light_name">Ampoules intelligentes</string>
@@ -1009,7 +1009,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_bodysensor_night_title">Capteur de mouvements pendant la nuit</string>
     <string name="gateway_bodysensor_night_swich">Réglages du déclenchement du détecteur de mouvement</string>
     <string name="gateway_light_time_delay">Réglages de la temporisation</string>
-    <string name="gateway_doorbell_light">Passerelle d\'éclairage multifonction</string>
+    <string name="gateway_doorbell_light">Eclairage multifonction de la sonnette du système de surveillance</string>
     <string name="gateway_bind_no_set">Aucun réglage</string>
     <string name="gateway_bodysensor_pass">Certaines personnes sont passées</string>
     <string name="gateway_bodysensor_no_motion">Nul si pas d\'autre passage dans les 5 minutes d\'après</string>
@@ -1080,7 +1080,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_no_music">Pas de musique</string>
     <string name="gateway_set_music_success">Sélection de la musique réussie</string>
     <string name="gateway_set_music_failed">Sélection de la musique échoué</string>
-    <string name="gateway_log_bodysensor_motion">Certaines personnes passent par</string>
+    <string name="gateway_log_bodysensor_motion">Passage des personnes</string>
     <string name="gateway_log_bodysensor_no_motion">Nul dans les 5 minutes d\'après</string>
     <string name="gateway_log_magnetsensor_open">Ouvrir les  portes et fenêtres</string>
     <string name="gateway_log_magnetsensor_close">Fermer les  portes et fenêtres</string>
@@ -1095,7 +1095,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_get_bind_failed">Échec de liaison</string>
     <string name="gateway_check_log">Afficher le journal</string>
     <string name="gateway_log_desc_none">Aucun journal</string>
-    <string name="gateway_settings">Passerelle des paramètres système</string>
+    <string name="gateway_settings">Paramètres du système de surveillance</string>
     <string name="gateway_subdevice_title">Appareils connectés</string>
     <string name="gateway_subdevice_text">Contrôlez les périphériques connectés</string>
     <string name="gateway_subdevice_connected">%d appareils connectés</string>
@@ -1103,11 +1103,11 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_corridor_time">Durée d\'éclairage</string>
     <string name="gateway_add_subdevice">Ajouter un appareil</string>
     <string name="gateway_add_subdevice_subtitle">Ajouter corps, capteur de porte, détecteur de clé intelligente</string>
-    <string name="gateway_start_add_subdevice">Commencer à ajouter un périphérique pour enfant</string>
-    <string name="gateway_link_subdevice">Périphérique de lien</string>
-    <string name="gateway_remove_subdevice">Supprimer le périphérique</string>
-    <string name="gateway_remove_subdevice_title">Retirez les périphériques enfants</string>
-    <string name="gateway_remove_subdevice_tips">OK pour supprimer les périphériques enfants</string>
+    <string name="gateway_start_add_subdevice">Commencer à ajouter un périphérique secondaire</string>
+    <string name="gateway_link_subdevice">Lier un périphérique secondaire</string>
+    <string name="gateway_remove_subdevice">Supprimer le périphérique secondaire</string>
+    <string name="gateway_remove_subdevice_title">Retirez les périphériques secondaires</string>
+    <string name="gateway_remove_subdevice_tips">OK pour supprimer les périphériques secondaires</string>
     <string name="gateway_add_subdevice_ok">Connexion réussie</string>
     <string name="gateway_add_subdevice_detail">Cliquez pour réinitialiser les périphériques</string>
     <string name="gateway_add_body_sensor_detail">Cliquer sur le bouton Reset situé dans un trou pour réinitialiser le détecteur de mouvements</string>
@@ -1117,8 +1117,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_add_subdevice_otherdevice">Merci de continuer à ajouter des appareils en fonction de votre équipement</string>
     <string name="gateway_continue_add">Continuer à ajouter</string>
     <string name="gateway_add_finish">OK</string>
-    <string name="gateway_add_subdevice_failed">Échec d\'ajout de périphériques enfants</string>
-    <string name="gateway_add_again">Impossible d\'ajouter une passerelle, veuillez essayer à nouveau</string>
+    <string name="gateway_add_subdevice_failed">Échec d\'ajout de périphériques secondaires</string>
+    <string name="gateway_add_again">Impossible d\'ajouter au système de surveillance, veuillez essayer à nouveau</string>
     <string name="gateway_add_back">Retour</string>
     <string name="gateway_get_arming_time_failed">Obtention de l\'heure de l\'alerte échoué</string>
     <string name="gateway_scene">Scène</string>
@@ -1152,7 +1152,7 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_lamp_time_list">Liste de minuterie</string>
     <string name="gateway_time_duration_title">%1$d minutes</string>
     <string name="gateway_company_name">Mi écologie</string>
-    <string name="gateway_unknown_subdevice">Equipement enfant inconnu</string>
+    <string name="gateway_unknown_subdevice">Equipement secondaire inconnu</string>
     <string name="gateway_bodysensor_no_motion_2">Temporisation de 2 minutes avant l\'activation du détecteur de mouvements</string>
     <string name="gateway_bodysensor_no_motion_20">Temporisation de 20 minutes avant l\'activation du détecteur de mouvements</string>
     <string name="gateway_bodysensor_no_motion_5">Temporisation de 5 minutes avant l\'activation du détecteur de mouvements</string>
@@ -1160,19 +1160,19 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_bodysensor_no_motion_30">Temporisation de 30 minutes avant l\'activation du détecteur de mouvements</string>
     <string name="gateway_user_cant_not_access">Aucune autorisation pour partager ces équipements</string>
     <string name="gateway_myscene">Ma scène</string>
-    <string name="gateway_long_voice">长铃音</string>
-    <string name="gateway_short_voice">短铃音</string>
+    <string name="gateway_long_voice">Sonnerie vocale longue</string>
+    <string name="gateway_short_voice">Sonnerie vocale courte</string>
     <string name="gateway_onlinescene">Ma scène en ligne</string>
     <string name="gateway_log_today_text">Aujourd\'hui</string>
     <string name="gateway_log_yesterday_text">Hier</string>
     <string name="gateway_log_before_yesterday_text">Avant-hier</string>
-    <string name="gateway_no_device">暂无此设备或固件不支持</string>
-    <string name="gateway_sub_device_offline_text">"1、触发一下传感器后刷新列表
- 2、按一下传感器的重置孔
- \u0009\u0009闪烁一次 - 未连接网关，请连接
- \u0009\u0009闪烁两次 - 已连接网关，请检查距离或重置
- \u0009\u0009未闪烁 - 电池没电或死机，请更换电池或拔电池"</string>
-    <string name="gateway_sub_device_offline_url">请检查距离或重置</string>
+    <string name="gateway_no_device">Actuellement cet appareil ou ce firmwire n\'est pas pris en charge</string>
+    <string name="gateway_sub_device_offline_text">1-Aprés déclenchement du capteur, actualiser la liste
+ 2-Appuyer sur le bouton Reset situé dans un trou
+ \u0009\u0009 Clignote une seule fois - Pas de connexion au système de surveillance, merci de reconnecter
+ \u0009\u0009 Deux clignotements - Mauvaise connexion au système de surveillance, merci de vérifier la distance ou réinitialiser
+ \u0009\u0009 Ne clignote pas - La batterie est défectueuse ou déchargée, merci de remplacer ou de retirer la batterie</string>
+    <string name="gateway_sub_device_offline_url">Merci de vérifier la distance ou réinitialiser</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -1831,7 +1831,7 @@ Type : piles bouton %2$s"</string>
     <string name="device_offline">Le périphérique est déconnecté</string>
     <string name="device_offline_check">Veuillez vérifier：
 1. Si le périphérique est connecté à l\'alimentation électrique; 
-2. Si la connexion Wi-Fi est normale ； 
+2. Si la connexion Wi-Fi est normale ; 
 3. Essayez de réinitialiser le périphérique; lors d\'un contrôle, veuillez actualiser la liste</string>
     <string name="login_des_icon">Cliquez ici pour vous identifier avec votre compte Mi</string>
     <string name="login_des_tips">Vous n\'êtes pas connecté, appuyez sur expérience de connexion maison intelligente</string>
@@ -1860,7 +1860,7 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_add_share">Partager</string>
     <string name="smarthome_device_user_detail">Détails</string>
     <string name="smarthome_device_delete_share">Supprimer</string>
-    <string name="smarthome_device_delete_confirm">Confirmer la suppression des droits d\'utilisation de %s ？</string>
+    <string name="smarthome_device_delete_confirm">Confirmer la suppression des droits d\'utilisation de %s ?</string>
     <string name="smarthome_device_delete_success">Supprimer avec succès</string>
     <string name="smarthome_device_delete_fail">Échec de la suppression</string>
     <string name="smarthome_share_request_title">%1$s à partager avec vous</string>
@@ -2314,12 +2314,12 @@ Type : piles bouton %2$s"</string>
     <string name="my_phone_ir_name">Télécommande infrarouge</string>
     <string name="my_phone_ir_desc_empty">Aucun équipement supplémentaire</string>
     <string name="my_phone_ir_desc_count">%1$s périphériques ont été ajoutés</string>
-    <string name="router_bind_account_title">输入小米路由器管理员密码完成绑定</string>
-    <string name="router_login_account_passwd">请输入管理员密码</string>
-    <string name="router_login_account_passwd_error">输入小米路由器管理员密码错误</string>
-    <string name="router_login_account_get_secret_error">获取小米路由器信息失败</string>
-    <string name="router_login_account_bind_error">绑定小米路由器失败</string>
-    <string name="change_account_name">修改名字</string>
+    <string name="router_bind_account_title">Entrer le mot de passe administrateur du Mi-Routeur pour terminer la liaison</string>
+    <string name="router_login_account_passwd">Merci de rentrer le mot de passe administrateur</string>
+    <string name="router_login_account_passwd_error">Mot de passe erroné du compte Mi-Routeur</string>
+    <string name="router_login_account_get_secret_error">Echec de reception des informations du Mi-Routeur</string>
+    <string name="router_login_account_bind_error">Erreur de liaison du compte Mi-Routeur</string>
+    <string name="change_account_name">Changer le nom du compte</string>
     <string name="copy">Copier</string>
     <string name="select_from_camera">Appareil photo du téléphone portable</string>
     <string name="select_local_picture">Photo locale</string>
