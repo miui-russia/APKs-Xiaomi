@@ -723,6 +723,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_set_passcode_verify_close">Désactivation de la protection</string>
     <string name="camera_passcode_back">Retour</string>
     <string name="camera_verify_passcode_error_tips">Mot de passe incorrect, si vous avez oubliez le mot de passe, veuillez réinitialiser le périphérique.</string>
+    <string name="camera_verify_passcode_error_tips_auth">密码输入有误，请重新输入</string>
     <string name="passcode_enter_passcode">Saisissez le mot de passe</string>
     <string name="passcode_enter_passcode_new">Saisissez le nouveau mot de passe</string>
     <string name="passcode_enter_old_passcode">"Saisissez l'ancien mot de passe"</string>
@@ -743,6 +744,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_bind_trigger_camera_token_error">Aucune caméra intelligente détectée dans la zone de détection</string>
     <string name="camera_bind_erro_verify_coder">Erreur de saisie du code de confirmation</string>
     <string name="camera_bind_erro_time_out">Le délai de connection de la caméra est dépassé, veuillez la lier à nouveau</string>
+    <string name="camera_open_get_passwd_error">服务器获取摄像机信息失败</string>
     <string name="developer_remote_debug">Test de la couverture réseau du domicile</string>
     <string name="developer_plug_debug">Mode développeur</string>
     <string name="device_shop_sure">Déterminer</string>
@@ -752,9 +754,6 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="device_shop_detail_reserve">Faites une réservation</string>
     <string name="device_shop_detail_comment_title">Examination</string>
     <string name="device_shop_detail_comment_count">(%1$s)</string>
-    <string name="device_shop_detail_webview_title1">Caractéristiques</string>
-    <string name="device_shop_detail_webview_title2">Spécifications Techniques</string>
-    <string name="device_shop_detail_webview_title3">Liste des emballages</string>
     <string name="device_shop_detail_bottom_title">Ajouter au panier</string>
     <string name="device_shop_detail_bottom_title1">Acheter Maintenant</string>
     <string name="device_shop_dialog_time_format">Temps restant %1$02d:%2$02d:%3$02d</string>
@@ -927,10 +926,37 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="device_shop_add_comment_title_hint">Veuillez entrer un titre pour le commentaire</string>
     <string name="device_shop_add_comment_default_hint">Venez détailler vos commentaires</string>
     <string name="device_shop_comment_title_is_null">Le titre du comentaire nécessite au moins 5 caractères</string>
-    <string name="device_shop_comment_is_null">Le comentaire nécessite au moins 5 caractères</string>
+    <string name="device_shop_comment_is_null">Le comentaire nécessite au moins 10 caractères</string>
     <string name="publish_progress_message">Publication en cours...</string>
     <string name="device_shop_comment_commit">Poster le commentaire</string>
+    <string name="percent_sign">%</string>
+    <string name="review_sell_price">售价：%s元</string>
+    <string name="review_arrive_time">收货时间：</string>
+    <string name="review_list_empty">您没有需要评价的商品</string>
+    <string name="write_review_rating_text">星评</string>
+    <string name="write_review_tag_text">标签</string>
+    <string name="write_review_comment_error_text">请输入至少10个字的评价</string>
+    <string name="write_review_add_tag_error_text">只能添加10个标签</string>
+    <string name="write_review_add_tag_hint_text">添加标签</string>
+    <string name="write_review_comment_edit_hint_text">喜欢此商品吗？说说您的使用感受吧，还可以随手晒几张照片哦</string>
+    <string name="write_review_exit_dialog_title_text">放弃当前评价商品的编辑吗?</string>
+    <string name="write_review_exit_dialog_ok_text">确定</string>
+    <string name="write_review_exit_dialog_cancel_text">取消</string>
+    <string name="write_a_review_hint">可以写5-140个字</string>
+    <string name="write_a_review_title">写评价</string>
+    <string name="review_submit">提交</string>
+    <string name="photo_lib_select_lib">图库列表</string>
+    <string name="photo_lib_title">已选择%d项</string>
+    <string name="photo_lib_can_not_select_any_more">最多可选择%d张照片哦</string>
+    <string name="photo_lib_must_select">你还没有选择照片哦</string>
+    <string name="photo_lib_no_image">无照片</string>
+    <string name="photo_lib_no_image_2">你可以拍摄照片或进入相册列表查看</string>
+    <string name="conversation_edit_title_middle">已选择%s项</string>
+    <string name="multi_graph_more">共%d张</string>
+    <string name="SDcard_tip_is_full_when_take_photo">您需要清理存储卡才能发送照片 :)</string>
+    <string name="SDcard_tip_when_send_photo">您需要安装存储卡才能发送照片 :)</string>
     <string name="device_shop_video_error">Aïe, vidéo ne peuvent pas être lus</string>
+    <string name="device_shop_tv_addr_tips">因电视属于大家电类，配送范围受物流公司限制，如您填写的地址不可配送，下单后客服将告知您并为您退款。</string>
     <string name="gateway_cancel">Annuler</string>
     <string name="gateway_doc">Brochure</string>
     <string name="gateway_question">Foire aux questions</string>
@@ -1009,6 +1035,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_bodysensor_night_title">Capteur de mouvements pendant la nuit</string>
     <string name="gateway_bodysensor_night_swich">Réglages du déclenchement du détecteur de mouvement</string>
     <string name="gateway_light_time_delay">Réglages de la temporisation</string>
+    <string name="gateway_body_sensor_choose">选择人体传感器</string>
     <string name="gateway_doorbell_light">Eclairage multifonction de la sonnette du système de surveillance</string>
     <string name="gateway_bind_no_set">Aucun réglage</string>
     <string name="gateway_bodysensor_pass">Certaines personnes sont passées</string>
@@ -1016,6 +1043,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_phone_push_alarm">Envoyer les messages d\'alarme vers le téléphone</string>
     <string name="gateway_doorbell_alarm">Sonnette d\'alarme</string>
     <string name="gateway_bodysensor_pass_device">Mise en place des capteurs de mouvements</string>
+    <string name="gateway_reset_title">设备重置</string>
     <string name="gateway_xiaoyi_camera">Caméra Xiaoyi</string>
     <string name="gateway_xiaomi_tv">Mi TV</string>
     <string name="gateway_xiaomi_air_purifier">Purificateur d\'air Mi</string>
@@ -1118,12 +1146,17 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_continue_add">Continuer à ajouter</string>
     <string name="gateway_add_finish">OK</string>
     <string name="gateway_add_subdevice_failed">Échec d\'ajout de périphériques secondaires</string>
-    <string name="gateway_add_again">Impossible d\'ajouter au système de surveillance, veuillez essayer à nouveau</string>
+    <string name="gateway_add_again">重试</string>
+    <string name="gateway_light_reset_title">反复开关电源三次，每次间隔一秒钟，灯泡快闪一次，即重置成功。</string>
+    <string name="gateway_light_reset_head">智能灯泡</string>
     <string name="gateway_add_back">Retour</string>
+    <string name="try_reset_back">查看重置</string>
     <string name="gateway_get_arming_time_failed">Obtention de l\'heure de l\'alerte échoué</string>
-    <string name="gateway_scene">Scène</string>
-    <string name="gateway_add_scene">Ajouter une scène</string>
-    <string name="gateway_remove_scene">Supprimer une scène</string>
+    <string name="gateway_scene">场景</string>
+    <string name="gateway_add_scene">添加场景</string>
+    <string name="gateway_remove_scene">删除场景</string>
+    <string name="gateway_rename_scene">重命名</string>
+    <string name="gateway_edit_scene">编辑</string>
     <string name="gateway_go_home">Rentrer à la maison</string>
     <string name="gateway_leave_home">Quitter la maison</string>
     <string name="gateway_scene_num">%1$d a été ajouté</string>
@@ -1166,13 +1199,24 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_log_today_text">Aujourd\'hui</string>
     <string name="gateway_log_yesterday_text">Hier</string>
     <string name="gateway_log_before_yesterday_text">Avant-hier</string>
-    <string name="gateway_no_device">Actuellement cet appareil ou ce firmwire n\'est pas pris en charge</string>
-    <string name="gateway_sub_device_offline_text">1-Aprés déclenchement du capteur, actualiser la liste
- 2-Appuyer sur le bouton Reset situé dans un trou
- \u0009\u0009 Clignote une seule fois - Pas de connexion au système de surveillance, merci de reconnecter
- \u0009\u0009 Deux clignotements - Mauvaise connexion au système de surveillance, merci de vérifier la distance ou réinitialiser
- \u0009\u0009 Ne clignote pas - La batterie est défectueuse ou déchargée, merci de remplacer ou de retirer la batterie</string>
-    <string name="gateway_sub_device_offline_url">Merci de vérifier la distance ou réinitialiser</string>
+    <string name="gateway_no_device">暂无此设备</string>
+    <string name="gateway_no_support_firmware_allow_update">该设备固件不支持,建议升级固件</string>
+    <string name="gateway_no_support_firmware">该设备固件不支持</string>
+    <string name="gateway_sub_device_offline_text">请尝试:1.触发一下传感器；2.重置后连接；3.更换电池</string>
+    <string name="gateway_sub_device_offline_url">重置后连接</string>
+    <string name="gateway_use_info">使用须知</string>
+    <string name="gateway_accept_info">我已阅读《小米智能家庭套装使用须知》</string>
+    <string name="gateway_agree_button">同意并继续</string>
+    <string name="gateway_disagree_button">取消</string>
+    <string name="gateway_license_title_text">小米智能家庭套装使用须知</string>
+    <string name="gateway_license_text">"1、使用小米智能家庭套装前，请详读产品说明书及使用须知；
+ 
+ 2、小米智能家庭套装仅适用于提升家居生活娱乐性及便捷度，并非安防产品，不属于3C第十九类安全防范产品范畴；
+ 
+ 3、小米智能家庭套装仅用于提醒设备状态，不适用于家居、楼宇、仓库或其他任何经营场所的专业的安保，如有用户违反产品使用说明及本使用须知，将产品用于专业安防领域，制造商对因此造成的任何风险不承担责任。
+"</string>
+    <string name="gateway_light_switch_setting">感应开关设置</string>
+    <string name="gateway_timing_switch_setting">定时开关设置</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -1243,6 +1287,17 @@ Type : piles bouton %2$s"</string>
     <string name="plug_timer_illegal">La minuterie ne peut être identique</string>
     <string name="plug_timer_unset">La minuterie n\'a pas été définie</string>
     <string name="plug_timer_load_failed">Impossible de charger la minuterie</string>
+    <string name="plug_temperature_alert">插座过热, 请检查</string>
+    <string name="plug_temperature_alert_title">插座过热 请检查</string>
+    <string name="plug_known">知道了</string>
+    <string name="plug_temperature_alert_cause">"
+1.用电设备功率可能超过最大限值(2200w)
+
+2.与智能插座插头连接的交流电插孔内部可能存在生锈松动等情况
+
+3.用电设备的插头可能存在老化生锈等情况
+
+4.智能插座所处环境的温度可能过高"</string>
     <string name="comment_product_comments">Avis sur le produit</string>
     <string name="comment_reply_detail">Détail des avis</string>
     <string name="comment_reply_total">Avis (%d)</string>
@@ -1886,6 +1941,7 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_to_user_status_reject">Rejeter</string>
     <string name="smarthome_to_user_status_accept">Accepter</string>
     <string name="scene_save">Enregistrer</string>
+    <string name="scene_save1">保存</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
     <string name="scene_then">Alors</string>
@@ -2023,6 +2079,7 @@ Type : piles bouton %2$s"</string>
     <string name="not_found_bracelet_app">Application Mi-Fit non trouvée</string>
     <string name="current_all_step">"Nombre de pas "</string>
     <string name="my_ble">Mi-Fit</string>
+    <string name="mi_key">Mi-Clé</string>
     <string name="mile">miles</string>
     <string name="kilomile">kilométre</string>
     <string name="calorie">cal</string>
@@ -2175,6 +2232,7 @@ Type : piles bouton %2$s"</string>
     <string name="kuailian_sub_main_title_3_2">Connexion difficile…</string>
     <string name="kuailian_sub_main_title_3_3">Utilisation de toute la connexion…</string>
     <string name="kuailian_sub_main_title_3_4">Forcer pour essayer n\'importe quelle connexion...</string>
+    <string name="kuailian_sub_main_title_waiting">正在等待设备连接中...</string>
     <string name="kuailian_main_title_4">Contrôle de sécurité</string>
     <string name="kuailian_sub_main_device_count">Continuer à rechercher d\'autres périphériques intelligents...</string>
     <string name="kuailian_sub_main_device_finish">%d périphériques intelligents trouvés, recherche terminée</string>
@@ -2216,6 +2274,7 @@ Type : piles bouton %2$s"</string>
     <string name="kuailian_fail_dhcp">Impossible d\'obtenir l\'adresse IP, vérifiez que le routeur est allumé et que les options DHCP soient activées</string>
     <string name="kuailian_fail_connect">Impossible de se connecter au routeur, vérifiez les paramètres du routeur et la force du signal</string>
     <string name="kuailian_fail_auth">Mot de passe incorrect, veuillez vérifier les mots de passe du routeur et si les cryptages sont correctes (supporte le cryptage WPA / WPA2)</string>
+    <string name="kuailian_falied_bindkey_invalide">二维码已过期，重新生成二维码?</string>
     <string name="wifi_input_content">Entrez le SSID Wi-Fi et le mot de passe</string>
     <string name="wifi_input_name_hint">Entrez le SSID Wi-Fi</string>
     <string name="wifi_input_passwd_hint">Entrez le mot de passe Wi-Fi</string>
@@ -2289,7 +2348,7 @@ Type : piles bouton %2$s"</string>
     <string name="lock_empty_message_need_add">Périphériques pour la maison intelligente ajoutés</string>
     <string name="lock_empty_title_need_login">Vous n\'êtes pas connecté</string>
     <string name="lock_empty_message_need_login">Appuyez ici pour vous identifier</string>
-    <string name="lock_loading">Chargement…</string>
+    <string name="lock_loading">Chargement</string>
     <string name="yeelight_tips_forusage">Le voltage va de 100v à 240v, veuillez à ne pas l\'utiliser pas sur les lampes avec variateur</string>
     <string name="open_device_account_erro">Le compte actuel est incompatible avec la maison intelligente, veuillez changer de compte</string>
     <string name="open_device_not_found_erro">Le périphérique n\'a pas été trouvé, veuillez actualiser la liste</string>
@@ -2446,10 +2505,35 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_bulb">开关智能灯</string>
     <string name="smarthome_unbind_camera_tips">解绑摄像机后，需要重置才能重新绑定，确定解绑吗？</string>
     <string name="found_new_unbind_mitvdevice">发现未登陆新电视设备,点击授权登陆新设备</string>
-    <string name="scene_default_mikey">单击米键</string>
+    <string name="scene_default_mikey_click">单击米键</string>
+    <string name="scene_default_mikey_dbclick">双击米键</string>
     <string name="add_timer_hint">还没有添加定时哦</string>
     <string name="toast_lock_switch_failed">操作失败，请检查网络</string>
     <string name="update_no_device">无可升级设备</string>
+    <string name="add_timer_button">立即添加</string>
+    <string name="smarthome_scene_conflict">场景冲突</string>
+    <string name="camera_gen_barcode_tips">请将屏幕中的二维码朝向摄像机并保持相当于手机长度的距离等待摄像机扫描手机二维码</string>
+    <string name="camera_gen_barcode_tips_reset_info">使用重置针插入重置孔长按直至指示灯变成黄灯常亮，并等待至黄灯闪烁</string>
+    <string name="camera_gen_barcode_tips_help">听不到提示音?</string>
+    <string name="camera_gen_barcode_tips_help_0">听不到声音怎么办?</string>
+    <string name="camera_gen_barcode_tips_help_2">2.可能是您的摄像机固件版本不支持，请手工升级固件版本。</string>
+    <string name="camera_gen_barcode_tips_help_3">3.请将手机屏幕亮度调至最高，暂时关闭屏保或自动锁屏</string>
+    <string name="camera_gen_barcode_tips_help_1">1.用针长按摄像机背面重置孔直至指示灯变成黄灯长亮，并等待语音提示。</string>
+    <string name="use_barcode_heard_connecting">您是否听到连接中,请稍后的提示音?</string>
+    <string name="use_barcode_heard">已听到语音提示</string>
+    <string name="try_barcode_connection">试试二维码配置</string>
+    <string name="try_barcode_info">二维码配置暂时仅支持夜视版机型，其他机型将在后续版本支持</string>
+    <string name="try_barcode_ok">继续配置</string>
+    <string name="camera_gen_barcode_error">生成二维码出错</string>
+    <string name="plug_device">插座</string>
+    <string name="plug_usb">USB</string>
+    <string name="open">开</string>
+    <string name="close">关</string>
+    <string name="camera_online">摄像机在线</string>
+    <string name="double_click">双击</string>
+    <string name="single_click">单击</string>
+    <string name="mikey_scene_desc">如果%1$s，就%2$s</string>
+    <string name="mikey_not_set">未设置</string>
     <string name="umtitle">Purificateur d\'eau</string>
     <string name="umimg">mg</string>
     <string name="umdig">1</string>
