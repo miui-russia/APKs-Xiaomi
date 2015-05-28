@@ -1287,17 +1287,17 @@ Type : piles bouton %2$s"</string>
     <string name="plug_timer_illegal">La minuterie ne peut être identique</string>
     <string name="plug_timer_unset">La minuterie n\'a pas été définie</string>
     <string name="plug_timer_load_failed">Impossible de charger la minuterie</string>
-    <string name="plug_temperature_alert">插座过热, 请检查</string>
-    <string name="plug_temperature_alert_title">插座过热 请检查</string>
-    <string name="plug_known">知道了</string>
+    <string name="plug_temperature_alert">Surchauffe dans la prise, vérifier</string>
+    <string name="plug_temperature_alert_title">Merci de vérifier la prise en surchauffe</string>
+    <string name="plug_known">Connaissance</string>
     <string name="plug_temperature_alert_cause">"
-1.用电设备功率可能超过最大限值(2200w)
+1.La puissance absorbée peut être supérieure à la valeur limite maximale(2200w)
 
-2.与智能插座插头连接的交流电插孔内部可能存在生锈松动等情况
+2.Oxydation des connecteurs et de la prise d\'alimentation
 
-3.用电设备的插头可能存在老化生锈等情况
+3.La prise d\'alimentation peut être défectueuse ou oxydée
 
-4.智能插座所处环境的温度可能过高"</string>
+4.La température extérieure de la prise d\'alimentation peut être trop élevée"</string>
     <string name="comment_product_comments">Avis sur le produit</string>
     <string name="comment_reply_detail">Détail des avis</string>
     <string name="comment_reply_total">Avis (%d)</string>
@@ -1941,7 +1941,7 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_to_user_status_reject">Rejeter</string>
     <string name="smarthome_to_user_status_accept">Accepter</string>
     <string name="scene_save">Enregistrer</string>
-    <string name="scene_save1">保存</string>
+    <string name="scene_save1">Sauvegarder</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
     <string name="scene_then">Alors</string>
@@ -2232,7 +2232,7 @@ Type : piles bouton %2$s"</string>
     <string name="kuailian_sub_main_title_3_2">Connexion difficile…</string>
     <string name="kuailian_sub_main_title_3_3">Utilisation de toute la connexion…</string>
     <string name="kuailian_sub_main_title_3_4">Forcer pour essayer n\'importe quelle connexion...</string>
-    <string name="kuailian_sub_main_title_waiting">正在等待设备连接中...</string>
+    <string name="kuailian_sub_main_title_waiting">En attente de connexion de périphérique...</string>
     <string name="kuailian_main_title_4">Contrôle de sécurité</string>
     <string name="kuailian_sub_main_device_count">Continuer à rechercher d\'autres périphériques intelligents...</string>
     <string name="kuailian_sub_main_device_finish">%d périphériques intelligents trouvés, recherche terminée</string>
@@ -2274,7 +2274,7 @@ Type : piles bouton %2$s"</string>
     <string name="kuailian_fail_dhcp">Impossible d\'obtenir l\'adresse IP, vérifiez que le routeur est allumé et que les options DHCP soient activées</string>
     <string name="kuailian_fail_connect">Impossible de se connecter au routeur, vérifiez les paramètres du routeur et la force du signal</string>
     <string name="kuailian_fail_auth">Mot de passe incorrect, veuillez vérifier les mots de passe du routeur et si les cryptages sont correctes (supporte le cryptage WPA / WPA2)</string>
-    <string name="kuailian_falied_bindkey_invalide">二维码已过期，重新生成二维码?</string>
+    <string name="kuailian_falied_bindkey_invalide">Le code d\'échange sécuritaire est invalide, générer un nouveau code ?</string>
     <string name="wifi_input_content">Entrez le SSID Wi-Fi et le mot de passe</string>
     <string name="wifi_input_name_hint">Entrez le SSID Wi-Fi</string>
     <string name="wifi_input_passwd_hint">Entrez le mot de passe Wi-Fi</string>
@@ -2458,42 +2458,42 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_airpurifier_aqi_100_LT">PM2.5 moins de 100</string>
     <string name="smarthome_scene_airpurifier_aqi_200_LT">PM2.5 moins de 200</string>
     <string name="smarthome_scene_airpurifier_aqi_300_LT">PM2.5 moins de 300</string>
-    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">开/关警戒模式</string>
-    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">无线开关按下后开/关警戒模式</string>
-    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene">开/关网关夜灯</string>
-    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene_detail">无线开关按下后开/关网关夜灯</string>
-    <string name="smarthome_switchsensor_plug220_on_off_onlinescene">开/关插座220V</string>
-    <string name="smarthome_switchsensor_plug220_on_off_onlinescene_detail">无线开关按下后开/关插座220V</string>
-    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene">无线开关控制插座USB</string>
-    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene_detail">无线开关按下后开/关插座USB</string>
-    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene">开/关空气净化器</string>
-    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">无线开关按下后开/关空气净化器</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene">无线开关调节空气净化器模式</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">无线开关按下后空气净化器调为静音模式</string>
-    <string name="smarthome_switchsensor_smartlight_onlinescene">开/关智能灯泡</string>
-    <string name="smarthome_switchsensor_smartlight_onlinescene_detail">无线开关按下后开/关智能灯泡</string>
-    <string name="smarthome_switchsensor_yeelight_onlinescene">开/关yeelight灯</string>
-    <string name="smarthome_switchsensor_yeelight_onlinescene_detail">无线开关按下后开/关yeelight灯</string>
-    <string name="smarthome_bodysensor_smartlight_on_onlinescene">有人移动打开智能灯泡</string>
-    <string name="smarthome_bodysensor_smartlight_on_onlinescene_detail">人体传感器探测到有人移动则打开智能灯泡</string>
-    <string name="smarthome_bodysensor_smartlight_off_onlinescene">离开后关闭智能灯泡</string>
-    <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">人体传感器探测到人离开后延时关闭智能灯泡</string>
-    <string name="smarthome_bodysensor_plug220_on_onlinescene">有人移动打开插座220V</string>
-    <string name="smarthome_bodysensor_plug220_on_onlinescene_detail">人体传感器探测到有人移动则打开插座220V</string>
-    <string name="smarthome_bodysensor_plug220_off_onlinescene">离开后关闭插座220V</string>
-    <string name="smarthome_bodysensor_plug220_off_onlinescene_detail">人体传感器探测到人离开后延时关闭插座220V</string>
-    <string name="smarthome_bodysensor_plugusb_on_onlinescene">有人经过打开插座USB</string>
-    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">人体传感器探测到有人移动则打开插座220V</string>
-    <string name="smarthome_bodysensor_plugusb_off_onlinescene">离开后关闭插座USB</string>
-    <string name="smarthome_bodysensor_plugusb_off_onlinescene_detail">人体传感器探测到人离开后延时关闭插座220V</string>
+    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">Interrupteur de l\'alarme de la porte d\'entrée</string>
+    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil l\'alarme de la porte d\'entrée s\'active ou se coupe</string>
+    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene">Interrupteur de l\'éclairage nocturne de la porte d\'entrée</string>
+    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil l\'éclairage nocturne de la porte d\'entrée s\'active ou se coupe</string>
+    <string name="smarthome_switchsensor_plug220_on_off_onlinescene">Interrupteur de prise 220V</string>
+    <string name="smarthome_switchsensor_plug220_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil les prises 220V s\'allument ou s\éteignent</string>
+    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene">Interrupteur sans fil de prise USB</string>
+    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil les prises USB s\'allument ou s\éteignent</string>
+    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene">Interrupteur du purificateur d\'air</string>
+    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil le purificateur d\'air s\'allume ou s\éteint</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene">Interrupteur sans fil des modes de régulation du purificateur d\'air</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil le purificateur d\'air se met en mode silencieux</string>
+    <string name="smarthome_switchsensor_smartlight_onlinescene">Interrupteur de la lampe intelligente</string>
+    <string name="smarthome_switchsensor_smartlight_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil la lampe intelligente s\'allume ou s\éteint</string>
+    <string name="smarthome_switchsensor_yeelight_onlinescene">Interrupteur de la lampe yeelight</string>
+    <string name="smarthome_switchsensor_yeelight_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil la lampe yeelight s\'allume ou s\éteint</string>
+    <string name="smarthome_bodysensor_smartlight_on_onlinescene">La lampe intelligente s\'allume lors d\'un passage</string>
+    <string name="smarthome_bodysensor_smartlight_on_onlinescene_detail">Le détecteur de mouvement détecte le passage des personnes afin d\'allumer la lampe intelligente</string>
+    <string name="smarthome_bodysensor_smartlight_off_onlinescene">La lampe intelligente s\'éteint quand il n\'y a plus de passage</string>
+    <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">Quand le détecteur de mouvement ne détecte plus de passage, après une tempo, la lampe intelligente s\'éteint automatiquement</string>
+    <string name="smarthome_bodysensor_plug220_on_onlinescene">Les prises 220V s\'allument lors d\'un passage</string>
+    <string name="smarthome_bodysensor_plug220_on_onlinescene_detail">Le détecteur de mouvement détecte le passage des personnes afin d\'allumer les prises 220V</string>
+    <string name="smarthome_bodysensor_plug220_off_onlinescene">Les prises 220V s\'éteignent quand il n\'y a plus de passage</string>
+    <string name="smarthome_bodysensor_plug220_off_onlinescene_detail">Quand le détecteur de mouvement ne détecte plus de passage, après une tempo, les prises 220V s\'éteignent automatiquement</string>
+    <string name="smarthome_bodysensor_plugusb_on_onlinescene">Les prises USB s\'allument lors d\'un passage</string>
+    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">Le détecteur de mouvement détecte le passage des personnes afin d\'allumer les prises USB</string>
+    <string name="smarthome_bodysensor_plugusb_off_onlinescene">Les prises USB s\'éteignent quand il n\'y a plus de passage</string>
+    <string name="smarthome_bodysensor_plugusb_off_onlinescene_detail">Quand le détecteur de mouvement ne détecte plus de passage, après une tempo, les prises USB s\'éteignent automatiquement</string>
     <string name="smarthome_bodysensor_airpurify_on_onlinescene">Le purificateur d\'air se déclenche lors d\'un passage</string>
-    <string name="smarthome_bodysensor_airpurify_on_onlinescene_detail">人体传感器探测到有人移动则打开空气净化器</string>
-    <string name="smarthome_bodysensor_airpurify_off_onlinescene">Le purificateur d\'air se coupe auto quand il n\'y a plus de passage</string>
-    <string name="smarthome_bodysensor_airpurify_off_onlinescene_detail">人体传感器探测到人离开后延时关闭空气净化器</string>
+    <string name="smarthome_bodysensor_airpurify_on_onlinescene_detail">Le détecteur de mouvement détecte le passage des personnes afin de déclencher le purificateur d\'air</string>
+    <string name="smarthome_bodysensor_airpurify_off_onlinescene">Le purificateur d\'air se coupe automatiquement quand il n\'y a plus de passage</string>
+    <string name="smarthome_bodysensor_airpurify_off_onlinescene_detail">Quand le détecteur de mouvement ne détecte plus de passage, après une tempo, le purificateur d\'air se coupe automatiquement</string>
     <string name="smarthome_bodysensor_airpurify_weak_onlinescene">Le purificateur d\'air passe en mode silencieux quand il n\'y a plus de passage</string>
-    <string name="smarthome_bodysensor_airpurify_weak_onlinescene_detail">人体传感器探测到有人移动则将空气净化器调至静音模式</string>
+    <string name="smarthome_bodysensor_airpurify_weak_onlinescene_detail">Quand le détecteur de mouvement ne détecte plus de passage, après une tempo, le purificateur d\'air se met en mode silencieux</string>
     <string name="smarthome_bodysensor_airpurify_auto_onlinescene">Personne ne doit passer à travers le détecteur de mouvement lors de la configuration auto</string>
-    <string name="smarthome_bodysensor_airpurify_auto_onlinescene_detail">无人经过调至自动模式</string>
+    <string name="smarthome_bodysensor_airpurify_auto_onlinescene_detail">Le champ du détecteur de mouvement doit être libre afin de démarrer la configuration auto</string>
     <string name="smarthome_bodysensor_gatewaysound_onlinescene">有人经过网关响门铃</string>
     <string name="smarthome_bodysensor_gatewaysound_onlinescene_detail">人体传感器探测到有人移动则网关响门铃声</string>
     <string name="smarthome_magnet_airpurify_on_off_onlinescene">窗户打开关闭空气净化器</string>
