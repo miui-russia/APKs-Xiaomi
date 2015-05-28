@@ -1152,11 +1152,11 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_add_back">Retour</string>
     <string name="try_reset_back">Réinitialisation</string>
     <string name="gateway_get_arming_time_failed">Obtention de l\'heure de l\'alerte échoué</string>
-    <string name="gateway_scene">场景</string>
-    <string name="gateway_add_scene">添加场景</string>
-    <string name="gateway_remove_scene">删除场景</string>
-    <string name="gateway_rename_scene">重命名</string>
-    <string name="gateway_edit_scene">编辑</string>
+    <string name="gateway_scene">Prise de vue</string>
+    <string name="gateway_add_scene">Ajouter une prise de vue</string>
+    <string name="gateway_remove_scene">Supprimer une prise de vue</string>
+    <string name="gateway_rename_scene">Renommer une prise de vue</string>
+    <string name="gateway_edit_scene">Editer une prise de vue</string>
     <string name="gateway_go_home">Rentrer à la maison</string>
     <string name="gateway_leave_home">Quitter la maison</string>
     <string name="gateway_scene_num">%1$d a été ajouté</string>
