@@ -483,7 +483,7 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="endtime_cant_less_than_starttime">L\'heure de fin ne peut pas être inférieure à l\'heure de début !</string>
     <string name="starttime_cant_equals_endtime">L\'heure de début ne peut être la même que l\'heure de fin !</string>
     <string name="sure_to_delete_alarm_setting">Êtes-vous sûr de vouloir supprimer ce réglage de l\'alarme ? </string>
-    <string name="alarm_prompt">检测到画面异常时发送通知进行提醒</string>
+    <string name="alarm_prompt">Quand le visionnage de l\'écran est détecté, cela envoie des rappels de notification</string>
     <string name="fail_to_get_newest_version">Impossible de télécharger la dernière version !</string>
     <string name="current_is_the_newest_version">Vous avez déjà la dernière version</string>
     <string name="none_update">Pas de mise à jour</string>
@@ -590,7 +590,7 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="setting_star_app">Score</string>
     <string name="setting_buy">Acheter</string>
     <string name="user_login_in_other_device">Le compte actuel est configuré avec un autre appareil</string>
-    <string name="user_login_in_session_time">当前账号时效已过期，请重新登录！</string>
+    <string name="user_login_in_session_time">Actuellement, la validité du numéro de compte a expiré, s\'il vous plaît inscrivez-vous!</string>
     <string name="system_sever_error">Impossible de forcer le réseau, veuillez essayer à nouveau</string>
     <string name="failed_to_get_camera_new_version">L\'obtention de la dernière mise à jour de la caméra a échoué !</string>
     <string name="wifi_reconfig">Reconfigurer la caméra</string>
@@ -609,8 +609,8 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="uid_length_too_short">Le numéro de la caméra ne peut pas être inférieur à 5 !</string>
     <string name="connect_to_wifi_title">Connexion Wi-Fi</string>
     <string name="connect_to_wifi_msg">Connecter le téléphone à un réseau Wi-Fi !</string>
-    <string name="wrong_wifi_ssid_title">Noms de Wi-Fi ne sont pas standardisés</string>
-    <string name="wrong_wifi_ssid_msg">小蚁只支持英文加数字的WiFi名称！</string>
+    <string name="wrong_wifi_ssid_title">Les noms du Wi-Fi ne sont pas standardisés</string>
+    <string name="wrong_wifi_ssid_msg">La Yi-Cam supporte uniquement l\'anglais pour ajouter le nom numérique du WiFi!</string>
     <string name="you_dont_have_camera">Vous n\'avez pas de caméra !</string>
     <string name="continue_search">Continuer la recherche</string>
     <string name="more_recommend">Autres recommandations</string>
@@ -756,15 +756,15 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="checking_network">Vérification réseau...</string>
     <string name="tips_wifi_password_incorrect">Xiaoyi failed to recognize current Wifi password，please change</string>
     <string name="please_input_device_password">Entrez le mot de passe de l\'appareil</string>
-    <string name="no_show_again">不再提示</string>
-    <string name="camera_update">新的固件已发布，立即去升级吧</string>
-    <string name="sure_to_reboot_upgrade">下载成功，设备将稍后重启</string>
-    <string name="sure_to_reboot_upgrade_tf">下载成功，确定升级重启</string>
-    <string name="migrate_to_xiaomi">"为了能让您体验更好的服务，请尽快迁移至小米帐号
-非小米帐号在6月1日之后将无法正常使用，点击迁移"</string>
-    <string name="bind_camera_use_xiaomi">"绑定摄像机须使用小米帐号登录
-请先完成绑定"</string>
-    <string name="bind_xiaomi">绑定小米帐号</string>
+    <string name="no_show_again">Ne plus montrer</string>
+    <string name="camera_update">Le nouveau firmware émis, est prêt à mettre à jour immédiatement</string>
+    <string name="sure_to_reboot_upgrade">Téléchargé avec succès, l\'appareil va redémarrer plus tard</string>
+    <string name="sure_to_reboot_upgrade_tf">Téléchargé avec succès, pour appliquer la mise à jour l\'appareil doit redémarrer</string>
+    <string name="migrate_to_xiaomi">"Afin de vous permettre de profiter d'un meilleur service, migrez vers un compte Xiaomi dès que possible
+Après le 1er Juin les autres comptes ne fonctionneront plus correctement, cliquez sur migrez"</string>
+    <string name="bind_camera_use_xiaomi">"L'appairage de la caméra doit utiliser le numéro de compte Xiaomi pour vous inscrire
+S'il vous plaît compléter d'abord l'appairage"</string>
+    <string name="bind_xiaomi">Appairage avec le compte Xiaomi</string>
     <string name="stop_bind_device_tip">"非小米帐号已停止注册新设备
 已有用户请登录成功后绑定小米帐号使用"</string>
     <string name="migrate_tip1">1、小米帐号验证成功后，迁移过程将自动完成；</string>
