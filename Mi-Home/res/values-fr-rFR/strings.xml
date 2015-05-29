@@ -1199,24 +1199,24 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_log_today_text">Aujourd\'hui</string>
     <string name="gateway_log_yesterday_text">Hier</string>
     <string name="gateway_log_before_yesterday_text">Avant-hier</string>
-    <string name="gateway_no_device">暂无此设备</string>
-    <string name="gateway_no_support_firmware_allow_update">该设备固件不支持,建议升级固件</string>
-    <string name="gateway_no_support_firmware">该设备固件不支持</string>
-    <string name="gateway_sub_device_offline_text">请尝试:1.触发一下传感器；2.重置后连接；3.更换电池</string>
-    <string name="gateway_sub_device_offline_url">重置后连接</string>
-    <string name="gateway_use_info">使用须知</string>
-    <string name="gateway_accept_info">我已阅读《小米智能家庭套装使用须知》</string>
-    <string name="gateway_agree_button">同意并继续</string>
-    <string name="gateway_disagree_button">取消</string>
-    <string name="gateway_license_title_text">小米智能家庭套装使用须知</string>
-    <string name="gateway_license_text">"1、使用小米智能家庭套装前，请详读产品说明书及使用须知；
+    <string name="gateway_no_device">Aucun équipement</string>
+    <string name="gateway_no_support_firmware_allow_update">Le matériel ne supporte pas le firmware de mise à jour proposée</string>
+    <string name="gateway_no_support_firmware">Ce firmware n\'est pas supporté</string>
+    <string name="gateway_sub_device_offline_text">Essayez: 1 faire déclencher le capteur; 2 après la réinitialisation, reconnecter; 3 Remplacement de la batterie...</string>
+    <string name="gateway_sub_device_offline_url">Après la réinitialisation, reconnecter</string>
+    <string name="gateway_use_info">Notice d\'utilisation</string>
+    <string name="gateway_accept_info">J\'ai lu les "Précautions d\'utilisation du package de maison intelligente Mi-Home»</string>
+    <string name="gateway_agree_button">Accepter et continuer</string>
+    <string name="gateway_disagree_button">Décliner</string>
+    <string name="gateway_license_title_text">Notice d\'utilisation de Mi-Home</string>
+    <string name="gateway_license_text">"1. Avant d'utiliser le package de maison intelligente Mi-Home, merci de lire la description et les instructions du produit ;
  
- 2、小米智能家庭套装仅适用于提升家居生活娱乐性及便捷度，并非安防产品，不属于3C第十九类安全防范产品范畴；
+ 2. Le package de maison intelligente Mi-Home est seulement prévu pour améliorer le divertissement et la commodité de la vie à la maison, ce n'est pas un produit de sécurité il ne fait pas parti de la catégorie des dispositifs de surveillance et d'alarme ;
  
- 3、小米智能家庭套装仅用于提醒设备状态，不适用于家居、楼宇、仓库或其他任何经营场所的专业的安保，如有用户违反产品使用说明及本使用须知，将产品用于专业安防领域，制造商对因此造成的任何风险不承担责任。
+ 3. Le package de maison intelligente Mi-Home est uniquement destiné à un usage privé, ne convient pas aux bâtiments, entrepôts ou autres établissements professionnels, si l'utilisateur ne respecte pas les instructions du produit et les termes et conditions de Xiaomi, en utilisant ce produit dans le domaine de la sécurité professionnelle, le fabricant décline toute responsabilité quant aux risques et aux conséquences.
 "</string>
-    <string name="gateway_light_switch_setting">感应开关设置</string>
-    <string name="gateway_timing_switch_setting">定时开关设置</string>
+    <string name="gateway_light_switch_setting">Réglages du capteur de sensibilité lumineuse</string>
+    <string name="gateway_timing_switch_setting">Réglages de la minuterie d\'éclairage</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -2203,8 +2203,8 @@ Type : piles bouton %2$s"</string>
     <string name="mitv_apk_cancel_downloading">Annuler le téléchargement</string>
     <string name="mitv_apk_background_downloading">Téléchargement en arrière plan</string>
     <string name="router_guide_title">Routeur Mi</string>
-    <string name="router_guide_tip1_title">不想被蹭?</string>
-    <string name="router_guide_tip1_desc">启动防蹭网，风险设备无处遁形</string>
+    <string name="router_guide_tip1_title">Vous ne voulez pas être cotoyé de trop près ?</string>
+    <string name="router_guide_tip1_desc">Lancer un pare-feu sur le réseau pour garder vos distances, pas de cachette pour le risque</string>
     <string name="router_guide_tip2_title">Regarder des films d\'animation ?</string>
     <string name="router_guide_tip2_desc">Télécharger des films Blu-ray Offline et regarder des films devient vraiment facile et amusant</string>
     <string name="router_guide_tip3_title">Des ralentissements pour accéder au net ?</string>
