@@ -74,8 +74,10 @@
     <string name="in_normal_capturing">Capture</string>
     <string name="in_burst">Éclatement</string>
     <string name="in_timeslape">Time Lapse</string>
+    <string name="skip">Suivant</string>
+    <string name="open_url">Inscrivez-vous</string>
     <string name="searching">Recherche de la caméra...</string>
-    <string name="get_setting">"Obtention d'informations..."</string>
+    <string name="get_setting">Connexion caméra...</string>
     <string name="connecting">Connexion à la caméra ......</string>
     <string name="select_camera">Sélectionnez la caméra</string>
     <string name="select_wifi">Choisissez une connexion Wi-Fi pour la caméra</string>
@@ -210,7 +212,7 @@
     <string name="setting_emergency_file_backup">"Sauvegarde d'urgence"</string>
     <string name="setting_unbind_bluetooth_dev">Déliez tous contrôleur bluetooth</string>
     <string name="setting_buzzer_volume">Volume de la sonnerie</string>
-    <string name="setting_wifi">Paramètres du Wi-Fi</string>
+    <string name="setting_wifi">Paramètres Wi-Fi</string>
     <string name="setting_led_mode">Mode LED</string>
     <string name="setting_camera_clock">Heure de la caméra</string>
     <string name="setting_auto_power_off">Extinction Automatique</string>
@@ -305,10 +307,10 @@
     <string name="unbind_bluetooth_failed">Echec désappairage !</string>
     <string name="unbind_bluetooth_succeeded">Désappairage réussi !</string>
     <string name="unbind_bluetooth_unbinded">Aucun enregistrements correspondants !</string>
-    <string name="set_wifi_info">Paramètres du Wi-Fi</string>
+    <string name="set_wifi_info">Paramètres Wi-Fi</string>
     <string name="text_ssid">Nom du Wi-Fi</string>
-    <string name="text_password">Mot de passe du Wi-Fi</string>
-    <string name="modify_ssid">Éditer le nom du WIFI</string>
+    <string name="text_password">Mot de passe Wi-Fi</string>
+    <string name="modify_ssid">Éditer le nom du Wi-Fi</string>
     <string name="modify_wifi_password">Changer le mot de passe</string>
     <string name="hint_password">Nouveau mot de passe</string>
     <string name="hint_ssid">Entrez le nom du Wi-Fi</string>
@@ -323,6 +325,7 @@
     <string name="restart_device_immediately">Nous devons reconnecter le Wi-Fi après la mise à jour des informations, voulez-vous continuer ?</string>
     <string name="set_failed">Impossible de mettre à jour les paramètres.</string>
     <string name="camera_firmware_upgrade">Pilote mis à jour</string>
+    <string name="camera_firmware_cancel">Annuler Firmware</string>
     <string name="please_select_wifi">Choisissez le Wi-Fi</string>
     <string name="wifi_password_hint">Défaut 1234567890</string>
     <string name="no_new_version">Aucune nouvelle version trouvée</string>
@@ -330,10 +333,11 @@
     <string name="firmware_download_failed">Impossible de télécharger.</string>
     <string name="firmware_upgrade_switch_wifi">Mise à jours des options du Wi-Fi ...</string>
     <string name="firmware_upgrade_download_firmware">Téléchargement de la mise à jour du pilote...</string>
-    <string name="firmware_upgrade_tip">Veuillez ne pas débrancher votre téléphone à la caméra Wi-Fi pendant le processus de mise à jour.</string>
+    <string name="firmware_upgrade_tip">Veuillez ne pas débrancher votre téléphone à la caméra Wi-Fi pendant le processus de mise à jour</string>
+    <string name="firmware_upgrade_failed_time_out">Délai de connexion, n\'a pas réussi à télécharger le microprogramme</string>
+    <string name="firmware_upgrade_failed_no_space">Votre carte SD est insuffisante, s\'il vous plaît gérer le stockage et enregistrer à nouveau</string>
     <string name="sure_to_cancel_firmware_upgrade">Êtes-vous sûr de vouloir mettre à jour ?</string>
     <string name="should_connect_to_outside_wifi">La mise à jour du pilote nécessite une autre connexion Wi-Fi. Voulez-vous débranchez votre téléphone de la caméra maintenant ?</string>
-    <string name="wifi_prex">Caméra</string>
     <string name="quick_video">Vidéo</string>
     <string name="video_ratio">4:3</string>
     <string name="video_format">MP4</string>
@@ -547,6 +551,15 @@
     <string name="share_to_person">Partager avec un ami</string>
     <string name="share_to_group">Partager avec un groupe</string>
     <string name="share_to_all">Partager avec tout le monde</string>
+    <string name="home_camera_dialog_reset_title">Comment faire pour restaurer les paramètres d\'usine ?</string>
+    <string name="home_camera_dialog_reset_content">"Dans le même temps Appuye long sur la touche Power + Wi-Fi pour supprimer
+L'appareil redémarre automatiquement après avoir rebranché à nouveau
+Récupération de mot de passe à le camera 1234567890"</string>
+    <string name="home_camera_dialog_help_title">Vous ne trouvez pas la caméra ?</string>
+    <string name="home_camera_dialog_help_content">"Ouvrez le capot, retirez la batterie
+Trouvez le code SN, le nom de la caméra par défaut Wi-Fi
+Pour le code YDXJ SN ajouter"</string>
+    <string name="button_forget_pwd">Oubliez le mot de passe Wi-Fi ?</string>
     <string name="xiaomi_update_dialog_title">Nouvelle version de %1$s</string>
     <string name="xiaomi_update_dialog_message">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Taille: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Il suffit de télécharger les mises à jour: %2$s</string>
@@ -555,4 +568,3 @@
     <string name="xiaomi_kilobytes_unit">%1$sKo</string>
     <string name="xiaomi_megabytes_unit">%1$sMo</string>
 </resources>
-
