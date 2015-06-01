@@ -363,12 +363,12 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     (3) Inciter au séparatisme ethnique et saboter l'unité nationale; 
     (4) Dévoiler des secrets d'état; 
     (5) Calomnier, insulter les autres; 
-    (6) Promouvoir la pornographie, la superstition ou de la violence; 
+    (6) Promouvoir la pornographie, le sectarisme ou la violence; 
     (7) Fournir de fausses informations; 
     (8) Diffuser de la radio, des films ou la télévision; 
     (9) Enregistrer la TV, des films depuis les médias étrangers; 
     (10) Autres contenus qui sont interdits par la loi et les forces de régulation. 
-    Assurez-vous que vous partagez du contenu vidéo sans fuites de la vie privée, et être sûr que partager votre contenu ne viole pas les lois et règlements, ou bien toutes les responsabilités devront être assumées par l'utilisateur"</string>
+    Assurez-vous que vous partagez du contenu vidéo en respect de la vie privée, et soyez sûr que partager votre contenu ne viole pas les lois et règlements, ou bien toutes les responsabilités devront être assumées par l'utilisateur"</string>
     <string name="success_to_add_public_device">Caméra publique ajoutée avec succès !</string>
     <string name="failed_to_add_public_device">Impossible d\'ajouter un appareil public !</string>
     <string name="success_to_remove_public_device">Caméra publique retirée avec succès !</string>
@@ -604,7 +604,7 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="start_speaking_too_frequently">Enregistrement n\'est pas terminé, veuillez l\'arrêter !</string>
     <string name="please_insert_sdcard">Insérer la carte SD !</string>
     <string name="camera_recording_is_not_open">Le service Intercom n\'est pas ouvert !</string>
-    <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer le fichier ！"</string>
+    <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer le fichier !"</string>
     <string name="user_input_uid">&lt;a href=\"#\"> Que faire si le scan a échoué ? &lt;/a></string>
     <string name="uid_length_too_short">Le numéro de la caméra ne peut pas être inférieur à 5 !</string>
     <string name="connect_to_wifi_title">Connexion Wi-Fi</string>
@@ -705,8 +705,8 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="winexperience_tfcardstate_info_total_16g">Oui Oui, utilisez une carte SD de 16Go.</string>
     <string name="winexperience_tfcardstate_info_total_32g">Nan, vous oseriez une de 32Go :p!</string>
     <string name="winexperience_tfcardstate_info_timeout">winexperience_info_timeout</string>
-    <string name="winexperience_tfcardstate_format_wait">Formater, veuillez essayer à nouveau et redémarrer.</string>
-    <string name="winexperience_ensure_format_tfcard_info">Êtes-vous sûrde vouloir formater la carte SD ? (La caméra redémarrera !)</string>
+    <string name="winexperience_tfcardstate_format_wait">Formatage en cours, veuillez attendre et redémarrer.</string>
+    <string name="winexperience_ensure_format_tfcard_info">Êtes-vous sûr de vouloir formater la carte SD ? (La caméra redémarrera !)</string>
     <string name="winexperience_format_tfcard_when_update_info">Mise à jour de la version en cours, réessayez plus tard !</string>
     <string name="item_winexperience_ignore_btntxt">Ignorer</string>
     <string name="db_databasecontext_sd_card_manager">Gestion de la carte SD ：</string>
@@ -721,9 +721,9 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="winexperience_cannot_check_in_connecting">Tentative de connexion, veuillez réessayer plus tard</string>
     <string name="winexperience_rotatecircle_scoreunit">Mi</string>
     <string name="toast_out_of_memory">Mémoire insuffisante</string>
-    <string name="Vertical">Vertical</string>
-    <string name="landscape">Horizontal</string>
-    <string name="file_uploading">Téléchargement du fichier，Ajout de fragmentation non allouée</string>
+    <string name="Vertical">Portrait</string>
+    <string name="landscape">Paysage</string>
+    <string name="file_uploading">Téléchargement du fichier, Ajout de fragmentation non allouée</string>
     <string name="device">Appareil: </string>
     <string name="stream_type">Type de flux</string>
     <string name="splash_skip">Franchir >></string>
@@ -739,18 +739,18 @@ efficace et examine facilement la vitesse de démarrage, la désinstallation par
     <string name="choose_language">Choisissez votre langue:</string>
     <string name="tw_language">Chinois traditionnel (Taïwan)</string>
     <string name="hk_language">Chinois traditionnel (HK)</string>
-    <string name="btnHearWifiPasswordError">Écoutez Wi-Fi mot de passe erroné</string>
-    <string name="btnHearConnectSuccess">Écoutez connecté avec succès</string>
-    <string name="btnCheckError">Vérification erreur</string>
-    <string name="network_invaid_title">Réseau n\'est pas utilisable</string>
+    <string name="btnHearWifiPasswordError">Entendre mot de passe Wi-Fi erroné</string>
+    <string name="btnHearConnectSuccess">Entendre connecté avec succès</string>
+    <string name="btnCheckError">Erreur de vérification</string>
+    <string name="network_invaid_title">Réseau inutilisable</string>
     <string name="network_invaid_msg">Impossible de se connecter au serveur, s\'il vous plaît vérifier votre réseau</string>
     <string name="reset_camera">"Insérer une tige dans le trou pour réinitialiser la caméra 
  patienter jusqu\'à que la LED jaune clignote"</string>
     <string name="baike">Xiaoyi WiKi</string>
     <string name="blue_shan">La lumière bleue clignote, la caméra se connecte au Wi-Fi</string>
-    <string name="blue_1">La lumière bleue et fix, la caméra et connecté au Wi-Fi avec succès</string>
+    <string name="blue_1">La lumière bleue est fixe, la caméra est connecté au Wi-Fi avec succès</string>
     <string name="blue_2">Voix \ "connecté avec succès \" la caméra et connecté au serveur avec succès</string>
-    <string name="wifi_wrong">Écoutez Wi-Fi mot de passe erroné ？</string>
+    <string name="wifi_wrong">Entendez-vous mot de passe Wi-Fi erroné ?</string>
     <string name="no_network">Pas de réseau</string>
     <string name="run_score">""</string>
     <string name="checking_network">Vérification réseau...</string>
@@ -765,8 +765,8 @@ Après le 1er Juin les autres comptes ne fonctionneront plus correctement, cliqu
     <string name="bind_camera_use_xiaomi">"L'appairage de la caméra doit utiliser le numéro de compte Xiaomi pour vous inscrire
 S'il vous plaît compléter d'abord l'appairage"</string>
     <string name="bind_xiaomi">Appairage avec le compte Xiaomi</string>
-    <string name="stop_bind_device_tip">"非小米帐号已停止注册新设备
-已有用户请登录成功后绑定小米帐号使用"</string>
+    <string name="stop_bind_device_tip">"Un compte non Xiaomi ne pourra enregistrer de nouveaux équipements
+Après avoir créer un compte d'utilisateur Xiaomi, merci d'utiliser votre compte Xiaomi pour vous connecter avec succès"</string>
     <string name="migrate_tip1">1、小米帐号验证成功后，迁移过程将自动完成；</string>
     <string name="migrate_tip2">2、您之前绑定的设备也将自动迁移至新账号；</string>
     <string name="migrate_tip3">"3、后续请使用小米帐号登陆，第三方账号类型
