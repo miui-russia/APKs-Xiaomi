@@ -227,6 +227,12 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="air_purifier_set_success">Réglage réussi</string>
     <string name="air_purifier_set_fail">Échec du règlage</string>
     <string name="air_purifier_pm25">PM2.5</string>
+    <string name="air_purifier_strong">>高速</string>
+    <string name="air_purifier_auto">自动</string>
+    <string name="air_purifier_high">强风</string>
+    <string name="air_purifier_medium">中风</string>
+    <string name="air_purifier_low">弱风</string>
+    <string name="air_purifier_silient">睡眠</string>
     <string name="air_purifier_v2">Mi Purificateur d\'air</string>
     <string name="air_purifier_v2_filter">Filtre</string>
     <string name="air_purifier_v2_air_quality">Qualité de l\'air</string>
@@ -747,7 +753,9 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="camera_open_get_passwd_error">Echec de l\'obtention des informations de la caméra par le serveur</string>
     <string name="developer_remote_debug">Test de la couverture réseau du domicile</string>
     <string name="developer_plug_debug">Mode développeur</string>
+    <string name="developer_plugin_info">插件信息</string>
     <string name="device_shop_sure">Déterminer</string>
+    <string name="device_shop_loading_failed">加载数据失败！</string>
     <string name="device_shop_price">￥%1$.2f</string>
     <string name="device_shop_fragment_saled">%1$s le plus vendu</string>
     <string name="device_shop_detail_catogery">Sélectionnez la couleur et le type de modèle</string>
@@ -820,6 +828,7 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="device_shop_cart_menu_aftermarket_title">Gestion des services après-vente</string>
     <string name="device_shop_cart_menu_xiaomi_title">Acheter des produits</string>
     <string name="device_shop_checkout_title">Confirmation</string>
+    <string name="device_shop_checkout_button_title">提交订单</string>
     <string name="device_shop_checkout_payment_title">Paiement</string>
     <string name="device_shop_checkout_shipment_title">Mode de livraison</string>
     <string name="device_shop_checkout_deliver_title">Délai de livraison</string>
@@ -1149,6 +1158,8 @@ Après avoir remplacé le filtre et l\'avoir activé, appuyez sur le bouton de r
     <string name="gateway_add_again">Réessayer</string>
     <string name="gateway_light_reset_title">Si l\'alimentation commute à trois reprises, séparées à chaque fois pendant une seconde, en clignotant une seule fois, alors la réinitialisation est réussie.</string>
     <string name="gateway_light_reset_head">Lampe intelligente</string>
+    <string name="gateway_no_body_sensor">没有人体传感器</string>
+    <string name="gateway_body_sensor_offline">人体传感器离线</string>
     <string name="gateway_add_back">Retour</string>
     <string name="try_reset_back">Réinitialisation</string>
     <string name="gateway_get_arming_time_failed">Obtention de l\'heure de l\'alerte échoué</string>
@@ -1203,11 +1214,15 @@ Type : piles bouton %2$s"</string>
     <string name="gateway_no_support_firmware_allow_update">Le matériel ne supporte pas le firmware de mise à jour proposée</string>
     <string name="gateway_no_support_firmware">Ce firmware n\'est pas supporté</string>
     <string name="gateway_sub_device_offline_text">Essayez: 1 faire déclencher le capteur; 2 après la réinitialisation, reconnecter; 3 Remplacement de la batterie...</string>
+    <string name="gateway_switch_device_offline_text">请尝试:1.按一下无线开关；2.重置后连接；3.更换电池</string>
+    <string name="gateway_body_device_offline_text">请尝试:1.从传感器前经过；2.重置后连接；3.更换电池</string>
+    <string name="gateway_magnet_device_offline_text">请尝试:1.开关一下门窗；2.重置后连接；3.更换电池</string>
     <string name="gateway_sub_device_offline_url">Après la réinitialisation, reconnecter</string>
     <string name="gateway_use_info">Notice d\'utilisation</string>
     <string name="gateway_accept_info">J\'ai lu les "Précautions d\'utilisation du package de maison intelligente Mi-Home»</string>
     <string name="gateway_agree_button">Accepter et continuer</string>
     <string name="gateway_disagree_button">Décliner</string>
+    <string name="gateway_no_choose_sensor">未选择设备</string>
     <string name="gateway_license_title_text">Notice d\'utilisation de Mi-Home</string>
     <string name="gateway_license_text">"1. Avant d'utiliser le package de maison intelligente Mi-Home, merci de lire la description et les instructions du produit ;
  
@@ -1217,6 +1232,10 @@ Type : piles bouton %2$s"</string>
 "</string>
     <string name="gateway_light_switch_setting">Réglages du capteur de sensibilité lumineuse</string>
     <string name="gateway_timing_switch_setting">Réglages de la minuterie d\'éclairage</string>
+    <string name="gelight_offline_text">请尝试：1.重启电源;2.重置后连接;</string>
+    <string name="gelight_parent_offline_text">%1$s已离线，请检查%2$s</string>
+    <string name="gateway_bind_conflict">不能同时关联报警和门铃</string>
+    <string name="gateway_more_activity_about">关于 - 小米家庭智能套装</string>
     <string name="intelligent_plug">Prise intelligente Mi</string>
     <string name="intelligent_220v_plug">Prise 220V</string>
     <string name="intelligent_usb_plug">Prise USB</string>
@@ -2080,6 +2099,7 @@ Type : piles bouton %2$s"</string>
     <string name="current_all_step">"Nombre de pas "</string>
     <string name="my_ble">Mi-Fit</string>
     <string name="mi_key">Mi-Clé</string>
+    <string name="mi_key_title">手机蓝牙米键</string>
     <string name="mile">miles</string>
     <string name="kilomile">kilométre</string>
     <string name="calorie">cal</string>
@@ -2398,6 +2418,8 @@ Type : piles bouton %2$s"</string>
     <string name="nick_name_empty">Ne pas remplir</string>
     <string name="label_name">Nom et Prénom</string>
     <string name="label_account_id">Identifiants du compte</string>
+    <string name="label_phone">手机号</string>
+    <string name="label_email">邮箱</string>
     <string name="title_person_info">Information personnelle</string>
     <string name="input_nick_name">Saisir votre pseudo</string>
     <string name="uploading_head_icon">Ajout de l\'avatar</string>
@@ -2425,6 +2447,7 @@ Type : piles bouton %2$s"</string>
     <string name="update_now">Mettre à jour maintenant</string>
     <string name="app_curr_version">Version actuelle:</string>
     <string name="update_failed_retry">Echec de la mise à jour, cliquez sur réessayer</string>
+    <string name="update_failed_not_login">请登录小米账号后重试</string>
     <string name="app_updating">Mise à jour en cours…</string>
     <string name="smarthome_scene_plug_220_on">Brancher le 220V</string>
     <string name="smarthome_scene_plug_220_off">Débrancher le 220V</string>
@@ -2458,6 +2481,17 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_airpurifier_aqi_100_LT">PM2.5 moins de 100</string>
     <string name="smarthome_scene_airpurifier_aqi_200_LT">PM2.5 moins de 200</string>
     <string name="smarthome_scene_airpurifier_aqi_300_LT">PM2.5 moins de 300</string>
+    <string name="smarthome_scene_air_condition_on">开空调</string>
+    <string name="smarthome_scene_air_condition_off">关空调</string>
+    <string name="smarthome_scene_air_condition_on_off">开/关空调</string>
+    <string name="smarthome_scene_air_condition_incre_degree">加温度</string>
+    <string name="smarthome_scene_air_condition_decre_degree">减温度</string>
+    <string name="smarthome_scene_air_condition_sleep_on">开启睡眠功能</string>
+    <string name="smarthome_scene_air_condition_sleep_off">关闭睡眠功能</string>
+    <string name="smarthome_scene_air_condition_open_dehumidifier">开启除湿模式</string>
+    <string name="smarthome_scene_air_condition_close_dehumidifier">关闭除湿模式</string>
+    <string name="smarthome_switchsensor_comehome_onlinescene">一键回家模式</string>
+    <string name="smarthome_switchsensor_leavehome_onlinescene">一键离家模式</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">Interrupteur de l\'alarme de la porte d\'entrée</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil l\'alarme de la porte d\'entrée s\'active ou se coupe</string>
     <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene">Interrupteur de l\'éclairage nocturne de la porte d\'entrée</string>
@@ -2505,6 +2539,7 @@ Type : piles bouton %2$s"</string>
     <string name="smarthome_scene_bulb">Interrupteur de la lampe intelligente</string>
     <string name="smarthome_unbind_camera_tips">Après le désappairage de la camèra, une réinitialisation est nécessaire, voulez-vous procéder au désappairage définitif ?</string>
     <string name="found_new_unbind_mitvdevice">La recherche n\'a pas trouvé de nouvel équipement Mi-Tv, cliquez sur actualiser pour rechercher un nouvel équipement</string>
+    <string name="found_new_unbind_routerdevice">发现未绑定的新路由器设备,点击授权绑定新设备</string>
     <string name="scene_default_mikey_click">Un clic sur le déclencheur Mi-Clé</string>
     <string name="scene_default_mikey_dbclick">Double clics sur le déclencheur Mi-Clé</string>
     <string name="add_timer_hint">Ajouter un retardateur</string>
@@ -2527,6 +2562,7 @@ Type : piles bouton %2$s"</string>
     <string name="camera_gen_barcode_error">La caméra a généré une erreur de données de code barre</string>
     <string name="plug_device">Branchez</string>
     <string name="plug_usb">USB</string>
+    <string name="plug_subtitle">插座%1$s USB%2$s</string>
     <string name="open">Ouvrir</string>
     <string name="close">Fermer</string>
     <string name="camera_online">Caméra en ligne</string>
@@ -2534,6 +2570,21 @@ Type : piles bouton %2$s"</string>
     <string name="single_click">Simple clic</string>
     <string name="mikey_scene_desc">Si %1$s，alors %2$s</string>
     <string name="mikey_not_set">Pas encore défini</string>
+    <string name="mikey_event_registerd">米键%1$s事件被设置-蓝牙占用</string>
+    <string name="mikey_not_supported">米键暂不支持</string>
+    <string name="gateway_alarm_on">警报开启</string>
+    <string name="camera_subtitle_motion">%1$s检测到画面异常</string>
+    <string name="gateway_subtitle_motion">报警: %1$s有人经过</string>
+    <string name="gateway_subtitle_magnet">报警: %1$s门窗开启</string>
+    <string name="smart_bulb_gateway">连接至网关</string>
+    <string name="scene_conflict_tip">"%1$d.该场景与\"%2$s\"场景冲突（如需创建，请删除或禁用冲突场景）
+"</string>
+    <string name="scene_repeat_tip">"%1$d.该场景与\"%2$s\"场景重复
+"</string>
+    <string name="air_con_subtitle">%1$s %2$d℃</string>
+    <string name="water_purifier_subtitle">自来水TDS: %1$d</string>
+    <string name="yesterday">昨天</string>
+    <string name="before_yesterday">前天</string>
     <string name="umtitle">Purificateur d\'eau</string>
     <string name="umimg">mg</string>
     <string name="umdig">1</string>
