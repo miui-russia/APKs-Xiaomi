@@ -907,7 +907,7 @@ record personnel est de %2$s jours"</string>
     <string name="delete_family_member">"Supprimer l'utilisateur"</string>
     <string name="daily_sport_report_notify">"Aujourd'hui vous avez marché %s, excellent !"</string>
     <string name="daily_sport_report_notify_content">Cliquez ici pour voir les résultats</string>
-    <string name="exceed_user">Utilisateur dépassé</string>
+    <string name="exceed_user">Pas déjà réalisés</string>
     <string name="setting_daily_sport_notify_info">Rappelez-moi à 9:30PM</string>
     <string name="setting_daily_sport_notify">Notifier le résultat du sport quotidien</string>
     <string name="daily_sport_report_notify_hurry">"besoin %1$s pas pour atteindre l'objectif d'aujourd'hui !"</string>
@@ -1044,7 +1044,7 @@ vous avez besoin de réseau disponible"</string>
     <string name="bmi_item_tips">IMC: %1$s, Forme: %2$s</string>
     <string name="over_the_max_user_count">16 membres de la famille maximum.</string>
     <string name="current_weight">Poids actuel</string>
-    <string name="exceed_user_percentage">Dépasser %1$s utilisateurs</string>
+    <string name="exceed_user_percentage">%1$s pas déjà réalisés</string>
     <string name="stop_on_bed_time">Heure de réveil</string>
     <string name="setting_daily_sleep_notify_info">Afficher les données de sommeil après vous être réveillé</string>
     <string name="setting_daily_sleep_notify">Notification de données de sommeil</string>
