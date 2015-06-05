@@ -71,7 +71,7 @@
     <string name="action_button_vip_edit">Editer</string>
     <string name="activiate_email_sent">"S'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
 
-S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et restaurer votre mot de passe après avoir confirmer vos informations mail."</string>
+S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et restaurer votre mot de passe après avoir confirmer vos informations par ce mail."</string>
     <string name="add_a_pic">Ajouter une photo</string>
     <string name="add_avatar">Ajouter une photo</string>
     <string name="add_batch_friends">Ajouter des amis</string>
@@ -87,20 +87,20 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="add_friend_char_limit_tips">Ne pas dépasser 9 caractères</string>
     <string name="add_friend_confirm">"Accepter la demande d'ami %s ?"</string>
     <string name="add_friend_denied">Échec, cette personne ne veut pas être ajoutée.</string>
-    <string name="add_friend_hint">Écris un message (Facultatif)</string>
+    <string name="add_friend_hint">Écrire un message (Facultatif)</string>
     <string name="add_friend_in_bubble">Ajouter</string>
     <string name="add_friend_phone">Contacts</string>
     <string name="add_friend_send_request_successful">Demande envoyée</string>
     <string name="add_friend_sending_verification">Envoi de la demande…</string>
     <string name="add_friend_succeeded">Félicitation ! Vous êtes maintenant amis sur Mi-Talk !</string>
     <string name="add_friend_title">Envoyer un message à %s</string>
-    <string name="add_friend_too_many">"Désolé, vous avez dépassé le nombre maximum du nombre d'amis."</string>
+    <string name="add_friend_too_many">"Désolé, vous avez dépassé le nombre maximum d'amis."</string>
     <string name="add_group_description">Éditer à propos de</string>
     <string name="add_itme_tilte">Ajouter</string>
     <string name="add_miliao_account_success">Ajout du compte Mi avec succès</string>
     <string name="add_miliao_friend">Ajouter comme ami</string>
     <string name="add_new_company">Ajouter une entreprise</string>
-    <string name="add_new_friend">Ajouter une nouvel ami</string>
+    <string name="add_new_friend">Ajouter un nouvel ami</string>
     <string name="add_new_group">Ajouter un nouveau groupe</string>
     <string name="add_new_school">Ajouter une école</string>
     <string name="add_phone_contact">Contacts</string>
@@ -119,7 +119,7 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="add_sns_friend_succeeded">Félicitations! Vous êtes connecté avec %d en plus!</string>
     <string name="add_tag_btn">Ajouter un tag</string>
     <string name="add_title">Ajouter</string>
-    <string name="added_by_me_contacts">invité %d</string>
+    <string name="added_by_me_contacts">ajouté %d</string>
     <string name="added_me_contacts">%d veux vous ajouter</string>
     <string name="additional_upgrade_failed">Échec de la mise à jour, appuyez pour relancer le téléchargement complet.</string>
     <string name="additional_upgrade_failed_title">Échec de la mise à jour</string>
@@ -142,9 +142,9 @@ S'il vous plait, rappelez vous que vous ne pourrez uniquement vous connecter et 
     <string name="already_in_blacklist">dans la liste des blocages</string>
     <string name="anim_emoji_mall_paid">Acheté</string>
     <string name="anim_emoji_mall_pay">Acheter</string>
-    <string name="anim_emoji_mall_title">Boutique des Stickers</string>
+    <string name="anim_emoji_mall_title">Boutique des emoticons</string>
     <string name="anime_author_key">Auteur: %1$s</string>
-    <string name="anime_cancel_download_tips">Confirmez pour annuler le téléchargementde cet emoticon ?</string>
+    <string name="anime_cancel_download_tips">Confirmez pour annuler le téléchargement de cet emoticon ?</string>
     <string name="anime_cancel_list_text">Annuler</string>
     <string name="anime_cancel_title">Annuler</string>
     <string name="anime_detail_title_key">Taille: %1$.2f Mo</string>
@@ -163,7 +163,7 @@ taille: %2$.2f Mo"</string>
     <string name="animemoji_detail_title">Détails</string>
     <string name="animemoji_entrance_title">Emoticon</string>
     <string name="animemoji_pay_free">Obtenir le lien de téléchargement</string>
-    <string name="animemoji_store_title">Boutique des Stickers</string>
+    <string name="animemoji_store_title">Boutique des Emoticons</string>
     <string name="animemoji_unzip_fail">Erreur de connexion, merci de réessayer</string>
     <string name="answer_question">Répondre</string>
     <string name="app_add_to_shortcut">"Créer un raccourcis vers l'accueil"</string>
@@ -282,9 +282,9 @@ taille: %2$.2f Mo"</string>
     <string name="bbs_detail_first_page">Première page</string>
     <string name="bbs_detail_last_page">Dernière page</string>
     <string name="bbs_detail_nameless">Anonyme</string>
-    <string name="bbs_detail_net_error">Erreur de connexion, merci de vérifier vos paramètrages de connexion</string>
+    <string name="bbs_detail_net_error">Erreur de connexion, merci de vérifier vos paramètres de connexion</string>
     <string name="bbs_detail_next_page">Suivant</string>
-    <string name="bbs_detail_page_number">Page%d</string>
+    <string name="bbs_detail_page_number">Page %d</string>
     <string name="bbs_detail_pre_page">Précédente</string>
     <string name="bbs_detail_process">Chargement</string>
     <string name="bbs_detail_pull_pre_page">Glissez vers le bas afin de charger la page précédente</string>
@@ -327,7 +327,7 @@ taille: %2$.2f Mo"</string>
     <string name="bbs_threads_author_tag_4">4ème place</string>
     <string name="bbs_view_count">Vues:%d</string>
     <string name="begin_to_batch_delete_sms">Commencer la suppression</string>
-    <string name="begin_to_export_avatars">"Synchronisation des photosde vos contacts de Mi-Talk vers le carnet d'adresse…"</string>
+    <string name="begin_to_export_avatars">"Synchronisation des photos de vos contacts de Mi-Talk vers le carnet d'adresse…"</string>
     <string name="big_group_edit_btn_done">Sauvegarder</string>
     <string name="big_group_edit_btn_edit">Éditer</string>
     <string name="big_group_find_group_filter_activity">Popularité</string>
@@ -336,7 +336,7 @@ taille: %2$.2f Mo"</string>
     <string name="big_group_find_group_filter_member_num">Membres</string>
     <string name="big_group_find_group_filter_msg_num">Poster</string>
     <string name="big_group_find_group_filter_nearby">Proche</string>
-    <string name="big_group_list_guide_tips">Souhaitez-vous un groupe de contacts pour un groupe de plus de 100 contacts ? Très bien, vous en avez un maintenant !</string>
+    <string name="big_group_list_guide_tips">Souhaitez-vous que votre groupe de contacts ai plus de 100 contacts ? Très bien, vous en avez un maintenant !</string>
     <string name="big_group_load_more">Voir plus…</string>
     <string name="big_group_member_album_title">Album groupe</string>
     <string name="big_group_member_cannot_add_more">Ce groupe a atteint la taille maximum</string>
