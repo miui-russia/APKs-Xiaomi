@@ -68,7 +68,7 @@
     <string name="version">Version</string>
     <string name="splash">page de garde</string>
     <string name="app_version">"Version de l'application"</string>
-    <string name="image_content">ontenu</string>
+    <string name="image_content">Contenu</string>
     <string name="match_success">Fusionné</string>
     <string name="match_failed">Impossible de fusionner</string>
     <string name="in_normal_capturing">Capture</string>
@@ -108,7 +108,7 @@
     <string name="in_timelapes_capture">Time Lapse...</string>
     <string name="in_burst_capture">Éclatement...</string>
     <string name="no_preview">Aucun aperçu.</string>
-    <string name="rtsp_buffering">Buffering...</string>
+    <string name="rtsp_buffering">Mise en mémoire...</string>
     <string name="find_new_sw">Nouvelle version du pilote disponible</string>
     <string name="update_now">Voulez-vous le mettre à jour maintenant ?</string>
     <string name="sd_card_format">Formater la carte SD</string>
@@ -205,7 +205,7 @@
     <string name="setting_preview_status">Prévisualisation</string>
     <string name="setting_auto_low_light">Basse lumière Auto</string>
     <string name="setting_loop_record">Enregistrement en boucle</string>
-    <string name="setting_warp_enable">Rectification de la lentille</string>
+    <string name="setting_warp_enable">Rectification de l\'abération de la lentille</string>
     <string name="setting_start_wifi_while_booted">"Activer automatiquement le Wi-Fi avec l'appareil"</string>
     <string name="setting_video_output_status">AV Output</string>
     <string name="setting_video_rotate">Rotation vidéo</string>
@@ -398,7 +398,7 @@
     <string name="prompt_photo_delete_message">Êtes-vous sûr de vouloir supprimer XX photos?</string>
     <string name="prompt_photo_delete_button">Supprimer</string>
     <string name="sns_loading_video">Chargement de la vidéo...</string>
-    <string name="sns_caching_video">Mise en tampon...(XX%)</string>
+    <string name="sns_caching_video">Mise en mémoir tampon...(XX%)</string>
     <string name="prompt_dataflow_title">Utilisation des données</string>
     <string name="prompt_dataflow_message">Êtes-vous sûr de continuer en utilisant les données mobiles ?</string>
     <string name="prompt_continue">Continuer</string>
