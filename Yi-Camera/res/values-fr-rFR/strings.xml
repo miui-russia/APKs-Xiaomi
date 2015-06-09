@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
+    <string name="cancel">Annuler</string>
+    <string name="finish">Terminer</string>
+    <string name="sharing">Sharing operation is working in the background…</string>
+    <string name="share_to">Partager sur</string>
+    <string name="share">Partager</string>
+    <string name="multi_share">Photo Sharing</string>
+    <string name="share_completed">Operation succeeded</string>
+    <string name="share_canceled">Operation canceled</string>
+    <string name="select_one_plat_at_least">Please select a target platform</string>
+    <string name="list_friends">Friends on %s</string>
+    <string name="share_failed">Operation failed</string>
+    <string name="pull_to_refresh">Pull down to refresh</string>
+    <string name="release_to_refresh">Release to refresh</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="shake2share">Shake your phone!</string>
+    <string name="select_a_friend">Please select a friend</string>
     <string name="weibo_oauth_regiseter">Autorisation</string>
     <string name="website">http://www.mob.com</string>
     <string name="weibo_upload_content">partager une image</string>
@@ -13,8 +30,9 @@
     <string name="kakaotalk_client_inavailable">"Le client KakaoTalk n'existe pas ou la version est trop ancienne"</string>
     <string name="kakaostory_client_inavailable">"Le client KakaoStory n'existe pas ou la version est trop ancienne"</string>
     <string name="whatsapp_client_inavailable">"Le client WhatsApp n'existe pas ou la version est trop ancienne"</string>
+    <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
     <string name="miTalk">Mi-Talk</string>
-    <string name="sinaweibo">Weibo</string>
+    <string name="sinaweibo">Sina Weibo</string>
     <string name="tencentweibo">Tencent Weibo</string>
     <string name="qzone">QZone</string>
     <string name="wechat">Wechat</string>
@@ -58,6 +76,8 @@
     <string name="instapaper_logining">Connexion…</string>
     <string name="instapager_email_or_password_incorrect">Email ou mot de passe incorrect</string>
     <string name="facebookmessenger">Facebook Messenger</string>
+    <string name="laiwang">Laiwang</string>
+    <string name="laiwangmoments">Laiwang Moments</string>
     <string name="share_to_qzone">Partager dans QZone</string>
     <string name="share_to_qq">Partager dans QQ</string>
     <string name="mingdao_share_content">Partager la page web</string>
@@ -68,7 +88,7 @@
     <string name="version">Version</string>
     <string name="splash">page de garde</string>
     <string name="app_version">"Version de l'application"</string>
-    <string name="image_content">Contenu</string>
+    <string name="image_content">ontenu</string>
     <string name="match_success">Fusionné</string>
     <string name="match_failed">Impossible de fusionner</string>
     <string name="in_normal_capturing">Capture</string>
@@ -108,7 +128,7 @@
     <string name="in_timelapes_capture">Time Lapse...</string>
     <string name="in_burst_capture">Éclatement...</string>
     <string name="no_preview">Aucun aperçu.</string>
-    <string name="rtsp_buffering">Mise en mémoire...</string>
+    <string name="rtsp_buffering">Buffering...</string>
     <string name="find_new_sw">Nouvelle version du pilote disponible</string>
     <string name="update_now">Voulez-vous le mettre à jour maintenant ?</string>
     <string name="sd_card_format">Formater la carte SD</string>
@@ -205,7 +225,7 @@
     <string name="setting_preview_status">Prévisualisation</string>
     <string name="setting_auto_low_light">Basse lumière Auto</string>
     <string name="setting_loop_record">Enregistrement en boucle</string>
-    <string name="setting_warp_enable">Rectification de l\'abération de la lentille</string>
+    <string name="setting_warp_enable">Rectification de la lentille</string>
     <string name="setting_start_wifi_while_booted">"Activer automatiquement le Wi-Fi avec l'appareil"</string>
     <string name="setting_video_output_status">AV Output</string>
     <string name="setting_video_rotate">Rotation vidéo</string>
@@ -229,6 +249,7 @@
     <string name="setting_firmware_update">Télécharger le Firmware</string>
     <string name="wifi_connect_failed">Déconnecté</string>
     <string name="wifi_connect_failed_solution">"Veuillez vérifier si votre téléphone a été connecté avec votre caméra. La led du Wi-Fi clignote lorsqu'ils sont connectés."</string>
+    <string name="wifi_connect_failed_directly">Please restart your phone or try the system settings for the Wi-Fi connection</string>
     <string name="start_session_failed">Impossible de se connecter.</string>
     <string name="cant_start_session_failed_solution">La caméra est connectée avec un autre téléphone.</string>
     <string name="start_session_failed_in_systemBusy">Système occupé, veuillez essayez de vous connecter ultérieurement.</string>
@@ -279,8 +300,9 @@
     <string name="tv_timelapes">Time Lapse</string>
     <string name="tv_timer">Retardateur</string>
     <string name="tv_burst">Éclater</string>
+    <string name="tv_normal_record">Normal</string>
+    <string name="tv_timlapse_record">Time lapse</string>
     <string name="setting">Paramètres</string>
-    <string name="cancel">Annuler</string>
     <string name="confirm">OK</string>
     <string name="prompt">Remarque</string>
     <string name="disconnect_from_camera">Êtes-vous sûr de vouloir vous déconnecter de la caméra?</string>
@@ -336,6 +358,8 @@
     <string name="firmware_upgrade_tip">Veuillez ne pas débrancher votre téléphone à la caméra Wi-Fi pendant le processus de mise à jour</string>
     <string name="firmware_upgrade_failed_time_out">Délai de connexion, n\'a pas réussi à télécharger le microprogramme</string>
     <string name="firmware_upgrade_failed_no_space">Votre carte SD est insuffisante, s\'il vous plaît gérer le stockage et enregistrer à nouveau</string>
+    <string name="firmware_upgrade_failed_sd_card_remove">"No SD card.
+ Please insert SD card and try again."</string>
     <string name="sure_to_cancel_firmware_upgrade">Êtes-vous sûr de vouloir mettre à jour ?</string>
     <string name="should_connect_to_outside_wifi">La mise à jour du pilote nécessite une autre connexion Wi-Fi. Voulez-vous débranchez votre téléphone de la caméra maintenant ?</string>
     <string name="quick_video">Vidéo</string>
@@ -347,6 +371,9 @@
     <string name="firware_upgrade_succeeded">Félicitations</string>
     <string name="firware_upgrade_succeeded_tips">Téléchargement du Firmware est terminée</string>
     <string name="firware_upgrade_begin">Mettre à jour</string>
+    <string name="firware_upgrade_patient">Camera is updating, please wait..</string>
+    <string name="firmware_upgrade_cautions">The camera is updating with the buzzing sound.By rapid beeps, update is complete and the camera will turn off automatically.</string>
+    <string name="firmware_upgrade_progress">%d%% uploaded</string>
     <string name="app_upgrade_title">"Trouver une mise à jour de l'application"</string>
     <string name="app_upgrade_button">Téléchargement</string>
     <string name="app_download_title">"Téléchargement de l'application..."</string>
@@ -398,7 +425,7 @@
     <string name="prompt_photo_delete_message">Êtes-vous sûr de vouloir supprimer XX photos?</string>
     <string name="prompt_photo_delete_button">Supprimer</string>
     <string name="sns_loading_video">Chargement de la vidéo...</string>
-    <string name="sns_caching_video">Mise en mémoir tampon...(XX%)</string>
+    <string name="sns_caching_video">Mise en tampon...(XX%)</string>
     <string name="prompt_dataflow_title">Utilisation des données</string>
     <string name="prompt_dataflow_message">Êtes-vous sûr de continuer en utilisant les données mobiles ?</string>
     <string name="prompt_continue">Continuer</string>
@@ -515,7 +542,6 @@
     <string name="abnormal_sw_file">Fichier incorrect, veuillez le télécharger à nouveau</string>
     <string name="exit_cancle_download">Effacer les fichiers téléchargés, voulez-vous continuer ?</string>
     <string name="unsurported_sw_version">La version actuelle ne prend pas en charge la synchronisation de la caméra pour prendre des photos, veuillez mettre à jour votre pilote</string>
-    <string name="share_failed">Partage échoué</string>
     <string name="low_level_sd_card">Prise en charge des cartes SD inférieures à 4Go</string>
     <string name="firmware_version_synchronize_complete">La synchronisation du firmware est terminé, la dernière version:</string>
     <string name="get_latest_firmeware_info">Obtenir des informations de version du firmware…</string>
@@ -544,6 +570,7 @@
     <string name="camera_start_usb_storage_mode">"L'appareil photo est allumé en mode USB"</string>
     <string name="camera_start_fw_update">Allumer la caméra pour la mettre à jour</string>
     <string name="setting_timeout">"Définir le délai d'attente"</string>
+    <string name="bluetooth_unbinding_timeout">Unbind Bluetooth controller timeout</string>
     <string name="wifi_authenticate_failed">Confirmer le mot de passe Wi-Fi</string>
     <string name="setting_cloud_album">Album Mi-Cloud</string>
     <string name="check_failed">Vérification échoue, assurez-vous que le réseau est disponible</string>
@@ -560,6 +587,9 @@ Récupération de mot de passe à le camera 1234567890"</string>
 Trouvez le code SN, le nom de la caméra par défaut Wi-Fi
 Pour le code YDXJ SN ajouter"</string>
     <string name="button_forget_pwd">Oubliez le mot de passe Wi-Fi ?</string>
+    <string name="wechatcollect">Wechat Collect</string>
+    <string name="ok">OK</string>
+    <string name="share_picture">Partager une image</string>
     <string name="xiaomi_update_dialog_title">Nouvelle version de %1$s</string>
     <string name="xiaomi_update_dialog_message">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Taille: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Il suffit de télécharger les mises à jour: %2$s</string>
