@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yeelight</string>
+    <string name="image_description">Image</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_input_hint">Entrée inférieure à 20 caractères</string>
+    <string name="save">Enregistrer</string>
+    <string name="dialog_title_tips">Conseils</string>
+    <string name="loading_ble_message">Périphérique BLE n\'est pas prise en charge</string>
+    <string name="add_new_light">Ajouter nouvelle ampoule</string>
+    <string name="searching">Recherche...</string>
+    <string name="searching_finished">Cliquer pour ajouter une nouvelle ampoule</string>
+    <string name="searching_tips">"Veuillez vous assurer que l'ampoule n'est pas connecté
+par d'autres dispositifs"</string>
+    <string name="no_light_found">Aucune ampoule n\'a été trouvée !</string>
+    <string name="no_light_found_suggest">Assurez-vous que vous avez configuré une nouvelle ampoule</string>
+    <string name="try_again">Réessayez</string>
+    <string name="name_light_title">Name The Light</string>
+    <string name="add_light_again_title">Reminder</string>
+    <string name="add_light_again_content">Add another light?</string>
+    <string name="add_light_again_yes">Yes, I want</string>
+    <string name="add_light_again_no">No, thanks</string>
+    <string name="add_light_defaultname">Yeelight Blue II</string>
+    <string name="light_list">Liste des ampoules</string>
+    <string name="rename_light">Rename The Light</string>
+    <string name="all_blueII">All Blue II</string>
+    <string name="all_blue">All Blue</string>
+    <string name="all_bluestrips">All Lightstrips</string>
+    <string name="multiple_blueII">Multiple Blue II</string>
+    <string name="multiple_blue">Multiple Blue</string>
+    <string name="multiple_bluestrips">Multiple Lightstrips</string>
+    <string name="no_products">Pas de produits connexes</string>
+    <string name="disconnect">Hors ligne</string>
+    <string name="music_rhythm">Rythme de la musique</string>
+    <string name="select_light">Sélectionnez la lumière</string>
+    <string name="home_add_timer_tip">Please select a light, then set delay switch</string>
+    <string name="home_yeelight">"Yeelight
+Blue"</string>
+    <string name="color_flow_notice">Please select 2-4 colours</string>
+    <string name="color_flow_fast">fast</string>
+    <string name="color_flow_slow">slow</string>
+    <string name="scenes">Scenes</string>
+    <string name="scene_nature">Nature</string>
+    <string name="scene_romantic">Romantic</string>
+    <string name="scene_reading">Reading</string>
+    <string name="scene_party">Party</string>
+    <string name="no_scene">There is no scene</string>
+    <string name="name_scene_title">Name The Scene</string>
+    <string name="scene_save_failed_tips">Save Failed(Rename or Turned off)</string>
+    <string name="scene_disco">Disco</string>
+    <string name="scene_default_color_content">Set the current colour as the default for when the lights are next turned on</string>
+    <string name="timer_list_title">Timer</string>
+    <string name="every_day">everyday</string>
+    <string name="never">Never</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">Alarm</string>
+    <string name="add_timer_title">Delay Switch</string>
+    <string name="set_timer_gradual">Start</string>
+    <string name="add_timer_sunrise">Turn On</string>
+    <string name="add_timer_sunset">Turn Of</string>
+    <string name="add_timer_gradual">Gradual</string>
+    <string name="add_timer_repeat">Repeat</string>
+    <string name="add_timer_syn_to_clock">Sync To Clock</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="gradual">Gradual</string>
+    <string name="mintus">Mintus</string>
+    <string name="edit_del">Delete</string>
+    <string name="timer_save">Save</string>
+    <string name="timer_tips">, the selected lights will</string>
+    <string name="timer_delete">Delete</string>
+    <string name="timer_hour">H</string>
+    <string name="timer_minute">M</string>
+    <string name="timer_hours_text">hours and</string>
+    <string name="timer_minutes_text">minutes later</string>
+    <string name="timer_no_setting">Please set delay switch time</string>
+    <string name="light_select_title">Warning</string>
+    <string name="light_select_tip">Please select a light first</string>
+    <string name="beacon_no_device">There is no beacon device configured</string>
+    <string name="beacon_make_sure_light">There is no online light for beacon setting</string>
+    <string name="beacon_choose_light">Select Lights</string>
+    <string name="beacon_next">Suivant</string>
+    <string name="setting">Paramètres</string>
+    <string name="setting_boot_animation">Load Welcome Screen</string>
+    <string name="setting_fwupdate">Mise à jour firmware</string>
+    <string name="setting_feedback">Commantaire</string>
+    <string name="setting_about">À propos de Yeelink</string>
+    <string name="setting_beacon">Réglages</string>
+    <string name="feedback_send">Envoyé</string>
+    <string name="feedback_contact_hint">Please input you contact info. (QQ, Mobile, Email)</string>
+    <string name="feedback_info_hint">Please input your feedback, thanks. (300 words limited)</string>
+    <string name="feedback_dialog_tips">Tips</string>
+    <string name="feedback_dialog_sended">Feedback info is sended</string>
+    <string name="version">Version</string>
+    <string name="function">Function</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="market_cooperation">Market Cooperation</string>
+    <string name="sw_update">Software Update</string>
+    <string name="sw_version">2.0.6</string>
+    <string name="new_version">New Version</string>
+    <string name="new_version_tips">"1. XXXXXXXXXXXXXX
+2. XXXXXXXXXXXXXXXX
+3. XXXXXXXXXXXXXXXXXX"</string>
+    <string name="about">About Yeelight</string>
+    <string name="welcome">Welcome</string>
+    <string name="tel">TEL</string>
+    <string name="introduce">"We believe that light is not only for seeing in the darkness, but also as a way to communicate our emotions.
+
+Yeelight is the leading Smart LED lighting company in China. We use bluetooth technology to supply quality lighting with an interactive nature, to make life more colourful.
+
+Weibo&amp;Wechat：@yeelight
+Email：support@yeelight.com
+Website：http://www.yeelight.com
+Tel：400-619-7969
+Team：Qingdao Yeelink Information Technology Co Ltd."</string>
+    <string name="introduce_au">"The right light can enhance and enrich any activity, from the perfect soft lighting for an intimate moment, to a mesmerizing firework display. Yeelight's range of Bluetooth Smart bulbs and lightstrips give you the power to transform any room, bringing light to mood and bringing mood to life. 
+
+Thanks to the Yeelight app, your smartphone lets you control the light that surrounds you so that it suits your mood, whenever you want and for as long as you want. And with 16 million possible light combinations youll soon wonder how you ever survived with the humble light bulb. Yeelight intelligent lighting brings you a world of enhanced illumination.
+
+Qingdao Yeelink Information Technology Co Ltd.
+Email: support@yeelink.com.au
+Web: http://www.yeelink.com.au
+Facebook: www.facebook.com/yeelightAU"</string>
+    <string name="web"><u>Website</u></string>
+    <string name="share1"><u>Facebook</u></string>
+    <string name="share2"><u>Twitter</u></string>
+    <string name="beacon_misfit_shine">Misfit Shine</string>
+    <string name="beacon_bong">Bong II</string>
+    <string name="beacon_mi">Xiaomi Band</string>
+    <string name="beacon_iwatch">iWatch</string>
+    <string name="beacon_bong_click_to_connect">Press to connect</string>
+    <string name="beacon_bong_connecting">connecting..</string>
+    <string name="beacon_developing">Developing...</string>
+    <string name="beacon_config_complete_title">Configure Completed</string>
+    <string name="beacon_config_complete_content">In order for better experience, please disconnect the app side.</string>
+    <string name="beacon_config_complete_know">I Know</string>
+    <string name="beacon_config_complete_disconnect">Disconnect</string>
+    <string name="beacon_event_unbind_action">Unbind</string>
+    <string name="beacon_unbind_complete_title">Tips</string>
+    <string name="beacon_unbind_complete_content">Unbind Completed</string>
+    <string name="fw_download_install">Download and Install</string>
+    <string name="fw_checking">Vérification...</string>
+    <string name="fw_update_available">Mise à jour disponible</string>
+    <string name="fw_update_latest">Plus tard</string>
+    <string name="sw_update_now">Mettre à jour maintenant</string>
+    <string name="sw_update_later">Mettre à jour plus tard</string>
+    <string name="sw_update_check_for_new">Check for new version</string>
+    <string name="sw_update_new_sw">New version is available</string>
+    <string name="sw_update_no_new_sw">Current version is the latest one</string>
+    <string name="sw_update_downloading">Downloading...</string>
+    <string name="sw_update_download_success">Download success, click to install</string>
+    <string name="sw_update_download_failed">Download failed</string>
+    <string name="beacon_event_click">Click</string>
+    <string name="beacon_event_double_click">Double Click</string>
+    <string name="beacon_event_long_pressed">Long Pressed</string>
+    <string name="beacon_event_shake">Shake</string>
+    <string name="beacon_event_on">Turn On</string>
+    <string name="beacon_event_off">Turn Off</string>
+    <string name="hello_world">hello yeelight</string>
+    <string name="xiaomi_lamp">YeelightBlue</string>
+    <string name="menu_color">Colour</string>
+    <string name="menu_sunshine">Sunshine</string>
+    <string name="menu_flowing">Flowing</string>
+    <string name="sync_to_mode">Sync To Mode</string>
+    <string name="no_light">There is no light</string>
+    <string name="no_timer">There is no Timer</string>
+    <string name="choose_color">Choose Colour</string>
+    <string name="add_scene">Add Scene</string>
+    <string name="edit_scene">Edit Scene</string>
+    <string name="screen_nolight_btn_text">Ajouter une Yeelight</string>
+    <string name="screen_all_light_offline">"Tous les voyants sont hors ligne:
+S'il vous plaît vérifier"</string>
+    <string name="offline_charged">Éteindre ?</string>
+    <string name="offline_too_far">Trop loin ?</string>
+    <string name="offline_bt_open">Bluetooth est désactivée ?</string>
+    <string name="offline_conn_others">Utilisée par d\'autres ?</string>
+    <string name="disco_tips">"Playing Music
+Lighting Effects is Coming"</string>
+    <string name="disco_title">Disco</string>
+</resources>
