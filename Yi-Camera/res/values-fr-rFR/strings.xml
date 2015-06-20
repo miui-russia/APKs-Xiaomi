@@ -2,21 +2,21 @@
 <resources>
     <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
     <string name="cancel">Annuler</string>
-    <string name="finish">Terminer</string>
-    <string name="sharing">Opération de partage en cours en arrière-plan…</string>
-    <string name="share_to">Partager sur</string>
+    <string name="finish">Terminé</string>
+    <string name="sharing">Le partage est en cours en arrière plan…</string>
+    <string name="share_to">Partager avec</string>
     <string name="share">Partager</string>
-    <string name="multi_share">Partage de photo</string>
-    <string name="share_completed">Opération réalisée avec succès</string>
+    <string name="multi_share">Partage de photos</string>
+    <string name="share_completed">Opération réussi</string>
     <string name="share_canceled">Opération annulée</string>
-    <string name="select_one_plat_at_least">Merci de sélectionner une plateforme de destination</string>
+    <string name="select_one_plat_at_least">Choisissez une cible</string>
     <string name="list_friends">Amis sur %s</string>
-    <string name="share_failed">Echec de l\'opération</string>
-    <string name="pull_to_refresh">Tirer vers le bas pour actualiser</string>
-    <string name="release_to_refresh">Relâcher pour actualiser</string>
+    <string name="share_failed">Opération impossible</string>
+    <string name="pull_to_refresh">Tirez pour actualiser</string>
+    <string name="release_to_refresh">Relâchez pour actualiser</string>
     <string name="refreshing">Actualisation…</string>
-    <string name="shake2share">Secouer votre téléphone !</string>
-    <string name="select_a_friend">Merci de sélectionner un ami</string>
+    <string name="shake2share">Secouez votre téléphone !</string>
+    <string name="select_a_friend">Choisissez un ami</string>
     <string name="weibo_oauth_regiseter">Autorisation</string>
     <string name="website">http://www.mob.com</string>
     <string name="weibo_upload_content">partager une image</string>
@@ -124,7 +124,8 @@
     <string name="tvAspectRatio" />
     <string name="tvVideoPhotoSize" />
     <string name="resolution_sample">1920 X 1080 | 16:9 | 60P</string>
-    <string name="preview_off">Le Mode Aperçu est désactivé.</string>
+    <string name="preview_off">Le Mode Aperçu est désactivé</string>
+    <string name="in_timelapes_recording">Timelapse enregistrement...</string>
     <string name="in_timelapes_capture">Time Lapse...</string>
     <string name="in_burst_capture">Éclatement...</string>
     <string name="no_preview">Aucun aperçu.</string>
@@ -167,7 +168,7 @@
     <string name="list_item_video_tvMonth">00</string>
     <string name="list_item_video_tvYear">0000</string>
     <string name="list_item_video_tvDuration">00:00</string>
-    <string name="tvNoPhoto">Aucune photo trouvée</string>
+    <string name="tvNoPhoto">Aucune photos trouvés</string>
     <string name="list_item_photo_tvDate">1er Janvier</string>
     <string name="iv_list_sub_item_photo_thumbnail_contentdescription">Vignette de la photo</string>
     <string name="iv_list_sub_item_photo_thumbnail_download_flag_contentdescription">iv_list_sub_item_photo_thumbnail_download_flag_contentdescription</string>
@@ -302,6 +303,7 @@
     <string name="tv_burst">Éclater</string>
     <string name="tv_normal_record">Normal</string>
     <string name="tv_timlapse_record">Time lapse</string>
+    <string name="tv_record_photo">Compte rendu + photo</string>
     <string name="setting">Paramètres</string>
     <string name="confirm">OK</string>
     <string name="prompt">Remarque</string>
@@ -438,6 +440,7 @@
     <string name="prompt_start_downloading">Commencez à télécharger...</string>
     <string name="prompt_video_download_title">Téléchargez</string>
     <string name="prompt_video_download_message">Le téléchargement va bientôt commencer, confirmez que vous voulez continuer ?</string>
+    <string name="prompt_video_file_downloading">Téléchargement de la vidéo</string>
     <string name="setting_start_download">Démarrage...</string>
     <string name="setting_user_guide">"Guide de l'utilisateur"</string>
     <string name="setting_common_problem">Questions et Réponses</string>
@@ -575,6 +578,15 @@
     <string name="setting_cloud_album">Album Mi-Cloud</string>
     <string name="check_failed">Vérification échoue, assurez-vous que le réseau est disponible</string>
     <string name="latest_firmware_downloaded">La dernière version du firmware a été téléchargé, connectez la camérao après la mise à niveau</string>
+    <string name="camera_upgrade_help_content">"It is detected that last update failed, please read following notes before try again: 
+
+ 1. Make sure that your camera is at least 50% charged before you proceed 
+ 2. Do not power off camera or camera Wi-Fi throughout the upgrade process 
+ 3. Keep the camera close to your phone 
+ 4. Be patient until upgrade is complete and the camera is automatically off 
+ 
+ We also suggest you manually update by PC/Mac 
+ Guide link: http://www.xiaoyi.com/update/sports"</string>
     <string name="share_to_person">Partager avec un ami</string>
     <string name="share_to_group">Partager avec un groupe</string>
     <string name="share_to_all">Partager avec tout le monde</string>
@@ -590,6 +602,15 @@ Pour le code YDXJ SN ajouter"</string>
     <string name="wechatcollect">Wechat Collect</string>
     <string name="ok">OK</string>
     <string name="share_picture">Partager une image</string>
+    <string name="upgrade_tips_on_version">You are recommended to upgrade to latest version for normal use.</string>
+    <string name="next_time">Next Time</string>
+    <string name="download_at_once">DownLoad</string>
+    <string name="upgrade_tips_on_ready">Camera update file prepared, the process takes only a few minutes.</string>
+    <string name="upgrade_at_once">Update Now</string>
+    <string name="upgrade_terminate_tip">Last update failed, you can see help before try again.</string>
+    <string name="upgrade_one_more">Try Again</string>
+    <string name="upgrade_help">See Help</string>
+    <string name="understand">OK</string>
     <string name="xiaomi_update_dialog_title">Nouvelle version de %1$s</string>
     <string name="xiaomi_update_dialog_message">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Taille: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">Nous vous recommandons de mettre immédiatement la dernière version de: %1$s Il suffit de télécharger les mises à jour: %2$s</string>
