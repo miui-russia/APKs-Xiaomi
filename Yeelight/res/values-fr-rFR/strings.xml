@@ -22,8 +22,8 @@
     <string name="no_device_found_help">"Obtenir de l'aide"</string>
     <string name="unable_bind">Échec de la liaison</string>
     <string name="unable_bind_text">Processus de liaison: veuillez appuyer sur le bouton scène, et positionner le téléphone près de lampe Yeelight, la lampe doit être sur son support</string>
-    <string name="light_market">Marché lampes</string>
-    <string name="all_light">Toute la lumière</string>
+    <string name="light_market">Market des lampes</string>
+    <string name="all_light">Toute les lumières</string>
     <string name="sync_light">Touche mode</string>
     <string name="setting">Paramètres</string>
     <string name="my_account">Mon compte</string>
@@ -31,7 +31,7 @@
     <string name="light_alarm">Minuterie de la lampe</string>
     <string name="smart_device">Associer à des périphériques</string>
     <string name="smart_scene">Scène intelligente</string>
-    <string name="pinfo">Renseignements personnels</string>
+    <string name="pinfo">Renseignements personnel</string>
     <string name="about">A propos</string>
     <string name="device">Périphérique</string>
     <string name="connection">Connexion</string>
