@@ -32,7 +32,7 @@
     <string name="smart_device">Associer à des périphériques</string>
     <string name="smart_scene">Scène intelligente</string>
     <string name="pinfo">Renseignements personnels</string>
-    <string name="about">Á propos</string>
+    <string name="about">A propos</string>
     <string name="device">Périphérique</string>
     <string name="connection">Connexion</string>
     <string name="service">Service</string>
@@ -64,7 +64,7 @@ extinction automatique dans %1$d minutes</string>
     <string name="mi_band_bind_autoclose">Extinction automatique des lampes</string>
     <string name="mi_band_bind_unbindtext">Connexion au Mi-Fit</string>
     <string name="mi_band_bind_bindtext">Connecter le Mi-Fit</string>
-    <string name="mi_band_bind_unbind">Déconnecterer</string>
+    <string name="mi_band_bind_unbind">Déconnecter</string>
     <string name="mi_band_bind_unbind_sub">"Après déconnexion du Mi-Fit l'extinction automatique des lampes ne peut se faire, veuillez connecter un autre Mi-Fit si vous souhaitez réactiver cette fonction"</string>
     <string name="night_light_text">Veilleuse</string>
     <string name="night_light_text_on">Allumer la veilleuse</string>
@@ -78,11 +78,11 @@ extinction automatique dans %1$d minutes</string>
     <string name="ota_success">Mise à jour réussie</string>
     <string name="fw_ota_back_to_main">Retourner à l\'interface principale</string>
     <string name="fw_new_version">La dernière version du firmware: %1$s</string>
-    <string name="fw_ota_introduce">"Ne désactivez pas le Bluetooth et ne débrancher pas l'alimentation durant le processus de mise à jour,
-Une fois la mise à jour réussie, lampe de chevet Yeelight redémarrera automatiquement, ce n'est pas un défaut de la lampe"</string>
+    <string name="fw_ota_introduce">"Ne désactiver pas le Bluetooth et ne débrancher pas l'alimentation durant le processus de mise à jour,
+Une fois la mise à jour réussie, la lampe Yeelight redémarrera automatiquement, ce n'est pas un défaut de la lampe"</string>
     <string name="recovery">"Restaurer les paramètres d'usine"</string>
     <string name="recovery_btn_text">Restauration</string>
-    <string name="recovery_info">"Restaurer les paramètres d'usine, le nom de la lampe, la couleur, la luminosité, la minuterie de la lampe, des informations d'autorisations seront effacées, vous devrez à nouveau reconnecter vos périphériques"</string>
+    <string name="recovery_info">"Restaurer les paramètres d'usine, le nom de la lampe, la couleur, la luminosité, la minuterie de la lampe, les informations d'autorisations seront effacées, vous devrez à nouveau reconnecter vos périphériques"</string>
     <string name="alarm_set_time">Réglage de la minuterie</string>
     <string name="alarm_switch_on">Allumer la lumière</string>
     <string name="alarm_switch_off">Éteindre la lumière</string>
@@ -108,7 +108,7 @@ Une fois la mise à jour réussie, lampe de chevet Yeelight redémarrera automat
     <string name="setting_rebind_title">Reconnecter</string>
     <string name="setting_rebind_title_no_connect">La connexion Bluetooth est désactivée</string>
     <string name="setting_rebind_title_info">Connexion aux lampes Yeelight effectuée. Vous pouvez utiliser le téléphone pour contrôler les lampes</string>
-    <string name="setting_rebind_title_info_no_connect">"La ou les lampe(s) Yeelight sont déconnectées, afin d'utiliser un téléphone mobile pour contrôler la ou les lampe(s), rebranchez-les.</string>
+    <string name="setting_rebind_title_info_no_connect">"La ou les lampe(s) Yeelight sont déconnectée(s), afin d'utiliser un téléphone mobile pour contrôler la ou les lampe(s), rebranchez-les.</string>
     <string name="setting_rebind_btn_text">Connecter la ou les lampe(s) Yeelight</string>
     <string name="setting_rebind_btn_text_no_connect">Rebranchez la ou les lampe(s)</string>
     <string name="setting_rebind_title_recovery">Réglages d\'usine restauré</string>
