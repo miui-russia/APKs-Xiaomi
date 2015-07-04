@@ -132,5 +132,5 @@ Une fois la mise à jour réussie, la lampe Yeelight redémarrera automatiquemen
     <string name="main_screen_switch">Interrupteur</string>
     <string name="main_screen_color">Couleur</string>
     <string name="main_screen_sunshine">Lumière du soleil</string>
-    <string name="main_screen_flow">Défilement de l\'écran</string>
+    <string name="main_screen_flow">Flux</string>
 </resources>
