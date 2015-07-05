@@ -23,7 +23,7 @@ localization_fr_rFR_table = {
     last_week_walked_info_format='Marché %s km, brûlé %d cal.',
 
     get_over_format=", environ %d g de graisse",
-    click_to_get_help="En apprendre davantage sur le Mi-Fit",
+    click_to_get_help="En savoir plus sur le Mi-Fit",
     take_a_walk="Faites un tour avec votre Mi-Fit",
     take_a_walk_info="Votre Mi-Fit comptabilise chaque pas effectué tout au long de la journée.",
     unlock_hint="Sésame, ouvre-toi !",
@@ -42,15 +42,15 @@ localization_fr_rFR_table = {
     today_goal_reached_click_info="Appuyez pour afficher les résultats.",
     week_continue_reach_goal="Vous",
 
-    challenge_format="Vous avez atteint votre but %d jours d'affilée !",
+    challenge_format="Vous avez atteint votre objectif %d jours de suite !",
     personal_best_format="Votre plus longue série est de %d jours !",
     continue_with_skips_title="Vous n'avez pas atteint votre objectif hier. Appelons cela une journée de farniente ;)",
     continue_with_skips_title_today="Vous n'avez pas atteint votre objectif aujourd'hui. Appelons cela une journée de farniente ;)",
     personal_best_with_skips_format="Il vous reste %d jours de repos ;)",
-    continue_used_n_skips_format="Vous avez atteint votre objectif pendant %d jours d\'affilé! Il vous reste encore %d jours de repos",
-    continue_used_0_skips_format="Vous avez atteint votre objectif pendant %d jours d\'affilé! Il ne vous reste aucun jours de repos.",
-    personal_best_on_skip_day_title="%d série! Vous avez gagné une journée de repos!",
-    personal_best_on_skip_day_info="Après 7 jours d'efforts vous gagnez une journée de repos. Vous pouvez utilisez vos jours de repos pour couvrir les jours où vous n\'atteignez pas votre objectif.",
+    continue_used_n_skips_format="Vous avez atteint votre objectif pendant %d jours de suite ! Il vous reste encore %d jours de repos",
+    continue_used_0_skips_format="Vous avez atteint votre objectif pendant %d jours de suite ! Il ne vous reste aucun jours de repos.",
+    personal_best_on_skip_day_title="%d série ! Vous avez gagné une journée de repos!",
+    personal_best_on_skip_day_info="Après 7 jours d'efforts vous gagnez une journée de repos. Vous pouvez utiliser vos jours de repos pour couvrir les jours où vous n\'atteignez pas votre objectif.",
     manual_lazy_title="Vous n\'avez pas atteint votre objectif aujourd\'hui.",
     manual_lazy_subtitle="Votre série continuera si vous marquez cette journée comme une journée de repos.",
     manual_lazy_title_used="Aujourd'hui c'est votre jour de repos.",
@@ -62,7 +62,7 @@ localization_fr_rFR_table = {
     active_time_format_1="%d h",
     active_time_format_2="%d h %d min",
     activie_run_format_0="Couru %s. Super boulot ! ",
-    activie_run_format_1="Couru %s. Tu fais des miracles !",
+    activie_run_format_1="Couru %s. Vous faites des miracles !",
     activie_run_format_2="Couru %s.",
     activie_run_consumed="%d calories brûlées. %s",
 
@@ -70,17 +70,17 @@ localization_fr_rFR_table = {
     get_distance_format_british="%d pieds",
     activity_walk_format="%s Marché %d pas %s",
     activity_walk_consumed_format="Brûlé %d cal %s",
-    activity_rope_skipping_format="%s sauts ignorés %d fois",
+    activity_rope_skipping_format="%s sauts à la corde %d fois",
     activity_situp_format="%s fait %d abdominaux",
     activity_consumed_format="Brûlées %d cal %s",
     activity_activity_format="%s %s d'activité %s",
     activity_activity_format_run="%s sur %s, couru %s",
-    last_night_sleeped_good_format="La nuit dernière, tu as dormi %s. Quelle bonne nuit !",
-    last_night_sleeped_normal_format="La nuit dernière, tu as dormi %s.",
+    last_night_sleeped_good_format="La nuit dernière, vous avez dormi %s. Quelle bonne nuit !",
+    last_night_sleeped_normal_format="La nuit dernière, vous avez dormi %s.",
     deep_sleep_format="En phase de sommeil profond pendant %s.",
 
     battery_low_info="Batterie faible, veuillez mettre en charge le Mi-Fit",
-    battery_very_low_info="Batterie très faible, veuillez mettre en charge le Mi-Fit",
+    battery_very_low_info="Batterie très faible, veuillez rapidement mettre en charge le Mi-Fit",
 
     cannot_find_bracelet="Impossible de trouver le Mi-Fit",
     cannot_find_bracelet_info="Assurez-vous que le Mi-Fit soit suffisamment chargé et à proximité de votre téléphone",
@@ -88,21 +88,21 @@ localization_fr_rFR_table = {
     bracelet_disconnect = "Problème de connexion ? Appuyez ici pour obtenir de l\'aide.",
 
     challenge_to_get="A %s jour(s) de battre un nouveau record !",
-    record_reach_max="Tu as atteint ton meilleur record !",
+    record_reach_max="Vous avez atteint votre meilleur record !",
     new_record_born="Nouveau record !",
 
     ---====== Weather tips ===============
     weather_tips_title_0 = "Forte pollution, essayez de rester à l'intérieur.",
     weather_tips_title_1 = "Forte pollution, essayez de rester à l'intérieur.",
-    weather_tips_info = "Les abdominaux, la corde à sauter et les pompes sont de grands sports d'intérieur !",
+    weather_tips_info = "Les abdominaux, la corde à sauter et les pompes sont de bons sports d'intérieur !",
 
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Bonjour !",
-    welcome_use_weight_scale_info = "Learn more about scale",
-    welcome_use_weight_scale_not_bind = "Appuyez ici pour associer une balance",
+    welcome_use_weight_scale_info = "En savoir plus sur la Mi-Balance",
+    welcome_use_weight_scale_not_bind = "Appuyez ici pour appairer une Mi-balance",
     welcome_use_mi_health="Bonjour !",
 
-    select_devices="Sélectionnez les appareils à associer",
+    select_devices="Sélectionnez les appareils à appairer",
     daily_steps_not_comlete = "%s pas restants",
 
     am_format="%s AM",
