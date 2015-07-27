@@ -258,7 +258,7 @@ Mode antipoussière sélectionné téléphone portable casque appareil dans le t
     <string name="combo_speed_fast">Rapide (double clic difficile à réussir)</string>
     <string name="combo_saveas_title">Fournir les renseignements sur les combos</string>
     <string name="combo_edit_title">Editer les combos</string>
-    <string name="combo_saveas_name">Nom du combos</string>
+    <string name="combo_saveas_name">Nom du combo</string>
     <string name="combo_saveas_name_empty">Aucun nom</string>
     <string name="combo_saveas_desc">Descriptif rapide du combo</string>
     <string name="combo_customize_desc">"Customisation des combos
