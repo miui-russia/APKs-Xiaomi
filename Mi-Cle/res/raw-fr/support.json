@@ -57,7 +57,7 @@
     },
   { "mutex" : [ "com.xiaomi.miclick.core.action.WebpageAction"],
       "groupId" : 1,
-      "groupName" : "Приложение",
+      "groupName" : "Demande",
       "name" : "com.xiaomi.miclick.core.action.WebpageAction",
       "sortId" : 10
     },
