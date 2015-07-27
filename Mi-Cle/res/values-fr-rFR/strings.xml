@@ -13,13 +13,13 @@
     <string name="note">Note:</string>
     <string name="add_to_contacts">Ajouter à un contact</string>
     <string name="recognize">Analyser</string>
-    <string name="place_barcode_into_rectangle">"Placez le code QR ou le code barres à l'intérieur du rectangle"</string>
+    <string name="place_barcode_into_rectangle">"Placez le code QR ou le code barre à l'intérieur du rectangle"</string>
     <string name="open_flash_error">"Impossible d'activer le flash"</string>
     <string name="close_flash_error">Impossible de désactiver le flash</string>
     <string name="scan_fail">"L'analyse a échouée"</string>
     <string name="vcard_prompt">Vous ne pouvez pas ajouter de contacts parce que le nom est manquant</string>
     <string name="copy_succeed">Copie effectuée</string>
-    <string name="fail_generate_barcode">Défaut de générer un code à barres ou un code QR</string>
+    <string name="fail_generate_barcode">Génération de code barre ou de code QR impossible</string>
     <string name="scan_result">"Résultat de l'analyse"</string>
     <string name="flash_lable">Flash</string>
     <string name="picker_lable">Galerie</string>
@@ -28,10 +28,10 @@
     <string name="setting_key_mode_dust_cap">key_dust_cap</string>
     <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
     <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-    <string name="app_name">Mi-Cle</string>
+    <string name="app_name">Mi-Clé</string>
     <string name="tab_mikey">Mi-Clé</string>
     <string name="tab_mikey_sprite">Assistant</string>
-    <string name="tab_combo">Paquet</string>
+    <string name="tab_combo">Combo</string>
     <string name="notify_title_sprite">Assistant</string>
     <string name="notify_content_sprite">Cliquez sur la croix pour quitter</string>
     <string name="notify_ticker_sprite">"Assistant Mi-Clé est en cours d'exécution"</string>
@@ -48,7 +48,7 @@
     <string name="click_type_9">9x</string>
     <string name="click_type_10">10x</string>
     <string name="action_open_flashlight">Torche</string>
-    <string name="action_open_other_app">Lancer une apps</string>
+    <string name="action_open_other_app">Lancer une app</string>
     <string name="action_open_mi_route">"Liste d'appareils"</string>
     <string name="action_open_camera">Appareil photo</string>
     <string name="action_open_camera2">Prendre une photo</string>
@@ -153,7 +153,7 @@
     <string name="action_key_vol_up">Augmenter le volume</string>
     <string name="action_key_vol_down">Réduction du volume</string>
     <string name="action_key_vol">Touches de volume</string>
-    <string name="message_photo_end">Photos ont été enregistrés</string>
+    <string name="message_photo_end">Les photos ont été enregistrés</string>
     <string name="select_camera">Sélectionner la caméra</string>
     <string name="select_direction">Sélectionnez une direction</string>
     <string name="select_vol">Veuillez sélectionner les touches de volume</string>
@@ -162,13 +162,13 @@
     <string name="key_direction_left">Gauche</string>
     <string name="key_direction_right">Droite</string>
     <string name="front_camera">Caméra frontale</string>
-    <string name="back_camera">Caméra arrière</string>
+    <string name="back_camera">Caméra dorsale</string>
     <string name="write_pic_fail">"Une erreur s'est produite"</string>
     <string name="settings">Paramètres</string>
     <string name="setting_buy">Acheter une Mi-Clé</string>
     <string name="app_not_installed">Application non installée</string>
     <string name="setting_toolbar">"Barre d'outils"</string>
-    <string name="setting_toolbar_desc">"Fonctions de la barre d'outils peuvent être utilisées rapidement dans la barre de notification. Il peut apporter plus de confort."</string>
+    <string name="setting_toolbar_desc">"Les fonctions de la barre d'outils peuvent être utilisées rapidement dans la barre de notification. Pour apporter plus de confort."</string>
     <string name="setting_toolbar_tip">"Cliquez sur le signe plus pour ajouter une nouvelle fonctionnalité, vous pouvez remplacer les fonctionnalités existantes.
 Appui long pour effacer.
 
@@ -178,7 +178,7 @@ Ouvrir la barre d'outils, dans tous les cas,
 À partir du combiné téléphonique à l'extrémité supérieure de la tendance à la baisse peut l'utiliser!"</string>
     <string name="task_title_prefix">Paragraphe %1$s Étape：%2$s</string>
     <string name="setting_feedback">Paramètres du Bouton</string>
-    <string name="setting_speed_desc">"Un temps court entre chaque appuie permet une interaction plus rapide mais le taux de réussite est réduit ou moindre.
+    <string name="setting_speed_desc">"Un temps court entre chaque appui permet une interaction plus rapide mais le taux de réussite est réduit ou moindre.
 Un temps long entre chaque appuie augmente le taux de réussite de la commande mais une durée d'interaction plus longue."</string>
     <string name="setting_speed_slow">Lent</string>
     <string name="setting_speed_quick">Rapide</string>
@@ -249,23 +249,23 @@ Mode antipoussière sélectionné téléphone portable casque appareil dans le t
     <string name="privacy_mode_title">Modèle invité</string>
     <string name="privacy_mode_started">Est entré dans le modèle invité</string>
     <string name="privacy_mode_end">A quitté le mode invité</string>
-    <string name="privacy_mode_first_hint">首次使用访客模式，请由系统设置开启访客模式</string>
-    <string name="combo_standard_title">标准套餐</string>
-    <string name="combo_standard_text">此套餐能够满足基本的日常使用，如果你没有特别明确的想法，标准套餐是个不错的选择。</string>
-    <string name="combo_speed_prefix">反应速度:</string>
-    <string name="combo_speed_slow">慢(容易连击)</string>
-    <string name="combo_speed_medium">中等</string>
-    <string name="combo_speed_fast">快(连击不容易成功)</string>
-    <string name="combo_saveas_title">填写套餐信息</string>
-    <string name="combo_edit_title">编辑套餐信息</string>
-    <string name="combo_saveas_name">套餐名称</string>
-    <string name="combo_saveas_name_empty">未命名</string>
-    <string name="combo_saveas_desc">套餐的简单说明</string>
-    <string name="combo_customize_desc">"套餐可以自己定义
-在自己设置好的米键首页下方点击“变成套餐”
-就OK啦～"</string>
-    <string name="combo_saveas_already_saved_desc">当前设置已经保存在套餐里啦～</string>
-    <string name="combo_edit">编辑</string>
+    <string name="privacy_mode_first_hint">"Lors de l'utilisation du mode invité pour la première fois, merci d'ouvrir le mode invité pour la mise en place du système"</string>
+    <string name="combo_standard_title">Combo standard</string>
+    <string name="combo_standard_text">"Ce combo peut satisfaire l'utilisation quotidienne de base, si vous ne disposez pas d'idée spécialement explicite, le combo standard est un bon choix."</string>
+    <string name="combo_speed_prefix">Vitesse de réaction :</string>
+    <string name="combo_speed_slow">Lent (double clic facile)</string>
+    <string name="combo_speed_medium">modéré</string>
+    <string name="combo_speed_fast">Rapide (double clic difficile à réussir)</string>
+    <string name="combo_saveas_title">Fournir les renseignements sur les combos</string>
+    <string name="combo_edit_title">Editer les combos</string>
+    <string name="combo_saveas_name">Nom du combos</string>
+    <string name="combo_saveas_name_empty">Aucun nom</string>
+    <string name="combo_saveas_desc">Descriptif rapide du combo</string>
+    <string name="combo_customize_desc">"Customisation des combos
+    Se placer sur la page d'accueil de Mi-Clé et cliquez sur "transformer en combo"
+    Et sur OK~"</string>
+    <string name="combo_saveas_already_saved_desc">Les réglages actuels ont été enregistrés dans le combo sur votre compte~</string>
+    <string name="combo_edit">Edition</string>
     <string name="faq_title">F.A.Q Mi-Clé</string>
     <string name="faq_speed_title">Action non reconnue ?</string>
     <string name="faq_speed_text">Le temps de réaction entre deux clics peut être différent en fonction du modèle de téléphone. Il faut adapter la vitesse dans le menu paramètres</string>
@@ -293,11 +293,11 @@ Ex: Passer un appel, prendre des photos, lancer des jeux…
 L'utilisation de l'assistant désactivera certaines fonctionnalités de l'application Mi-Clé"</string>
     <string name="enable_mikey_sprite">"Ouvrir l'assistant"</string>
     <string name="disable_mikey_sprite">"Quitter l'assistant"</string>
-    <string name="dialog_title_disable_mikey_sprite">Confirmer la fermeture ？</string>
-    <string name="splash_mikey_sprite">"Placer le point rond blanc à l'endroit désiré"</string>
-    <string name="enable_mad_click">开启狂点模式</string>
-    <string name="disable_mad_click">禁用狂点模式</string>
-    <string name="dialog_title_mad_click">提示</string>
+    <string name="dialog_title_disable_mikey_sprite">Confirmer la fermeture ?</string>
+    <string name="splash_mikey_sprite">"Placer le rond blanc à l'endroit désiré"</string>
+    <string name="enable_mad_click">Activer les clics de rapidité démentielle</string>
+    <string name="disable_mad_click">Désactiver les clics de rapidité démentielle</string>
+    <string name="dialog_title_mad_click">Rapidité démentielle</string>
     <string name="long_click">Appui long</string>
-    <string name="dialog_content_mad_click">连续点击次数：</string>
+    <string name="dialog_content_mad_click">Clics continus :</string>
 </resources>
