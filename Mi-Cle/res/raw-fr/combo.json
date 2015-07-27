@@ -48,7 +48,7 @@
         }
     },
     "1": {
-        name: "Combo du Bouton Power",
+        name: "Combo Bouton Power",
         desc: "Ce combo est adapté à la Mi-Cclé pour simuler pleinement les autres boutons physiques, avec une réponse rapide ! Le bouton d'alimentation par défaut peut également être remplacée par une autre touche de simulation.",
         speed: 0,
         actions: {
@@ -63,7 +63,7 @@
         }
     },
     "2": {
-        name: "Jeu 007",
+        name: "Combo 007",
         desc: "Ce combo est capable de prendre des photos ou des enregistrement d'inconnu, faites attention ! Le flash étant désactivé, il se peut que la mise au point ne se fasse pas bien suivant la luminosité.",
         speed: 0,
         actions: {
@@ -78,7 +78,7 @@
         }
     },
     "3": {
-        name: "Défis combos de rapidité démentielle",
+        name: "Défis combos",
         desc: "Impossible de faire dix doubles clics en une seconde, en tout cas tout le monde le dit, essayez par vous-même～",
         speed: 1000,
         actions: {
