@@ -236,7 +236,7 @@ Logo vers le haut"</string>
     <string name="running_main_startup_subtitle1">Pour enregistrer l\'exactitude des données en cours d\'exécution</string>
     <string name="running_main_startup_subtitle2">Utiliser le GPS et le Mi-Fit</string>
     <string name="running_main_go_now">Départ</string>
-    <string name="running_main_title">Traqueur de route</string>
+    <string name="running_main_title">Traceur de route</string>
     <string name="running_main_mileage">%1$d/%2$d km</string>
     <string name="running_main_mileage_one">%1$s km</string>
     <string name="running_settings_speed">(%1$s min/km)</string>
@@ -1396,7 +1396,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="lab_factory_disconnected_reminder">Alerte via bluetooth</string>
     <string name="lab_factory_disconnected_reminder_tips">"Si la connexion entre le bracelet et le téléphone mobile Bluetooth est perdue, le bracelet vibrera une fois et les lumières blanches s'allumeront pour vous prévenir"</string>
     <string name="lab_factory_disconnected_reminder_disconnect">"S'il vous plaît connectez le bracelet, puis modifiez les paramètres d'alerte"</string>
-    <string name="sport_running_helper">Activité</string>
+    <string name="sport_running_helper">"Traceur d'activité"</string>
     <string name="sport_share">Partager maintenant</string>
     <string name="sport_ranking_desc_poor">%s: La plupart des utilisateurs sont devant vous</string>
     <string name="sport_ranking_desc_normal" formatted="false">Votre place &lt;b>%s&lt;/b> sur %s utilisateurs</string>
