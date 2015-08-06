@@ -78,11 +78,11 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="alert_message">Message d\'alerte</string>
     <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage～</string>
     <string name="alert_no_message">En ce jour paisible, aucun message d'alarme～</string>
-    <string name="alert_no_save_message">没有更多了，历史信息最多保留7天</string>
-    <string name="alert_refresh_footer">上拉切换到前一天动态</string>
-    <string name="alert_refresh_footer_next">上拉加载更多动态</string>
-    <string name="alert_refresh_header">下拉显示后一天动态</string>
-    <string name="alert_refresh_load">松开完成加载</string>
+    <string name="alert_no_save_message">"Aucun messages, l'historique les conserve jusqu'à sept jours"</string>
+    <string name="alert_refresh_footer">Concernant les réductions de la journée avant les tendances</string>
+    <string name="alert_refresh_footer_next">Concernant les charges des tendances</string>
+    <string name="alert_refresh_header">En suivant la dernière journée de tendance</string>
+    <string name="alert_refresh_load">Terminer le chargement</string>
     <string name="alert_refresh_loading">Chargement</string>
     <string name="alert_show">Liste dynamique</string>
     <string name="alert_video">Alarme de la vidéo</string>
