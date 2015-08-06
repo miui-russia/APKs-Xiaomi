@@ -56,7 +56,7 @@
     <string name="account_not_exists">"Le compte n'existe pas"</string>
     <string name="account_null">"Le nom d'utilisateur ne peut être vide"</string>
     <string name="account_settting">Paramètres du compte</string>
-    <string name="accountorpassword_authentication_failed">Vérification du compte ou mot de passe échouée</string>
+    <string name="accountorpassword_authentication_failed">Vérification du compte ou mot de passe erroné</string>
     <string name="action_settings">Réglages</string>
     <string name="add_alarm_setting">Ajouter une alarme</string>
     <string name="add_device">Ajouter une XiaoYi Caméra</string>
@@ -69,21 +69,21 @@
     <string name="alarm_day">"Cliquez sur le calendrier, vous pouvez changer de vue
 Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="alarm_prompt">Alerte si détection de mouvement</string>
-    <string name="alarm_tips1">铃铛亮起时</string>
+    <string name="alarm_tips1">Allume quand ça sonne</string>
     <string name="alarm_tips2">Rappelez-vous il ya une nouvelle image dynamique de la caméra</string>
     <string name="alarm_tips3">Cliquez pour voir</string>
     <string name="alarm_whole_day">Toute la journée</string>
     <string name="alert_all_camera">Toutes les caméras</string>
     <string name="alert_all_dynamic">Tout dynamique</string>
     <string name="alert_message">Message d\'alerte</string>
-    <string name="alert_no_camera">当前没有绑定任何摄像机，请先去绑定呗～</string>
-    <string name="alert_no_message">这一天安安静静，没有任何报警信息哦～</string>
+    <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage～</string>
+    <string name="alert_no_message">En ce jour paisible, aucun message d'alarme～</string>
     <string name="alert_no_save_message">没有更多了，历史信息最多保留7天</string>
     <string name="alert_refresh_footer">上拉切换到前一天动态</string>
     <string name="alert_refresh_footer_next">上拉加载更多动态</string>
     <string name="alert_refresh_header">下拉显示后一天动态</string>
     <string name="alert_refresh_load">松开完成加载</string>
-    <string name="alert_refresh_loading">正在加载</string>
+    <string name="alert_refresh_loading">Chargement</string>
     <string name="alert_show">Liste dynamique</string>
     <string name="alert_video">Alarme de la vidéo</string>
     <string name="alert_video_error">Impossible de lire la vidéo</string>
@@ -93,7 +93,7 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="app_name">XiaoYi-Cam</string>
     <string name="app_recommend">Applications recommandées</string>
     <string name="app_recommend_to_user">Recommander à des amis</string>
-    <string name="app_slogan">With Clairvoyant, inner peace even thousand miles away</string>
+    <string name="app_slogan">Avec Clairvoyant, la paix intérieure même à des milliers de kms de distance</string>
     <string name="app_upgrade">Nouvelle version est détectée</string>
     <string name="back_start_upload_share">Partage en arrière plan activé</string>
     <string name="baike">Xiaoyi WiKi</string>
@@ -103,10 +103,10 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="bind">Connecté</string>
     <string name="bind_camera_use_xiaomi">Vous devez vous connecter avec votre compte Xiaomi avant de connecter votre caméra.</string>
     <string name="bind_failed">Connexion échouée !</string>
-    <string name="bind_not_found">Ce dispositif est introuvable localement!</string>
+    <string name="bind_not_found">Ce dispositif est introuvable localement !</string>
     <string name="bind_success">Connexion réussie !</string>
     <string name="bind_xiaomi">Compte Xiaomi</string>
-    <string name="blue_1">Led bleue fix, la caméra est connecté au Wi-Fi</string>
+    <string name="blue_1">Led bleue fixe, la caméra est connecté au Wi-Fi</string>
     <string name="blue_2">Voix\"connecté avec succès\" la caméra et connecté au serveur</string>
     <string name="blue_shan">Led bleue clignote, la caméra se connecte au Wi-Fi</string>
     <string name="bluetooth_add">Ajouter une connexion Bluetooth</string>
@@ -133,19 +133,19 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="by_time">Temps</string>
     <string name="camera">Caméra</string>
     <string name="camera_add">Ajouter une XiaoYi Caméra</string>
-    <string name="camera_added_by_other_user">La XiaoYi  Caméra est déjà associée avec un autre utilisateur !</string>
+    <string name="camera_added_by_other_user">La XiaoYi Caméra est déjà associée avec un autre utilisateur !</string>
     <string name="camera_alarm_closed">Quitter</string>
     <string name="camera_alarm_endtime">Heure de fin</string>
     <string name="camera_alarm_opened">Ouvrir</string>
     <string name="camera_alarm_starttime">Heure de début</string>
     <string name="camera_alarm_type">"Type d'alarme"</string>
-    <string name="camera_bind_timeout">Déai de connection dépassé, Ré-initialiser la caméra.</string>
+    <string name="camera_bind_timeout">Délai de connection dépassé, réinitialiser la caméra.</string>
     <string name="camera_buffing">Mise en mémoire tampon...</string>
     <string name="camera_cant_found_wifi">La caméra ne trouve pas le Wi-Fi, veuillez réessayer</string>
-    <string name="camera_config_check_message">Confirmer que le led orang est fixe !</string>
+    <string name="camera_config_check_message">Confirmer que le led orange soit fixe !</string>
     <string name="camera_config_success">La configuration de la caméra est réussie</string>
     <string name="camera_description">Description</string>
-    <string name="camera_finish_wifi_setting_content">"1.Attendez jusqu'à ce que la led de la caméra soit bleue, environ 1 minute, ensuite la configuration de la caméra dera finie. 2. Si vous avez des questions, veuillez vous référer aux instructions de la FAQ."</string>
+    <string name="camera_finish_wifi_setting_content">"1.Attendez jusqu'à ce que la led de la caméra soit bleue, environ 1 minute, ensuite la configuration de la caméra sera finie. 2. Si vous avez des questions, veuillez vous référer aux instructions de la FAQ."</string>
     <string name="camera_finish_wifi_setting_title">Configuration du Wi-Fi de la Caméra</string>
     <string name="camera_id">"N° : "</string>
     <string name="camera_init_settting">Configuration de la caméra</string>
@@ -158,13 +158,13 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="camera_need_connect">Vérifier la connexion</string>
     <string name="camera_no">"Nombre de périphériques: "</string>
     <string name="camera_not_found">"La caméra n'a pas été trouvé, veuillez ré-essayer !"</string>
-    <string name="camera_not_found_wifi">"Caméra non trouvée via Wi-Fi:XXX，veuillez brancher l'alimentation pour redémarrer l'appareil ！"</string>
+    <string name="camera_not_found_wifi">"Caméra non trouvée via Wi-Fi:XXX，veuillez brancher l'alimentation pour redémarrer l'appareil !"</string>
     <string name="camera_other_setting">Paramètres avancés</string>
     <string name="camera_password_exceed_max_retry">"Mot de passe incorrect. Trop d'essais infructueux."</string>
-    <string name="camera_password_experied">Mot de passe expiré, Ré-initialiser la caméra.</string>
-    <string name="camera_password_invaid">Mot de passe incorrect, ré-essayer.</string>
+    <string name="camera_password_experied">Mot de passe expiré, réinitialiser la caméra.</string>
+    <string name="camera_password_invaid">Mot de passe incorrect, réessayer.</string>
     <string name="camera_password_no_support">Merci de mettre à jour votre firmware.</string>
-    <string name="camera_password_trigger_fail">La caméra ne peut pas se connecter, ré-essayer.</string>
+    <string name="camera_password_trigger_fail">La caméra ne peut pas se connecter, réessayer.</string>
     <string name="camera_public">Vidéo publique</string>
     <string name="camera_reboot">Redémarrage de la caméra</string>
     <string name="camera_recording_is_not_open">"Le service Intercom n'est pas activé !"</string>
@@ -180,8 +180,8 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="camera_setting_foundation">Fondation</string>
     <string name="camera_setting_motion_detect">Activer l\'enregistrement de détection de mouvement</string>
     <string name="camera_setting_network_information">Réseau Wi-Fi</string>
-    <string name="camera_setting_reverse">图像翻转</string>
-    <string name="camera_setting_stats_light">开启状态灯</string>
+    <string name="camera_setting_reverse">Retournement de l'image</string>
+    <string name="camera_setting_stats_light">Ouverture des stats de la lampe</string>
     <string name="camera_setting_storage_set">Magasin</string>
     <string name="camera_setting_storage_situation">État de la carte mémoire</string>
     <string name="camera_state_incorrect"><a href="#">Pourquoi la LED ne clignote pas ?</a></string>
@@ -192,14 +192,14 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="camera_version_update_memo">Changelog de la mise à jour</string>
     <string name="camera_view_password_error">Accès mot de passe impossible.</string>
     <string name="camera_wifi_config">La caméra a besoin du wifi pour se connecter</string>
-    <string name="camera_wifi_config_message_cancel_config">Configuration de la caméra échouée, veuillez ré-essayer</string>
-    <string name="camera_wifi_config_message_cant_connect_to_camera">Une erreur est survenue ! vérifiez que la caméra est allumée et ré-essayez !</string>
+    <string name="camera_wifi_config_message_cancel_config">Configuration de la caméra échouée, veuillez réessayer</string>
+    <string name="camera_wifi_config_message_cant_connect_to_camera">Une erreur est survenue ! vérifiez que la caméra est allumée et réessayez !</string>
     <string name="camera_wifi_config_message_connect_to_wifi">Connexion à la camera via le Wi-Fi...</string>
-    <string name="camera_wifi_config_message_failed_config">"Configuration du Wi-Fi échouée ，veuillez vérifier les points suivants après avoir branché l'appareil：
-1. Fonction DHCP activée；
-2. Mot de passe Wi-Fi correct；
-3. Si le voyant bleu est allumé，allez dans Caméras associées et vérifiez vos paramètres；
-4. Si la méthode de cryptage du Wi-Fi est WEP；（le cryptage en WEP n'est pas supporté）"</string>
+    <string name="camera_wifi_config_message_failed_config">"Configuration du Wi-Fi échouée ，veuillez vérifier les points suivants après avoir branché l'appareil:
+1. Fonction DHCP activée;
+2. Mot de passe Wi-Fi correct;
+3. Si le voyant bleu est allumé，allez dans Caméras associées et vérifiez vos paramètres;
+4. Si la méthode de cryptage du Wi-Fi est WEP;（le cryptage en WEP n'est pas supporté）"</string>
     <string name="camera_wifi_config_message_prompt">Veuillez vérifier que la caméra soit sous tension et que la led LED orange soit allumée</string>
     <string name="camera_wifi_config_message_read_wifi_list">Actualisation de la liste des Wi-Fi...</string>
     <string name="camera_wifi_config_message_read_wifi_list_finished">Lecture de données réussie, configurer la caméra en utilisant le Wi-Fi</string>
@@ -217,7 +217,7 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="cancel_public_to_all">Annuler le partage public</string>
     <string name="cancel_share_to_friend">Annuler le partage</string>
     <string name="cant_set_share_device">Impossible de partager la caméra!</string>
-    <string name="cant_set_shared_device_to_public">"La caméra a été partagée avec vos amis, veuillez l'annuler avant de la praramétrer publiquement"</string>
+    <string name="cant_set_shared_device_to_public">"La caméra a été partagée avec vos amis, veuillez l'annuler avant de la paramétrer publiquement"</string>
     <string name="cant_share_public_device_other">"La caméra a été ajouté au public, vous n'avez pas besoin d'ajouter d'amis!"</string>
     <string name="capture_picture">"Capture d'écran"</string>
     <string name="checking_camera_zero">Recherche de la caméra, patientez (for XXX s)</string>
@@ -234,7 +234,7 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="checknet_error_internet_connect_error">Désolé, erreur de connexion au serveur !</string>
     <string name="checknet_error_internet_response_result_connect_iotc_er_unlicense">Erreur de Licence</string>
     <string name="checknet_error_internet_response_result_mode_p2p">Mode P2P</string>
-    <string name="checknet_error_internet_response_result_mode_relay">Croisement du Mode Ralenti</string>
+    <string name="checknet_error_internet_response_result_mode_relay">Mode Ralenti</string>
     <string name="checknet_error_internet_response_result_mode_unknown">Mode inconnu</string>
     <string name="checknet_error_internet_response_result_mode_wait">En attente de détection......</string>
     <string name="checknet_error_internet_response_result_ok">Réussi</string>
@@ -273,7 +273,7 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="connecting">Connexion en cours</string>
     <string name="content_description">description</string>
     <string name="continue_search">Continuer la recherche</string>
-    <string name="create_upload_success">Envoie des informations réussis !</string>
+    <string name="create_upload_success">Envoie des informations réussi !</string>
     <string name="current_is_the_newest_version">Vous avez déjà la dernière version</string>
     <string name="current_version_no">Version actuelle</string>
     <string name="custom_alarm">Alarmes personnalisées</string>
@@ -283,12 +283,12 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="db_databasecontext_sd_card_manager">Gestion de la carte SD ：</string>
     <string name="db_databasecontext_sd_card_not_exists">Carte SD non présente, veuillez insérer la carte SD</string>
     <string name="db_sdcarddbhelper_out_line_faild">Échec de la création de la base de données</string>
-    <string name="db_sdcarddbhelper_out_line_success">Création de la base réussie</string>
+    <string name="db_sdcarddbhelper_out_line_success">Création de la base de données réussie</string>
     <string name="db_sdcarddbhelper_start_create_dbtable">Création de la base de données</string>
     <string name="develop_open">Développeur:</string>
     <string name="device">Appareil:</string>
-    <string name="device_added_by_other">"La caméra a été associé avec l'utilisateur \"XXX\""</string>
-    <string name="device_added_by_other2">La caméra a été associé avec un autre utilisateur</string>
+    <string name="device_added_by_other">"La caméra a été associée avec l'utilisateur \"XXX\""</string>
+    <string name="device_added_by_other2">La caméra a été associée avec un autre utilisateur</string>
     <string name="device_address">Adresse de la caméra</string>
     <string name="device_alarm">Alarme anti-intrusion</string>
     <string name="device_alarm_setting">Paramètres alarme</string>
@@ -300,7 +300,7 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="device_no">"Numéro de série "</string>
     <string name="device_not_found">"Le numéro de la caméra n'existe pas"</string>
     <string name="dialog_LiveView">Vue en direct</string>
-    <string name="do_you_want_to_add_camera">Voulez-vous ajouter une nouvelle XiaoYi  Caméra ?</string>
+    <string name="do_you_want_to_add_camera">Voulez-vous ajouter une nouvelle XiaoYi Caméra ?</string>
     <string name="double_click_exit">"Cliquez à nouveau pour quitter l'application"</string>
     <string name="download">Télécharger</string>
     <string name="downloading">Téléchargement...</string>
@@ -319,8 +319,8 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="fail_to_open_camera">"Impossible d'allumer la caméra."</string>
     <string name="fail_to_register">"L'inscription a échoué !"</string>
     <string name="failed_connect_camera">Une erreur est survenue</string>
-    <string name="failed_to_add_device">"Échec dans l'ajout de la XiaoYi  Caméra !"</string>
-    <string name="failed_to_add_public_device">"Impossible d'ajouter un appareil public !"</string>
+    <string name="failed_to_add_device">"Échec dans l'ajout de la XiaoYi Caméra !"</string>
+    <string name="failed_to_add_public_device">"Impossible d'ajouter un appareil commun !"</string>
     <string name="failed_to_connect_camera">Une erreur est survenue</string>
     <string name="failed_to_connecting">"Échec de connexion avec la XiaoYi  Caméra
 Veuillez vérifier la connexion réseau et réessayer"</string>
@@ -328,11 +328,11 @@ Veuillez vérifier la connexion réseau et réessayer"</string>
     <string name="failed_to_init_data">"l'initialisation des données a échoué, veuillez réessayer !"</string>
     <string name="failed_to_load_event">"Impossible de charger l'historique vidéo"</string>
     <string name="failed_to_login">Connexion impossible</string>
-    <string name="failed_to_remove_device">Suppression de la caméra échoué !</string>
-    <string name="failed_to_remove_public_device">Impossible de supprimer la caméra publique !</string>
+    <string name="failed_to_remove_device">Suppression de la caméra échouée !</string>
+    <string name="failed_to_remove_public_device">Impossible de supprimer la caméra commune !</string>
     <string name="failed_to_remove_share_device">Impossible de supprimer la caméra partagée !</string>
     <string name="failed_to_share_device">Échec dans le partage de la caméra !</string>
-    <string name="failed_to_update_device">Échec dans la mise à jour de la caméra !</string>
+    <string name="failed_to_update_device">Échec de la mise à jour de la caméra !</string>
     <string name="failed_to_upload">Erreur de connexion, téléchargement échoué! veuillez télécharger à nouveau</string>
     <string name="failed_to_view_image">"Échec dans le visionnage de l'image !"</string>
     <string name="feedback">Commentaires</string>
@@ -344,7 +344,7 @@ Veuillez vérifier la connexion réseau et réessayer"</string>
     <string name="feedback_upload_success">Envoi réussi</string>
     <string name="file_uploading">Téléchargement du fichier...</string>
     <string name="finish">Terminé</string>
-    <string name="firmware_upgrade">Mise à jour de la XiaoYi  Caméra</string>
+    <string name="firmware_upgrade">Mise à jour de la XiaoYi Caméra</string>
     <string name="firmware_version">Version du firmware</string>
     <string name="firmware_version_number">Version du firmware :</string>
     <string name="first_config_message">Assurez-vous que la caméra est allumée !</string>
@@ -390,7 +390,7 @@ Veuillez vérifier la connexion réseau et réessayer"</string>
     <string name="lowquality">Qualité SD</string>
     <string name="manual_add">Ajouter manuellement</string>
     <string name="manual_input_camera_id">"Veuillez entrer manuellement l'identification de la caméra"</string>
-    <string name="meida_manager_center">Gestion Richmedia</string>
+    <string name="meida_manager_center">Gestionnaire media</string>
     <string name="menu_buy">Acheter</string>
     <string name="menu_camera_manage">Paramètres</string>
     <string name="menu_cloud_video">Vidéos du Cloud</string>
@@ -401,7 +401,7 @@ Veuillez vérifier la connexion réseau et réessayer"</string>
     <string name="menu_my_camera">Caméra XiaoYi</string>
     <string name="menu_new_camera">Ajouter une caméra</string>
     <string name="menu_photo">Mes Photos</string>
-    <string name="menu_public_camera">Public</string>
+    <string name="menu_public_camera">Commune</string>
     <string name="menu_setting">Réglages</string>
     <string name="menu_title">Menu Titre</string>
     <string name="menu_video">Mes vidéos</string>
@@ -413,8 +413,8 @@ Certains appareils n'ont pas pu être transféré. Réinitialiser ses appareils 
     <string name="migrate_progress_title">Transfert de compte</string>
     <string name="migrate_success">Transfert réussi</string>
     <string name="migrate_tip1">1、Une fois votre compte vérifié, le transfert se fera automatiquement.</string>
-    <string name="migrate_tip2">2、Les appareils seront transférés auomatiquement sur votre nouveau compte.</string>
-    <string name="migrate_tip3">3、Connectez vous ensuite avec votre compte Xiaomi, les autres comptes ne sont plus supportés.</string>
+    <string name="migrate_tip2">2、Les appareils seront transférés automatiquement sur votre nouveau compte.</string>
+    <string name="migrate_tip3">3、Connectez-vous ensuite avec votre compte Xiaomi, les autres comptes ne sont plus supportés.</string>
     <string name="migrate_title">Transfert</string>
     <string name="migrate_to_login">Se reconnecter</string>
     <string name="migrate_to_retry">Réessayer</string>
@@ -426,11 +426,11 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="more_try_failed">Que dois-je faire après plusieurs tentatives infructueuses ?</string>
     <string name="msg_bulk_mode_scanned">Numérisation en cours: Code barre trouvé, sauvegardé.</string>
     <string name="msg_camera_framework_bug">Malheureusement la caméra a cessé de fonctionner, veuillez redémarrer la caméra !</string>
-    <string name="msg_default_status">Placez le QR code derrière la caméra dans votre cadre de visualisation afin de le scanner</string>
+    <string name="msg_default_status">Placez le code QR face à la caméra dans votre cadre de visualisation afin de le scanner</string>
     <string name="multi_share">Partage de photos</string>
     <string name="my_ap_not_found">"Pas de caméra trouvée. vérifiez si le voyant orange est allumé : 
 1. Si oui, effectuer une nouvelle recherche;
-2. Si non, Eteigner et rallumer la caméra et rallumer et patienter que la led orange s'allume."</string>
+2. Si non, éteigner et rallumer la caméra puis patienter jusqu'à allumage de la led orange."</string>
     <string name="my_camera">XiaoYi Caméra</string>
     <string name="my_camera_description">Informations de la Caméra</string>
     <string name="name_drift_bottle">Nom ：</string>
@@ -441,13 +441,13 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="network_info_extranet">Connexion à distance</string>
     <string name="network_info_intranet">Connexion au réseau local</string>
     <string name="network_info_loading">Obtenir</string>
-    <string name="network_info_no_connect">尚未查看过视频画面，无法获取</string>
+    <string name="network_info_no_connect">"Pas encore consulté l'écran vidéo, impossible de l'obtenir"</string>
     <string name="network_info_router_connect">Connexion du routeur</string>
     <string name="network_info_server_connect">Connexion au serveur</string>
     <string name="network_info_wifi_name">Nom du Wi-Fi</string>
-    <string name="network_info_wifi_strength">Force Wi-Fi</string>
+    <string name="network_info_wifi_strength">Force du signal Wi-Fi</string>
     <string name="network_invaid_msg">Impossible de se connecter au serveur, vérifier votre réseau</string>
-    <string name="network_invaid_title">"Réseau n'est pas utilisable"</string>
+    <string name="network_invaid_title">Réseau non utilisable</string>
     <string name="new_alarm_setting">"Nouvelle heure de l'alarme"</string>
     <string name="new_user_fail_to_login">"Les comptes Non-xiaomi ne sont plus supportés. 
  Retour à la page connection ."</string>
@@ -456,20 +456,20 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="nickname_cant_be_null">Le pseudo ne peut être vide</string>
     <string name="no_access_permission_other_add">"Vous n'avez pas accès à la caméra, voulez-vous vérifier si quelqu'un d'autre ne l'a pas déjà ajouté ?"</string>
     <string name="no_camera_found">"Vous n'avez pas de caméra !"</string>
-    <string name="no_device_found">Pas de XiaoYi  Caméra détectée !</string>
+    <string name="no_device_found">Pas de XiaoYi Caméra détectée !</string>
     <string name="no_event_found">"Pas d'historique vidéo trouvée !"</string>
-    <string name="no_photo">Aucunes photos</string>
+    <string name="no_photo">Aucune photos</string>
     <string name="no_share_user">"La caméra n'est pas partagée avec quelqu'un d'autre"</string>
-    <string name="no_show_again">Ne plsu demander</string>
-    <string name="no_video">Aucunes vidéos...</string>
-    <string name="no_wifi_onlywifi_update">Pas de connexion Wi-Fi， Mise à jour uniquement via Wi-Fi</string>
+    <string name="no_show_again">Ne plus demander</string>
+    <string name="no_video">Aucune vidéos...</string>
+    <string name="no_wifi_onlywifi_update">Pas de connexion Wi-Fi, mise à jour uniquement via Wi-Fi</string>
     <string name="none">Aucun</string>
     <string name="none_meida_info">Aucun message</string>
     <string name="none_update">Pas de mise à jour</string>
     <string name="none_video">Aucune vidéo</string>
     <string name="not_add_new_dervice">"Impossible d'ajouter la caméra. Reconnectez-vous avec votre compte Xiaomi."</string>
     <string name="not_found_device">Aucun appareil trouvé</string>
-    <string name="not_in_wifi">"Pas d'accès Wifi..."</string>
+    <string name="not_in_wifi">"Pas d'accès Wi-Fi..."</string>
     <string name="number">N°： yunyi.EFFFFFDDDD</string>
     <string name="ok">Ok</string>
     <string name="one_day">1 jour</string>
@@ -490,24 +490,24 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="password_must_true">(Doit être composé 6-24 caractères)</string>
     <string name="phone_network_unreachable">Impossible de se connecter au réseau.</string>
     <string name="pick_up">Détecter</string>
-    <string name="pincode_check_old">验证密码保护，请输入四位密码</string>
-    <string name="pincode_check_title">验证密码</string>
-    <string name="pincode_clear_old">关闭密码保护，请输入旧密码</string>
-    <string name="pincode_clear_title">关闭密码</string>
-    <string name="pincode_error">"密码输入错误，请重新输入
-如果已忘记密码，请重置摄像机后，再重新连接设备"</string>
-    <string name="pincode_not_sure">两次输入的密码不一致，请重新输入密码！</string>
-    <string name="pincode_protect">密码保护</string>
-    <string name="pincode_protect_above">设备安全</string>
-    <string name="pincode_protect_hint">请输入密码开启摄像机</string>
-    <string name="pincode_set">设置密码保护</string>
-    <string name="pincode_set_new">请输入密码，开启摄像机</string>
-    <string name="pincode_set_new_again">请再次输入密码</string>
-    <string name="pincode_set_title">设置密码</string>
-    <string name="pincode_update_new">输入新密码</string>
-    <string name="pincode_update_new_again">再次输入密码</string>
-    <string name="pincode_update_old">输入旧密码</string>
-    <string name="pincode_update_title">修改密码</string>
+    <string name="pincode_check_old">Confirmation de la protection par mot de passe, entrez le mot de passe à quatre chiffres</string>
+    <string name="pincode_check_title">Confirmation du mot de passe</string>
+    <string name="pincode_clear_old">"Pour arrêter la protection par mot de passe, entrez l'ancien mot de passe"</string>
+    <string name="pincode_clear_title">Arrêter la protection par mot de passe</string>
+    <string name="pincode_error">"Erreur de mot de passe, merci d'entrer à nouveau
+Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconnectez le périphérique."</string>
+    <string name="pincode_not_sure">Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !</string>
+    <string name="pincode_protect">Protection par mot de passe</string>
+    <string name="pincode_protect_above">Equipement de sécurité</string>
+    <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
+    <string name="pincode_set">Protection par mot de passe</string>
+    <string name="pincode_set_new">Merci d'entrer un mot de passe, allumer la caméra</string>
+    <string name="pincode_set_new_again">Merci d'entrer de nouveau votre mot de passe</string>
+    <string name="pincode_set_title">Définir le mot de passe</string>
+    <string name="pincode_update_new">Entrez un nouveau mot de passe</string>
+    <string name="pincode_update_new_again">Entrez à nouveau le mot de passe</string>
+    <string name="pincode_update_old">"Entrez l'ancien mot de passe"</string>
+    <string name="pincode_update_title">Changer le mot de passe</string>
     <string name="play_time">00:00</string>
     <string name="please_choose">Veuillez choisir</string>
     <string name="please_confirm_password_is_right">Astuce: Assurez-vous que vous entrez le mot de passe correct</string>
@@ -532,15 +532,15 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="pull_to_refresh_refreshing_label">Téléchargement en cours…</string>
     <string name="pull_to_refresh_release_label">Arrêter le téléchargement</string>
     <string name="qq_login">Compte QQ</string>
-    <string name="quality_guide_text">"点击这里
-切换高清画质试试吧！"</string>
+    <string name="quality_guide_text">Cliquez ici pour essayer
+la qualité HD !</string>
     <string name="ready_receiver">Prêt à recevoir</string>
     <string name="reboot_message_send_fail">Impossible de redémarrer la caméra !</string>
     <string name="reboot_message_send_success">"La caméra doit redémarrer pour appliquer la mise à jour. Veuillez ouvrir l'interface et attendre pour la reconnexion"</string>
     <string name="rec">REC</string>
     <string name="recommend_to_user_message">Cloud Ants EYE KM est une propriété de Shanghai Science and Technology Co., Ltd. qui a lancé un outil de sécurisation de la maison, gestion haute définition du réseau de caméra du domicile.</string>
     <string name="recommend_to_user_title">Cloud Ants EYE KM</string>
-    <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer le fichier ！"</string>
+    <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer le fichier !"</string>
     <string name="record_video">Enregistrements</string>
     <string name="refresh">Actualiser</string>
     <string name="refreshing">Actualisation…</string>
@@ -550,7 +550,7 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="repassword">Confirmer le mot de passe</string>
     <string name="replay_failed">Échec de diffusion</string>
     <string name="research">Rechercher de nouveau</string>
-    <string name="reset_camera">"Réinitialiser la caméra en appuyant dans le petit trou
+    <string name="reset_camera">"Réinitialiser la caméra en appuyant dans le trou de reset
 jusqu'à que la LED jaune s'allume"</string>
     <string name="reset_wait_relax">"Redémarrez la caméra et attendez jusqu'à ce que la led jaune clignote"</string>
     <string name="resolution_auto">Auto</string>
@@ -562,8 +562,8 @@ jusqu'à que la LED jaune s'allume"</string>
     <string name="run_score">Courir</string>
     <string name="save">Enregistrer</string>
     <string name="scan_the_qr_code">Scanner le QR-Code avec la caméra</string>
-    <string name="sd_tip_text">"格式化之后，会有一部分存储卡空间用于存储系统文件，因此显示的剩余容量可能小于您的存储卡实际大小。
-如您希望使用存储卡的完整容量，建议您通过使用读卡器在电脑上进行格式化。"</string>
+    <string name="sd_tip_text">"Une fois formatée, la carte mémoire sera aussi utilisée par les fichiers système, donc l'affichage de la capacité restante peut être inférieure à la taille réelle de votre carte mémoire.
+Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous recommandons de formater en utilisant un lecteur de carte sur votre ordinateur. "</string>
     <string name="sdcard_free_size">Espace disponible</string>
     <string name="sdcard_not_mounted">Aucune carte SD!</string>
     <string name="sdcard_state">Carte SD</string>
@@ -600,7 +600,7 @@ jusqu'à que la LED jaune s'allume"</string>
     <string name="share_faild">Partage impossible</string>
     <string name="share_failed">"L'opération a échoué"</string>
     <string name="share_file_cant_be_empty">Sélectionner un fichier vidéo !</string>
-    <string name="share_image_one_key_text">"J'ai partagé une photo avec ma XiaoYi  Caméra."</string>
+    <string name="share_image_one_key_text">"J'ai partagé une photo avec ma XiaoYi Caméra."</string>
     <string name="share_image_one_key_title">Partage de photos</string>
     <string name="share_success">Partage réussi!</string>
     <string name="share_title">Partage en cours</string>
@@ -608,7 +608,7 @@ jusqu'à que la LED jaune s'allume"</string>
     <string name="share_to">Partager avec</string>
     <string name="share_to_friend">Partager avec des amis</string>
     <string name="share_user_manage">Gestion des utilisateurs à partager</string>
-    <string name="share_video_one_key_text">"J'ai partagé une vidéo avec ma XiaoYi  Caméra."</string>
+    <string name="share_video_one_key_text">"J'ai partagé une vidéo avec ma XiaoYi Caméra."</string>
     <string name="share_video_one_key_title">Partage de vidéos</string>
     <string name="sharing">Le partage continue en arrière plan…</string>
     <string name="show_password">Afficher le mot de passe</string>
@@ -626,8 +626,8 @@ jusqu'à que la LED jaune s'allume"</string>
     <string name="state_disconnected">Hors ligne</string>
     <string name="stop_bind_device_tip">Un compte Xiaomi est obligatoire</string>
     <string name="stream_type">Type de flux</string>
-    <string name="success_to_add_device">La XiaoYi  Caméra a été ajouté avec succès !</string>
-    <string name="success_to_add_public_device">Caméra publique ajoutée avec succès !</string>
+    <string name="success_to_add_device">La XiaoYi Caméra a été ajouté avec succès !</string>
+    <string name="success_to_add_public_device">Caméra commune ajoutée avec succès !</string>
     <string name="success_to_delete_device">Suppression de la caméra réussi</string>
     <string name="success_to_login">Identification réussie !</string>
     <string name="success_to_register">"L'inscription est un succès !"</string>
@@ -647,7 +647,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="sure_to_reboot_upgrade">Téléchargement terminé, la caméra redémarrera plus tard</string>
     <string name="sure_to_reboot_upgrade_tf">Téléchargement terminé, confirmer la mise à jour et le redémarrage</string>
     <string name="sure_to_share_to_all">"En mode public, tout le monde peut visualiser le contenu de votre caméra ! 
-    Les cas d'utilisation suivants sont interdits avec la XiaoYi  Caméra :
+    Les cas d'utilisation suivants sont interdits avec la XiaoYi Caméra :
     (1) Nuire à l'unité nationale, la souveraineté et l'intégrité territoriale; 
     (2) Mettre en danger la sécurité, l'honneur et les intérêts du pays; 
     (3) Inciter au séparatisme ethnique et saboter l'unité nationale; 
@@ -659,13 +659,13 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     (9) Enregistrer la TV, des films depuis les médias étrangers; 
     (10) Autres contenus qui sont interdits par la loi et les forces de régulation. 
     Assurez-vous que vous partagez du contenu vidéo sans fuites de la vie privée, et être sûr que partager votre contenu ne viole pas les lois et règlements, ou bien toutes les responsabilités devront être assumées par l'utilisateur"</string>
-    <string name="sure_to_unbind">Êtes-vous sûr de vouloir délier ?</string>
+    <string name="sure_to_unbind">Êtes-vous sûr de vouloir désappairer ?</string>
     <string name="switch_text_off">Fermer</string>
     <string name="switch_text_on">Ouvrir</string>
-    <string name="sync_log">Tranférer les fichiers log</string>
-    <string name="system_sever_error">Erreur de connection, veuillez ré-essayer</string>
+    <string name="sync_log">Tranférer les fichiers journaux</string>
+    <string name="system_sever_error">Erreur de connection, veuillez réessayer</string>
     <string name="text_alarm">Alerte</string>
-    <string name="text_binded">Liée</string>
+    <string name="text_binded">Appairée</string>
     <string name="text_cancel">Annuler</string>
     <string name="text_check">Vérifier</string>
     <string name="text_cut">Coupé</string>
@@ -679,7 +679,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="text_register">"S'enregistrer"</string>
     <string name="text_share">Partager</string>
     <string name="text_try">Réessayer</string>
-    <string name="text_unbinding">Non lié</string>
+    <string name="text_unbinding">Non appairé</string>
     <string name="text_unlogin">Non connecté</string>
     <string name="text_upload_finished">Téléchargement terminé</string>
     <string name="text_uploading">Téléchargement :</string>
@@ -689,8 +689,8 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
 \"wait for connection\""</string>
     <string name="timeout">Délai dépassé</string>
     <string name="tips_add_camera_duplicated">La caméra existe déjà, veuillez saisir un autre [numéro].</string>
-    <string name="tips_add_camera_ok">XiaoYi  Caméra ajoutée avec succès.</string>
-    <string name="tips_camera_name">Entrer le nom de la XiaoYi  Caméra</string>
+    <string name="tips_add_camera_ok">XiaoYi Caméra ajoutée avec succès.</string>
+    <string name="tips_camera_name">Entrer le nom de la XiaoYi Caméra</string>
     <string name="tips_dev_location">Description (en option)</string>
     <string name="tips_dev_security_code">Entrer votre mot de passe</string>
     <string name="tips_dev_uid">Entrer le numéro de série de la caméra</string>
@@ -711,7 +711,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="tips_wifi_disconnect">Déconnexion</string>
     <string name="tips_wifi_name">Nom du Wi-Fi</string>
     <string name="tips_wifi_password">Entrer votre mot de passe</string>
-    <string name="tips_wifi_password_incorrect">La caméra ne peut pas utiliser le mote de passe wifi actuel, changer le mot de passe.</string>
+    <string name="tips_wifi_password_incorrect">La caméra ne peut pas utiliser le mot de passe Wi-Fi actuel, changer le mot de passe.</string>
     <string name="title">Titre</string>
     <string name="title_add_device">Ajouter caméra</string>
     <string name="title_camera_config">Configuration de la caméra</string>
@@ -721,7 +721,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="title_camera_config_start_add">Assistant de configuration de la caméra</string>
     <string name="title_camera_config_success">Réussi</string>
     <string name="title_camera_manage">Gestionnaire de la Caméra</string>
-    <string name="title_event">Historique de lecture de la vidéos</string>
+    <string name="title_event">Historique de lecture de la vidéo</string>
     <string name="title_login">Connexion</string>
     <string name="title_modify_device">Modifier caméra</string>
     <string name="title_operation">Opération</string>
@@ -752,12 +752,12 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="umeng_common_download_failed">Téléchargement échoué!</string>
     <string name="umeng_common_download_finish">"Téléchargement terminé, cliquer pour l'installer."</string>
     <string name="umeng_common_download_notification_prefix">Téléchargement:</string>
-    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_icon">icone</string>
     <string name="umeng_common_info_interrupt">Téléchargement interrompu</string>
     <string name="umeng_common_network_break_alert">Vérifier votre connection à internet, téléchargement annulé</string>
-    <string name="umeng_common_patch_finish">"Patch Terminé, cliquer pour l'installer."</string>
+    <string name="umeng_common_patch_finish">"Patchage terminé, cliquer pour l'installer."</string>
     <string name="umeng_common_start_download_notification">Démarrage du téléchargement.</string>
-    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <string name="umeng_common_start_patch_notification">Début du Patchage.</string>
     <string name="unbind_success">Liaison supprimée avec succès !</string>
     <string name="unlogin">"Vous n'êtes pas connecté"</string>
     <string name="unsupport_phone">Téléphone non supporté</string>
@@ -770,7 +770,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="upload_video_youku">Télécharger des vidéos de Youku</string>
     <string name="use_barcode_bind">Connection avec le QR-Code</string>
     <string name="use_barcode_bindkey_error">Impossible de créer le QR-Code, réessayer</string>
-    <string name="use_barcode_bindkey_expire">QR-Code expirer, ressayer</string>
+    <string name="use_barcode_bindkey_expire">QR-Code expiré, réessayer</string>
     <string name="use_barcode_camera_tip">Scanner le QR-Code avec votre caméra</string>
     <string name="use_barcode_click">Le QR-Code apparaitra en appuyant sur suivant</string>
     <string name="use_barcode_connect_success">La caméra est correctement configurée</string>
@@ -778,8 +778,8 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="use_barcode_dialog_msg">La configuration du QR-Code supporte la vision nocturne.</string>
     <string name="use_barcode_heard">Vous avez entendu le guide vocal</string>
     <string name="use_barcode_heard_connecting">Avez-vous entendu \"Connecting, Please wait\"?</string>
-    <string name="use_barcode_heard_nothing">"Vous n'avez pas entendu le guide vocal ？"</string>
-    <string name="use_barcode_heard_taiwan">Entendez la tonalité</string>
+    <string name="use_barcode_heard_nothing">"Vous n'avez pas entendu le guide vocal ?"</string>
+    <string name="use_barcode_heard_taiwan">Ecouter la tonalité</string>
     <string name="use_barcode_read_success">Scan du QR-Code réussi</string>
     <string name="use_barcode_retry">Recommencer</string>
     <string name="use_barcode_startuse">Commencer</string>
@@ -821,21 +821,21 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="wifi_name">Wi-Fi SSID</string>
     <string name="wifi_password">Mot de passe Wi-Fi</string>
     <string name="wifi_reconfig">Reconfigurer la caméra</string>
-    <string name="wifi_wrong">Mot de passe erroné ？</string>
+    <string name="wifi_wrong">Mot de passe erroné ?</string>
     <string name="winexperience_activity_title">Détection</string>
     <string name="winexperience_cannot_check_in_connecting">Tentative de connexion, réessayer plus tard</string>
     <string name="winexperience_connecting_btntxt">Connexion...</string>
     <string name="winexperience_devicenetcheck_gotofaq">@string/btn_gotofaq</string>
-    <string name="winexperience_devicenetcheck_info_p2p">Est entré dans le mode P2P</string>
-    <string name="winexperience_devicenetcheck_info_relay">Est entré dans le Mode Ralenti</string>
+    <string name="winexperience_devicenetcheck_info_p2p">Entré dans le mode P2P</string>
+    <string name="winexperience_devicenetcheck_info_relay">Entré dans le Mode Ralenti</string>
     <string name="winexperience_devicenetcheck_info_unknown">"Oh c'est déraisonnable. Trouvez un moyen de le résoudre rapidement."</string>
     <string name="winexperience_devicenetcheck_title">Mode de connexion réseau</string>
-    <string name="winexperience_ensure_format_tfcard_info">Êtes-vous sûrde vouloir formater la carte SD ? (La caméra redémarrera !)</string>
+    <string name="winexperience_ensure_format_tfcard_info">Êtes-vous sûr de vouloir formater la carte SD ? (La caméra redémarrera !)</string>
     <string name="winexperience_format_tfcard_when_update_info">Mise à jour en cours, réessayez plus tard !</string>
     <string name="winexperience_info_ignore">Tests ignorés.</string>
-    <string name="winexperience_info_old_version">Ancienne version du pilote non supportéee par ce test, veuillez mettre à jour les pilote.</string>
+    <string name="winexperience_info_old_version">Ancienne version du pilote non supportée par ce test, veuillez mettre à jour les pilotes.</string>
     <string name="winexperience_info_timeout">"Le réseau n'est pas très bon, le tester à nouveau ?"</string>
-    <string name="winexperience_info_wait">Détection, veuillez ...... plus tard</string>
+    <string name="winexperience_info_wait">Détection, veuillez patienter...</string>
     <string name="winexperience_internetcheck_gotofaq">btn_gotofaq</string>
     <string name="winexperience_internetcheck_info_lossscore_good">winexperience_intranetcheck_info_lossscore_good</string>
     <string name="winexperience_internetcheck_info_lossscore_limit">winexperience_intranetcheck_info_lossscore_limit</string>
@@ -860,7 +860,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="winexperience_shouldupdate_info_needupdate">Mise à jour disponible!</string>
     <string name="winexperience_shouldupdate_info_ok">Dernière version !</string>
     <string name="winexperience_shouldupdate_info_tf_formating">Vous ne pouvez pas mettre à jour lors du formatage. Redétecter ?</string>
-    <string name="winexperience_shouldupdate_info_timeout">winexperience information de temps dépassé</string>
+    <string name="winexperience_shouldupdate_info_timeout">Information de temps dépassé</string>
     <string name="winexperience_shouldupdate_info_update">Mise à jour en cours, veuillez patienter...</string>
     <string name="winexperience_shouldupdate_title">Mise à jour</string>
     <string name="winexperience_tfcardstate_format_immediately">formater</string>
@@ -878,11 +878,11 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="winexperience_tfcardstate_info_total_4g">"Seules les carte SD de capacité d'au moins 4Go sont acceptées, osez en prendre une plus grande."</string>
     <string name="winexperience_tfcardstate_info_total_8g">Une carte SD de 8Go serait-elle suffisante ?</string>
     <string name="winexperience_tfcardstate_title">Etat de la carte SD</string>
-    <string name="winexperience_waiting_check">Trying to detect carefully to make the results more accurately...</string>
+    <string name="winexperience_waiting_check">Essayer de détecter soigneusement pour rendre les résultats avec plus de précision...</string>
     <string name="work_day">Jour travaillé</string>
-    <string name="wrong_wifi_ssid_msg">Xiaoyi only support Wifi name with English letters and numbers！</string>
-    <string name="wrong_wifi_ssid_title">Noms de Wi-Fi ne sont pas standardisés</string>
-    <string name="xiaomi_external_storage_unavailable">存储分区不可用，请检查SD卡</string>
+    <string name="wrong_wifi_ssid_msg">Xiaoyi supporte seulement des noms Wi-Fi avec des lettres et des chiffres en anglais !</string>
+    <string name="wrong_wifi_ssid_title">Noms de Wi-Fi pas standardisés</string>
+    <string name="xiaomi_external_storage_unavailable">Le partitionnement du stockage est indisponible, merci de vérifier la carte SD</string>
     <string name="xiaomi_login">Compte Mi</string>
     <string name="xlistview_footer_hint_normal">Voir plus</string>
     <string name="xlistview_footer_hint_ready">Plus de chargement</string>
@@ -891,7 +891,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="xlistview_header_hint_ready">Actualiser la diffusion des données</string>
     <string name="xlistview_header_last_time">Dernière mise à jour:</string>
     <string name="you_dont_have_camera">"Vous n'avez pas de caméra !"</string>
-    <string name="you_dont_have_right_to_add_camera">"Le compte n'a pas d'autorisation pour ajouter cette XiaoYi  Caméra !"</string>
+    <string name="you_dont_have_right_to_add_camera">"Le compte n'a pas d'autorisation pour ajouter cette XiaoYi Caméra !"</string>
     <string name="youku_oauth">Autoriser par Youku</string>
     <string name="yunyi_km_eye">XiaoYi EYE</string>
     <string name="yunyi_time_photo">Heure de la photo</string>
@@ -909,7 +909,7 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="abs__searchview_description_query">Recherche en cours</string>
     <string name="abs__searchview_description_search">Recherche</string>
     <string name="abs__searchview_description_submit">Soumettre une requête</string>
-    <string name="abs__searchview_description_voice">Recherhce vocale</string>
+    <string name="abs__searchview_description_voice">Recherche vocale</string>
     <string name="abs__shareactionprovider_share_with">Partager avec</string>
     <string name="abs__shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="code_token">Obtenir un accès par accesstoken</string>
@@ -920,12 +920,12 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="common_retry">Réessayer</string>
     <string name="connect">Connection</string>
     <string name="delete_device">Supprimer le périphérique</string>
-    <string name="description">Controls mutlimédia</string>
+    <string name="description">Contrôles mutlimédia</string>
     <string name="dialog_close">Fermé</string>
     <string name="douban">Douban</string>
     <string name="dropbox">Dropbox</string>
     <string name="email">Email</string>
-    <string name="evernote">evernote</string>
+    <string name="evernote">Evernote</string>
     <string name="facebook">Facebook</string>
     <string name="flickr">Flickr</string>
     <string name="foursquare">FourSquare</string>
@@ -945,16 +945,16 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="kuailian_fail_auth">Mot de passe incorrect, vérifier vos réglages (WPA/WPA2)</string>
     <string name="kuailian_fail_connect">Impossible de se connecter au routeur; vérifier vos réglages</string>
     <string name="kuailian_fail_dhcp">"Impossible d'obtenir une adresse IP, vérifier les options DHCP de votre routeur"</string>
-    <string name="kuailian_failed">Connection échoué</string>
+    <string name="kuailian_failed">Connection échouée</string>
     <string name="kuailian_failed_phone_router">Communication non établie</string>
     <string name="kuailian_failed_result">Connection échoué,%s</string>
     <string name="kuailian_finish_now">Terminer</string>
-    <string name="kuailian_get_error_help">Cliquez pour voir un tutoriel vidéo</string>
+    <string name="kuailian_get_error_help">Cliquez pour voir le tutoriel vidéo</string>
     <string name="kuailian_main_title_1">Découvrir%s</string>
     <string name="kuailian_main_title_2">Connection réseau</string>
     <string name="kuailian_main_title_3">Connection %s</string>
     <string name="kuailian_main_title_4">Contrôle de sécurité</string>
-    <string name="kuailian_network_error">Probl-me réseau</string>
+    <string name="kuailian_network_error">Problème réseau</string>
     <string name="kuailian_network_slow">"ot.io.mi.com:53 inaccessible，contacter votre fournisseur d'accès"</string>
     <string name="kuailian_network_test">Vérifier votre réseau</string>
     <string name="kuailian_no_passwd">Aucun mot de passe</string>
@@ -964,13 +964,13 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="kuailian_sub_main_device_count">"Continuer à chercher d'autres appareils..."</string>
     <string name="kuailian_sub_main_device_finish">%d appareils trouvés</string>
     <string name="kuailian_sub_main_title_1">Allumer, la led clignotte et cliquer sur Suivant</string>
-    <string name="kuailian_sub_main_title_2">"Sélectionner une connection réseau et autoriser l'accès au réseau"</string>
+    <string name="kuailian_sub_main_title_2">"Sélectionner une connexion réseau et autoriser l'accès au réseau"</string>
     <string name="kuailian_sub_main_title_3_1">Connection en cours...</string>
-    <string name="kuailian_sub_main_title_3_2">Connection est difficile...</string>
+    <string name="kuailian_sub_main_title_3_2">Connection difficile...</string>
     <string name="kuailian_sub_main_title_3_3">Nous faisons tout pour vous connecter...</string>
-    <string name="kuailian_sub_main_title_3_4">Nous essayons plusieurs connections...</string>
+    <string name="kuailian_sub_main_title_3_4">Nous essayons plusieurs connexions...</string>
     <string name="kuailian_sub_main_title_4">Cliquer sur le bouton pendant 30 secondes pour terminer la connection</string>
-    <string name="kuailian_success">Connection réussi</string>
+    <string name="kuailian_success">Connection réussie</string>
     <string name="kuailian_success_phone_router">Communication établie</string>
     <string name="kuailian_uap_state_1">Envoie des informations du routeur</string>
     <string name="kuailian_uap_state_2">Connecté au routeur</string>
@@ -978,14 +978,14 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="kuailian_unconn_reason">Votre appareil ne supporte pas ce type de réseau.</string>
     <string name="kuailian_unsafe_wifi">Réseau non sécurisé</string>
     <string name="kuailian_unsafe_wifi_content">Cet appareil peut ne pas supporter ce type de réseau, continuer ?</string>
-    <string name="kuailian_unsafe_wifi_content_1">当前环境存在重名网络,确认连接吗?</string>
+    <string name="kuailian_unsafe_wifi_content_1">"L'environnement actuel du réseau existe avec le même nom, confirmer les connexions ?"</string>
     <string name="kuailian_wifi_security_type">Par %s protection</string>
     <string name="kualian_conn_title">Vous pouvez vous connecter au réseau</string>
     <string name="kualian_unconn_title">Connection au réseau impossible</string>
     <string name="linkedin">Linked In</string>
     <string name="login">Se connecter</string>
     <string name="login_password_hint">Mot de passe</string>
-    <string name="neteasemicroblog">网易微博</string>
+    <string name="neteasemicroblog">Weibo</string>
     <string name="pinterest">Pinterest</string>
     <string name="pinterest_client_inavailable">"Pinterest n'est pas installé ou la version est trop ancienne."</string>
     <string name="profile">Récupérer votre profil</string>
@@ -1013,14 +1013,14 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="umeng_xp_action_open">Allumer</string>
     <string name="umeng_xp_back">Retour</string>
     <string name="umeng_xp_back_to_top">Retour au début</string>
-    <string name="umeng_xp_dowloadOrNot">Télécharger les applications recommandées？</string>
+    <string name="umeng_xp_dowloadOrNot">Télécharger les applications recommandées ?</string>
     <string name="umeng_xp_dowload_dialog_cinfo">Appeler immédiatement</string>
     <string name="umeng_xp_dowload_dialog_dinfo">Télécharger</string>
     <string name="umeng_xp_failed_loading">Chargement impossible...</string>
     <string name="umeng_xp_info_banner_deprecated">Ce SDK ne supporte pas cette fonction.</string>
     <string name="umeng_xp_more">Recommandé</string>
-    <string name="umeng_xp_network_break_alert">Connectez vous au réseau ！</string>
-    <string name="umeng_xp_no_browser_tips">Installer le navigateur..</string>
+    <string name="umeng_xp_network_break_alert">Connectez vous au réseau !</string>
+    <string name="umeng_xp_no_browser_tips">Installer le navigateur.</string>
     <string name="umeng_xp_size">Taille</string>
     <string name="umeng_xp_tip_download_pre">Commencer le téléchargement</string>
     <string name="umeng_xp_title_info">Mis en avant</string>
@@ -1034,21 +1034,21 @@ Ne pas éteindre ou débrancher la caméra pendant la mise à jour !"</string>
     <string name="weibo_upload_content">Partager des photos</string>
     <string name="wifi_rescan_wifi">Recherche</string>
     <string name="wifi_save_passwd">Se souvenir du mot de passe</string>
-    <string name="wifi_setting_choose">Cliquez sur pour sélectionner la connection réseau</string>
-    <string name="wifi_setting_connect">Connection</string>
-    <string name="wifi_setting_connection_failed">connection impossible</string>
-    <string name="wifi_setting_connectting">connection...</string>
+    <string name="wifi_setting_choose">Cliquer pour sélectionner une connection réseau</string>
+    <string name="wifi_setting_connect">Connexion</string>
+    <string name="wifi_setting_connection_failed">connexion impossible</string>
+    <string name="wifi_setting_connectting">connexion...</string>
     <string name="wifi_setting_icon_text">Sélectionner les appareils à connecter</string>
-    <string name="wifi_setting_wifi_opening">Connection wifi...</string>
+    <string name="wifi_setting_wifi_opening">Connexion wifi...</string>
     <string name="wifi_setting_wifi_scanning">Recherche...</string>
-    <string name="wifi_setting_wifi_title">Appareils connectée en Wifi</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_update_dialog_message">"Nous vous conseillons d'installer la dernier version de %1$s
+    <string name="wifi_setting_wifi_title">Appareils connectés en Wifi</string>
+    <string name="xiaomi_bytes_unit">%1$so</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKo</string>
+    <string name="xiaomi_megabytes_unit">%1$sMo</string>
+    <string name="xiaomi_update_dialog_message">"Nous vous conseillons d'installer la dernière version de %1$s
 Taille: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Nous vous conseillons d'installer la dernier version de %1$s
-Mise ç jour crémentielle: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Nous vous conseillons d'installer la dernière version de %1$s
+Mise à jour OTA: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s nouvelle version</string>
     <string name="yixin">Yixin</string>
     <string name="yixin_client_inavailable">"Yixin n'est pas installé ou la version est trop ancienne."</string>
@@ -1058,5 +1058,5 @@ Mise ç jour crémentielle: %2$s"</string>
     <string name="camer_offline">Hors ligne</string>
     <string name="no_network">Pas de réseau</string>
     <string name="umeng_common_pause_notification_prefix">Pause:</string>
-    <string name="umeng_common_silent_download_finish">"La nouvelle est est prête,clique pour l'installer."</string>
+    <string name="umeng_common_silent_download_finish">"La nouvelle est prête,cliquer pour l'installer."</string>
 </resources>
