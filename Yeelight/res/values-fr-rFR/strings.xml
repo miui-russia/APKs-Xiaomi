@@ -82,21 +82,21 @@ la lampe doit être branchée au secteur"</string>
     <string name="mi_band_bind_sub_text_bind">"Après le coucher, la lampe s'éteint automatiquement"</string>
     <string name="mi_band_bind_sub_text_unbind">"Grâce à l'appairage du Mi-Band, à l'endormissement, la lampe s'éteint automatiquement"</string>
     <string name="mi_band_bind_title_bind">"Succès de l'appairage du Mi-Band"</string>
-    <string name="mi_band_bind_unbind">Déconnecterer</string>
-    <string name="mi_band_bind_unbind_sub">"Après déconnexion du Mi-Band l'extinction automatique des lampes ne peut se faire, veuillez connecter un autre Mi-Band si vous souhaitez réactiver cette fonction"</string>
+    <string name="mi_band_bind_unbind">Déconnecter</string>
+    <string name="mi_band_bind_unbind_sub">"Après déconnexion du Mi-Band l'extinction auto des lampes ne peut se faire, veuillez connecter un autre Mi-Band si vous souhaitez réactiver cette fonction"</string>
     <string name="mi_band_bind_unbind_title">Mi-Band non appairer</string>
     <string name="mi_band_bind_unbindtext">Appairage du bracelet Mi-Band</string>
     <string name="mi_band_nodevice_btn_text">Nouvelle recherche</string>
     <string name="mi_band_nodevice_sub_text">Assurez-vous que le bracelet \ "Mi-Band \" est connecté</string>
     <string name="mi_band_nodevice_title">Aucun bracelet Mi-Band trouvé</string>
     <string name="mi_band_open_broadcast">Confirmer la connexion Bluetooth du bracelet, extinction de la lumière à la fonction du sommeil normal</string>
-    <string name="mi_band_search_sub_text">请把小米手环靠近手机</string>
-    <string name="mi_band_search_title">搜索小米手环</string>
-    <string name="mi_band_single_btn_text_bind">确定</string>
-    <string name="mi_band_single_btn_text_quick">快速绑定</string>
-    <string name="mi_band_single_sub_text">"发现一个小米手环正连接着你的手机，
-点击\"快速绑定\"完成绑定"</string>
-    <string name="mi_band_single_title">发现小米手环</string>
+    <string name="mi_band_search_sub_text">Merci de tenir le Mi-Band près du téléphone</string>
+    <string name="mi_band_search_title">Recherche de Mi-Band</string>
+    <string name="mi_band_single_btn_text_bind">Déterminer</string>
+    <string name="mi_band_single_btn_text_quick">Appairage rapide</string>
+    <string name="mi_band_single_sub_text">"Un Mi-Band connecté à votre téléphone a été trouvé,
+Cliquez sur \ "Appairage rapide \" finir l'appairage"</string>
+    <string name="mi_band_single_title">Mi-Band trouvé</string>
     <string name="my_account">Numéro de compte</string>
     <string name="my_lamp">Renommer la lampe de chevet</string>
     <string name="name_light_title">Paramètre du nom</string>
