@@ -38,7 +38,7 @@
     <string name="share_to">Partager avec</string>
     <string name="share">Partager</string>
     <string name="multi_share">Partage de photos</string>
-    <string name="share_completed">Opération réussi</string>
+    <string name="share_completed">Opération réussie</string>
     <string name="share_canceled">Opération annulée</string>
     <string name="select_one_plat_at_least">Choisissez une cible</string>
     <string name="list_friends">Amis sur %s</string>
@@ -61,7 +61,7 @@
     <string name="kakaotalk_client_inavailable">"Le client KakaoTalk n'existe pas ou la version est trop ancienne"</string>
     <string name="kakaostory_client_inavailable">"Le client KakaoStory n'existe pas ou la version est trop ancienne"</string>
     <string name="whatsapp_client_inavailable">"Le client WhatsApp n'existe pas ou la version est trop ancienne"</string>
-    <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
+    <string name="laiwang_client_inavailable">"Le client Laiwangs n'existe pas ou la version est trop ancienne"</string>
     <string name="miTalk">Mi-Talk</string>
     <string name="sinaweibo">Sina Weibo</string>
     <string name="tencentweibo">Tencent Weibo</string>
@@ -199,7 +199,7 @@
     <string name="list_item_video_tvMonth">00</string>
     <string name="list_item_video_tvYear">0000</string>
     <string name="list_item_video_tvDuration">00:00</string>
-    <string name="tvNoPhoto">Aucune photos trouvés</string>
+    <string name="tvNoPhoto">Aucune photos trouvées</string>
     <string name="list_item_photo_tvDate">1er Janvier</string>
     <string name="iv_list_sub_item_photo_thumbnail_contentdescription">Vignette de la photo</string>
     <string name="iv_list_sub_item_photo_thumbnail_download_flag_contentdescription">iv_list_sub_item_photo_thumbnail_download_flag_contentdescription</string>
@@ -262,7 +262,7 @@
     <string name="setting_video_output_status">AV Output</string>
     <string name="setting_video_rotate">Rotation vidéo</string>
     <string name="setting_emergency_file_backup">"Sauvegarde d'urgence"</string>
-    <string name="setting_unbind_bluetooth_dev">Déliez tous contrôleur bluetooth</string>
+    <string name="setting_unbind_bluetooth_dev">Désappairer tous les appareils Bluetooth</string>
     <string name="setting_buzzer_volume">Volume de la sonnerie</string>
     <string name="setting_wifi">Paramètres Wi-Fi</string>
     <string name="setting_led_mode">Mode LED</string>
@@ -308,7 +308,7 @@
     <string name="timing_capture_start">Démarrage...</string>
     <string name="timing_capture_complete">Terminé !</string>
     <string name="piv_complete">Capture terminée !</string>
-    <string name="stop_record_first">"Veuille arrêter l'enregistrement."</string>
+    <string name="stop_record_first">"Veuillez arrêter l'enregistrement."</string>
     <string name="can_not_piv">"La capture ne peut se faire que pendant l'enregistrement"</string>
     <string name="can_not_piv_in_current_resolution">La résolution actuelle ne répond pas aux exigences</string>
     <string name="in_caputring_not_surppor_change">Capture...</string>
@@ -359,7 +359,7 @@
     <string name="cancle_share_message">Tout partager et reconnecter avec la caméra.</string>
     <string name="generate_MP4">MP4</string>
     <string name="generate_GIF">GIF</string>
-    <string name="unbind_bluetooth_failed">Echec désappairage !</string>
+    <string name="unbind_bluetooth_failed">Echec du désappairage !</string>
     <string name="unbind_bluetooth_succeeded">Désappairage réussi !</string>
     <string name="unbind_bluetooth_unbinded">Aucun enregistrements correspondants !</string>
     <string name="set_wifi_info">Paramètres Wi-Fi</string>
@@ -403,10 +403,10 @@ Insérez une carte SD, puis réessayez."</string>
     <string name="video_filter">Filtre</string>
     <string name="video_musicbg">Musique</string>
     <string name="firware_upgrade_succeeded">Félicitations</string>
-    <string name="firware_upgrade_succeeded_tips">Téléchargement du Firmware est terminée</string>
+    <string name="firware_upgrade_succeeded_tips">Téléchargement du Firmware terminé</string>
     <string name="firware_upgrade_begin">Mettre à jour</string>
-    <string name="firware_upgrade_patient">Camera is updating, please wait..</string>
-    <string name="firmware_upgrade_cautions">The camera is updating with the buzzing sound.By rapid beeps, update is complete and the camera will turn off automatically.</string>
+    <string name="firware_upgrade_patient">Caméra en cours de mise à jour, merci de patienter..</string>
+    <string name="firmware_upgrade_cautions">La caméra se met à jour avec un son de buzzer. Par des bips rapides, la mise à jour signale son accomplissement et l'arrêt auto de la caméra.</string>
     <string name="firmware_upgrade_progress">%d%% uploaded</string>
     <string name="app_upgrade_title">"Trouver une mise à jour de l'application"</string>
     <string name="app_upgrade_button">Téléchargement</string>
@@ -568,9 +568,9 @@ Insérez une carte SD, puis réessayez."</string>
     <string name="pull_to_refresh_pull_label">Tirez pour rafraîchir</string>
     <string name="pull_to_refresh_release_label">"Tirez pour rafraîchir l'étiquette"</string>
     <string name="pull_to_refresh_refreshing_label">"Tirez pour rafraîchir l'étiquette…"</string>
-    <string name="pull_to_refresh_footer_release_label">"Tirez pour rafraîchir le pied de l'étiquette"</string>
-    <string name="pull_to_refresh_footer_pull_label">"Tirez pour rafraîchir le pied de l'étiquette"</string>
-    <string name="pull_to_refresh_footer_refreshing_label">"Tirez pour rafraîchir le pied de l'étiquette…"</string>
+    <string name="pull_to_refresh_footer_release_label">"Tirez pour rafraîchir le bas de l'étiquette"</string>
+    <string name="pull_to_refresh_footer_pull_label">"Tirez pour rafraîchir le bas de l'étiquette"</string>
+    <string name="pull_to_refresh_footer_refreshing_label">"Tirez pour rafraîchir le bas de l'étiquette…"</string>
     <string name="initialize_filelist">Initialisation…</string>
     <string name="in_timer">Prendre une photo dans:</string>
     <string name="battery_lower_than_50_percent">Batterie est inférieure à 50%, veuillez la recharger</string>
@@ -599,7 +599,7 @@ Insérez une carte SD, puis réessayez."</string>
     <string name="network_error">La connexion réseau est indisponible, veuileez essayer à nouveau !</string>
     <string name="please_open_miui_cloud">Veuillez ouvrir le Cloud MIUI !</string>
     <string name="check_new_version">"Vérification d'une nouvelle version..."</string>
-    <string name="network_switch_failed">Erreur de connexion, veuileez essayer à nouveau !</string>
+    <string name="network_switch_failed">Erreur de connexion, veuillez essayer à nouveau !</string>
     <string name="loading">Chargement...</string>
     <string name="login_user_not_equal_to_system">Le nom utilisateur ne correspond pas à celui présent dans MIUI !</string>
     <string name="camera_firmware_v">Pilote V de la caméra</string>
@@ -609,24 +609,24 @@ Insérez une carte SD, puis réessayez."</string>
     <string name="bluetooth_unbinding_timeout">Unbind Bluetooth controller timeout</string>
     <string name="wifi_authenticate_failed">Confirmer le mot de passe Wi-Fi</string>
     <string name="setting_cloud_album">Album Mi-Cloud</string>
-    <string name="check_failed">Vérification échoue, assurez-vous que le réseau est disponible</string>
+    <string name="check_failed">Vérification échouée, assurez-vous que le réseau est disponible</string>
     <string name="latest_firmware_downloaded">La dernière version du firmware a été téléchargé, connectez la camérao après la mise à niveau</string>
-    <string name="camera_upgrade_help_content">"It is detected that last update failed, please read following notes before try again: 
+    <string name="camera_upgrade_help_content">"Puisque la dernière mise à jour a échoué, merci de lire les notes ci-dessous avant de réessayer:
 
- 1. Make sure that your camera is at least 50% charged before you proceed 
- 2. Do not power off camera or camera Wi-Fi throughout the upgrade process 
- 3. Keep the camera close to your phone 
- 4. Be patient until upgrade is complete and the camera is automatically off 
- 
- We also suggest you manually update by PC/Mac 
+  1. Assurez-vous que votre appareil photo est au moins 50% de sa charge avant de poursuivre
+  2. Ne pas éteindre l'appareil photo ou déconnecter le Wi-Fi pendant le processus de mise à niveau
+  3. Gardez l'appareil photo à proximité de votre téléphone
+  4. Soyez patient jusqu'à ce que la mise à niveau soit terminée et que l'appareil photo s'éteingne automatiquement
+ 
+  Nous vous suggérons également de mettre à jour manuellement par PC/Mac
  Guide link: http://www.xiaoyi.com/update/sports"</string>
     <string name="share_to_person">Partager avec un ami</string>
     <string name="share_to_group">Partager avec un groupe</string>
     <string name="share_to_all">Partager avec tout le monde</string>
     <string name="home_camera_dialog_reset_title">"Comment faire pour restaurer les paramètres d'usine ?"</string>
-    <string name="home_camera_dialog_reset_content">"Dans le même temps Appuye long sur la touche Power + Wi-Fi pour supprimer
+    <string name="home_camera_dialog_reset_content">"Dans le même temps Appuie long sur la touche Power + Wi-Fi pour supprimer
 L'appareil redémarre automatiquement après avoir rebranché à nouveau
-Récupération de mot de passe à le camera 1234567890"</string>
+Récupération du mot de passe de la camera 1234567890"</string>
     <string name="home_camera_dialog_help_title">Vous ne trouvez pas la caméra ?</string>
     <string name="home_camera_dialog_help_content">"Ouvrez le capot, retirez la batterie
 Trouvez le code SN, le nom de la caméra par défaut Wi-Fi
@@ -640,7 +640,7 @@ Pour le code YDXJ SN ajouter"</string>
     <string name="download_at_once">Télécharger</string>
     <string name="upgrade_tips_on_ready">Fichier de mise à jour caméra préparé, le processus prend seulement quelques minutes</string>
     <string name="upgrade_at_once">Mettre à jour</string>
-    <string name="upgrade_terminate_tip">Dernière mise à jour a échoué, vous pouvez voir l\'aide avant d\'essayer à nouveau</string>
+    <string name="upgrade_terminate_tip">Echec de la dernière mise à jour, vous pouvez voir l\'aide avant d\'essayer à nouveau</string>
     <string name="upgrade_one_more">Réessayez</string>
     <string name="upgrade_help">Aide</string>
     <string name="understand">OK</string>
@@ -668,7 +668,7 @@ Pour le code YDXJ SN ajouter"</string>
     <string name="firmware_without_network_tips">"Il est recommandé de mettre à jour vers la version la plus récente pour une utilisation normale. 
 S'il vous plaît activer les données mobiles ou utiliser une connexion Wi-Fi pour accéder à la dernière version"</string>
     <string name="firmware_btn_update">Actualiser</string>
-    <string name="firmware_upgrade_failure">Téléchargement de Firmware a échoué !</string>
+    <string name="firmware_upgrade_failure">Echec du téléchargement du Firmware !</string>
     <string name="firmware_only_downloaded">Téléchargement</string>
     <string name="minute">minutes</string>
     <string name="hour">heures</string>
