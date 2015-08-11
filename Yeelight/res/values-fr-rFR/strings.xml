@@ -34,11 +34,11 @@
     <string name="no_device_found_title">Lampe Yeelight non trouvée</string>
     <string name="no_device_found_research">Nouvelle recherche</string>
     <string name="no_device_found_help">"Obtenir de l'aide"</string>
-    <string name="unable_bind">Échec de la liaison</string>
-    <string name="unable_bind_text">"Processus de liaison: veuillez appuyer sur le bouton centrale,
+    <string name="unable_bind">"Échec de l'appairage"</string>
+    <string name="unable_bind_text">"Processus d'appairage: veuillez appuyer sur le bouton central,
 et positionner le téléphone près de la lampe yeelight,
-la lampe doit être branché au secteur"</string>
-    <string name="light_market">Marché lampes</string>
+la lampe doit être branchée au secteur"</string>
+    <string name="light_market">Market des lampes</string>
     <string name="all_light">Toute la lumière</string>
     <string name="app_name">Yeelight</string>
     <string name="configure">Configurer</string>
@@ -77,19 +77,19 @@ la lampe doit être branché au secteur"</string>
     <string name="main_screen_title">Lampe de chevet yeelight</string>
     <string name="mi_band">Mi-Band</string>
     <string name="mi_band_bind_autoclose">Extinction automatique des lampes</string>
-    <string name="mi_band_bind_bindtext">Appairé le Mi-Fit</string>
+    <string name="mi_band_bind_bindtext">Appairer le Mi-Band</string>
     <string name="mi_band_bind_control_set">Paramètres de contrôle</string>
     <string name="mi_band_bind_sub_text_bind">"Après le coucher, la lampe s'éteint automatiquement"</string>
     <string name="mi_band_bind_sub_text_unbind">"Grâce à l'appairage du Mi-Band, à l'endormissement, la lampe s'éteint automatiquement"</string>
     <string name="mi_band_bind_title_bind">"Succès de l'appairage du Mi-Band"</string>
     <string name="mi_band_bind_unbind">Déconnecterer</string>
     <string name="mi_band_bind_unbind_sub">"Après déconnexion du Mi-Band l'extinction automatique des lampes ne peut se faire, veuillez connecter un autre Mi-Band si vous souhaitez réactiver cette fonction"</string>
-    <string name="mi_band_bind_unbind_title">未绑定小米手环</string>
-    <string name="mi_band_bind_unbindtext">解除手环绑定</string>
-    <string name="mi_band_nodevice_btn_text">重新搜索</string>
-    <string name="mi_band_nodevice_sub_text">请确保手环与\"小米运动\"已连接</string>
-    <string name="mi_band_nodevice_title">没有发现小米手环</string>
-    <string name="mi_band_open_broadcast">确认开启手环蓝牙广播，以正常使用睡眠关灯功能</string>
+    <string name="mi_band_bind_unbind_title">Mi-Band non appairer</string>
+    <string name="mi_band_bind_unbindtext">Appairage du bracelet Mi-Band</string>
+    <string name="mi_band_nodevice_btn_text">Nouvelle recherche</string>
+    <string name="mi_band_nodevice_sub_text">Assurez-vous que le bracelet \ "Mi-Band \" est connecté</string>
+    <string name="mi_band_nodevice_title">Aucun bracelet Mi-Band trouvé</string>
+    <string name="mi_band_open_broadcast">Confirmer la connexion Bluetooth du bracelet, extinction de la lumière à la fonction du sommeil normal</string>
     <string name="mi_band_search_sub_text">请把小米手环靠近手机</string>
     <string name="mi_band_search_title">搜索小米手环</string>
     <string name="mi_band_single_btn_text_bind">确定</string>
