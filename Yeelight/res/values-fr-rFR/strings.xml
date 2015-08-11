@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">A propos</string>
-    <string name="action_settings">Installer</string>
     <string name="add_widget">Ajouter widget</string>
     <string name="alarm_disable">未开启</string>
     <string name="alarm_gradual">渐变时间</string>
@@ -53,9 +52,7 @@ la lampe doit être branché au secteur"</string>
     <string name="dialog_cancel">取消</string>
     <string name="dialog_input_hint">名称不多于7个汉字或21个字符</string>
     <string name="dialog_ok">确定</string>
-    <string name="disconnect_bt">断开蓝牙连接</string>
-    <string name="discover_device">搜索yeelight床头灯</string>
-    <string name="feedback">意见反馈</string>
+    <string name="disconnect_bt">断开蓝牙连接</string> 
     <string name="feedback_commit">提交</string>
     <string name="feedback_contact_hint">联系方式</string>
     <string name="feedback_info_hint">我希望(), 因为我经常()</string>
@@ -72,10 +69,7 @@ la lampe doit être branché au secteur"</string>
     <string name="fw_update">固件升级</string>
     <string name="global_cancel">取消</string>
     <string name="global_more">更多</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="light_alarm">定时开关灯</string>
-    <string name="light_market">光市场</string>
-    <string name="login">小米账号登录</string>
+    <string name="light_alarm">定时开关灯</string> 
     <string name="main_screen_color">色彩</string>
     <string name="main_screen_flow">流光</string>
     <string name="main_screen_sunshine">日光</string>
@@ -112,10 +106,7 @@ la lampe doit être branché au secteur"</string>
     <string name="night_light_text_off">Eteindre la veilleuse</string>
     <string name="night_light_text_on">Allumer la veilleuse</string>
     <string name="night_time_from">Á partir de %1$s</string>
-    <string name="night_time_to">à %1$s</string>
-    <string name="no_device_found_help">获取帮助</string>
-    <string name="no_device_found_research">重新搜索</string>
-    <string name="no_device_found_title">没有发现yeelight床头灯</string>
+    <string name="night_time_to">à %1$s</string>  
     <string name="ota_success">Mise à jour réussie</string>
     <string name="picker_day">日</string>
     <string name="picker_hour">时</string>
@@ -125,10 +116,8 @@ la lampe doit être branché au secteur"</string>
     <string name="pinfo">个人信息</string>
     <string name="recovery">"Restaurer les paramètres d'usine"</string>
     <string name="recovery_btn_text">Restauration</string>
-    <string name="recovery_info">"Restaurer les paramètres d'usine, le nom de la lampe, la couleur, la luminosité, la minuterie de la lampe, des informations d'autorisations seront effacées, vous devrez à nouveau reconnecter vos périphériques"</string>
-    <string name="register">注册小米账号</string>
-    <string name="reset">重置</string>
-    <string name="screen_all_light_offline">没有发现灯,请尝试以下操作:</string>
+    <string name="recovery_info">"Restaurer les paramètres d'usine, le nom de la lampe, la couleur, la luminosité, la minuterie de la lampe, des informations d'autorisations seront effacées, vous devrez à nouveau reconnecter vos périphériques"</string>    
+    <string name="reset">重置</string>   
     <string name="service">服务</string>
     <string name="service_time_hour">累计使用%1$d小时</string>
     <string name="service_time_minute">累计使用%1$d分钟</string>
@@ -150,8 +139,6 @@ la lampe doit être branché au secteur"</string>
     <string name="smart_scene">智能情景</string>
     <string name="sw_check">Mise à jour logicielle</string>
     <string name="sync_light">模式键</string>
-    <string name="unable_bind">绑定失败</string>
-    <string name="unable_bind_text">在绑定过程中,请及时按下情景键,并将手机靠近床头灯，保持床头灯是开启状态</string>
     <string name="unbind">解除绑定</string>
     <string name="version">新版本</string>
     <string name="wake_up_setting_off">未开启</string>
@@ -161,5 +148,4 @@ la lampe doit être branché au secteur"</string>
     <string name="wake_up_title">早安唤醒</string>
     <string name="wake_up_turn_off">早安唤醒已经关闭</string>
     <string name="wake_up_turn_on">早安唤醒已经开启</string>
-    <string name="welcome">欢迎使用yeelight床头灯</string>
 </resources>
