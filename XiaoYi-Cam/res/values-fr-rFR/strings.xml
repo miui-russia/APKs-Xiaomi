@@ -77,12 +77,12 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="alert_all_dynamic">Tout dynamique</string>
     <string name="alert_message">Message d\'alerte</string>
     <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage～</string>
-    <string name="alert_no_message">En ce jour paisible, aucun message d'alarme～</string>
-    <string name="alert_no_save_message">"Aucun messages, l'historique les conserve jusqu'à sept jours"</string>
-    <string name="alert_refresh_footer">Concernant les réductions de la journée avant les tendances</string>
-    <string name="alert_refresh_footer_next">Concernant les charges des tendances</string>
-    <string name="alert_refresh_header">En suivant la dernière journée de tendance</string>
-    <string name="alert_refresh_load">Terminer le chargement</string>
+    <string name="alert_no_message">En ce jour paisible, aucun message d\'alarme～</string>
+    <string name="alert_no_save_message">Pas plus d\'informations de l\'historique est conservé jusqu\'à 7 jours</string>
+    <string name="alert_refresh_footer">Sur le commutateur à jour en cours des développements</string>
+    <string name="alert_refresh_footer_next">Sur le lieu de chargement plus dynamique</string>
+    <string name="alert_refresh_header">La liste déroulante affiche après une journée développements</string>
+    <string name="alert_refresh_load">Desserrer la fin du chargement</string>
     <string name="alert_refresh_loading">Chargement</string>
     <string name="alert_show">Liste dynamique</string>
     <string name="alert_video">Alarme de la vidéo</string>
@@ -180,10 +180,14 @@ Alarme dynamique au sein jusqu'à sept jours"</string>
     <string name="camera_setting_foundation">Fondation</string>
     <string name="camera_setting_motion_detect">Activer l\'enregistrement de détection de mouvement</string>
     <string name="camera_setting_network_information">Réseau Wi-Fi</string>
-    <string name="camera_setting_reverse">Retournement de l'image</string>
+    <string name="camera_setting_reverse">Retournement de l\'image</string>
     <string name="camera_setting_stats_light">Ouverture des stats de la lampe</string>
     <string name="camera_setting_storage_set">Magasin</string>
     <string name="camera_setting_storage_situation">État de la carte mémoire</string>
+    <string name="camera_setting_video_alarm_subtitle">加密转发报警短视频，无存储卡也可使用</string>
+    <string name="camera_setting_video_alarm_title">开启视频报警功能</string>
+    <string name="camera_setting_weixin_alarm_subtitle">可在微信中查看报警消息与内容</string>
+    <string name="camera_setting_weixin_alarm_title">微信接收报警消息</string>
     <string name="camera_state_incorrect"><a href="#">Pourquoi la LED ne clignote pas ?</a></string>
     <string name="camera_uid_config">Numéro de la caméra</string>
     <string name="camera_update">Nouveau firmware disponible, cliquer pour le mettre à jour</string>
@@ -496,13 +500,13 @@ la migration vers le compte de Mi doit être effectuée dès que possible"</stri
     <string name="pincode_clear_title">Arrêter la protection par mot de passe</string>
     <string name="pincode_error">"Erreur de mot de passe, merci d'entrer à nouveau
 Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconnectez le périphérique."</string>
-    <string name="pincode_not_sure">Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !</string>
+    <string name="pincode_not_sure">Les deux mots de passe ne correspondent pas, merci d\'entrer de nouveau votre mot de passe !</string>
     <string name="pincode_protect">Protection par mot de passe</string>
     <string name="pincode_protect_above">Equipement de sécurité</string>
     <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
     <string name="pincode_set">Protection par mot de passe</string>
-    <string name="pincode_set_new">Merci d'entrer un mot de passe, allumer la caméra</string>
-    <string name="pincode_set_new_again">Merci d'entrer de nouveau votre mot de passe</string>
+    <string name="pincode_set_new">Merci d\'entrer un mot de passe, allumer la caméra</string>
+    <string name="pincode_set_new_again">Merci d\'entrer de nouveau votre mot de passe</string>
     <string name="pincode_set_title">Définir le mot de passe</string>
     <string name="pincode_update_new">Entrez un nouveau mot de passe</string>
     <string name="pincode_update_new_again">Entrez à nouveau le mot de passe</string>
