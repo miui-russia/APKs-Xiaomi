@@ -3356,7 +3356,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="public_album_alert_title_tip">Publier des photos</string>
     <string name="public_dynamic">Public</string>
     <string name="public_group">Groupe Public</string>
-    <string name="public_group_list_not_in_tips">Vous n'en faites plus parti. Souhaitez-vous le supprimer ?</string>
+    <string name="public_group_list_not_in_tips">Vous n\'en faites plus parti. Souhaitez-vous le supprimer ?</string>
     <string name="publish">Message</string>
     <string name="pull_channel_failed">Échec de chargement de la chaîne, veuillez glisser vers le bas pour rafraîchir</string>
     <string name="pull_down_refresh">Tirez pour rafraîchir</string>
