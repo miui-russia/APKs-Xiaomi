@@ -2,6 +2,7 @@
 <resources>
     <string name="about">A propos</string>
     <string name="action_settings">Paramètres</string>    
+    <string name="add_new_device">Ajouter un nouveau dispositif Yeelight</string>
     <string name="add_widget">Ajouter widget</string>
     <string name="alarm_def_1_min">1 minute</string>
     <string name="alarm_disable">Désactivé</string>
@@ -31,7 +32,7 @@
     <string name="all_light">Toutes les lampes</string>
     <string name="already_last_version">"L'application est à jour."</string>
     <string name="app_name">Yeelight</string>
-    <string name="auth_sub_text">"Appuyez sur le bouton Ambiance pour terminer l'appairage."</string>
+    <string name="auth_sub_text">"Appuyez sur le bouton Scène pour terminer l'appairage."</string>
     <string name="auth_title">Lampe trouvée</string>
     <string name="checking">Vérification…</string>
     <string name="color_flow_add">Ajouter</string>
@@ -58,8 +59,10 @@
     <string name="delay_light_off">Eteint</string>
     <string name="delay_light_time">%1$d minutes</string>
     <string name="delay_light_time_detail">Extinction automatique au bout de %1$d</string>
-    <string name="delay_light_time_text">Timer</string>
+    <string name="delay_light_time_text">Heures</string>
+    <string name="delete_device_item">Supprimer</string>
     <string name="device">Appareil</string>
+    <string name="device_list">Mes Lampes</string>
     <string name="device_unbind">Déconnecter</string>
     <string name="device_xiaomi">Mi-Fit</string>
     <string name="dialog_cancel">Annuler</string>
@@ -90,9 +93,9 @@
     <string name="fw_ota_progress">Mise à jour en cours...</string>
     <string name="fw_release_note">Note de version</string>
     <string name="fw_update">Mise à jour du firmware</string>
-    <string name="fw_upgrade_release_note">"1.Mode nuit amélioré
-2.Bug fixé
-3.Performance améliorée"</string>
+    <string name="fw_upgrade_release_note">"1.Night Mode improved
+2.Bug fixed
+3.Performance improved"</string>
     <string name="global_cancel">Annuler</string>
     <string name="global_more">Plus</string>
     <string name="guide_other_mode">"Essayez d'autres modes
@@ -124,39 +127,39 @@
     <string name="main_screen_switch_off">Power</string>
     <string name="main_screen_switch_on">Power</string>
     <string name="main_screen_title">Lampe Yeelight</string>
-    <string name="mi_band">Mi-Band</string>
-    <string name="mi_band_add_failed">Appairage échoué!</string>
+    <string name="mi_band">Mi-Fit</string>
+    <string name="mi_band_add_failed">Apprage échoué!</string>
     <string name="mi_band_bind_autoclose">Extinction automatique</string>
-    <string name="mi_band_bind_bindtext">Mi-Band connecté</string>
+    <string name="mi_band_bind_bindtext">Mi Band connecté</string>
     <string name="mi_band_bind_connect_failed_retry">Connection échouée! réessayer</string>
     <string name="mi_band_bind_control_set">Réglages</string>
     <string name="mi_band_bind_failed">Connection échouée!</string>
-    <string name="mi_band_bind_shake">Le Mi-Band vibre?</string>
+    <string name="mi_band_bind_shake">Le Mi Band vibre?</string>
     <string name="mi_band_bind_sub_text_bind">Arrêt automatique lors du sommeil</string>
-    <string name="mi_band_bind_sub_text_unbind">Connectez votre Mi-Band pour éteindre la lampe automatique lors du sommeil</string>
-    <string name="mi_band_bind_title_bind">Connection au Mi-Band réussi</string>
+    <string name="mi_band_bind_sub_text_unbind">Connectez votre Mi Band pour éteindre la lampe automatique lors du sommeil</string>
+    <string name="mi_band_bind_title_bind">Connection au Mi Band réussi</string>
     <string name="mi_band_bind_unbind">Déconnecté</string>
     <string name="mi_band_bind_unbind_confirm_btn">Déconnecté</string>
-    <string name="mi_band_bind_unbind_sub">"L'extinction automatique ne fonctionne que si votre Mi-Band est connecté"</string>
-    <string name="mi_band_bind_unbind_title">Mi-Band</string>
-    <string name="mi_band_bind_unbindtext">Déconnecté le Mi-Band</string>
-    <string name="mi_band_check_mi_health_exist">"Vérifiez la version de l'app Mi-Fit"</string>
+    <string name="mi_band_bind_unbind_sub">"L'extinction automatique ne fonctionne que si votre Mi Band est connecté"</string>
+    <string name="mi_band_bind_unbind_title">Mi Band</string>
+    <string name="mi_band_bind_unbindtext">Déconnecté le Mi Band</string>
+    <string name="mi_band_check_mi_health_exist">"Vérifiez la version de l'app Mi Fit"</string>
     <string name="mi_band_common_sub_title">Extinction automatique lors du sommeil</string>
-    <string name="mi_band_common_title">Contrôle du Mi-Band</string>
+    <string name="mi_band_common_title">小米手环控制</string>
     <string name="mi_band_confirm_upgrade">Mise à jour du firmware</string>
     <string name="mi_band_connecting">Connection…</string>
     <string name="mi_band_low_version_notice">Mettez à jour le firmware du Mi Band pour utiliser ces fonctions</string>
     <string name="mi_band_nodevice_btn_text">Rechercher</string>
-    <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit proximité du Mi-Band</string>
-    <string name="mi_band_nodevice_title">Pas de Mi-Band trouvé</string>
-    <string name="mi_band_open_broadcast">"Confirmer l'appairage du Mi-Band"</string>
+    <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
+    <string name="mi_band_nodevice_title">Pas de Mi Band trouvé</string>
+    <string name="mi_band_open_broadcast">"Confirmer l'appairage du Mi Band"</string>
     <string name="mi_band_reopen_broadcast">"Nécessite Mi Band BLE Broadcast. Appuyez sur \"Ok\" pour l'activer"</string>
-    <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit proximité du Mi-Band</string>
-    <string name="mi_band_search_title">Recherche du Mi-Band</string>
+    <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
+    <string name="mi_band_search_title">Recherche du Mi Band</string>
     <string name="mi_band_single_btn_text_bind">Ok</string>
     <string name="mi_band_single_btn_text_quick">Appairage rapide</string>
-    <string name="mi_band_single_sub_text">Votre Mi-Band éteindra votre Yeelight pendant votre sommeil</string>
-    <string name="mi_band_single_title">Mi-Band trouvé</string>
+    <string name="mi_band_single_sub_text">Votre Mi Band éteindra votre Yeelight pendant votre sommeil</string>
+    <string name="mi_band_single_title">Mi Band trouvé</string>
     <string name="my_account">Mon compte</string>
     <string name="my_lamp">Renommer la lampe</string>
     <string name="name_light_title">Nom de votre Yeelight</string>
@@ -177,11 +180,14 @@
     <string name="picker_month">Mois</string>
     <string name="picker_year">Année</string>
     <string name="pinfo">Vos informations</string>
+    <string name="pull_to_scan">Tirer pour scanner</string>
     <string name="recovery">"Restaurer les réglages d'usine"</string>
     <string name="recovery_btn_text">Réinitialiser</string>
     <string name="recovery_info">La réinitialisation efface tous vos réglages (nom, couleur...).</string>
     <string name="register">Créer un compte Mi</string>
+    <string name="release_to_scan">Relâchez pour scanner</string>
     <string name="reset">Reset</string>
+    <string name="scanning">Scan...</string>
     <string name="screen_all_light_offline">Pas de lampe trouvée, essayez ceci :</string>
     <string name="service">Service</string>
     <string name="service_time_hour">Utilisation cumulée %1$d heures</string>
@@ -204,6 +210,10 @@
     <string name="smart_scene">Point de vue connecté</string>
     <string name="sw_check">Mise à jour logicielle</string>
     <string name="sync_light">Synchronisation</string>
+    <string name="toast_device_disconnected">\"%1$s\" a été débranché</string>
+    <string name="toast_device_unbind">\"%1$s\" non apparié</string>
+    <string name="toast_factory_reset">\"%1$s\" a été réinitialisé aux paramètres d\'usine</string>
+    <string name="toast_no_device_connected">Aucune lampe trouvé</string>
     <string name="unable_bind">Appairage échoué</string>
     <string name="unable_bind_rebind">Appairer une lampe</string>
     <string name="unable_bind_text">Assurez vous que le téléphone soit proximité, appuyez sur le bouton de liaison,et que la lampe soit allimentée</string>
@@ -218,4 +228,10 @@
     <string name="wake_up_turn_on">Réveil activé</string>
     <string name="welcome">Yeelight</string>
     <string name="alert_dialog_fok">Ok</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
 </resources>
