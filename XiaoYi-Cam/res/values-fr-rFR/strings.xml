@@ -178,47 +178,47 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_title">Réglages de la caméra</string>
     <string name="camera_setting_video_alarm_subtitle">Encryptage vidéo avec alarme rapide, une carte méoire peut également être utilisée</string>
     <string name="camera_setting_video_alarm_title">"Paramétrage du déclenchement de l'alarme par la vidéo"</string>
-    <string name="camera_setting_weixin_alarm_public_cancel_subtitle">取消关注，不再使用任何小蚁公众号提供的服务</string>
-    <string name="camera_setting_weixin_alarm_public_cancel_title">取消绑定</string>
-    <string name="camera_setting_weixin_alarm_public_change_subtitle">更换其他微信号接收报警推送消息</string>
-    <string name="camera_setting_weixin_alarm_public_change_title">更换微信号</string>
-    <string name="camera_setting_weixin_alarm_public_des">已绑定</string>
-    <string name="camera_setting_weixin_alarm_public_title">微信公众号</string>
-    <string name="camera_setting_weixin_alarm_subtitle">可在微信中查看报警消息与内容</string>
-    <string name="camera_setting_weixin_alarm_title">微信接收报警消息</string>
-    <string name="camera_update">新的固件已发布，立即去升级吧</string>
-    <string name="camera_upgrade">摄像机升级</string>
-    <string name="camera_version_update_memo">更新日志</string>
-    <string name="camera_view_password_error">摄像机连接失败，请稍后重试！</string>
-    <string name="camera_wifi_config">连接Wi-Fi</string>
-    <string name="cancel">取消</string>
-    <string name="change_5Gwifi_hint">您的Wi-Fi可能是5G网络，摄像机暂不支持连接5G网络，点击&lt;font color=#5AB688>&lt;u>切换&lt;/u>&lt;/font>。</string>
-    <string name="change_connect_type">换一种配置方式</string>
-    <string name="change_device_name">修改摄像机名称</string>
-    <string name="change_wifi_hint">这不是我想连接的Wi-Fi，点击&lt;font color=#5AB688>&lt;u>切换&lt;/u>&lt;/font>。</string>
-    <string name="check_new_version">检查新版本</string>
-    <string name="checked_stranger">检测到移动</string>
-    <string name="choose_config_type">选择配置方式</string>
-    <string name="click_bind">点击绑定</string>
-    <string name="click_show_log">点击展开更新日志</string>
-    <string name="confirm_exit_camera_config">确定退出摄像机配置</string>
-    <string name="connect_distribute_server">正在连接最近的分布式服务器</string>
-    <string name="connect_test_server_rate">正在测试服务器连接速率</string>
-    <string name="connect_to_wifi_msg">请先将手机连接至Wi-Fi网络！</string>
-    <string name="connect_video_cloud_server">正在连接云端视频解码服务</string>
-    <string name="connect_video_encryption">正在连接视频加密服务器</string>
-    <string name="connect_video_forward_server">正在连接视频转发服务器</string>
-    <string name="connect_video_test_decode">正在测试云端视频解码性能</string>
-    <string name="connect_wait">绑定中，请稍候</string>
-    <string name="connect_wifi_hint">"请确保手机连接至
-准备配置的WI—FI"</string>
-    <string name="connected_wifi_handle_hint">"连接过程大概需要1~2分钟
-请根据您听到的语音，点击下方按钮"</string>
-    <string name="connection_reset_camera">配置摄像机</string>
-    <string name="connection_router">连接路由器</string>
-    <string name="copyright">"上海小蚁科技公司 版权所有
-Copyright © 2014-2015 XiaoYi. All Rights Reserved."</string>
-    <string name="current_is_last_version">已是最新版本</string>
+    <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Se désabonner, ne plus utiliser le service de Smart Caméra</string>
+    <string name="camera_setting_weixin_alarm_public_cancel_title">Supprimer la connexion à la caméra</string>
+    <string name="camera_setting_weixin_alarm_public_change_subtitle">Remplacer la caméra</string>
+    <string name="camera_setting_weixin_alarm_public_change_title">Remplacez le Signal Micro</string>
+    <string name="camera_setting_weixin_alarm_public_des">Connecté</string>
+    <string name="camera_setting_weixin_alarm_public_title">Canal Public</string>
+    <string name="camera_setting_weixin_alarm_subtitle">"Les messages d'alarme peuvent être visualisés avec le contenu de la micro-canal"</string>
+    <string name="camera_setting_weixin_alarm_title">"Réception un message d'avertissement via le Micro-canal"</string>
+    <string name="camera_update">Nouveau firmware disponible, le mettre à jour immédiatement</string>
+    <string name="camera_upgrade">Mise à niveau de la caméra</string>
+    <string name="camera_version_update_memo">Mise à jour de journal</string>
+    <string name="camera_view_password_error">Connexion à la caméra échouée, veuillez réessayer plus tard!</string>
+    <string name="camera_wifi_config">Connexion Wi-Fi</string>
+    <string name="cancel">Annuler</string>
+    <string name="change_5Gwifi_hint">Votre réseau Wi-Fi pourrait être en 5G, la caméra ne supportant pas la connexion 5G, cliquez sur &lt;font color=#5AB688>&lt;u>changer&lt;/u>&lt;/font>。</string>
+    <string name="change_connect_type">Changer le type de connexion</string>
+    <string name="change_device_name">Modifier le nom de la caméra</string>
+    <string name="change_wifi_hint">Vous ne souhaitez pas de se connecter au Wi-Fi, cliquez sur &lt;font color=#5AB688>&lt;u>changer&lt;/u>&lt;/font>。</string>
+    <string name="check_new_version">Vérifiez la nouvelle version</string>
+    <string name="checked_stranger">Mouvement détecté</string>
+    <string name="choose_config_type">Sélectionnez le type de configuration</string>
+    <string name="click_bind">Appuyez pour vous connecter</string>
+    <string name="click_show_log">Appuyez pour afficher le journal de mise à jour</string>
+    <string name="confirm_exit_camera_config">Quitter la Configuration de la caméra</string>
+    <string name="connect_distribute_server">Connexion au serveur de distribution</string>
+    <string name="connect_test_server_rate">Teste le taux de connexion au serveur</string>
+    <string name="connect_to_wifi_msg">Veuillez connecter le téléphone à un réseau Wifi!</string>
+    <string name="connect_video_cloud_server">Connexion au serveur de vidéo du Cloud</string>
+    <string name="connect_video_encryption">Connexion serveur de cryptage vidéo</string>
+    <string name="connect_video_forward_server">Connexion au serveur de relais vidéo</string>
+    <string name="connect_video_test_decode">Couverture des performances de décodage vidéo en cours de test</string>
+    <string name="connect_wait">Connexion en cours...</string>
+    <string name="connect_wifi_hint">"Assurez-vous que le téléphone est connecté
+Préparation de la configuration du Wi-Fi"</string>
+    <string name="connected_wifi_handle_hint">"Le processus de connexion prend environ 1 à 2 minutes
+Dès que vous entendez une voix, cliquez sur le bouton ci-dessous."</string>
+    <string name="connection_reset_camera">Configurer la caméra</string>
+    <string name="connection_router">Connexion du routeur</string>
+    <string name="copyright">"Shanghai Smarts Technologies, Inc.
+Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
+    <string name="current_is_last_version">Vous avez déjà la dernière version</string>
     <string name="current_version">当前版本%1$s</string>
     <string name="current_version_no">当前版本号</string>
     <string name="custom_alarm">自定义报警</string>
