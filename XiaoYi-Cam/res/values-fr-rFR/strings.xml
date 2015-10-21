@@ -318,18 +318,18 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="other_login">Autres méthodes de connexion</string>
     <string name="other_login_right">>></string>
     <string name="password">Mot de passe</string>
-    <string name="password_is_invaild">密码错误，请重试！</string>
-    <string name="phone_network_unreachable">无法连接到服务器</string>
-    <string name="photo_save_success">图片保存成功！</string>
-    <string name="pincode_check_old">验证密码保护，请输入四位密码</string>
-    <string name="pincode_check_title">验证密码</string>
-    <string name="pincode_clear_old">关闭密码保护，请输入旧密码</string>
-    <string name="pincode_clear_title">关闭密码</string>
-    <string name="pincode_error">"密码输入错误，请重新输入
-如果已忘记密码，请重置摄像机后，再重新连接设备"</string>
+    <string name="password_is_invaild">Mot de passe erroné, veuillez réessayer !</string>
+    <string name="phone_network_unreachable">Impossible de se connecter au serveur</string>
+    <string name="photo_save_success">Photo sauvegardée avec succès!</string>
+    <string name="pincode_check_old">Vérification du mot de passe de sécurité, entrez le mot de passe à quatre chiffres</string>
+    <string name="pincode_check_title">Vérification du mot de passe</string>
+    <string name="pincode_clear_old">"Suppression de l'ancien mode de passe de sécurité, veuillez entrer l'ancien mot de passe."</string>
+    <string name="pincode_clear_title">Effacer le mot de passe</string>
+    <string name="pincode_error">"Mot de passe erroné, veuillez réessayer
+Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconnectez la"</string>
     <string name="pincode_not_sure">"Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !"</string>
     <string name="pincode_protect">Protection par mot de passe</string>
-    <string name="pincode_protect_above">Equipement de sécurité</string>
+    <string name="pincode_protect_above">Équipement de sécurité</string>
     <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
     <string name="pincode_set">Protection par mot de passe</string>
     <string name="pincode_set_new">"Merci d'entrer un mot de passe, allumer la caméra"</string>
@@ -339,55 +339,55 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="pincode_update_new_again">Entrez à nouveau le mot de passe</string>
     <string name="pincode_update_old">"Entrez l'ancien mot de passe"</string>
     <string name="pincode_update_title">Changer le mot de passe</string>
-    <string name="play_help_subtitle">看看小蚁君为您准备的视频教程吧~</string>
-    <string name="play_help_title">新机到手怎么玩？</string>
+    <string name="play_help_subtitle">Visionner le tutoriel vidéo</string>
+    <string name="play_help_title">Comment utiliser votre nouvel appareil ？</string>
     <string name="play_time">00:00</string>
-    <string name="please_input_device_password">请输入设备密码</string>
-    <string name="please_input_username_and_password">请输入邮箱和密码！</string>
-    <string name="please_insert_sdcard">请先插入Micro SD卡!</string>
-    <string name="preparatory_work_at_last">"正在完成最后的准备工作
-请稍候"</string>
-    <string name="product_description">产品说明</string>
-    <string name="prompt">提示</string>
-    <string name="quality_guide_text">"点击这里
-切换高清画质试试吧！"</string>
-    <string name="reboot_message_send_success">摄像机正在重启升级，请切换到播放界面等待重新连接！</string>
-    <string name="record_time_too_short">录像时间过短，不能生成文件！</string>
-    <string name="repassword">重复密码</string>
-    <string name="reset">重置</string>
-    <string name="reset_camera">请将重置针插入重置孔&lt;br/>直到您看到&lt;font color=#ffb400>黄灯长亮&lt;/font></string>
-    <string name="reset_success">重置成功</string>
-    <string name="resolution_auto">自动</string>
-    <string name="resolution_high">高清</string>
-    <string name="resolution_low">流畅</string>
-    <string name="resolution_normal">标清</string>
-    <string name="save">保存</string>
-    <string name="save_failed">保存失败</string>
-    <string name="save_photo_msg">截屏已保存到我的相册</string>
-    <string name="save_success">成功保存至相册</string>
-    <string name="save_video_msg">录像已保存到我的相册</string>
-    <string name="sd_tip_text">"格式化之后，会有一部分存储卡空间用于存储系统文件，因此显示的剩余容量可能小于您的存储卡实际大小。
-如您希望使用存储卡的完整容量，建议您通过使用读卡器在电脑上使用磁盘管理工具重建分区，进行格式化。"</string>
-    <string name="sdcard_format">格式化存储卡</string>
-    <string name="sdcard_format_fail">出现异常，格式化无效，建议您更换存储卡</string>
-    <string name="sdcard_need_format">出现异常，需要格式化</string>
-    <string name="sdcard_normal">状态良好</string>
-    <string name="sdcard_not_find">未检测到存储卡</string>
-    <string name="sdcard_size">可用%1$.1fG 总共%2$.1fG</string>
-    <string name="sdcard_slow">读写速度过低</string>
-    <string name="sdcard_small">存储卡容量过小，设备可能无法正常工作</string>
-    <string name="search_camera">搜索摄像机</string>
-    <string name="setting_alarm_time">设置报警时间</string>
-    <string name="splash_skip">跳过</string>
-    <string name="start_download_video">正在通过加密通道下载视频</string>
-    <string name="start_using">开始使用</string>
-    <string name="stop_bind_device_tip">"非小米帐号已停止注册新设备
-已有用户请登录成功后绑定小米帐号使用"</string>
-    <string name="store">商城</string>
-    <string name="store_subtitle">去小蚁商城看看有什么新玩意吧</string>
-    <string name="success_to_delete_device">成功删除摄像机！</string>
-    <string name="sure">确认</string>
-    <string name="sure_logout">确认退出登录？</string>
+    <string name="please_input_device_password">Entrez le mot de passe</string>
+    <string name="please_input_username_and_password">"Veuillez entrez l'email et le mot de passe!"</string>
+    <string name="please_insert_sdcard">Veuillez insérer une Carte Micro SD !</string>
+    <string name="preparatory_work_at_last">"Derniers préparatifs en cours
+Veuillez patienter"</string>
+    <string name="product_description">Description du produit</string>
+    <string name="prompt">Message</string>
+    <string name="quality_guide_text">"Appuyez ici
+Définition en qualité HD, essayez la!"</string>
+    <string name="reboot_message_send_success">"Redémarrage de la mise à jour de la caméra, passer à l'interface de lecture en attendant !"</string>
+    <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer de fichiers !"</string>
+    <string name="repassword">Répétez le mot de passe</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="reset_camera">"Pour réinitialiser, insérez la broche dans le trou de réinitialisation&lt;br/>jusqu'à ce que vous voyez&lt;font color=#ffb400>la LED jaune active&lt;/font></string>
+    <string name="reset_success">Réinitialisation effectuée</string>
+    <string name="resolution_auto">Auto</string>
+    <string name="resolution_high">HD</string>
+    <string name="resolution_low">Faible</string>
+    <string name="resolution_normal">Normale</string>
+    <string name="save">Sauvegarder</string>
+    <string name="save_failed">Sauvegarde échouée</string>
+    <string name="save_photo_msg">"Photo enregistrée dans mon album"</string>
+    <string name="save_success">Enregistrement effectué</string>
+    <string name="save_video_msg">Vidéo a été enregistrée dans mon album</string>
+    <string name="sd_tip_text">"Une fois formatée, la carte mémoire fera partie de l'espace utilisé pour les fichiers système, donc l'affichage de la capacité restante peut être inférieure à la capacité réelle de votre carte mémoire.
+Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous recommandons d'utiliser un lecteur de carte à l'aide de l'outil Gestion des disques sur l'ordinateur et reconstruire la partition formatée."</string>
+    <string name="sdcard_format">Formater la carte mémoire</string>
+    <string name="sdcard_format_fail">Formatage échoué, nous vous recommandons de remplacer la carte mémoire</string>
+    <string name="sdcard_need_format">Anomalie rencontrée，la carte mémoire doit être formatée</string>
+    <string name="sdcard_normal">Carte mémoire en bon état</string>
+    <string name="sdcard_not_find">"La carte mémoire n'est pas détecté"</string>
+    <string name="sdcard_size">%1$.1fG disponible %2$.1fG exactement</string>
+    <string name="sdcard_slow">"Vitesse de lecture et d'écriture trop faible"</string>
+    <string name="sdcard_small">"La capacité de la carte mémoire est trop faible, l'appareil peut ne pas fonctionner correctement"</string>
+    <string name="search_camera">Recherche de la caméra</string>
+    <string name="setting_alarm_time">"Réglez l'heure de l'alarme"</string>
+    <string name="splash_skip">Passer</string>
+    <string name="start_download_video">Téléchargement de vidéos via un canal crypté</string>
+    <string name="start_using">"Commencer à l'utiliser"</string>
+    <string name="stop_bind_device_tip">"Le compte non Xiaomi a cessé d'enregistrer de nouveaux équipements
+Veuillez vous connecter avec un compte Xiaomi, afin de bénéficier de toutes les fonctionnalités"</string>
+    <string name="store">Boutique</string>
+    <string name="store_subtitle">Trouver un magasin Smarts Caméra pour visualiser les nouveautés</string>
+    <string name="success_to_delete_device">Caméra supprimée avec succès!</string>
+    <string name="sure">Confirmer</string>
+    <string name="sure_logout">Confirmer la connexion ?</string>
     <string name="sure_to_camera_upgrade">"摄像机固件即将进行升级，大概需要4-5分钟时间（与网速有关）；
 请确保在此过程中，摄像机不要断电断网！"</string>
     <string name="sure_to_delete_device">确定删除摄像机？</string>
