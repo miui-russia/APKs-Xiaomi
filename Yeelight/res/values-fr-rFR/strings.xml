@@ -228,10 +228,10 @@
     <string name="wake_up_turn_on">Réveil activé</string>
     <string name="welcome">Yeelight</string>
     <string name="alert_dialog_fok">Ok</string>
-    <string name="xlistview_footer_hint_normal">查看更多</string>
-    <string name="xlistview_footer_hint_ready">松开载入更多</string>
-    <string name="xlistview_header_hint_loading">正在加载...</string>
-    <string name="xlistview_header_hint_normal">下拉刷新</string>
-    <string name="xlistview_header_hint_ready">松开刷新数据</string>
-    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">Afficher davantage</string>
+    <string name="xlistview_footer_hint_ready">"Charger plus d'informations"</string>
+    <string name="xlistview_header_hint_loading">Chargement...</string>
+    <string name="xlistview_header_hint_normal">Tirer pour rafraîchir</string>
+    <string name="xlistview_header_hint_ready"Actualiser les données</string>
+    <string name="xlistview_header_last_time">Dernière mise à jour:</string>
 </resources>
