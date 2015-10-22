@@ -232,6 +232,6 @@
     <string name="xlistview_footer_hint_ready">"Charger plus d'informations"</string>
     <string name="xlistview_header_hint_loading">Chargement...</string>
     <string name="xlistview_header_hint_normal">Tirer pour rafraîchir</string>
-    <string name="xlistview_header_hint_ready"Actualiser les données</string>
+    <string name="xlistview_header_hint_ready">Actualiser les données</string>
     <string name="xlistview_header_last_time">Dernière mise à jour:</string>
 </resources>
