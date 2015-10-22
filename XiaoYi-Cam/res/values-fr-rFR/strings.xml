@@ -61,7 +61,7 @@
     <string name="UMUpdateSize">Taille de la mise à jour:</string>
     <string name="UMUpdateTitle">Nouvelle version</string>
     <string name="Upgrade_failed">Mise à jour échouée</string>
-    <string name="about">Á propos</string>
+    <string name="about">À propos</string>
     <string name="about_subtitle">En savoir plus</string>
     <string name="account_must_email">(Utiliser un e-mail pour le compte)</string>
     <string name="agreement_content">"Le service XiaoYi-Cam vous oblige à accepter<u><a href="agreement://123">l\'accord utilisateur</a></u>avant toute utilisation de ses appareils，afin d\'être en mesure de connecter les périphériques avec la XiaoYi-Cam, l\'utilisation de XiaoYi-Cam utilise ce service pour se connecter au réseau, le positionnement et les données mobiles, l\'acceptez-vous ?"</string>
@@ -84,7 +84,7 @@ Alarme dans un délai maximum de sept jours</string>
     <string name="album_delete_video">Supprimer les vidéos sélectionnées ?</string>
     <string name="album_photo_count">%1$d photos</string>
     <string name="album_photo_empty">Aucune photo</string>
-    <string name="album_picture">photo</string>
+    <string name="album_picture">Photo</string>
     <string name="album_subtitle">%1$d vidéos au total et %2$d photos</string>
     <string name="album_today">"Aujourd'hui"</string>
     <string name="album_video">Vidéo</string>
@@ -255,7 +255,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="feedback_user_name">Vos informations personnelles (email, numéro de téléphone ou identifiant QQ)</string>
     <string name="find_camera_for_local">Caméra locale trouvée</string>
     <string name="format_success_wait_restart">Formatage réussi, veuillez attendre que la caméra redémarre</string>
-    <string name="friend_recommend">Le recommander à un ami</string>
+    <string name="friend_recommend">Recommander à un ami</string>
     <string name="full_time_alarm">"Heure de l'alarme"</string>
     <string name="function_introduction">Caractéristiques</string>
     <string name="get_camere_info_fail">"Connexion à la caméra échouée, impossible d'obtenir plus d'informations"</string>
@@ -271,7 +271,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="guide_title3">"Bouton d'alarme en temps réel"</string>
     <string name="guide_title4">Optimisation des processus de connexion</string>
     <string name="guide_title5">Voir, Entendre, Parler</string>
-    <string name="help_feedback">Aide & Commentaires</string>
+    <string name="help_feedback">Aide et Commentaires</string>
     <string name="help_subtitle">Ici vous pouvez en apprendre davantage</string>
     <string name="history_video">Lecture</string>
     <string name="info_cannot_find_camera">Configuration de la caméra introuvable</string>
@@ -394,7 +394,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="sure_to_reboot_upgrade">Télécharger réussi, la caméra redémarre automatiquement après la mise à jour, veuillez patienter.</string>
     <string name="sure_to_reboot_upgrade_tf">Télécharger réussi, redémarrage afin de terminer la mise à jour.</string>
     <string name="sync_log">Synchronisation du journal</string>
-    <string name="tab_camera">Camra</string>
+    <string name="tab_camera">Caméra</string>
     <string name="tab_message">Message</string>
     <string name="tab_photos">Galerie</string>
     <string name="text_login">Connexion</string>
@@ -480,7 +480,7 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="xiaomi_login">Connexion au Compte Xiaomi</string>
     <string name="enter_album">Entrez un album</string>
     <string name="seek_move_tip">Déplacer le pointeur pour effectuer un zoom intelligent</string>
-    <string name="seek_zoom_tip">Appuyer sur l'icône pour  réduire le temps</string>
+    <string name="seek_zoom_tip">Appuyer sur l\'icône pour  réduire le temps</string>
     <string name="winexperience_shouldupdate_gotoupdate_immediately">Mise à jour</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
