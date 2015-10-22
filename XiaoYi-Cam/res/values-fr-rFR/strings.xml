@@ -64,7 +64,7 @@
     <string name="about">Á propos</string>
     <string name="about_subtitle">En savoir plus</string>
     <string name="account_must_email">(Utiliser un e-mail pour le compte)</string>
-    <string name="agreement_content">"Le service de smart caméras vous oblige à accepter<u><a href="agreement://123">l\'accord utilisateur</a></u>avant toute utilisation de ses appareils，afin d\'être en mesure de connecter les périphériques avec la XiaoYi-Cam, l\'utilisation de smarts caméras utilise ce service pour se connecter au réseau, le positionnement et les données mobiles, l\'acceptez-vous ?"</string>
+    <string name="agreement_content">"Le service XiaoYi-Cam vous oblige à accepter<u><a href="agreement://123">l\'accord utilisateur</a></u>avant toute utilisation de ses appareils，afin d\'être en mesure de connecter les périphériques avec la XiaoYi-Cam, l\'utilisation de XiaoYi-Cam utilise ce service pour se connecter au réseau, le positionnement et les données mobiles, l\'acceptez-vous ?"</string>
     <string name="agreement_content_title">Accord utilisateur</string>
     <string name="agreement_posi_btn">Accepter et continuer</string>
     <string name="agreement_title">Déclarations et accords</string>
@@ -178,7 +178,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_title">Réglages de la caméra</string>
     <string name="camera_setting_video_alarm_subtitle">Encryptage vidéo avec alarme rapide, une carte méoire peut également être utilisée</string>
     <string name="camera_setting_video_alarm_title">"Paramétrage du déclenchement de l'alarme par la vidéo"</string>
-    <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Se désabonner, ne plus utiliser le service de Smart Caméra</string>
+    <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Se désabonner, ne plus utiliser le service de XiaoYi-Cam</string>
     <string name="camera_setting_weixin_alarm_public_cancel_title">Supprimer la connexion à la caméra</string>
     <string name="camera_setting_weixin_alarm_public_change_subtitle">Remplacer la caméra</string>
     <string name="camera_setting_weixin_alarm_public_change_title">Remplacez le Signal Micro</string>
@@ -216,7 +216,7 @@ Préparation de la configuration du Wi-Fi"</string>
 Dès que vous entendez une voix, cliquez sur le bouton ci-dessous."</string>
     <string name="connection_reset_camera">Configurer la caméra</string>
     <string name="connection_router">Connexion du routeur</string>
-    <string name="copyright">"Shanghai Smarts Technologies, Inc.
+    <string name="copyright">"Shanghai XiaoYi-Cam Technologies, Inc.
 Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="current_is_last_version">Vous avez déjà la dernière version</string>
     <string name="current_version">Version actuelle %1$s</string>
@@ -228,7 +228,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="device_added_by_other2">"La caméra a été associé à d'autres utilisateurs"</string>
     <string name="device_not_exist">"La caméra n'existe pas"</string>
     <string name="device_not_found">"Ce numéro de caméra n'existe pas"</string>
-    <string name="dogfood_message">"Vous n'êtes pas un utilsateur Smart Caméra ou vous ne faites pas partie des bêta testeurs. Cette version bêta expirée, veuillez vous rapprochez du service Smart Caméra ou utiliser la version officielle."</string>
+    <string name="dogfood_message">"Vous n'êtes pas un utilsateur XiaoYi-Cam ou vous ne faites pas partie des bêta testeurs. Cette version bêta expirée, veuillez vous rapprochez du service XiaoYi-Cam ou utiliser la version officielle."</string>
     <string name="downloading">Téléchargement...</string>
     <string name="exit_app">"Appuyez à nouveau pour quitter l'application"</string>
     <string name="facebook_login">Connexion au compte Facebook</string>
@@ -279,7 +279,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="into_look_v2">Visualisez>></string>
     <string name="kakao_login">Connexion au compte Kakao Talk</string>
     <string name="know">Connaître</string>
-    <string name="listen_wifi_password_error">Erreur de mot de passe Wi-fi</string>
+    <string name="listen_wifi_password_error">Erreur de mot de passe Wi-Fi</string>
     <string name="live_video">En direct</string>
     <string name="live_video_off">La caméra est éteinte</string>
     <string name="loading">Chargement...</string>
@@ -298,16 +298,16 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="network_info_no_connect">Aucune visualisation de la  vidéo, erreur de connexion</string>
     <string name="network_info_router_connect">Taux de perte de paquets réseau</string>
     <string name="network_info_server_connect">En dehors du taux de perte de paquets réseau</string>
-    <string name="network_info_wifi_name">Nom du Wi-fi</string>
-    <string name="network_info_wifi_strength">Force du Wi-fi</string>
+    <string name="network_info_wifi_name">Nom du Wi-Fi</string>
+    <string name="network_info_wifi_strength">Force du Wi-Fi</string>
     <string name="network_invaid_msg">Impossible de se connecter au serveur, veuillez vérifier votre connexion réseau</string>
     <string name="new_user_fail_to_login">"Les comptes Non-Xiaomi ne sont plus supportés. 
  Retour à la page connexion."</string>
     <string name="new_version_no">Nouvelle version détectée</string>
     <string name="nickname">Surnom</string>
     <string name="no_sdcard_info">Aucune carte mémoire insérée</string>
-    <string name="no_wifi_network">Le réseau Wi-fi actuel est indisponible, veuillez vérifier vos paramètres  réseau</string>
-    <string name="no_wifi_onlywifi_update">Pas de connexion Wi-fi, mise à jour possible uniquement via le Wi-fi</string>
+    <string name="no_wifi_network">Le réseau Wi-Fi actuel est indisponible, veuillez vérifier vos paramètres  réseau</string>
+    <string name="no_wifi_onlywifi_update">Pas de connexion Wi-Fi, mise à jour possible uniquement via le Wi-Fi</string>
     <string name="none_update">Aucune mise à jour</string>
     <string name="not_support">Non supporté</string>
     <string name="offline">Hors ligne</string>
@@ -384,105 +384,104 @@ Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous r
     <string name="stop_bind_device_tip">"Le compte non Xiaomi a cessé d'enregistrer de nouveaux équipements
 Veuillez vous connecter avec un compte Xiaomi, afin de bénéficier de toutes les fonctionnalités"</string>
     <string name="store">Boutique</string>
-    <string name="store_subtitle">Trouver un magasin Smarts Caméra pour visualiser les nouveautés</string>
+    <string name="store_subtitle">Trouver un magasin XiaoYi-Cam pour visualiser les nouveautés</string>
     <string name="success_to_delete_device">Caméra supprimée avec succès!</string>
     <string name="sure">Confirmer</string>
     <string name="sure_logout">Confirmer la connexion ?</string>
-    <string name="sure_to_camera_upgrade">"摄像机固件即将进行升级，大概需要4-5分钟时间（与网速有关）；
-请确保在此过程中，摄像机不要断电断网！"</string>
-    <string name="sure_to_delete_device">确定删除摄像机？</string>
-    <string name="sure_to_reboot_upgrade">下载成功，摄像机稍后将自动重启进行升级，请耐心等待</string>
-    <string name="sure_to_reboot_upgrade_tf">下载成功，确定升级重启</string>
-    <string name="sync_log">是否发送系统日志</string>
-    <string name="tab_camera">小蚁</string>
-    <string name="tab_message">消息</string>
-    <string name="tab_photos">相册</string>
-    <string name="text_login">登录</string>
-    <string name="timeout">超时</string>
-    <string name="tips_camera_name">请输入摄像机名称</string>
-    <string name="tips_save_password">保存密码</string>
-    <string name="tips_wifi_name">请连接Wi-Fi</string>
-    <string name="tips_wifi_password">请输入Wi-Fi密码</string>
-    <string name="tips_wifi_password_incorrect">小蚁无法识别当前Wi-Fi密码，请修改</string>
-    <string name="title_camera_config_scan">扫描二维码</string>
-    <string name="toast_do_not_support_sdk">暂不支持此手机版本</string>
-    <string name="traffic_statistics">流量统计</string>
-    <string name="traffic_statistics_delete">所有流量统计数据将被清空，且无法找回。确定要清空吗？</string>
-    <string name="traffic_statistics_flow_hint">使用APP观看摄像机画面时将会使用网络，如果您连接的是手机移动网络，则可能消耗您的运营商网络套餐或产生流量费用。</string>
-    <string name="traffic_statistics_net_flow">移动网络消耗的流量</string>
-    <string name="traffic_statistics_time">自%1$s起(最近15天统计)</string>
-    <string name="traffic_statistics_wifi_flow">无线局域网消耗的流量</string>
-    <string name="txtUID">编号</string>
-    <string name="umeng_common_action_cancel">取消</string>
-    <string name="umeng_common_action_continue">继续</string>
-    <string name="umeng_common_action_info_exist">正在下载中.</string>
-    <string name="umeng_common_action_pause">暂停</string>
-    <string name="umeng_common_download_failed">下载失败</string>
-    <string name="umeng_common_download_finish">下载完成，请点击安装</string>
-    <string name="umeng_common_download_notification_prefix">正在下载:</string>
-    <string name="umeng_common_icon">icon</string>
-    <string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string>
-    <string name="umeng_common_network_break_alert">请连接网络后再尝试！</string>
-    <string name="umeng_common_patch_finish">更新完成，请点击安装</string>
-    <string name="umeng_common_start_download_notification">正在下载应用</string>
-    <string name="umeng_common_start_patch_notification">正在更新安装包</string>
-    <string name="unfind_sdcard">"摄像机没有检测到SD卡
-暂时无法保存历史视频"</string>
-    <string name="unread_sdcard_size">无法读取到可用空间</string>
-    <string name="unsearch_camera_for_local">未在本地搜索到任何摄像机</string>
-    <string name="use_barcode_bindkey_error">二维码生成失败，请重试</string>
-    <string name="use_barcode_bindkey_expire">当前二维码已经过期，请重新配置</string>
-    <string name="use_barcode_continue">继续配置</string>
-    <string name="use_barcode_dialog_msg">"二维码配置暂时仅支持夜视版机型，
-其他机型将在后续版本支持。"</string>
-    <string name="use_barcode_error">配置过程遇到一些问题，请重新配置。</string>
-    <string name="use_barcode_heard_nothing">听不到提示音？</string>
-    <string name="use_barcode_heard_taiwan">已听到提示音</string>
-    <string name="use_barcode_retry">重新配置</string>
-    <string name="use_barcode_tip_title">操作提示</string>
-    <string name="use_barcode_use_tip">"请如图所示操作
-保持一个手机的距离"</string>
-    <string name="user_account">账号</string>
-    <string name="user_camera_count_msg">%1$d台摄像机</string>
-    <string name="user_detail">我的</string>
-    <string name="user_icon">头像</string>
-    <string name="user_login_in_password_modified">当前账号密码已修改，请重新登录！</string>
-    <string name="user_login_in_session_time">当前账号时效已过期，请重新登录！</string>
-    <string name="user_nickname">昵称</string>
-    <string name="user_setting">用户设置</string>
-    <string name="user_tips_add_camera">"点击这里添加摄像机
-体验碉堡的智能摄像机吧"</string>
-    <string name="user_tips_alarm">摄像机的新报警动态都会出现在这里哦</string>
-    <string name="user_tips_album">您使用小蚁拍摄的照片和视频片段会保存在这里哦</string>
-    <string name="user_tips_list">"摄像机在线时，卡片会显示为彩色，离线会显示为黑色。
-点击卡片可以查看您的摄像机画面。"</string>
-    <string name="username">邮箱</string>
-    <string name="valid_code">验证码</string>
-    <string name="video_is_saved">已经保存该视频</string>
-    <string name="video_not_wifi">当前非Wi-Fi网络环境，播放视频会消耗网络流量</string>
-    <string name="video_out_time">视频链接已经过期，请刷新后重试</string>
-    <string name="wait_orange_light">请耐心等待20秒左右&lt;br/>直到摄像机&lt;font color=#ffb400>黄灯闪烁&lt;/font>&lt;br/>并语音提示“等待连接”</string>
-    <string name="webaccount_is_invaild">用户名不存在，请重试！</string>
-    <string name="website_xiaoyi">官网</string>
-    <string name="wechat">微信好友</string>
-    <string name="wechatfavorite">微信收藏</string>
-    <string name="wechatmoments">微信朋友圈</string>
-    <string name="weibo_oauth_regiseter">应用授权</string>
-    <string name="weixin_alarm_close">微信将不再收到小蚁公众号推送的报警消息，但您仍然可以在小蚁公众号中点击菜单获取摄像机的报警内容</string>
-    <string name="weixin_alarm_open">通过微信接收报警推送，需要先关注微信公众号，请前往设置</string>
-    <string name="weixin_alarm_public_cancel_message">您可前往微信取消关注“小蚁智能摄像机”公众号。取消关注后，您将无法再使用此公众号提供的任何服务</string>
-    <string name="weixin_close_message">关闭后将无法再通过微信接收消息，确认关闭？</string>
-    <string name="welcome_user_yicamera">小蚁智能摄像机</string>
+    <string name="sure_to_camera_upgrade">"Mise à jour du firmware de la Caméra à venir, cela prend environ 4-5 minutes (selon votre connexion);
+Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
+    <string name="sure_to_delete_device">OK pour supprimer la caméra ?</string>
+    <string name="sure_to_reboot_upgrade">Télécharger réussi, la caméra redémarre automatiquement après la mise à jour, veuillez patienter.</string>
+    <string name="sure_to_reboot_upgrade_tf">Télécharger réussi, redémarrage afin de terminer la mise à jour.</string>
+    <string name="sync_log">Synchronisation du journal</string>
+    <string name="tab_camera">Camra</string>
+    <string name="tab_message">Message</string>
+    <string name="tab_photos">Galerie</string>
+    <string name="text_login">Connexion</string>
+    <string name="timeout">Délai dépassé</string>
+    <string name="tips_camera_name">Veuillez entrer le nom de la caméra</string>
+    <string name="tips_save_password">Sauvegarder le mot de passe</string>
+    <string name="tips_wifi_name">Veuillez vous connecter au réseau Wi-Fi</string>
+    <string name="tips_wifi_password">Veuillez entrez le mot de passe Wi-Fi</string>
+    <string name="tips_wifi_password_incorrect">Mot de passe Wi-Fi actuel non reconnu, veuillez le changer</string>
+    <string name="title_camera_config_scan">Scannez le QR code</string>
+    <string name="toast_do_not_support_sdk">"Cette version n'est pas prise en charge"</string>
+    <string name="traffic_statistics">Statistiques du trafic</string>
+    <string name="traffic_statistics_delete">Toutes les statistiques du trafic seront effacées et ne pourront pas être récupérées. Êtes-vous sûr de vouloir les effacer ?</string>
+    <string name="traffic_statistics_flow_hint">"L'application va utiliser le réseau lorsque vous visualisez l'écran de la caméra, si vous vous connectez à un réseau de téléphonie mobile, vous pouvez consommer votre forfait. L'opérateur peut vous comptabiliser des coûts de trafic."</string>
+    <string name="traffic_statistics_net_flow">Trafic de réseau mobiles consommé</string>
+    <string name="traffic_statistics_time">Á partir de %1$s depuis(statistiques des 15 derniers jours)</string>
+    <string name="traffic_statistics_wifi_flow">Consommation du trafic Wi-Fi</string>
+    <string name="txtUID">Nombre</string>
+    <string name="umeng_common_action_cancel">Annuler</string>
+    <string name="umeng_common_action_continue">Continuer</string>
+    <string name="umeng_common_action_info_exist">Télécharger.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_download_failed">Téléchargement échoué</string>
+    <string name="umeng_common_download_finish">Téléchargement terminé, veuillez appuyer sur Installer</string>
+    <string name="umeng_common_download_notification_prefix">Téléchargement:</string>
+    <string name="umeng_common_icon">Icône</string>
+    <string name="umeng_common_info_interrupt">Téléchargement interrompu, vérifiez le réseau et continuer.</string>
+    <string name="umeng_common_network_break_alert">Veuillez vous connecter au réseau et réessayer !</string>
+    <string name="umeng_common_patch_finish">Mise à jour terminée, veuillez appuyer sur Installer</string>
+    <string name="umeng_common_start_download_notification">"Téléchargement d'applications"</string>
+    <string name="umeng_common_start_patch_notification">"Mise à jour du package d'installation"</string>
+    <string name="unfind_sdcard">"La caméra ne détecte pas la carte SD
+Impossible de sauvegarder momentanément l'historique des vidéo"</string>
+    <string name="unread_sdcard_size">"Impossible de lire l'espace disponible"</string>
+    <string name="unsearch_camera_for_local">Pas de recherche de caméra locale</string>
+    <string name="use_barcode_bindkey_error">Génération de QR Code échouée, veuillez réessayer</string>
+    <string name="use_barcode_bindkey_expire">QR Code actuel expiré, veuillez le regénérer</string>
+    <string name="use_barcode_continue">Continuer la configuration</string>
+    <string name="use_barcode_dialog_msg">"QR Code configuré temporairement pour supporter seulement les modèles avec vision nocturne,
+Les autres modèles seront pris en charge dans les prochaines versions."</string>
+    <string name="use_barcode_error">Le processus de configuration a rencontré quelques problèmes, veuillez le reconfigurer.</string>
+    <string name="use_barcode_heard_nothing">"Vous n'entendez pas la tonalité ?"</string>
+    <string name="use_barcode_heard_taiwan">Nous avons entendu la tonalité</string>
+    <string name="use_barcode_retry">Recommencer</string>
+    <string name="use_barcode_tip_title">"Conseils d'utilisation"</string>
+    <string name="use_barcode_use_tip">"Veuillez effectuer les opérations représentées sur la schéma.
+Gardez le téléphone à distance"</string>
+    <string name="user_account">Compte utilisateur</string>
+    <string name="user_camera_count_msg">%1$d Caméras</string>
+    <string name="user_detail">En ma possession</string>
+    <string name="user_icon">Image du Profil</string>
+    <string name="user_login_in_password_modified">"Le mot de passe du compte actuel a été modifié, veuillez vous reconnecter !</string>
+    <string name="user_login_in_session_time">La session actuelle a expiré, veuillez vous reconnecter !</string>
+    <string name="user_nickname">Surnom</string>
+    <string name="user_setting">Paramètres utilisateur</string>
+    <string name="user_tips_add_camera">"Appuyez ici pour ajouter une caméra"</string>
+    <string name="user_tips_alarm">La nouvelle alarme de caméra dynamique sera affichée ici</string>
+    <string name="user_tips_album">Vous utilisez une XiaoYi-Cam et les vidéos seront stockées ici</string>
+    <string name="user_tips_list">"Lorsque la caméra est en ligne, la carte sera affichée en couleur, hors-ligne elle sera affichée en noir.
+Cliquez sur une carte pour visualiser l'image de la caméra."</string>
+    <string name="username">"Nom d'utilisateur"</string>
+    <string name="valid_code">Code de sécurité</string>
+    <string name="video_is_saved">Vidéo enregistrée</string>
+    <string name="video_not_wifi">Votre connexion actuelle est en réseau non-Wifi, la lecture de vidéo va consommer vos données mobiles.</string>
+    <string name="video_out_time">Lien de la vidéo expiré. veuillez rafraîchir pour la relancer</string>
+    <string name="wait_orange_light">"Veuillez patienter et attendre environ 20 secondes&lt;br/>jusqu'à ce que la caméra&lt;font color=#ffb400>voyant orange&lt;/font>&lt;br/>message"En attente de connexion""</string>
+    <string name="webaccount_is_invaild">"Nom d'utilisateur inexistant, veuillez essayer à nouveau !"</string>
+    <string name="website_xiaoyi">Site officiel</string>
+    <string name="wechat">Wechat</string>
+    <string name="wechatfavorite">Favoris Wechat</string>
+    <string name="wechatmoments">"Cercle d'amis Wechat"</string>
+    <string name="weibo_oauth_regiseter">Autorisation</string>
+    <string name="weixin_alarm_close">"Le micro-canal de la caméra ne recevra plus message d'alerte du public, mais vous pouvez toujours obtenir le contenu d'alerte de la caméra en appuyant sur le menu dans XiaoYi-Cam publiques"</string>
+    <string name="weixin_alarm_open">Recevez des alertes définies, pour les désactiver, veuillez allez dans Paramètres</string>
+    <string name="weixin_alarm_public_cancel_message">"Vous pouvez vous désabonner aux alertes "ques". Si vous annulez, vous ne serez plus en mesure d'utiliser l'un des services offerts par ce numéro public"</string>
+    <string name="weixin_close_message">Si vous quitter vous ne recevrez plus de messages, confirmez-vous la fermeture ?</string>
+    <string name="welcome_user_yicamera">XiaoYi-Cam</string>
     <string name="welcome_using">欢迎使用</string>
-    <string name="wifi_connect_success">Wi-Fi连接成功</string>
-    <string name="wifi_password_erro">Wi-Fi密码错误</string>
-    <string name="winexperience_ensure_format_tfcard_info">"格式化之后，Micro SD卡中的所有历史视频都会被清除，确定继续操作？
-（摄像机会重启哦！）"</string>
-    <string name="xiaomi_login">小米登录</string>
-    <string name="enter_album">进入相册</string>
-    <string name="seek_move_tip">移动历史记录至指针位置可以进行智能缩放</string>
-    <string name="seek_zoom_tip">按图示操作可以缩小时间轴</string>
-    <string name="winexperience_shouldupdate_gotoupdate_immediately">更新</string>
+    <string name="wifi_connect_success">Connexion Wi-Fi réussie</string>
+    <string name="wifi_password_erro">Mot de passe Wi-Fi erroné</string>
+    <string name="winexperience_ensure_format_tfcard_info">"Après le formatage, l'historique de toutes les vidéos de la Carte Micro SD seront effacées, voulez-vous continuer ?
+(La caméra va redémarrer !)"</string>
+    <string name="xiaomi_login">Connexion au Compte Xiaomi</string>
+    <string name="enter_album">Entrez un album</string>
+    <string name="seek_move_tip">Déplacer le pointeur pour effectuer un zoom intelligent</string>
+    <string name="seek_zoom_tip">Appuyer sur l'icône pour  réduire le temps</string>
+    <string name="winexperience_shouldupdate_gotoupdate_immediately">Mise à jour</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_search_hint">Recherche…</string>
