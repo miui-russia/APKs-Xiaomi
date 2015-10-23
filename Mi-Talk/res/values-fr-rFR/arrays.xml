@@ -73,7 +73,7 @@
         <item>"Les femmes sont divisées en deux catégories, l'une est le poison, l'autre l'antidote"</item>
         <item>"Comment me répondriez-vous ? Dans un meilleur moment"</item>
         <item>Homme marié, homme rayonnant</item>
-        <item>Un enfant peut ensoleiller le coeur d'un homme</item>
+        <item>Un enfant peut ensoleiller le coeur d\'un homme</item>
         <item>"C'est vous que je recherchais."</item>
         <item>Vous ne pouvez pas me battre</item>
         <item>Le temps passe vite comme des sables mouvants, que pensez-vous de celui-ci?</item>
@@ -1149,7 +1149,7 @@
     <string-array name="context_anim_12">
         <item>Joyeuses Fêtes</item>
         <item>Bonne Fête des Lanternes</item>
-        <item>Bonne Fête de l'arbre</item>
+        <item>Bonne Fête de l\'arbre</item>
         <item>"Joyeux Poisson d'Avril"</item>
         <item>Bonne Fête des bateaux dragons</item>
         <item>"Joyeux Festival de l'Automne"</item>
