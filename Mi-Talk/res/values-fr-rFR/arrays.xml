@@ -75,12 +75,12 @@
         <item>Homme marié, homme rayonnant</item>
         <item>Un enfant peut ensoleiller le coeur d'un homme</item>
         <item>"C'est vous que je recherchais."</item>
-        <item>你们不能打我，因为我已经很丑了</item>
-        <item>时间匆匆的就像流沙，却想着来日方长吗？</item>
-        <item>人不要脸了，可真舒服</item>
-        <item>阳光洒肩头，仿佛自由生</item>
-        <item>等我们俩遇见，也算是一种解脱吧！</item>
-        <item>浪骚也需要资本</item>
+        <item>Vous ne pouvez pas me battre</item>
+        <item>Le temps passe vite comme des sables mouvants, que pensez-vous de celui-ci?</item>
+        <item>"Les gens sans vergogne, sont vraiment à l'aise"</item>
+        <item>Le soleil brille sur ses épaules, comme si elle était née libre</item>
+        <item>Et si notre rencontre, pouvait être considérée comme un soulagement!</item>
+        <item>Sao Lang a également besoin de capitaux</item>
     </string-array>
     <string-array name="constellations">
         <item>Bélier</item>
@@ -89,27 +89,27 @@
         <item>Cancer</item>
         <item>Lion</item>
         <item>Vierge</item>
-        <item>Libra</item>
+        <item>Balance</item>
         <item>Scorpion</item>
         <item>Sagittaire</item>
         <item>Capricorne</item>
-        <item>Aquarius</item>
+        <item>Verseau</item>
         <item>Poisson</item>
     </string-array>
     <string-array name="contacts_batch">
         <item>Ajouter plusieurs contacts</item>
     </string-array>
     <string-array name="copy_to_clipboard">
-        <item>Copy</item>
+        <item>Copier</item>
     </string-array>
     <string-array name="correlation">
-        <item>Schoolmate</item>
-        <item>Colleague</item>
-        <item>Company</item>
-        <item>新浪微博好友</item>
-        <item>人人网好友</item>
-        <item>From your hometown</item>
-        <item>From your industry</item>
+        <item>Camarade de classe</item>
+        <item>Collègue</item>
+        <item>Entreprise</item>
+        <item>Amis Sina Weibo</item>
+        <item>Amis Facebook</item>
+        <item>De votre ville natale</item>
+        <item>De votre société</item>
     </string-array>
     <string-array name="default_smiley_texts">
         <item>hi~</item>
@@ -151,7 +151,7 @@
     </string-array>
     <string-array name="discovery_filter">
         <item>Filles à proximité</item>
-        <item>Garçcon à proximité</item>
+        <item>Garçons à proximité</item>
         <item>Groupe à proximité</item>
         <item>Les amis communs</item>
         <item>Lieux à proximité</item>
@@ -167,30 +167,30 @@
     </string-array>
     <string-array name="education">
         <item>Professionnelle</item>
-        <item>Undergraduate</item>
+        <item>Étudiant</item>
         <item>Masters</item>
         <item>PhD</item>
     </string-array>
     <string-array name="effect_name">
         <item>Tonal</item>
         <item>Noir</item>
-        <item>Bright</item>
-        <item>Fresh</item>
+        <item>Brillant</item>
+        <item>Frais</item>
         <item>Film</item>
-        <item>Process</item>
+        <item>Procédé</item>
         <item>Vibrant</item>
-        <item>Transfer</item>
+        <item>Transfert</item>
     </string-array>
     <string-array name="find_friend_operations">
         <item>Supprimer</item>
     </string-array>
     <string-array name="find_group_title_filter">
-        <item>Tout</item>
+        <item>Tous</item>
         <item>Camarades de classe</item>
         <item>Collègues</item>
     </string-array>
     <string-array name="find_muc_selected">
-        <item>Tout</item>
+        <item>Tous</item>
         <item>Camarades de classe</item>
         <item>Collègues</item>
         <item>Intérêts</item>
@@ -198,7 +198,7 @@
     </string-array>
     <string-array name="get_password">
         <item>Réinitialiser mot de passe</item>
-        <item>Réinitialiser le mot de passe par le biais du mobiles</item>
+        <item>Réinitialiser le mot de passe par le biais du mobile</item>
         <item>Réinitialiser le mot de passe par e-mail</item>
     </string-array>
     <string-array name="get_password_no_phone">
@@ -218,7 +218,7 @@
         <item>Médias</item>
         <item>Finance</item>
         <item>Service</item>
-        <item>Freelancer</item>
+        <item>Freelance</item>
         <item>Agriculture</item>
         <item>Immobilier</item>
         <item>Transport</item>
@@ -230,33 +230,33 @@
         <item>Inviter par mail</item>
     </string-array>
     <string-array name="midschool">
-        <item>Junior High</item>
-        <item>High School</item>
+        <item>École élémentaire/primaire</item>
+        <item>Lycée</item>
     </string-array>
     <string-array name="ml_webview_long_click">
         <item>"Agrandir l'image"</item>
-        <item>Envoyer au contacts</item>
+        <item>Envoyer aux contacts</item>
         <item>Partager avec un groupe</item>
-        <item>Partager sur RSS</item>
+        <item>Partager via flux RSS</item>
     </string-array>
     <string-array name="ml_webview_more">
-        <item>Envoyer au contacts</item>
-        <item>Partager sur RSS</item>
+        <item>Envoyer aux contacts</item>
+        <item>Partager via flux RSS</item>
         <item>Copier le lien</item>
         <item>Ouvrir dans le navigateur</item>
-        <item>Paramètres de police</item>
+        <item>Paramètres de la police</item>
     </string-array>
     <string-array name="ml_webview_more_withnamecard">
-        <item>Envoyer au contacts</item>
-        <item>Partager sur RSS</item>
+        <item>Envoyer aux contacts</item>
+        <item>Partager via flux RSS</item>
         <item>Copier le lien</item>
         <item>Ouvrir dans le navigateur</item>
-        <item>Paramètres de police</item>
+        <item>Paramètres de la police</item>
         <item>Carte de visite</item>
     </string-array>
     <string-array name="ml_webview_share">
-        <item>Envoyer au contacts</item>
-        <item>Partager sur RSS</item>
+        <item>Envoyer aux contacts</item>
+        <item>Partager via flux RSS</item>
     </string-array>
     <string-array name="month">
         <item>Janvier</item>
@@ -296,13 +296,13 @@
         <item>Supprimer</item>
     </string-array>
     <string-array name="namecard_inform_choices">
-        <item>Personal Attact</item>
+        <item>Attaque Personnelle</item>
         <item>Arnaque</item>
         <item>Autre</item>
     </string-array>
     <string-array name="namecard_photo_choices">
         <item>Agrandir</item>
-        <item>Make this default</item>
+        <item>Mettre par défault</item>
         <item>Reprendre</item>
         <item>Galerie Photo</item>
         <item>Supprimer</item>
@@ -314,7 +314,7 @@
     </string-array>
     <string-array name="namecard_school_choices">
         <item>Université</item>
-        <item>Ecole secondaire</item>
+        <item>École secondaire</item>
     </string-array>
     <string-array name="namecard_sex_choices">
         <item>Homme</item>
@@ -364,9 +364,9 @@
         <item>ff00ff</item>
     </string-array>
     <string-array name="pref_locale_choices">
-        <item>en</item>
-        <item>zh_cn</item>
-        <item>default_locale</item>
+        <item>Anglais</item>
+        <item>Chinois</item>
+        <item>Système</item>
     </string-array>
     <string-array name="pref_locale_name_choices">
         <item>Anglais</item>
@@ -374,11 +374,11 @@
         <item>Langue du système</item>
     </string-array>
     <string-array name="pref_muc_notification_choices">
-        <item>NOT NOTIFY</item>
-        <item>NOTIFY</item>
-        <item>ONE MINUTE</item>
-        <item>TEN MINUTES</item>
-        <item>ONE HOUR</item>
+        <item>AUCUNE NOTIFICATIONS</item>
+        <item>NOTIFICATIONS</item>
+        <item>UNE MINUTE</item>
+        <item>DIX MINUTES</item>
+        <item>UNE HEURE</item>
     </string-array>
     <string-array name="pref_notification_choices">
         <item>Désactivé</item>
@@ -397,18 +397,18 @@
         <item>1</item>
     </string-array>
     <string-array name="pref_privacy_search_type_name">
-        <item>Use Mi ID/name/school/company</item>
-        <item>Use Mi ID</item>
+        <item>Utiliser Identifiant Mi/nom/école/société</item>
+        <item>Utiliser Identifiant Mi</item>
     </string-array>
     <string-array name="pref_video_recording_choices">
-        <item>Low data use mode</item>
-        <item>Data save mode</item>
-        <item>High quality mode</item>
+        <item>Mode Données Faibles</item>
+        <item>Mode Économie de Données</item>
+        <item>Mode Haute Qualité</item>
     </string-array>
     <string-array name="property_choices">
-        <item>Experience</item>
-        <item>Education</item>
-        <item>Interests</item>
+        <item>Expériences</item>
+        <item>Éducation</item>
+        <item>Intérêts</item>
     </string-array>
     <string-array name="remind_repeat_mode_week_days">
         <item>Lun.</item>
@@ -429,90 +429,90 @@
         <item>Dim.</item>
     </string-array>
     <string-array name="report_account_array">
-        <item>My Mitalk ID is（）,failed to log in</item>
-        <item>Forget my password ,How to retrieve ?</item>
-        <item>Bind failed</item>
+        <item>Mon identifiant Mitalk est（）, échec de la connexion</item>
+        <item>Mot de passe, Comment faire pour le récupérer ?</item>
+        <item>Connexion échouée</item>
     </string-array>
     <string-array name="report_bbs_array">
-        <item>Failed to post on（）</item>
-        <item>Failed to read the post</item>
-        <item>Failed to load image</item>
+        <item>Échec pour poster sur （）</item>
+        <item>Impossible de lire le post</item>
+        <item>"Impossible de charger l'image"</item>
     </string-array>
     <string-array name="report_card_array">
-        <item>Profile photo not showing</item>
-        <item>Failed to upload profile photo</item>
+        <item>"La photo du profil ne s'affiche pas"</item>
+        <item>Impossible de télécharger la photo du profil</item>
     </string-array>
     <string-array name="report_expression_array">
-        <item>Vote to have（）expression</item>
-        <item>Expression missing prompt</item>
-        <item>Need to add expressions in common use</item>
+        <item>"Voter pour ajouter l'expression ( )"</item>
+        <item>Expression manquante</item>
+        <item>"Besoin d'ajouter des expressions courantes"</item>
     </string-array>
     <string-array name="report_game_array">
-        <item>（）Failed to login</item>
-        <item>（）Top-up failed</item>
-        <item>（）Gift code error</item>
-        <item>（）Failed to install the game</item>
-        <item>（）Crashed</item>
+        <item>"（）Impossible de s'identifier"</item>
+        <item>（）Échec</item>
+        <item>（）Erreur de code cadeau</item>
+        <item>"（）Impossible d'installer le jeu"</item>
+        <item>（）Planté</item>
     </string-array>
     <string-array name="report_gift_array">
-        <item>Failed to download Mini Miner assets</item>
-        <item>Failed to get Mini Miner rewards</item>
-        <item>Failed to mine any ore</item>
+        <item>Impossible de télécharger les actifs Mini Miner</item>
+        <item>"Impossible d'obtenir des récompenses dans Mini Miner"</item>
+        <item>"Impossible d'exploiter les minerais"</item>
     </string-array>
     <string-array name="report_group_array">
-        <item>Failed to invite a friend</item>
-        <item>Failed to load history</item>
+        <item>"Impossible d'inviter un ami"</item>
+        <item>"Impossible de charger l'historique"</item>
     </string-array>
     <string-array name="report_mall_array">
-        <item>Failed to load（）</item>
-        <item>Failed to check the order</item>
+        <item>Impossible de charger（）</item>
+        <item>Impossible de vérifier la commande</item>
     </string-array>
     <string-array name="report_music_array">
-        <item>Music not continuous</item>
-        <item>Failed to add a song</item>
+        <item>Musique non continue</item>
+        <item>"Impossible d'ajouter une chanson"</item>
     </string-array>
     <string-array name="report_nearby_array">
-        <item>Failed to refresh Nearby</item>
-        <item>Failed to check Nearby</item>
-        <item>Failed to select from Nearby</item>
+        <item>Impossible de rafraîchir "à proximité"</item>
+        <item>Impossible de vérifier "à proximité"</item>
+        <item>Impossible de choisir parmi "à proximité</item>
     </string-array>
     <string-array name="report_net_array">
-        <item>Login failed</item>
-        <item>No network connections</item>
-        <item>Failed to send message</item>
-        <item>Failed to receive message</item>
+        <item>Connexion échouée</item>
+        <item>Aucunes connexions réseau</item>
+        <item>"Échec d'envoi du message"</item>
+        <item>Échec de réception du message</item>
     </string-array>
     <string-array name="report_talk_array">
-        <item>Failed to load photo</item>
-        <item>Hard to switch chats</item>
-        <item>Inaccurate positioning</item>
+        <item>Impossible de charger la photo</item>
+        <item>Difficile de changer de groupe de discussion</item>
+        <item>Positionnement inexacte</item>
     </string-array>
     <string-array name="report_vote_array">
-        <item>Failed to refresh voting list</item>
-        <item>Voting result display error</item>
-        <item>Failed to comment on voting</item>
+        <item>"Échec d'actualisation de la liste de vote"</item>
+        <item>"Erreur d'affichage de résultat des votes"</item>
+        <item>Impossible de commenter le vote</item>
     </string-array>
     <string-array name="report_wall_array">
-        <item>Failed to send newsfeed</item>
-        <item>Failed to comment</item>
-        <item>Failed to refresh</item>
+        <item>"Échec d'envoi du flux RSS"</item>
+        <item>Impossible de commenter</item>
+        <item>"Impossible d'actualiser"</item>
     </string-array>
     <string-array name="report_xiaoice_array">
-        <item>No reply from Xiaoice</item>
-        <item>Failed to get Xiaoice code</item>
-        <item>Xiaoice adoption error</item>
+        <item>Pas de réponse de Xiaoice</item>
+        <item>"Impossible d'obtenir le code Xiaoice"</item>
+        <item>"Erreur d'adoption Xiaoice"</item>
     </string-array>
     <string-array name="school_choices">
         <item>Université</item>
-        <item>Junior high</item>
-        <item>High school</item>
+        <item>École élémentaire/primaire</item>
+        <item>Lycée</item>
     </string-array>
     <string-array name="select_archive">
         <item>Ajouter un ami</item>
         <item>Ajouter un groupe</item>
     </string-array>
     <string-array name="send_card_types">
-        <item>Contacts mobiles</item>
+        <item>Contacts du téléphone</item>
         <item>Amis</item>
         <item>Groupes</item>
         <item>Abonnements</item>
@@ -520,13 +520,13 @@
     <string-array name="send_photo_types">
         <item>Prendre une photo</item>
         <item>Choisir une photo</item>
-        <item>Gribouillage</item>
+        <item>Dessiner</item>
         <item>Capture GIF</item>
     </string-array>
     <string-array name="send_photo_types_for_muc">
         <item>Prendre une photo</item>
         <item>Choisir une photo</item>
-        <item>Gribouillage</item>
+        <item>Dessiner</item>
     </string-array>
     <string-array name="send_video_types">
         <item>Prendre une vidéo</item>
@@ -1100,51 +1100,51 @@
         <item>hotmail.com</item>
     </string-array>
     <string-array name="system_share">
-        <item>Share with friends</item>
-        <item>Share to Union</item>
-        <item>Share on Newsfeed</item>
+        <item>Partager avec des amis</item>
+        <item>Partager avec le groupe</item>
+        <item>Partager via flux RSS</item>
     </string-array>
     <string-array name="system_share_nowall">
-        <item>Share with friends</item>
-        <item>Share to Union</item>
+        <item>Partager avec des amis</item>
+        <item>Partager avec le groupe</item>
     </string-array>
     <string-array name="system_share_recent_wall">
-        <item>转发给好友</item>
-        <item>转发到广播</item>
+        <item>Partager avec des amis</item>
+        <item>Partager avec le groupe</item>
     </string-array>
     <string-array name="visible">
-        <item>Show to all</item>
-        <item>Show to contacts</item>
-        <item>Hide</item>
+        <item>Montrer à tout le monde</item>
+        <item>Montrer auc contacts</item>
+        <item>Cacher</item>
     </string-array>
     <string-array name="wall_operations">
-        <item>Report</item>
-        <item>Block</item>
+        <item>Rapporter</item>
+        <item>Bloquer</item>
     </string-array>
     <string-array name="context_anim_1">
-        <item>新年快乐</item>
-        <item>春节快乐</item>
-        <item>恭喜发财</item>
-        <item>新春快乐</item>
-        <item>阖家欢乐</item>
-        <item>吉祥如意</item>
-        <item>万事如意</item>
-        <item>心想事成</item>
-        <item>元旦快乐</item>
-        <item>happy new year</item>
+        <item>Bonne année</item>
+        <item>Bonne année</item>
+        <item>Kung Hei Fat Choy (Bonne année en chinois)</item>
+        <item>Bonne année</item>
+        <item>Bonnes vacances</item>
+        <item>Bonne chance</item>
+        <item>Bonne chance</item>
+        <item>Fait de beaux rêves</item>
+        <item>Bonne année</item>
+        <item>Bonne année</item>
     </string-array>
     <string-array name="context_anim_10">
-        <item>吃药</item>
-        <item>放弃治疗</item>
-        <item>药不能停</item>
+        <item>Traitement</item>
+        <item>Abandonner le traitement</item>
+        <item>Le traitement ne peut pas être arrêté</item>
     </string-array>
     <string-array name="context_anim_11">
-        <item>天气不错</item>
-        <item>天气晴朗</item>
-        <item>好天气</item>
-        <item>今天心情不错</item>
-        <item>风和日丽</item>
-        <item>心情大好</item>
+        <item>Beau temps</item>
+        <item>Ensoleillée</item>
+        <item>Temps agréable</item>
+        <item>"De bonne humeur aujourd'hui"</item>
+        <item>Ensoleillée</item>
+        <item>Humeur</item>
     </string-array>
     <string-array name="context_anim_12">
         <item>节日快乐</item>
