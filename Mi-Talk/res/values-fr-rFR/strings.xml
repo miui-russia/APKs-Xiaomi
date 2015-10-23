@@ -69,7 +69,7 @@
     <string name="action_button_post">Poster</string>
     <string name="action_button_scan">Scanner</string>
     <string name="action_button_send_msg">Nouveau message</string>
-    <string name="action_button_vip_edit">Editer</string>
+    <string name="action_button_vip_edit">Éditer</string>
     <string name="activiate_email_sent">"S'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
 
 Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot de passe qu'après avoir confirmer vos informations mail."</string>
@@ -615,7 +615,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="compane_mail_validated">"Courriel d'entreprise validé"</string>
     <string name="company">Société</string>
     <string name="company_empty_hits">Pas de résultats pour %s. Pour la créer, appuyez sur le bouton ci-dessous !</string>
-    <string name="company_info">Société</string>
+    <string name="company_info">Société</string>D
     <string name="company_info_exist">"Cette information de l'entreprise existe déjà."</string>
     <string name="company_name_invalid">"S'il vous plaît entrez entre 3–100 caractères. le nom doit inclure seulement des caractères, des espaces et des chiffres."</string>
     <string name="company_num_invalid">Max. 5 compagnies</string>
@@ -3384,8 +3384,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="private_group">Groupe privé</string>
     <string name="private_group_annouce_hint">Groupe annoncer</string>
     <string name="private_group_change_group_announce">Modifier panneau d\'information</string>
-    <string name="private_group_input_announce_tips">Edit Group Announce</string>
-    <string name="private_group_list_not_in_tips">You are no longer in this group. Would you like to delete it?</string>
+    <string name="private_group_input_announce_tips">"Modifier l'annonce du groupe"</string>
+    <string name="private_group_list_not_in_tips">Vous ne faites plus parti de ce groupe. Souhaitez-vous le supprimer?</string>
     <string name="private_group_not_member">Vous ne faites plus partie de ce groupe</string>
     <string name="private_group_setting_announce_input_tips">Envoyer des messages pour l\'ensemble du groupe</string>
     <string name="private_group_setting_transfer_condition">Conditions</string>
@@ -3986,7 +3986,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="share_file_to_friends">Transmettre à des amis</string>
     <string name="share_file_to_groups">Transmettre au groupe</string>
     <string name="share_file_to_miqun">Partager avec des groupes</string>
-    <string name="share_file_to_recent">Forward to friends</string>
+    <string name="share_file_to_recent">Partager avec des amis</string>
     <string name="share_file_to_wall">Transmettre à mon RSS</string>
     <string name="share_file_to_walls">Poster</string>
     <string name="share_hint">Dites quelque chose</string>
@@ -4008,7 +4008,7 @@ groupes et rejoignez-nous etc."</string>
 @Mi-Talk"</string>
     <string name="share_to">Partager</string>
     <string name="share_to_compose">Envoyé aux amis</string>
-    <string name="share_to_friend">Partager avec des friends</string>
+    <string name="share_to_friend">Partager avec des amis</string>
     <string name="share_to_friends">Envoyer aux amis</string>
     <string name="share_to_miliao">Partager sur Mi-Talk</string>
     <string name="share_to_union">Partager dans avec le groupe</string>
@@ -4830,7 +4830,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="wall_reply_other_comment">Commenter</string>
     <string name="wall_replying">Écris…</string>
     <string name="wall_retry">Renvoyer</string>
-    <string name="wall_send_doodle_btn">Doodle</string>
+    <string name="wall_send_doodle_btn">Dessiner</string>
     <string name="wall_send_failed">Échec</string>
     <string name="wall_send_gif_btn">GIF</string>
     <string name="wall_send_photo_btn">Galerie</string>
@@ -5076,8 +5076,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="subscribe_119_nickname">Blagues</string>
     <string name="switch_off" />
     <string name="switch_on" />
-    <string name="update_member_count_titlebar">Update %s member count</string>
-    <string name="upload_muc_avarter">Upload MUC Image</string>
+    <string name="update_member_count_titlebar"> %s membres mis à jour</string>
+    <string name="upload_muc_avarter">Télécharger Image MUC</string>
     <string name="weibo_upgrade_image_url">http://lxcdn.dl.files.xiaomi.net/mfsv2/download/s010/p01DV6mtwyy2/S9Tslpq3qs95pX.jpg</string>
     <string name="weibo_upgrade_msg">\#2015 nouveau design flat pour le système de tchat, nouveaux modes, interface simplifiée, un contenu riche et un gameplay ! Prise en charge des F-code, communautés Mi, chansons thème, jeux pour jouer avec vos amis ! Amusant, ayez des conversations agréable, jouez ensemble !http://www.miliao.com#</string>
 </resources>
