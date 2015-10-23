@@ -374,11 +374,11 @@
         <item>Langue du système</item>
     </string-array>
     <string-array name="pref_muc_notification_choices">
-        <item>AUCUNE NOTIFICATIONS</item>
-        <item>NOTIFICATIONS</item>
-        <item>UNE MINUTE</item>
-        <item>DIX MINUTES</item>
-        <item>UNE HEURE</item>
+        <item>NOT NOTIFY</item>
+        <item>NOTIFY</item>
+        <item>ONE MINUTE</item>
+        <item>TEN MINUTES</item>
+        <item>ONE HOUR</item>
     </string-array>
     <string-array name="pref_notification_choices">
         <item>Désactivé</item>
@@ -1147,57 +1147,57 @@
         <item>Humeur</item>
     </string-array>
     <string-array name="context_anim_12">
-        <item>节日快乐</item>
-        <item>元宵节快乐</item>
-        <item>植树节快乐</item>
-        <item>愚人节快乐</item>
-        <item>端午节快乐</item>
-        <item>中秋快乐</item>
-        <item>中秋节快乐</item>
+        <item>Joyeuses Fêtes</item>
+        <item>Bonne Fête des Lanternes</item>
+        <item>Bonne Fête de l'arbre</item>
+        <item>"Joyeux Poisson d'Avril"</item>
+        <item>Bonne Fête des bateaux dragons</item>
+        <item>"Joyeux Festival de l'Automne"</item>
+        <item>"Joyeux Festival de l'Automne"</item>
     </string-array>
     <string-array name="context_anim_2">
-        <item>生日快乐</item>
-        <item>生快</item>
-        <item>happy birthday</item>
+        <item>Joyeux anniversaire</item>
+        <item>Joyeux anniversaire</item>
+        <item>Joyeux anniversaire</item>
     </string-array>
     <string-array name="context_anim_3">
-        <item>一生一世</item>
-        <item>爱你</item>
+        <item>Pour la vie</item>
+        <item>Aimez-vous</item>
         <item>1314</item>
-        <item>love you</item>
+        <item>Aimez-vous</item>
     </string-array>
     <string-array name="context_anim_4">
-        <item>情人节快乐</item>
-        <item>七夕快乐</item>
-        <item>妇女节快乐</item>
-        <item>三八妇女节</item>
-        <item>"happy valentine's day"</item>
+        <item>Bonne Saint-Valentin</item>
+        <item>Bonne Saint-Valentin</item>
+        <item>Bonne Journée de la femme</item>
+        <item>Journée internationale de la femme</item>
+        <item>Bonne Saint-Valentin</item>
     </string-array>
     <string-array name="context_anim_5">
-        <item>教师节快乐</item>
-        <item>老师辛苦了</item>
-        <item>老师节日快乐</item>
-        <item>重阳节快乐</item>
-        <item>九九重阳节</item>
+        <item>"Bonne Journée de l'enseignement"</item>
+        <item>"Bonne Journée de l'enseignement"</item>
+        <item>"Joyeuse Fête de l'enseignement"</item>
+        <item>Bonne Fête du Double Neuf</item>
+        <item>Bonne Fête du Double Neuf</item>
     </string-array>
     <string-array name="context_anim_6">
-        <item>圣诞节</item>
-        <item>merry christmas</item>
+        <item>Joyeux Noël</item>
+        <item>Joyeux Noël</item>
     </string-array>
     <string-array name="context_anim_7">
-        <item>国庆节</item>
+        <item>Fête nationale</item>
     </string-array>
     <string-array name="context_anim_8">
-        <item>祝你平安</item>
-        <item>祈福</item>
-        <item>祈祷</item>
-        <item>祝愿</item>
+        <item>Je vous souhaite la paix</item>
+        <item>Souhaiter</item>
+        <item>Souhaiter</item>
+        <item>Souhaiter</item>
     </string-array>
     <string-array name="context_anim_9">
-        <item>干杯</item>
-        <item>喝个痛快</item>
-        <item>喝酒</item>
-        <item>喝一杯</item>
+        <item>Vive</item>
+        <item>Un bon verre</item>
+        <item>Boire</item>
+        <item>Une boisson</item>
     </string-array>
     <string-array name="effect_str">
         <item>effect=xiaomi_skinsoft</item>
