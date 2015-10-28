@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="SDcard_tip_is_full_when_take_photo">您需要清理存储卡才能发送照片 :)</string>
-    <string name="SDcard_tip_when_send_photo">您需要安装存储卡才能发送照片 :)</string>
-    <string name="about_check_update">检查更新</string>
-    <string name="about_developer">开发者选项</string>
-    <string name="about_faq">常见问题</string>
-    <string name="about_faq_content">"请检查WLAN网络是否畅通
- 1.连接智能设备的WLAN的密码是否正确
- 2.网速慢
- 3.不支持WEP和EAP加密方式
- 4.路由器没有接入外网
- 5.公共WLAN网络无法连接
- 6.5G网络无法连接
+    <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
+    <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
+    <string name="about_check_update">Vérifiez les mises à jour</string>
+    <string name="about_developer">Paramètres développeurs</string>
+    <string name="about_faq">F.A.Q.</string>
+    <string name="about_faq_content">"Vérifier si la connexion Wi-Fi est stable
+ 1.Véfiez si la connexion des périphériques intelligents au Wi-Fi est correcte
+ 2.Vitesses de réseau lentes
+ 3.Ne supporte pas le cryptage WEP et EAP
+ 4.Le routeur n'est pas connecté à des réseaux externes
+ 5.Le réseau Wi-Fi public ne peut pas se connecter
+ 6.Le réseau 5G Wi-Fi ne peut pas se connecter
 "</string>
-    <string name="about_faq_link">(查看方法)</string>
-    <string name="about_hight_light">亮点介绍</string>
-    <string name="about_normal">切换到正式环境</string>
-    <string name="about_region">选择区域</string>
-    <string name="about_smarthome_bbs">小米智能家庭论坛</string>
-    <string name="about_test">切换到测试环境</string>
-    <string name="account_login">登录</string>
-    <string name="activity_title_upgrade">更新</string>
-    <string name="add_back_device_error">移出失败，请重试</string>
-    <string name="add_btn_text">添加</string>
-    <string name="add_device">添加设备</string>
-    <string name="add_failed">添加失败,请稍后重试</string>
-    <string name="add_family_member">添加家人</string>
-    <string name="add_family_success">添加成功</string>
-    <string name="add_or_kick_device_failed">操作不成功，请重试</string>
-    <string name="add_other_family">添加其他家人</string>
-    <string name="add_scene">添加场景</string>
-    <string name="add_timer_button">立即添加</string>
-    <string name="add_timer_hint">还没有添加定时哦</string>
+    <string name="about_faq_link">(Voir le F.A.Q.)</string>
+    <string name="about_hight_light">Nouveautés</string>
+    <string name="about_normal">"Passez à l'environnement normal"</string>
+    <string name="about_region">Sélectionnez la région</string>
+    <string name="about_smarthome_bbs">Forums Mi-Home</string>
+    <string name="about_test">"Passez à l'environnement de test"</string>
+    <string name="account_login">Connexion</string>
+    <string name="activity_title_upgrade">Mise à jour</string>
+    <string name="add_back_device_error">"Échec d'ajout de l'appareil，veuillez réessayer"</string>
+    <string name="add_btn_text">Ajouter</string>
+    <string name="add_device">Ajouter un appareil</string>
+    <string name="add_failed">Ajout échoué，veuillez réessayer plus tard</string>
+    <string name="add_family_member">Inviter</string>
+    <string name="add_family_success">Invitation réussie</string>
+    <string name="add_or_kick_device_failed">Opération échouée, veuillez réessayer</string>
+    <string name="add_other_family">"Inviter d'autres personnes"</string>
+    <string name="add_scene">Ajouter une scène</string>
+    <string name="add_timer_button">Ajouter maintenant</string>
+    <string name="add_timer_hint">N'a pas encore été ajouté"</string>
     <string name="air_con_subtitle">%1$s %2$.1f℃</string>
-    <string name="air_error_page_text">手机初次连接或连接不上净化器时，请同时 按下模式键与灯光键5秒，听到“滴滴滴”提示 音后，WLAN重置成功</string>
-    <string name="air_purifier">小米空气净化器</string>
-    <string name="air_purifier_auto">自动</string>
-    <string name="air_purifier_closed">设备关机</string>
-    <string name="air_purifier_high">强风</string>
-    <string name="air_purifier_low">弱风</string>
-    <string name="air_purifier_medium">中风</string>
-    <string name="air_purifier_open">设备开机</string>
+    <string name="air_error_page_text">"Après vous êtes connecté au réseau, appuyez sur le bouton mode et l'interrupteur de la lumière simultanément pendant 5 secondes, pour entendre le Bip, et vérifiez que votre Wi-Fi fonctionne correctement sinon le réinitialiser"</string>
+    <string name="air_purifier">"Purificateur d'air MI"</string>
+    <string name="air_purifier_auto">Automatique</string>
+    <string name="air_purifier_closed">Le purificateur est fermé</string>
+    <string name="air_purifier_high">Fort</string>
+    <string name="air_purifier_low">Faible</string>
+    <string name="air_purifier_medium">Modéré</string>
+    <string name="air_purifier_open">Le purificateur est ouvert</string>
     <string name="air_purifier_pm25">PM2.5</string>
-    <string name="air_purifier_silient">睡眠</string>
-    <string name="air_purifier_strong">高速</string>
-    <string name="air_reset_title_text">空气净化器重置</string>
-    <string name="air_serach_no_device_green_1">净化器绿灯闪烁等待连接</string>
-    <string name="air_serach_no_device_green_2">绿灯常亮设备被占用,请重置</string>
+    <string name="air_purifier_silient">Silencieux</string>
+    <string name="air_purifier_strong">Haute vitesse</string>
+    <string name="air_reset_title_text">"Réinitialiser le purificateur d'air"</string>
+    <string name="air_serach_no_device_green_1">Attendre le voyant vert pour connecter le Purificateur</string>
+    <string name="air_serach_no_device_green_2">"L'appareil est occupé, veuillez le réinitialiser"</string>
     <string name="all_model_latest">所有设备已经是最新版本</string>
     <string name="all_plugin_latest">所有插件已经是最新版本</string>
     <string name="app_curr_version">当前版本：</string>
