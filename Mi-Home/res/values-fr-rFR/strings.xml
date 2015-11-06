@@ -49,7 +49,7 @@
     <string name="air_serach_no_device_green_2">"L'appareil est occupé, veuillez le réinitialiser"</string>
     <string name="all_model_latest">Tous les appareils sont à jour</string>
     <string name="all_plugin_latest">Tous les plug-ins sont à jour</string>
-    <string name="app_curr_version">Version actuelle:</string>
+    <string name="app_curr_version">Version actuelle: </string>
     <string name="app_latest_version_installed">"Félicitations, l'application actuelle est à jour"</string>
     <string name="app_latest_version_installed_smarthome">Vous possédez la dernière version</string>
     <string name="app_name">Mi-Home</string>
@@ -146,8 +146,8 @@
     <string name="client_connect_kuailian">%s connecté</string>
     <string name="client_connect_kuailian_device">Connexion de %s…</string>
     <string name="client_connect_kuailian_green">%s périphériques connectés</string>
-    <string name="client_download_speed_k">%sKo/s</string>
-    <string name="client_download_total">%1$sGo</string>
+    <string name="client_download_speed_k">%s Ko/s</string>
+    <string name="client_download_total">%1$s Go</string>
     <string name="client_info">Détails</string>
     <string name="client_kuailian">Détails</string>
     <string name="client_kuailian_failed">"Impossible d'accéder aux périphériques，veuillez réessayer plus tard"</string>
@@ -176,7 +176,7 @@
     <string name="comment_person">Personnes</string>
     <string name="comment_pic_view_format">%1$s/%2$s</string>
     <string name="comment_product_comments">Avis sur le produit</string>
-    <string name="comment_reply">Répondre\u0009</string>
+    <string name="comment_reply">Répondre</string>
     <string name="comment_reply_detail">Détails des avis</string>
     <string name="comment_reply_format">Répondre %s:</string>
     <string name="comment_reply_hint">Détails réels</string>
@@ -296,7 +296,7 @@
     <string name="device_shop_cart_good_edit_consumption_success">Modification du panier effectuée !</string>
     <string name="device_shop_cart_good_insure_button_title">Assurance complémentaire de ￥%1$s/pièce</string>
     <string name="device_shop_cart_good_insure_title">"Une assurance complémentaire pour protéger votre mobile en cas d'accident"</string>
-    <string name="device_shop_cart_good_single_price"Prix de vente: %1$syuan</string>
+    <string name="device_shop_cart_good_single_price">Prix de vente: %1$syuan</string>
     <string name="device_shop_cart_good_total_price">Total: %1$sYuans</string>
     <string name="device_shop_cart_goto_main_page">Faire des achats</string>
     <string name="device_shop_cart_menu_address_title">Gestion des adresses</string>
@@ -387,7 +387,7 @@
     <string name="device_shop_order_invoice_download">（télécharger）</string>
     <string name="device_shop_order_invoice_title">Facture</string>
     <string name="device_shop_order_invoice_type">Type de facture</string>
-    <string name="device_shop_order_list_no_more">""Obtenir l'ordre"Impossible de charger la commande maintenant"</string>
+    <string name="device_shop_order_list_no_more">Impossible de charger la commande maintenant"</string>
     <string name="device_shop_order_logistics">Afficher le transport</string>
     <string name="device_shop_order_order_list_title">Ma Commande</string>
     <string name="device_shop_order_pay_now">Payer maintenant</string>
@@ -418,7 +418,7 @@
     <string name="device_shop_payment_show_order_title">Détails de la commande</string>
     <string name="device_shop_payment_title">Paiement</string>
     <string name="device_shop_price">￥%1$.2f</string>
-    <string name="device_shop_refresh_ing">RActualisation...</string>
+    <string name="device_shop_refresh_ing">Réactualisation...</string>
     <string name="device_shop_search_box_hint">Rechercher par nom de produit</string>
     <string name="device_shop_search_history_delete_all">Tout supprimer</string>
     <string name="device_shop_search_history_delete_error">"Echec de suppression de l'historique"</string>
@@ -563,7 +563,7 @@
     <string name="intelligent_plug_dunhao">、</string>
     <string name="intelligent_plug_everyday">Tous les jours</string>
     <string name="intelligent_plug_everytime">Hebdomadaire</string>
-    <string name="intelligent_plug_failed">Impossible de définir l'heure, veuillez vérifier votre réseau"</string>
+    <string name="intelligent_plug_failed">Impossible de définir l\'heure, veuillez vérifier votre réseau</string>
     <string name="intelligent_plug_finish">OK</string>
     <string name="intelligent_plug_five">Vendredi</string>
     <string name="intelligent_plug_four">Jeudi</string>
@@ -648,7 +648,7 @@
     <string name="kuailian_network_error">Anomalie réseau</string>
     <string name="kuailian_network_slow">"ot.io.mi.com:53 inaccessible，veuillez contacter votre fournisseur d'accès."</string>
     <string name="kuailian_network_test">Vérifiez le réseau</string>
-    <string name="kuailian_no_passwd"Aucun mot de passe</string>
+    <string name="kuailian_no_passwd">Aucun mot de passe</string>
     <string name="kuailian_rescan_device">Recherhcer à nouveau le périphérique...</string>
     <string name="kuailian_retry_network">Se reconnecter</string>
     <string name="kuailian_save_passwd">Enregistré</string>
@@ -846,7 +846,7 @@
     <string name="miio_not_click_btn">"N'appuyez pas sur le bouton"</string>
     <string name="miio_read_ir_fail">Impossible de lire le code Infrarouge</string>
     <string name="miio_rename_illegal">Veuillez entrer un nom correct</string>
-    <string name="miio_save_db_fail""Impossible d'enregistrer la base de données"</string>
+    <string name="miio_save_db_fail">"Impossible d'enregistrer la base de données"</string>
     <string name="miio_setting_about">À propos</string>
     <string name="miio_setting_bind_detail">Détails de la connexion</string>
     <string name="miio_setting_feedback">"Retour d'expérience"</string>
@@ -1039,7 +1039,7 @@
     <string name="plug_timer_add">Add timer</string>
     <string name="plug_timer_after">After</string>
     <string name="plug_timer_del">Delete timer</string>
-    <string name="plug_timer_delete">Delete</string>
+    <string name="plug_timer_delete">Supprimer</string>
     <string name="plug_timer_everyday">Every day</string>
     <string name="plug_timer_friday">Friday</string>
     <string name="plug_timer_illegal">Start time and end time are the same, set again</string>
@@ -1071,12 +1071,12 @@
     <string name="plug_usb_closed">USB off</string>
     <string name="plug_usb_open">USB on</string>
     <string name="plugin">Plug-ins</string>
-    <string name="plugin_auto_update">Auto Update</string>
-    <string name="plugin_auto_update_detail">Automatically download new plugin</string>
+    <string name="plugin_auto_update">Mise à jour auto</string>
+    <string name="plugin_auto_update_detail">Télécharger automatiquement les nouveaux plugin</string>
     <string name="plugin_download_fail">"Couldn't download"</string>
     <string name="plugin_download_not_found">Plug-ins not found</string>
     <string name="plugin_download_success">Downloaded</string>
-    <string name="plugin_downloading">Downloading</string>
+    <string name="plugin_downloading">Téléchargement</string>
     <string name="plugin_install_fail">"Couldn't install"</string>
     <string name="plugin_install_success">Installed</string>
     <string name="plugin_installing">Installing</string>
@@ -1085,8 +1085,8 @@
     <string name="plugin_update_immediately">Update now</string>
     <string name="plugin_update_success">Updated</string>
     <string name="preparing_card">Preparing SD card…</string>
-    <string name="prev_button">Back</string>
-    <string name="previous_button">Back</string>
+    <string name="prev_button">Retour</string>
+    <string name="previous_button">Retour</string>
     <string name="processing">Working…</string>
     <string name="proposal_feedback">Your suggestions</string>
     <string name="publish_progress_message">Submitting…</string>
@@ -1145,7 +1145,7 @@
     <string name="remote_control_one">1</string>
     <string name="remote_control_pause">Pause</string>
     <string name="remote_control_restudy_title">Assign buttons</string>
-    <string name="remote_control_return">Back</string>
+    <string name="remote_control_return">Retour</string>
     <string name="remote_control_right">Right</string>
     <string name="remote_control_seven">7</string>
     <string name="remote_control_six">6</string>
@@ -1170,7 +1170,7 @@
     <string name="rom_upgrade_new_version">New version available</string>
     <string name="rom_upgrade_now">Update now</string>
     <string name="rom_upgrade_title">System updates</string>
-    <string name="router_apk_is_downloading">Downloading app…</string>
+    <string name="router_apk_is_downloading">Téléchargement app…</string>
     <string name="router_bind_account_title">Enter Mi Router admin password to complete</string>
     <string name="router_button_to_download">Open</string>
     <string name="router_button_to_install">Install now</string>
@@ -1179,12 +1179,12 @@
     <string name="router_disk">Router storage</string>
     <string name="router_disk_info">Available storage</string>
     <string name="router_download_des">Manage your router from your phone</string>
-    <string name="router_download_progress">Downloading %1$d%%</string>
+    <string name="router_download_progress">Téléchargement %1$d%%</string>
     <string name="router_download_title">Mi Router app</string>
-    <string name="router_downloaded">Downloaded</string>
-    <string name="router_downloaded_info">Downloaded %1$d items</string>
-    <string name="router_downloading">Downloading</string>
-    <string name="router_downloading_info">Downloading %1$d items</string>
+    <string name="router_downloaded">Télécharger</string>
+    <string name="router_downloaded_info">Downloaded %1$d fichiers</string>
+    <string name="router_downloading">Téléchargement</string>
+    <string name="router_downloading_info">Téléchargement %1$d fichiers</string>
     <string name="router_guide_tip1_desc">Detect network interference and see dangerous devices</string>
     <string name="router_guide_tip1_title">"Don't like network interference?"</string>
     <string name="router_guide_tip2_desc">Download Blu-ray quality moviesand watch offline</string>
@@ -1252,19 +1252,19 @@
     <string name="select_device_title">Choose devices to connect</string>
     <string name="select_from_camera">Take photo</string>
     <string name="select_local_picture">Choose from Gallery</string>
-    <string name="send_log">Send log file</string>
+    <string name="send_log">Envoyer le journal</string>
     <string name="serach_no_device_blue">If blue light is stedy, the device is being used, you can reset it (learn how)</string>
     <string name="serach_no_device_red">If red light is steady, the device is starting, wait a moment</string>
     <string name="serach_no_device_title">New devices not found, check LED light on the device</string>
     <string name="serach_no_device_yellow">If yellow light is flashing, you can add the device</string>
-    <string name="setting">Settings</string>
+    <string name="setting">Paramètres</string>
     <string name="setting_detail_device">Connected: %1$s    Shared: %2$s    Other: %3$s</string>
     <string name="setting_home_wifi">Set up home Wi-Fi</string>
     <string name="setting_logout">Sign out</string>
     <string name="setting_logout_message">Sign out now?</string>
     <string name="setting_logout_waiting">Signing out…</string>
     <string name="setting_menu_advanced_setting">Advanced settings</string>
-    <string name="setting_menu_feedback">Feedback</string>
+    <string name="setting_menu_feedback">Commantaires</string>
     <string name="setting_menu_logout">Sign out</string>
     <string name="setting_menu_network_diagnosis">Network detection</string>
     <string name="setting_menu_upgrade">Updates</string>
@@ -1354,7 +1354,7 @@
     <string name="smarthome_device_delete_confirm">"Are you sure you want to delete %s's permissions?"</string>
     <string name="smarthome_device_delete_fail">"Couldn't delete"</string>
     <string name="smarthome_device_delete_launcher">Delete Home screen shortcut</string>
-    <string name="smarthome_device_delete_share">Delete</string>
+    <string name="smarthome_device_delete_share">Supprimer</string>
     <string name="smarthome_device_delete_success">Deleted</string>
     <string name="smarthome_device_device">Share</string>
     <string name="smarthome_device_get_subdevice_error">"Couldn't find device, try again"</string>
@@ -1394,7 +1394,7 @@
     <string name="smarthome_record_video_for_play">Record a video</string>
     <string name="smarthome_remote_mibo1_home">Home</string>
     <string name="smarthome_remote_mibo1_menu">Menu</string>
-    <string name="smarthome_remote_mibo1_return">Back</string>
+    <string name="smarthome_remote_mibo1_return">Retour</string>
     <string name="smarthome_scene">Location Mode</string>
     <string name="smarthome_scene_24_hour">24 hours</string>
     <string name="smarthome_scene_add_condition">Add conditions</string>
@@ -1506,7 +1506,7 @@
     <string name="smarthome_scene_toggle">On/Off</string>
     <string name="smarthome_scene_undefine">"Don't set"</string>
     <string name="smarthome_scene_update_fail">"Couldn't update, try again"</string>
-    <string name="smarthome_scene_update_succ">Settings updated</string>
+    <string name="smarthome_scene_update_succ">Paramètres mise à jour</string>
     <string name="smarthome_scene_updating_scene">Updating Location mode settings</string>
     <string name="smarthome_scene_wan_disconnect_processing">Working…</string>
     <string name="smarthome_score">Mi Home index</string>
@@ -1557,9 +1557,9 @@
     <string name="smarthome_upload_video_for_play">Upload from phone</string>
     <string name="some_device_bind_error">"Couldn't talk to several devices, make sure the devices aren't managed by other accounts"</string>
     <string name="splash_copy_right">Copyright 2014-2015 ©Mi Home</string>
-    <string name="splash_mi_home">Mi Home</string>
-    <string name="splash_promotion_jump">Skip</string>
-    <string name="start_upload_media_files">Start</string>
+    <string name="splash_mi_home">Mi-Home</string>
+    <string name="splash_promotion_jump">Suivant</string>
+    <string name="start_upload_media_files">Démarrer</string>
     <string name="status_error_cable_not_plugin_body">Check your Internet connection</string>
     <string name="storage_feedback">Router storage</string>
     <string name="sunday">Sunday</string>
@@ -1569,11 +1569,11 @@
     <string name="tab_title_app_update">App</string>
     <string name="tab_title_model_update">Firmware</string>
     <string name="tab_title_plugin_update">Plug-ins</string>
-    <string name="terminal_feedback">Device</string>
+    <string name="terminal_feedback">Appareil</string>
     <string name="ths_feed">Your feedback is vital for us</string>
     <string name="thursday">Thursday</string>
     <string name="timer_title">Timers</string>
-    <string name="title_person_info">Personal info</string>
+    <string name="title_person_info">Info personnelle</string>
     <string name="toast_lock_switch_failed">"Couldn't complete operation, check network connection"</string>
     <string name="try_barcode_connection">Use QR code</string>
     <string name="try_barcode_info">QR code setup is currently supported in the night vision version only. The latest version of firmware is required.</string>
@@ -1599,7 +1599,7 @@
     <string name="upgrade_no_new_version_hint">Current version</string>
     <string name="upgrade_pkg_downloaded_title_smarthome">Updating…</string>
     <string name="upgrade_pkg_downloading_title2_smarthome">Updates available, downloading…</string>
-    <string name="upgrade_pkg_downloading_title_smarthome">Downloading updates</string>
+    <string name="upgrade_pkg_downloading_title_smarthome">Téléchargement mise à jour</string>
     <string name="upgrading_error">"Couldn't update, check network connection"</string>
     <string name="upload_type">Upload file type</string>
     <string name="uploading_head_icon">Uploading profile pic…</string>
@@ -1819,15 +1819,15 @@
  Revision of privacy policies
  The privacy policies may be revised. Without your express consent, we will not rescind the rights you enjoy according to this privacy policy, unless we send you notice via the email address you provided to us or if we have made a public announcement on our website.
 "</string>
-    <string name="user_license_btn_text">Terms of Use and Privacy Policy</string>
-    <string name="version_name_string">Current version: %s</string>
-    <string name="videos_group_name_x_num_x" formatted="false">%s | %d items</string>
+    <string name="user_license_btn_text">Conditions d\'utilisation et Politique de Confidentialité</string>
+    <string name="version_name_string">Version actuelle: %s</string>
+    <string name="videos_group_name_x_num_x" formatted="false">%s | %d fichiers</string>
     <string name="visible_in_main_device_list">Add to device list</string>
-    <string name="waiting_for_update">Waiting…</string>
+    <string name="waiting_for_update">Patienter…</string>
     <string name="water_purifier">Water purifier</string>
     <string name="water_purifier_subtitle">Tap water TDS: %1$d</string>
     <string name="weak_device_signal">Weak signal</string>
-    <string name="web_shell_loading">Loading…</string>
+    <string name="web_shell_loading">Chargement…</string>
     <string name="wednesday">Wednesday</string>
     <string name="welcome_i_known">OK</string>
     <string name="wifi_available_title">Available networks</string>
@@ -1892,8 +1892,8 @@
     <string name="yeelight_beach">Beach</string>
     <string name="yeelight_bright_value">Brightness:</string>
     <string name="yeelight_btn_save">Save</string>
-    <string name="yeelight_btn_txt_back">Back</string>
-    <string name="yeelight_btn_txt_del">Delete</string>
+    <string name="yeelight_btn_txt_back">Retour</string>
+    <string name="yeelight_btn_txt_del">Supprimer</string>
     <string name="yeelight_btn_txt_ok">OK</string>
     <string name="yeelight_color_desc0">White: pure, simple, and elegant. White gives you a feeling of brightness and vigor, and takes you away from daily routine.</string>
     <string name="yeelight_color_desc1">Pink is the color of romance and fantasy. It fills your world with dreams, and takes you to the place where you find love and joy.</string>
@@ -1928,11 +1928,11 @@
     <string name="change_birth_success">生日修改成功</string>
     <string name="change_sex_fail">性别修改失败</string>
     <string name="change_sex_success">性别修改成功</string>
-    <string name="closed">已关闭</string>
-    <string name="device_shop_detail_bottom_crowdfunding_left_time_day">剩余%1$d天</string>
-    <string name="device_shop_detail_bottom_crowdfunding_left_time_hour">剩余%1$d小时</string>
-    <string name="device_shop_detail_bottom_crowdfunding_left_time_minute">剩余%1$d分钟</string>
-    <string name="device_shop_detail_bottom_crowdfunding_left_time_second">剩余%1$d秒</string>
+    <string name="closed">Quitter</string>
+    <string name="device_shop_detail_bottom_crowdfunding_left_time_day">Reste %1$d jours</string>
+    <string name="device_shop_detail_bottom_crowdfunding_left_time_hour">Reste %1$d heures</string>
+    <string name="device_shop_detail_bottom_crowdfunding_left_time_minute">Reste %1$d minutes</string>
+    <string name="device_shop_detail_bottom_crowdfunding_left_time_second">Reste %1$d secondes</string>
     <string name="device_shop_detail_crowdfunding_success">项目已经众筹成功</string>
     <string name="device_shop_dialog_crowdfunding_left_number">还有%1$s个名额</string>
     <string name="device_shop_dialog_crowdfunding_payback">获得回报</string>
@@ -1998,7 +1998,7 @@
     <string name="cube_ptr_seconds_ago"> seconds ago</string>
     <string name="about_check_update_new">检查更新</string>
     <string name="action_back">返回</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Paramètres</string>
     <string name="add_bracelet_content">是否确认将小米手环添加至“我的设备”列表？</string>
     <string name="add_bracelet_title">添加小米手环</string>
     <string name="all_sleep_time">%1$d小时%2$d分</string>
