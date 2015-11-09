@@ -995,59 +995,59 @@
     <string name="passport_login_retry_other_passport"><u>Utilisez un autre compte Mi</u></string>
     <string name="passport_login_retry_prompt">Continuez à utiliser ce compte Mi?</string>
     <string name="passport_manager">Compte Mi</string>
-    <string name="passport_prompt_login_fail">"Couldn't sign in with your Mi Account"</string>
+    <string name="passport_prompt_login_fail">Vous ne pouvez pas vous connecter à votre compte Mi</string>
     <string name="password_incorrect">Le mot de passe que vous avez entré est incorrect</string>
     <string name="password_invalid">Mot de passe incorrecte</string>
-    <string name="password_must_not_empty">Password required</string>
+    <string name="password_must_not_empty">Entrez votre mot de passe</string>
     <string name="percent_sign">%</string>
-    <string name="photo_lib_can_not_select_any_more">"Can't select more than %d items"</string>
-    <string name="photo_lib_must_select">"You haven't selected any photos"</string>
-    <string name="photo_lib_no_image">No photos</string>
-    <string name="photo_lib_no_image_2">You can take a photo now or select from Gallery</string>
-    <string name="photo_lib_select_lib">Gallery</string>
-    <string name="photo_lib_title">Selected %d items</string>
-    <string name="picker_day">day</string>
-    <string name="picker_hour">hrs</string>
+    <string name="photo_lib_can_not_select_any_more">"Vous pouvez sélectionner jusqu'à %d photos"</string>
+    <string name="photo_lib_must_select">Vous devez choisir une image</string>
+    <string name="photo_lib_no_image">Aucune photo</string>
+    <string name="photo_lib_no_image_2">Vous pouvez prendre des photos ou accéder à la Galerie</string>
+    <string name="photo_lib_select_lib">Galerie</string>
+    <string name="photo_lib_title">%d sélectionnés</string>
+    <string name="picker_day">jour</string>
+    <string name="picker_hour">h</string>
     <string name="picker_minite">min</string>
-    <string name="picker_month">month</string>
-    <string name="picker_year">year</string>
+    <string name="picker_month">mois</string>
+    <string name="picker_year">année</string>
     <string name="pictures_group_name_x_num_x" formatted="false">%s | %d items</string>
-    <string name="please_inpt_account">Enter account ID</string>
-    <string name="please_wait">Just a sec…</string>
+    <string name="please_inpt_account">Veuillez entrez votre Identifiant</string>
+    <string name="please_wait">Veuillez patienter...</string>
     <string name="plug_confirm">OK</string>
-    <string name="plug_confirm_abort">Cancel</string>
-    <string name="plug_device">Plug</string>
-    <string name="plug_device_closed">Plug off</string>
-    <string name="plug_device_closed_short">220V off</string>
-    <string name="plug_device_open">Plug on</string>
-    <string name="plug_device_open_short">220V on</string>
-    <string name="plug_dialog_confirm_abort">Discard changes?</string>
+    <string name="plug_confirm_abort">Abandonner les modifications</string>
+    <string name="plug_device">Branchez</string>
+    <string name="plug_device_closed">Prise désactivée</string>
+    <string name="plug_device_closed_short">220V désactivé</string>
+    <string name="plug_device_open">Prise activée</string>
+    <string name="plug_device_open_short">220V activé</string>
+    <string name="plug_dialog_confirm_abort">Voulez-vous abandonner les modifications ?</string>
     <string name="plug_known">OK</string>
-    <string name="plug_serach_no_device_blue">If blue light is steady or flashing, the plug is being used, reset it</string>
-    <string name="plug_serach_no_device_red">If red light is flashing, the plug is waiting to be connected</string>
-    <string name="plug_subtitle">Plugs %1$s, USB %2$s</string>
-    <string name="plug_temperature_alert">Plug is very hot, check the plug</string>
+    <string name="plug_serach_no_device_blue">Voyant bleu de la prise allumé, le périphérique est déjà utilisé, veuillez le réinitialiser</string>
+    <string name="plug_serach_no_device_red">Veuillez attendre le voyant rouge avant de le connecter</string>
+    <string name="plug_subtitle">Prise %1$s USB %2$s</string>
+    <string name="plug_temperature_alert">Surchauffe dans la prise, vérifier</string>
     <string name="plug_temperature_alert_cause">"
-1.Power may have exceeded maximum limit (2200w)
+1.La puissance absorbée peut être supérieure à la valeur limite maximale(2200w)
 
-2. There may be rusty or loose parts inside the AC socket connected to Mi Plug 
+2.Oxydation des connecteurs et de la prise d'alimentation
 
-3.The plugs of the devices may be rusty
+3.La prise d'alimentation peut être défectueuse ou oxydée
 
-4. Air temperature may be too high"</string>
-    <string name="plug_temperature_alert_title">Plug is very hot, check the plug</string>
-    <string name="plug_timer_add">Add timer</string>
-    <string name="plug_timer_after">After</string>
-    <string name="plug_timer_del">Delete timer</string>
+4.La température extérieure de la prise d'alimentation peut être trop élevée"</string>
+    <string name="plug_temperature_alert_title">Merci de vérifier la prise en surchauffe</string>
+    <string name="plug_timer_add">Calendrier supplémentaire</string>
+    <string name="plug_timer_after">Après</string>
+    <string name="plug_timer_del">Supprimer la minuterie</string>
     <string name="plug_timer_delete">Supprimer</string>
-    <string name="plug_timer_everyday">Every day</string>
-    <string name="plug_timer_friday">Friday</string>
-    <string name="plug_timer_illegal">Start time and end time are the same, set again</string>
-    <string name="plug_timer_less_than_1min">Less than one minute</string>
-    <string name="plug_timer_load_failed">"Couldn't set timer"</string>
-    <string name="plug_timer_monday">Monday</string>
-    <string name="plug_timer_monday_to_friday">Monday to Friday</string>
-    <string name="plug_timer_no_set">Not set</string>
+    <string name="plug_timer_everyday">Tous les jours</string>
+    <string name="plug_timer_friday">Vendredi</string>
+    <string name="plug_timer_illegal">La minuterie ne peut être identique</string>
+    <string name="plug_timer_less_than_1min">"Moins d'1 minute"</string>
+    <string name="plug_timer_load_failed">Impossible de charger la minuterie</string>
+    <string name="plug_timer_monday">Lundi</string>
+    <string name="plug_timer_monday_to_friday">Du lundi au vendredi</string>
+    <string name="plug_timer_no_set">Pas encore défini</string>
     <string name="plug_timer_off">Turn off</string>
     <string name="plug_timer_off_time">Turn off time</string>
     <string name="plug_timer_on">Turn on</string>
