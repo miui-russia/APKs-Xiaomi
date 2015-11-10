@@ -1330,10 +1330,10 @@
     <string name="smarthome_bodysensor_plugusb_off_onlinescene_detail">"Les prises USB s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_plugusb_on_onlinescene">"Les prises USB s'allument lorsqu'un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">Les prises USB s'allumeront automatiquement si un mouvement est détecté"</string>
-    <string name="smarthome_bodysensor_smartlight_off_onlinescene">"La lampe Yeelight s'éteint une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
-    <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">"La lampe Yeelight s'éteindra automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
-    <string name="smarthome_bodysensor_smartlight_on_onlinescene">"La lampe Yeelight s'allumera lorsqu'un mouvement est détecté"</string>
-    <string name="smarthome_bodysensor_smartlight_on_onlinescene_detail">"La lampe Yeelight s'allumera automatiquement si un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_smartlight_off_onlinescene">"Les ampoules Mi s'éteignent une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
+    <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">"Les ampoules Mi s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
+    <string name="smarthome_bodysensor_smartlight_on_onlinescene">"Les ampoules Mi s'allumeront lorsqu'un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_smartlight_on_onlinescene_detail">"Les ampoules Mi s'allumeront automatiquement si un mouvement est détecté"</string>
     <string name="smarthome_cancel_timespan">Annuler</string>
     <string name="smarthome_create_scene">Créer un Prise de Vue</string>
     <string name="smarthome_delete_timespan">Supprimer les horaires définis</string>
@@ -1527,110 +1527,106 @@
     <string name="smarthome_switch_status_set_failed">"Impossible de paramétrer l'état de la Prise Mi"</string>
     <string name="smarthome_switch_status_setting">"Impossible de paramétrer l'état de la scène intelligente"</string>
     <string name="smarthome_switchsensor_airpurify_on_off_onlinescene">"Interrupteur du purificateur d'air"</string>
-    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">Turn Air Purifier on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene">Use wireless switch to change modes on Air Purifier</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Turn on silent mode on by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_comehome_onlinescene">Back home mode</string>
-    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">Alert mode On/Off</string>
-    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">Turn alert mode on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene">Night light On/Off</string>
-    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene_detail">Turn night light on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_leavehome_onlinescene">Away mode</string>
-    <string name="smarthome_switchsensor_plug220_on_off_onlinescene">Plug On/Off</string>
-    <string name="smarthome_switchsensor_plug220_on_off_onlinescene_detail">Turn plug on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene">USB socket On/Off</string>
-    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene_detail">Turn USB socket on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_smartlight_onlinescene">Smart Bulb On/Off</string>
-    <string name="smarthome_switchsensor_smartlight_onlinescene_detail">Turn Smart Bulb on and off by pressing wireless switch</string>
-    <string name="smarthome_switchsensor_yeelight_onlinescene">Yeelight On/Off</string>
-    <string name="smarthome_switchsensor_yeelight_onlinescene_detail">Turn Yeelight on and off by pressing wireless switch</string>
+    <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, le purificateur d'air s'allume ou s'éteint"</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene">"Utiliser l'interrupteur sans fil pour changer les modes du purificateur"</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Après avoir appuyé sur l'interrupteur sans fil le purificateur d'air se met en mode silencieux"</string>
+    <string name="smarthome_switchsensor_comehome_onlinescene">Mode retour à la maison</string>
+    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">"Interrupteur de l'alarme de la porte d'entrée"</string>
+    <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, l'alarme de la porte d'entrée s'ouvre ou se ferme"</string>
+    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene">"Interrupteur de l'éclairage nocturne"</string>
+    <string name="smarthome_switchsensor_gatewaylight_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, l'éclairage nocturne s'active ou se coupe"</string>
+    <string name="smarthome_switchsensor_leavehome_onlinescene">Mode Sorti de la maison</string>
+    <string name="smarthome_switchsensor_plug220_on_off_onlinescene">Interrupteur de prise 220V</string>
+    <string name="smarthome_switchsensor_plug220_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, les prises 220V s'allument ou s'éteignent"</string>
+    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene">Interrupteur sans fil de prise USB</string>
+    <string name="smarthome_switchsensor_plugusb_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, les prises USB s'allument ou s'éteignent"</string>
+    <string name="smarthome_switchsensor_smartlight_onlinescene">Interrupteur de ampoules Mi</string>
+    <string name="smarthome_switchsensor_smartlight_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, les ampoules Mi s'allument ou s'éteignent"</string>
+    <string name="smarthome_switchsensor_yeelight_onlinescene">Interrupteur Yeelight</string>
+    <string name="smarthome_switchsensor_yeelight_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, la Yeelight s'allume ou s'éteint"</string>
     <string name="smarthome_time_hint">%1$d:%2$d</string>
-    <string name="smarthome_timespan_text">Repeat</string>
-    <string name="smarthome_to_user_status_accept">Accepted</string>
-    <string name="smarthome_to_user_status_reject">Declined</string>
-    <string name="smarthome_to_user_status_waiting">Waiting to accept</string>
-    <string name="smarthome_unbind_camera_tips">"After unpairing the camera you'll need to reset it before pairing again. Sure you want to unpair?"</string>
-    <string name="smarthome_unbind_tips">Sure you want to disconnect?</string>
-    <string name="smarthome_unbinding">Disconnecting…</string>
-    <string name="smarthome_unbinding_info">Reset before using again, tap here to learn how to reset</string>
+    <string name="smarthome_timespan_text">Répéter</string>
+    <string name="smarthome_to_user_status_accept">Accepté</string>
+    <string name="smarthome_to_user_status_reject">Refusé</string>
+    <string name="smarthome_to_user_status_waiting">Patienter</string>
+    <string name="smarthome_unbind_camera_tips">Après le désappairage de la camèra, une réinitialisation est nécessaire, voulez-vous procéder au désappairage définitif ?</string>
+    <string name="smarthome_unbind_tips">Confirmer la déconnexion de la caméra ?</string>
+    <string name="smarthome_unbinding">Déconnexion...</string>
+    <string name="smarthome_unbinding_info">Suppression réussie, réinitialisez le périphérique, appuyez ici pour voir la méthode de réinitialisation</string>
     <string name="smarthome_unbinding_title">Description</string>
-    <string name="smarthome_upload_video_for_play">Upload from phone</string>
-    <string name="some_device_bind_error">"Couldn't talk to several devices, make sure the devices aren't managed by other accounts"</string>
+    <string name="smarthome_upload_video_for_play">Charger la vidéo depuis le téléphone</string>
+    <string name="some_device_bind_error">"Appairage du périphérique impossible, veuillez vérifier qu'il ne soit pas déjà connecter à un autre compte"</string>
     <string name="splash_copy_right">Copyright 2014-2015 ©Mi Home</string>
     <string name="splash_mi_home">Mi-Home</string>
     <string name="splash_promotion_jump">Suivant</string>
     <string name="start_upload_media_files">Démarrer</string>
-    <string name="status_error_cable_not_plugin_body">Check your Internet connection</string>
-    <string name="storage_feedback">Router storage</string>
-    <string name="sunday">Sunday</string>
-    <string name="switch_control_power_description">Real-time power</string>
+    <string name="status_error_cable_not_plugin_body">Vérifiez votre connexion internet</string>
+    <string name="storage_feedback">Stockage</string>
+    <string name="sunday">Dimanche</string>
+    <string name="switch_control_power_description">Puissance en temps réel</string>
     <string name="switch_control_power_unit">Watt</string>
-    <string name="switch_wifi">Network settings</string>
-    <string name="tab_title_app_update">App</string>
-    <string name="tab_title_model_update">Firmware</string>
-    <string name="tab_title_plugin_update">Plug-ins</string>
-    <string name="terminal_feedback">Appareil</string>
-    <string name="ths_feed">Your feedback is vital for us</string>
-    <string name="thursday">Thursday</string>
-    <string name="timer_title">Timers</string>
+    <string name="switch_wifi">Paramètres réseau</string>
+    <string name="tab_title_app_update">"Mise à jour de l'application"</string>
+    <string name="tab_title_model_update">Mise à jour du firmware</string>
+    <string name="tab_title_plugin_update">Plug-in</string>
+    <string name="terminal_feedback">Commentaires à propos des périphériques</string>
+    <string name="ths_feed">Vos commentaires sont la force motrice de nos progrès quotidiens !</string>
+    <string name="thursday">Jeudi</string>
+    <string name="timer_title">Liste des alarmes</string>
     <string name="title_person_info">Info personnelle</string>
-    <string name="toast_lock_switch_failed">"Couldn't complete operation, check network connection"</string>
-    <string name="try_barcode_connection">Use QR code</string>
-    <string name="try_barcode_info">QR code setup is currently supported in the night vision version only. The latest version of firmware is required.</string>
-    <string name="try_barcode_ok">Continue</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="unauthoried_tip">Invalid account, sign in again</string>
-    <string name="unknown_os">Unknown version</string>
-    <string name="unsupported_intent">App not found</string>
-    <string name="update_all">Update all</string>
-    <string name="update_failed_not_login">Sign in with Mi account and try again</string>
-    <string name="update_failed_retry">"Couldn't load updates, tap to retry"</string>
-    <string name="update_failed_timeout">Check if router is connected to the internet and try again</string>
-    <string name="update_no_device">No devices to update</string>
-    <string name="update_now">Update now</string>
-    <string name="update_to_version">Update available:</string>
-    <string name="upgrade_check_fail">"Couldn't get update info"</string>
-    <string name="upgrade_has_update">Update available</string>
-    <string name="upgrade_has_update_title">Updating…</string>
-    <string name="upgrade_new_version">Firmware updates available</string>
-    <string name="upgrade_new_version_cancel">Cancel</string>
-    <string name="upgrade_new_version_hint">New version avaulable</string>
-    <string name="upgrade_new_version_upgrade">Update now</string>
-    <string name="upgrade_no_new_version_hint">Current version</string>
-    <string name="upgrade_pkg_downloaded_title_smarthome">Updating…</string>
-    <string name="upgrade_pkg_downloading_title2_smarthome">Updates available, downloading…</string>
-    <string name="upgrade_pkg_downloading_title_smarthome">Téléchargement mise à jour</string>
-    <string name="upgrading_error">"Couldn't update, check network connection"</string>
-    <string name="upload_type">Upload file type</string>
-    <string name="uploading_head_icon">Uploading profile pic…</string>
-    <string name="uploading_log_error">"Couldn't upload log, try again"</string>
-    <string name="uploading_nick_name">Changing nickname…</string>
-    <string name="use_barcode_heard">Heard prompt</string>
-    <string name="use_barcode_heard_connecting">Heard \"Connecting, please wait\" prompt?</string>
-    <string name="useable_space">Router storage</string>
-    <string name="user_license">"Important notice
- Before using Xiaomi Smart Home series products (hereinafter referred to as \"the products\"), please read carefully all the rights and restrictions in the User License Agreement (hereinafter referred to as \"this agreement\").
+    <string name="toast_lock_switch_failed">"Échec de l'opération, vérifiez le réseau"</string>
+    <string name="try_barcode_connection">Utiliser le QR code</string>
+    <string name="try_barcode_info">>"Seul le modèle à vision nocturne prend en charge la lecture de QR code, d'autres modèles seront pris en charge dans les versions ultérieures."</string>
+    <string name="try_barcode_ok">Continuer</string>
+    <string name="tuesday">Mardi</string>
+    <string name="unauthoried_tip">Authentification échouée, veuillez essayer à nouveau</string>
+    <string name="unknown_os">Version inconnue</string>
+    <string name="unsupported_intent">Application non trouvée</string>
+    <string name="update_all">Tout mettre à jour</string>
+    <string name="update_failed_not_login">Connectrez-vous avec votre compte Mi et réessayer</string>
+    <string name="update_failed_retry">Échec de la mise à jour, cliquez sur réessayer</string>
+    <string name="update_failed_timeout">Vérifiez que votre routeur est connecté à internet et réessayez</string>
+    <string name="update_no_device">Pas de mise à jour pour les périphériques</string>
+    <string name="update_now">Mettre à jour maintenant</string>
+    <string name="update_to_version">Mise à jour disponible:</string>
+    <string name="upgrade_check_fail">"Impossible d'obtenir temporairement des informations concernant la version"</string>
+    <string name="upgrade_has_update">Mise à jour disponible</string>
+    <string name="upgrade_has_update_title">Mise à jour...</string>
+    <string name="upgrade_new_version">Mises à jour du firmware disponibles</string>
+    <string name="upgrade_new_version_cancel">Annuler</string>
+    <string name="upgrade_new_version_hint">Nouvelle version disponible</string>
+    <string name="upgrade_new_version_upgrade">Mettre à jour maintenant</string>
+    <string name="upgrade_no_new_version_hint">Version actuelle</string>
+    <string name="upgrade_pkg_downloaded_title_smarthome">Mise à jour...</string>
+    <string name="upgrade_pkg_downloading_title2_smarthome">>Mises à jour disponibles, téléchargement...</string>
+    <string name="upgrade_pkg_downloading_title_smarthome">Téléchargement des mises à jour</string>
+    <string name="upgrading_error">Mise à jour échouée, veuillez vérifier la connexion réseau et réessayer</string>
+    <string name="upload_type">Type de fichier à télécharger</string>
+    <string name="uploading_head_icon">"Ajout de l'avatar"</string>
+    <string name="uploading_log_error">"Échec de chargement du journal de l'application, veuillez réessayer plus tard"</string>
+    <string name="uploading_nick_name">Changement du pseudo...</string>
+    <string name="use_barcode_heard">Écoutez les instructions vocales.</string>
+    <string name="use_barcode_heard_connecting">Entendez-vous le son de confirmation de connexion, si non patientez ?</string>
+    <string name="useable_space">Espace de stockage du routeur</string>
+    <string name="user_license">"Information Importante
+ Avant d'utiliser les produits de la série Xiaomi Mi Home (ci-après dénommé \"produits\"), veuillez lire attentivement tous les droits et restrictions dans le contrat de licence de l'utilisateur (ci-après dénommé \"cet accord\")
+ Xiaomi Communication Technology co., LTD. (ci-après dénommé \"Xiaomi\" ou \"nous\") respecte et de protége strictement les droits et les intérêts de nos utilisateurs légitimes en utilisant ce produit (y compris la vie privée de l'utilisateur, les données de l'utilisateur, etc.) et de les protéger contre toute atteinte.
+ Ce produit inclut mais ne se limite pas au logiciel Xiaomi Mi Home et aux divers matériaux qui sont tous développés par des droits de propriété intellectuelle Xiaomi. Les matériaux (y compris les droits d'auteur, les droits de brevet et de droits de marque, etc.) dans ce produit appartiennent tous à Xiaomi.
+ Cet accord (y compris la politique de confidentialité) est l'accord final, complète et exclusive concernant les produits (y compris les personnes physiques, personnes morales ou d'autres organisations, ci-après dénommé le \"utilisateur\" ou \"vous \" qui ont obtenu les produits par des moyens légaux). En outre, cet accord se substituera aux discussions et accords entre les parties concernées mentionnées ci-dessus.
+ Cet accord est juridiquement contraignant pour les utilisateurs de produits. Vous êtes donc pleinement d'accord avec les termes de cet accord utilisateur. L'utilisation de ce produit sera considéré comme ayant accepté cette accord. Veuillez lire attentivement les termes de cet accord, y compris les clauses qui limitent la responsabilité de Xiaomi, et les termes qui restreignent les droits des utilisateurs (les mineurs doivent être accompagnés par un parent ou un tuteur lors de la lecture de l'accord). Si vous ne pouvez pas accepter tous les termes de cet accord, veuillez ne pas commencer à utiliser ce produit (si vous avez acheté les produits et matériaux, mais que vous n'acceptez pas tous les termes de cet accord, alors veuillez se référer à http//:www.mi.fr pour la politique des retours produits)
  
- Xiaomi Communication Technology co., LTD. (hereinafter referred to as \"Xiaomi\" or \"we\") will always respect and strictly protect the legitimate rights and interests of our users when using this product (including user privacy, user data, etc.)and protect them from any infringement.
+ 1. Utilisation
+ 1.1 Compte
+ L'utilisateur peut utiliser les produits sans créer de compte. Si vous souhaitez utiliser plusieurs fonctions du produit, vous devez vous inscrire et créer un compte Xiaomi, vous connecter et vous enregistrer
+ Veuillez rentrer vos informations personnelles. Vos informations personnelles doivent permettre et garantir que::
+ 1.1.1 Toutes les informations d'inscription que vous soumettez doivent être véridiques et exactes;
+ 1.1.2 Votre comportement lors de l'utilisation de ce produit doit être légale;
+ 1.1.3 Vous pourrez utiliser votre compte et à tout moment le résilier en conformité avec l'accord des conditions d'utilisation des comptes Xiaomi.
+ Selon les dispositions de l'article 5 de cette convention, votre compte sera conservé ou résilié. Vous devez promettre de garder vos informations de connexion confidentielles et d'autres ne peuvent pas accéder utiliser ces informations. En outre, vous serez responsable de toutes vos actions lorsque vous utilisez ce compte. Vous devez nous informer de tout comportement illégal, l'utilisation non autorisée ou soupçonnée de produit de contre-façon. Nous ne serons tenu responsable de toute perte causée par votre incapacité à vous conformer aux exigences ci-dessus.
+ 1.2 Accélération connexion Internet et service de dépannage.
+ Dans certains scénarios, tout en étant utilisé, le produit permettra de tester l'accès au réseau après votre permission. Ceci est conçu pour vous aider à accélérer votre réseau et mettre en œuvre des services de dépannage si nécessaire. Le test du système est effectué par le logiciel. Il n'y a pas de surveillance artificielle. Il suffit d'utiliser le logiciel pertinent pour correspondre et vous guider pour ouvrir le contenu tiers correspondant. Nous promettons de garder les détails concernant votre utilisation de ce produit confidentiel.
  
- This product includes but is not limited to Xiaomi Smart Home software and related hardware which are all developed by Xiaomi.The related intellectual property rights (including all copyright, patent rights and trademark rights, etc.) in this product all belong to Xiaomi.
- 
- This agreement (including the privacy policy) is the final, complete and exclusive agreement related to the products (including natural persons, legal persons or other organizations, hereinafter referred to as the \"user\" or \"you\" who have obtained the products through legal means).In addition, this agreement will supersede the discussions and agreements among the above-mentioned relevant parties.
- 
- This agreement is legally binding to product users. You therefore fully agree with the terms of this agreement.New users of this product will be deemed as having accepted this agreement.Please read carefully the terms of this agreement, including the clauses that exempt and limit the responsibility of Xiaomi, and the terms that restrict the rights of the users (minors must be accompanied by a parent or guardian when reading the agreement). If you cannot accept all the terms of this agreement, please do not start using this product.(if you have purchased the hardware products, but do not accept all the terms of this agreement, then please refer to http://www.mi.com for the return policy of part of the hardware products)
- 
- 1. Use
- 1.1 Account
- The user may use the products without creating an account.If you wish to use more functions of the product, you need to register for a Xiaomi account and log on to register webpage
- Please provide relevant personal information.You must promise and guarantee that:
- 1.1.1 All the registration information you submit must be truthful and accurate;
- 1.1.2 Your behavior when using this product must be legal;
- 1.1.3 You may use the account at any time to terminate your account in accordance with the Xiaomi account's condition's of use.
- According to the provisions of article 5 of this agreement, your account will be retained or terminated.You must promise to keep your login information confidential and others may not access or use the information. In addition, you will be responsible for all your actions when using this account.You must inform us of any illegal behaviour, unauthorized use or suspected unauthorized behavior.This product will not be held liable for any loss caused by your failure to comply with the above requirements.
- 1.2 Internet acceleration and troubleshooting service.
- In some scenarios while being used, the product will test network access after your permission.This is designed to help you speed up the network and implement troubleshooting services when necessary.The test was performed by the software program. There is no artificial monitoring. Just use the relevant software program to match and guide you to open the corresponding third-party content or page.We promise to keep the details regarding your use of this product confidential.
- 
- 2. End user protocol
+ 2. Protocole de l'utilisateur final
  2.1 Permission
  According to the provisions of this agreement, this product will grant you the following nontransferable, non-exclusive licenses:
  2.1.1 The right to use this product;
