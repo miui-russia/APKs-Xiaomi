@@ -1135,7 +1135,7 @@
     <string name="remote_control_get_key_study">Chargement...</string>
     <string name="remote_control_get_key_study_fail">"Impossible d'appairer"</string>
     <string name="remote_control_get_key_study_success">Télécommande appairée</string>
-    <string name="remote_control_get_subdevice_info">Obtention d'informations...</string>
+    <string name="remote_control_get_subdevice_info">Obtention d\'informations...</string>
     <string name="remote_control_get_subdevice_info_fail">"Impossible d'obtenir les informations concernant le périphérique"</string>
     <string name="remote_control_home">Accueil</string>
     <string name="remote_control_left">Gauche</string>
@@ -1186,7 +1186,7 @@
     <string name="router_downloading">Téléchargement</string>
     <string name="router_downloading_info">Téléchargement %1$d fichiers</string>
     <string name="router_guide_tip1_desc">Détecter les interférences du réseau et afficher les périphériques dangereux</string>
-    <string name="router_guide_tip1_title">"Ne pas "Vous n'aimez pas les interférences réseau ?</string>
+    <string name="router_guide_tip1_title">"Vous n'aimez pas les interférences réseau ?</string>
     <string name="router_guide_tip2_desc">Télécharger des films Blu-ray hors-ligne et les regarder devient vraiment facile et amusant</string>
     <string name="router_guide_tip2_title">Des vidéos qui freeze ?</string>
     <string name="router_guide_tip3_desc">Une optimisation du réseau qui rend votre réseau immédiatement plus rapide</string>
@@ -1318,9 +1318,9 @@
     <string name="smarthome_bodysensor_airpurify_off_onlinescene_detail">"Le purificateur d'air s'éteindra automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_airpurify_on_onlinescene">"Le purificateur d'air se déclenche lorsqu'un mouvement est détecté</string>
     <string name="smarthome_bodysensor_airpurify_on_onlinescene_detail">"Le purificateur d'air s'allumera automatiquement si le capteur détecte un mouvement"</string>
-    <string name="smarthome_bodysensor_airpurify_weak_onlinescene">Passer en Mode Silencieux lorsqu'un mouvement est détecté</string>
+    <string name="smarthome_bodysensor_airpurify_weak_onlinescene">Passer en Mode Silencieux lorsqu\'un mouvement est détecté</string>
     <string name="smarthome_bodysensor_airpurify_weak_onlinescene_detail">"Le purificateur d'air passera automatiquement en Mode Silencieux si le capteur détecte un mouvement"</string>
-    <string name="smarthome_bodysensor_gatewaysound_onlinescene">Déclencher la sonnette lorsqu'un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_gatewaysound_onlinescene">Déclencher la sonnette lorsqu\'un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_gatewaysound_onlinescene_detail">La sonnette retentira si un mouvement est détecté</string>
     <string name="smarthome_bodysensor_plug220_off_onlinescene">"Les prises 220V s'éteignent quand vous sortez"</string>
     <string name="smarthome_bodysensor_plug220_off_onlinescene_detail">"Les prises 220V s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
@@ -1329,7 +1329,7 @@
     <string name="smarthome_bodysensor_plugusb_off_onlinescene">"Les prises USB s'éteignent quand vous sortez"</string>
     <string name="smarthome_bodysensor_plugusb_off_onlinescene_detail">"Les prises USB s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_plugusb_on_onlinescene">"Les prises USB s'allument lorsqu'un mouvement est détecté"</string>
-    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">Les prises USB s'allumeront automatiquement si un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">Les prises USB s\'allumeront automatiquement si un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_smartlight_off_onlinescene">"Les ampoules Mi s'éteignent une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">"Les ampoules Mi s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_smartlight_on_onlinescene">"Les ampoules Mi s'allumeront lorsqu'un mouvement est détecté"</string>
@@ -1337,7 +1337,7 @@
     <string name="smarthome_cancel_timespan">Annuler</string>
     <string name="smarthome_create_scene">Créer un Prise de Vue</string>
     <string name="smarthome_delete_timespan">Supprimer les horaires définis</string>
-    <string name="smarthome_device__add_subdevice_error">Impossible d'ajouter ce périphérique, veuillez réessayer"</string>
+    <string name="smarthome_device__add_subdevice_error">Impossible d\'ajouter ce périphérique, veuillez réessayer"</string>
     <string name="smarthome_device__add_subdevice_succ">Périphérique ajouté</string>
     <string name="smarthome_device__confirm_remove">Supprimer ce périphérique ?</string>
     <string name="smarthome_device_add_to_launcher">Ajouter un raccourci sur le lanceur</string>
@@ -1455,7 +1455,7 @@
     <string name="smarthome_scene_get_scene_status_error">"Obtention d'informations de la prise de vue échouée, veuillez essayer à nouveau"</string>
     <string name="smarthome_scene_geteway_arming">"Interrupteur de la sécurité d'ouverture de porte"</string>
     <string name="smarthome_scene_helper">Mode prise de vue</string>
-    <string name="smarthome_scene_history""Lire l'historique des films"</string>
+    <string name="smarthome_scene_history">"Lire l'historique des films"</string>
     <string name="smarthome_scene_less_than_1_minute">Une minute</string>
     <string name="smarthome_scene_null">La prise de vue est vide</string>
     <string name="smarthome_scene_off">Désactiver prise de vue</string>
@@ -1529,7 +1529,7 @@
     <string name="smarthome_switchsensor_airpurify_on_off_onlinescene">"Interrupteur du purificateur d'air"</string>
     <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, le purificateur d'air s'allume ou s'éteint"</string>
     <string name="smarthome_switchsensor_airpurify_weak_onlinescene">"Utiliser l'interrupteur sans fil pour changer les modes du purificateur"</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Après avoir appuyé sur l'interrupteur sans fil le purificateur d'air se met en mode silencieux"</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil le purificateur d\'air se met en mode silencieux"</string>
     <string name="smarthome_switchsensor_comehome_onlinescene">Mode retour à la maison</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">"Interrupteur de l'alarme de la porte d'entrée"</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, l'alarme de la porte d'entrée s'ouvre ou se ferme"</string>
@@ -1821,7 +1821,7 @@
     <string name="visible_in_main_device_list">Ajouter à la liste des périphériques</string>
     <string name="waiting_for_update">Patienter…</string>
     <string name="water_purifier">"Purificateur d'eau"</string>
-    <string name="water_purifier_subtitle">L'eau du robinet TDS: %1$d</string>
+    <string name="water_purifier_subtitle">L\'eau du robinet TDS: %1$d</string>
     <string name="weak_device_signal">Signal faible</string>
     <string name="web_shell_loading">Chargement…</string>
     <string name="wednesday">Mercredi</string>
