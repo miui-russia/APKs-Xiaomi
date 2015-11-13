@@ -334,7 +334,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_tip_hr_ble_content">手环连接后，可显示心率</string>
     <string name="running_tip_hr_bracelet_label">使用小米手环光感版</string>
     <string name="running_tip_hr_bracelet_content">可检测心率</string>
-    <string name="running_hr">心率</string>
+    <string name="running_hr">Fréquence cardiaque</string>
     <string name="running_hr_check">心率检测</string>
     <string name="running_hr_disabled_tips">请在设置中开启心率检测功能</string>
     <string name="hr_tips1">"跑步前，开启蓝牙，连接手环； 
