@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">A propos</string>
-    <string name="action_settings">Paramètres</string>    
+    <string name="action_settings">Paramètres</string>   
+    <string name="add_WeChat">Ajouter WeChat</string>
     <string name="add_new_device">Ajouter un nouveau dispositif Yeelight</string>
     <string name="add_widget">Ajouter widget</string>
     <string name="alarm_def_1_min">1 minute</string>
@@ -93,11 +94,11 @@
     <string name="fw_ota_progress">Mise à jour en cours...</string>
     <string name="fw_release_note">Note de version</string>
     <string name="fw_update">Mise à jour du firmware</string>
-    <string name="fw_upgrade_release_note">"1.Mode nuit amélioré
--2.Bug fixé
--3.Performance améliorée"</string>
+    <string name="fw_upgrade_release_note">"1.Fix for Mi band auto turn-off
+2.Performance improvements"</string>
     <string name="global_cancel">Annuler</string>
     <string name="global_more">Plus</string>
+    <string name="global_network_err">Erreur réseau !</string>
     <string name="guide_other_mode">"Essayez d'autres modes
   utilisant les mêmes gestes"</string>
     <string name="guide_right_left">"Glissez vers la gauche ou la droite
@@ -119,7 +120,7 @@
     <string name="login_inprogress">Connection…</string>
     <string name="login_jump">Passer</string>
     <string name="logout">Déconnecter</string>
-    <string name="logout_confirm">Déconnecter ?</string>
+    <string name="logout_confirm">Connectez-vous avec votre compte ?</string>
     <string name="main_screen_color">Couleurs</string>
     <string name="main_screen_flow">Flux</string>
     <string name="main_screen_sunshine">Lumière</string>
@@ -203,6 +204,7 @@
     <string name="setting_rebind_title_info_recovery">Avant que les informations et les données soient effacées, appairer la lampe de chevet Yeelight, pour pouvoir utiliser le téléphone pour contrôler les lumières</string>
     <string name="setting_rebind_title_no_connect">Connexion Bluetooth déconnectée</string>
     <string name="setting_rebind_title_recovery">"Réglages d'usine restauré"</string>
+    <string name="setting_statistical">Statistique</string>
     <string name="setting_unbind_btn_text">Désappairage</string>
     <string name="setting_unbind_text_1">Après désappairage, le téléphone ne sera plus en mesure de contrôler la lampe. Pour utiliser le téléphone, vous devrez reappairer</string>
     <string name="setting_unbind_text_2">Après le désappairage, vous pouvez utiliser une autre connexion entre le téléphone et la lampe de chevet, ou remplacer par une autre lampe</string>
@@ -234,4 +236,6 @@
     <string name="xlistview_header_hint_normal">Tirer pour rafraîchir</string>
     <string name="xlistview_header_hint_ready">Actualiser les données</string>
     <string name="xlistview_header_last_time">Dernière mise à jour:</string>
+    <string name="statistical_progressing">Synchronisation...</string>
+    <string name="wechat_progressing">Synchronisation...</string>
 </resources>
