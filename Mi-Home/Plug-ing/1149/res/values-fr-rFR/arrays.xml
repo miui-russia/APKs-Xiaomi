@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="channel_select_score_tips">
-        <item>Current speed very good</item>
-        <item>Too many in the network causes slow down</item>
-        <item>Slow speed because of too many</item>
+        <item>Vitesse actuelle excellente</item>
+        <item>Trop nombreux sur le réseau ce qui provoque des ralentissements</item>
+        <item>Vitesse lente car trop nombreux</item>
     </string-array>
 </resources>
