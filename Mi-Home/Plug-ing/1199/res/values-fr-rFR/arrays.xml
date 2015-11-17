@@ -7,53 +7,53 @@
         <item>10</item>
     </integer-array>
     <string-array name="weekday">
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
     </string-array>
     <string-array name="weekday_short">
-        <item>Mon</item>
-        <item>Tues</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
     </string-array>
     <string-array name="family_memeber_names">
-        <item>Wife</item>
-        <item>Dad</item>
-        <item>Mom</item>
-        <item>Son</item>
-        <item>Daughter</item>
-        <item>Roommate</item>
-        <item>Others</item>
+        <item>Épouse</item>
+        <item>Papa</item>
+        <item>Maman</item>
+        <item>Fils</item>
+        <item>Fille</item>
+        <item>Colocataire</item>
+        <item>Autres</item>
     </string-array>
     <string-array name="mikey_menu">
-        <item>Test scenario</item>
-        <item>Delete scenario</item>
-        <item>Cancel</item>
+        <item>Tester scénario</item>
+        <item>Supprimer scénario</item>
+        <item>Annuler</item>
     </string-array>
     <string-array name="namecard_sex_choices">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Homme</item>
+        <item>Femme</item>
     </string-array>
     <string-array name="month">
         <item>Jan</item>
-        <item>Feb</item>
+        <item>Fév</item>
         <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juil</item>
+        <item>Août</item>
+        <item>Sept</item>
         <item>Oct</item>
         <item>Nov</item>
-        <item>Dec</item>
+        <item>Déc</item>
     </string-array>
 </resources>
