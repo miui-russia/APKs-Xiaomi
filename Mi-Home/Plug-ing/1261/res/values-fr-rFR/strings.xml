@@ -133,7 +133,7 @@
     <string name="temp_high_alert_msg1">1. Équipement électrique, la puissance peut dépasser la limite maximale (2200w)</string>
     <string name="temp_high_alert_msg2">2. De la rouille peut être présente sur et dans la prise.</string>
     <string name="temp_high_alert_msg5">"  Rouille, etc."</string>
-    <string name="temp_high_alert_msg3">3. "De la rouille peut être présente sur et dans l'équipement électrique."</string>
+    <string name="temp_high_alert_msg3">"3. De la rouille peut être présente sur et dans l'équipement électrique."</string>
     <string name="temp_high_alert_msg4">4. La température de la prise 220V peut être trop élevée</string>
     <string name="settings_sending_notification">Rappels programmés</string>
     <string name="settings_sending_notification_tips">Envoyer un message pour vous informer du lancement de la plannification de la prise</string>
