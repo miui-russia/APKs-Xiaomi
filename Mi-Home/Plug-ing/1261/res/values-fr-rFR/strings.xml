@@ -120,10 +120,10 @@
     <string name="count_down_msg_hour">%2$s heures après %1$s</string>
     <string name="count_down_msg_day">%2$s jours %3$s heures %4$s minutes %1$s</string>
     <string name="ok">Définir</string>
-    <string name="title_timer_power">Minuterie de l'alimentation de la prise 220V</string>
-    <string name="title_timer_usb">Minuterie de l'alimentation de la prise USB</string>
-    <string name="title_count_down_timer_power">Compte à rebours de l'alimentation de la prise 220V</string>
-    <string name="title_count_down_timer_usb">Compte à rebours de l'alimentation de la prise USB</string>
+    <string name="title_timer_power">"Minuterie de l'alimentation de la prise 220V"</string>
+    <string name="title_timer_usb">"Minuterie de l'alimentation de la prise USB"</string>
+    <string name="title_count_down_timer_power">"Compte à rebours de l'alimentation de la prise 220V"</string>
+    <string name="title_count_down_timer_usb">"Compte à rebours de l'alimentation de la prise USB"</string>
     <string name="set_timer_conflict">Conflit de plage horaire, réessayer ?</string>
     <string name="i_know">"J'ai compris"</string>
     <string name="set_failed">Paramétrage échoué</string>
