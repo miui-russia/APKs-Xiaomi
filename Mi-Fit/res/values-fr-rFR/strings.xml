@@ -330,42 +330,44 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_real_time_mile_pace">Vitesse (min/mi)</string>
     <string name="running_hr_unit_desc">Fréquence cardiaque (battements/min)</string>
     <string name="running_tip_hr_ble_content">Une fois connecté, vous pouvez afficher la fréquence cardiaque</string>
-    <string name="running_tip_hr_bracelet_label">使用小米手环光感版</string>
-    <string name="running_tip_hr_bracelet_content">可检测心率</string>
-    <string name="running_hr">Fréquence cardiaque</string>
-    <string name="running_hr_check">Détection de fréquence cardiaque</string>
-    <string name="running_hr_disabled_tips">Mettre la fonction de moniteur de fréquence cardiaque dans les paramètres</string>
-    <string name="hr_tips1">"跑步前，开启蓝牙，连接手环； 
-跑步中，保持蓝牙连接。"</string>
-    <string name="hr_tips2">连接小米手环光感版，检测心率</string>
-    <string name="hr_tips3">建议跑步时将心率控制在略低于最大有氧心率，可有效避免受伤的风险，同时得到健身减脂的效果。例如：华米神童的年龄为25岁，经常加班，缺乏运动；则其对应的最大有氧心率为180-25-5=150（单位：次/分）。建议跑步心率控制在140到150之间。</string>
-    <string name="hr_tips4">有氧跑步，避免受伤，健身减脂</string>
-    <string name="hr_tips5">"第一步，基础数值=180-年龄（单位：次/分）。
-第二步，将基础数值配合最近身体状态进行调整。
-1、如果最近得过重大疾病；基础数值-10。
-2、受伤，状态不好，长期不锻炼；基础数值-5。
-3、坚持运动超过2年，每周4次；基础数值+5。
-温馨提示：超过65岁老人及不满16岁青少年不适用以上公式，需按照自身身体状况而定。"</string>
-    <string name="hr_tips6">计算最大有氧心率</string>
-    <string name="hr_tips7">每个人都有各自的最大有氧心率。跑步时，将心率控制在略低于最大有氧心率来训练，能提升有氧运动效率，提高燃烧脂肪的机能。如果高于该心率，无氧运动的比例会显著增加，身体将增加糖的消耗，降低脂肪消耗。</string>
-    <string name="hr_tips8">最大有氧心率</string>
-    <string name="hr_tips9">运动强度较高（跑得快）时，无氧运动的比例会提升，心率相对较高，身体会增加糖的消耗来供能，降低脂肪消耗。</string>
-    <string name="hr_tips10">无氧运动，消耗糖供能</string>
-    <string name="hr_tips11">运动强度较低（跑得慢）时，以有氧运动为主，此时心率相对较低，身体主要靠消耗脂肪供能。</string>
-    <string name="hr_tips12">有氧运动，消耗脂肪供能</string>
-    <string name="hr_dialog_title">跑步中查看心率变化</string>
-    <string name="hr_dialog_ble">保持手机和手环蓝牙连接</string>
-    <string name="hr_dialog_pace">手环连接后可显示步频</string>
-    <string name="hr_dialog_wear">带紧手环，避免晃动，测量更精准</string>
-    <string name="hr_dialog_go">立即出发</string>
-    <string name="hr_unit_label">Fréquence cardiaque (fois/minutes)</string>
+    <string name="running_hr_unit_desc">Rythme cardiaque(battements/min)</string>
+    <string name="running_tip_hr_ble_content">Dès que le bracelet est connecté, vous pouvez voir le rythme cardiaque</string>
+    <string name="running_tip_hr_bracelet_label">Utiliser la fonction lumière faible du bracelet</string>
+    <string name="running_tip_hr_bracelet_content">Affichage du rythme cardiaque</string>
+    <string name="running_hr">Rythme cardiaque</string>
+    <string name="running_hr_check">Détection du rythme cardiaque</string>
+    <string name="running_hr_disabled_tips">"Activer l'affichage du rythme cardiaque s'il vous plaît"</string>
+    <string name="hr_tips1">"Avant de courir, activer la connexion Bluetooth； 
+Le fait de courir maintient la connexion Bluetooth"</string>
+    <string name="hr_tips2">Détection du rythme cardiaque par la fonction lumière faible</string>
+    <string name="hr_tips3">"Il est recommandé de courir légèrement en dessous de votre rythme cardiaque aérobique maximum pour le contrôler, afin d'éviter le risque de blessures, ce qui aura pour effet d'améliorer les résultats obtenus sur la perte des graisses. Pour exemple : une personne de 25 ans, travaillant beaucoup et en manque d'exercices, sa fréquence cardiaque aérobique maximale correspond à 180-25-5=150(unité : battements/min). Le rythme cardiaque recommandé pendant la course se situe entre 140-150"</string>
+    <string name="hr_tips4">Fonctionnement aérobie, éviter les blessures, fitness Jianzhi</string>
+    <string name="hr_tips5">"Première étape : la valeur de base = 180-âge (unité : battements/min)。
+Seconde étape : la valeur de base sera ajustée en fonction de votre état physique du moment。
+1、Si vous avez été récemment malade : -10 sur la valeur de base。
+2、Si vous êtes blessés votre état n'est pas bon pour de l\'exercice sur le long terme : -5 sur la valeur de base。
+3、Si vous courrez depuis plus de deux ans, quatre fois par semaine : +5 sur la valeur de base。
+Conseils：Cette formule ne s\'applique pas pour les personnes qui ont plus de 65ans et moins de 16ans qui devront faire en fonction de leurs états physiques。"</string>
+    <string name="hr_tips6">Calculez la fréquence cardiaque maximale aérobique</string>
+    <string name="hr_tips7">Chacun à son rythme cardiaque aérobique maximum。Quand vous courrez，le rythme cardiaque est légèrement plus faible que le rythme cardiaque aérobique maximum pendant l\'entrainement，les exercices aérobiques peuvent améliorer son efficacité，augmenter la combustion des graisses。Si le rythme cardiaque est plus élevé，le corps va considérablement augmenter sa consommation en sucre et réduire la combustion des graisses。</string>
+    <string name="hr_tips8">Rythme cardiaque aérobique maximal</string>
+    <string name="hr_tips9">Les exercices intensifs (Paode) vont augmenter la proportion d\'anaérobie, le rythme cardiaque est relativement élevé et le corps augmentera sa consommation en sucre pour prduire de l'\énergie et diminuer sa combustion des graisses。</string>
+    <string name="hr_tips10">Exercices anaérobique, consommation de sucre pour produire de l\'énergie</string>
+    <string name="hr_tips11">Les exercises mons intensifs (Paode) vont augmenter la poroportion d\'aérobie, le rythme cardiaque ralentit et le corps augmentera sa consommaion en graisses pour produire de l\'énergie。</string>
+    <string name="hr_tips12">Exercices anaérobique, consommation de graisses pour produire de l\'énergie</string>
+    <string name="hr_dialog_title">Afficher rythme cardiaque pendant la course</string>
+    <string name="hr_dialog_ble">Garder la connexion Bluetooth activée entre le téléphone et le bracelet</string>
+    <string name="hr_dialog_pace">Le bracelet doit être connecté pour l'affichage</string>
+    <string name="hr_dialog_wear">Serrer le bracelet et éviter les chocs, les mesures seront plus précises</string>
+    <string name="hr_dialog_go">Démarrage immédiat</string>
+    <string name="hr_unit_label">Rythme cardiaque (battements/min)</string>
     <string name="hr_empty_data">--</string>
-    <string name="hr_not_wear_bracelet">手环未佩戴</string>
-    <string name="running_help_slow_run_suggest">二者各有利弊，中后掌着地时，脚跟受到落地冲击，对膝盖的冲击较大。而前掌着地对膝盖冲击较小，但是对跟腱和小腿肌肉素质要求较高。</string>
-    <string name="running_help_foot_suggest9">"跑步前，开启蓝牙，连接跑鞋；
-跑步中，保持蓝牙连接。"</string>
-    <string name="hr_battery_low">手环电量低于10%</string>
-    <string name="close_hr_check">实时心率检测已自动关闭</string>
+    <string name="hr_not_wear_bracelet">Ne pas porter le bracelet</string>
+    <string name="running_help_slow_run_suggest">Il y a des avantages et des inconvénients, lorsque le pieds touche le sol, il y a un impact sur le talon puis un autre plus important sur les genoux. Avec l\'avant du pied il y a moins d\'impacts sur les genoux mais une sollicitation plus importante sur le tendon d\'Achille et les muscles du mollet.</string>
+    <string name="running_help_foot_suggest9">"C'est parti, la connexion est faite avec les chaussures de course；
+Le fait de courir maintient la connexion active。"</string>
+    <string name="hr_battery_low">Batterie du bracelet inférieure à 10%</string>
+    <string name="close_hr_check">En temps réel cardiofréquencemètre est éteint automatiquement</string>
     <string name="tag_action_tips">"Appairage effectué à %s. Pour effectuer l'appairage du bracelet, s'assurer que le bracelet et le téléphone sont distants de moins de 5 mètres sans obstacles entre eux."</string>
     <string name="tag_doing_label">Effectué à %s…</string>
     <string name="tag_connection">Connexion</string>
