@@ -330,8 +330,6 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_real_time_mile_pace">Vitesse (min/mi)</string>
     <string name="running_hr_unit_desc">Fréquence cardiaque (battements/min)</string>
     <string name="running_tip_hr_ble_content">Une fois connecté, vous pouvez afficher la fréquence cardiaque</string>
-    <string name="running_hr_unit_desc">Rythme cardiaque(battements/min)</string>
-    <string name="running_tip_hr_ble_content">Dès que le bracelet est connecté, vous pouvez voir le rythme cardiaque</string>
     <string name="running_tip_hr_bracelet_label">Utiliser la fonction lumière faible du bracelet</string>
     <string name="running_tip_hr_bracelet_content">Affichage du rythme cardiaque</string>
     <string name="running_hr">Rythme cardiaque</string>
@@ -351,13 +349,13 @@ Conseils：Cette formule ne s\'applique pas pour les personnes qui ont plus de 6
     <string name="hr_tips6">Calculez la fréquence cardiaque maximale aérobique</string>
     <string name="hr_tips7">Chacun à son rythme cardiaque aérobique maximum。Quand vous courrez，le rythme cardiaque est légèrement plus faible que le rythme cardiaque aérobique maximum pendant l\'entrainement，les exercices aérobiques peuvent améliorer son efficacité，augmenter la combustion des graisses。Si le rythme cardiaque est plus élevé，le corps va considérablement augmenter sa consommation en sucre et réduire la combustion des graisses。</string>
     <string name="hr_tips8">Rythme cardiaque aérobique maximal</string>
-    <string name="hr_tips9">Les exercices intensifs (Paode) vont augmenter la proportion d\'anaérobie, le rythme cardiaque est relativement élevé et le corps augmentera sa consommation en sucre pour prduire de l'\énergie et diminuer sa combustion des graisses。</string>
+    <string name="hr_tips9">Les exercices intensifs (Paode) vont augmenter la proportion d\'anaérobie, le rythme cardiaque est relativement élevé et le corps augmentera sa consommation en sucre pour prduire de l\'énergie et diminuer sa combustion des graisses</string>
     <string name="hr_tips10">Exercices anaérobique, consommation de sucre pour produire de l\'énergie</string>
     <string name="hr_tips11">Les exercises mons intensifs (Paode) vont augmenter la poroportion d\'aérobie, le rythme cardiaque ralentit et le corps augmentera sa consommaion en graisses pour produire de l\'énergie。</string>
     <string name="hr_tips12">Exercices anaérobique, consommation de graisses pour produire de l\'énergie</string>
     <string name="hr_dialog_title">Afficher rythme cardiaque pendant la course</string>
     <string name="hr_dialog_ble">Garder la connexion Bluetooth activée entre le téléphone et le bracelet</string>
-    <string name="hr_dialog_pace">Le bracelet doit être connecté pour l'affichage</string>
+    <string name="hr_dialog_pace">Le bracelet doit être connecté pour l\'affichage</string>
     <string name="hr_dialog_wear">Serrer le bracelet et éviter les chocs, les mesures seront plus précises</string>
     <string name="hr_dialog_go">Démarrage immédiat</string>
     <string name="hr_unit_label">Rythme cardiaque (battements/min)</string>
@@ -1389,11 +1387,11 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="fw_upgrade_succ">Patienter…</string>
     <string name="fw_upgrade_failed">"N'a pas pu mettre à jour le firmware"</string>
     <string name="fw_upgrade_progress">Mise à jour %s%%</string>
-    <string name="edit">Editer</string>
+    <string name="edit">Éditer</string>
     <string name="alarm_edit_complete">Effectué</string>
     <string name="sdcarderror">Carte SD non dispo ou est protégé en écriture</string>
-    <string name="heartrate_version">HeartRate version</string>
-    <string name="pre_hr_value">Previous result</string>
+    <string name="heartrate_version">Version capteur cardiaque</string>
+    <string name="pre_hr_value">Résultat précédent</string>
     <string name="unit_hr">BPM</string>
     <string name="measure">Mesure Fréquence cardiaque</string>
     <string name="this_measure">Résultat actuel</string>
@@ -1407,15 +1405,15 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="cannot_heartrate">Mi-Fit avec capteur de fréquence cardiaque non appairé</string>
     <string name="no_measure_data">Aucun résultat</string>
     <string name="no_measure_tips">Ne plus afficher</string>
-    <string name="label_countdown">Préparation pour mesurer...</string>
+    <string name="label_countdown">Patienter…</string>
     <string name="measure_reminder">"Gardez votre poignet au niveau de la poitrine
 et le capteur à proximité de votre peau"</string>
     <string name="measuring">Mesure…</string>
-    <string name="heartrate">Rythme cardiaque</string>
-    <string name="bracelet_disconnected">Bracelet pas connecté</string>
-    <string name="open_bluetooth_tips">Garder le Bluetooth activé</string>
-    <string name="bracelet_disconnect_tips">Bracelet déconnecté</string>
-    <string name="sleep_assist_tips">Mesurer la fréquence cardiaque périodiquement après vous être endormi pour rendre les données de sommeil plus précises (peut consommer la batterie plus vite).</string>
+    <string name="heartrate">Fréquence cardiaque</string>
+    <string name="bracelet_disconnected">Mi-Fit non connecté</string>
+    <string name="open_bluetooth_tips">Gardez Bluetooth activé</string>
+    <string name="bracelet_disconnect_tips">Mi-Fit déconnecté</string>
+    <string name="sleep_assist_tips">Mesurer la fréquence cardiaque périodiquement pendant votre sommeil pour rendre les données plus précis (consomme plus de batterie)</string>
     <string name="sleep_assist_title">Assistant sommeil</string>
     <string name="sport_coming_soon">Prochainement !</string>
     <string name="share_to_mypace">Mon rythme</string>
@@ -1572,7 +1570,7 @@ et le capteur à proximité de votre peau"</string>
     <string name="title_add_friend">Ajouter aux constantes</string>
     <string name="label_scan_add">Scan QR code</string>
     <string name="title_friend_list">Amis</string>
-    <string name="title_heart_list">Heart Rate</string>
+    <string name="title_heart_list">Fréquence cardiaque</string>
     <string name="title_activity_open">Synchroniser avec le compte</string>
     <string name="title_message">Message</string>
     <string name="title_activity_search_result">Résultat de la recherche</string>
@@ -1696,7 +1694,7 @@ et le capteur à proximité de votre peau"</string>
     <string name="description_list_icon">Icône objet</string>
     <string name="friends_invite2">Inviter</string>
     <string name="friends_search">Rechercher</string>
-    <string name="friends_search_tips">Identifiant Mi/surnom/numéro de téléphone</string>
+    <string name="friends_search_tips">ID MIUI / surnom / numéro de téléphone</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="noti_bracelet_low_battery_title_none">"Le Mi-Fit s'est arrêté."</string>
     <string name="point">Point(s)</string>
