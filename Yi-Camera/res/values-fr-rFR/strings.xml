@@ -486,14 +486,14 @@ Merci d'activer le réseau cellulaire ou le Wi-Fi pour accéder à la dernière 
     <string name="share_content">Partager du contenu</string>
     <string name="check_camera_status">"Détecter l'état de l'appareil photo"</string>
     <string name="collection_nothing">Pas de fichier</string>
-    <string name="camera_see_tutorial">Affichier le tutoriel</string>
+    <string name="camera_see_tutorial">Afficher le tutoriel</string>
     <string name="camera_connect">Connectez</string>
     <string name="resolution">Résolution</string>
     <string name="fps">FPS</string>
     <string name="countDown">Compte à rebours</string>
     <string name="frequency">Fréquence</string>
     <string name="internal">Intervalle</string>
-    <string name="phone_album">Album de Téléphone</string>
+    <string name="phone_album">Album du Téléphone</string>
     <string name="camera_album">Album photo</string>
     <string name="media_detail_timelapse_stats">Time-lapse images (%d)</string>
     <string name="media_detail_bursting_stats">Débordant (%d) images</string>
@@ -504,5 +504,5 @@ Merci d'activer le réseau cellulaire ou le Wi-Fi pour accéder à la dernière 
     <string name="delete_failed">Suppression échouée</string>
     <string name="about_permission">"Conditions d'utilisation"</string>
     <string name="about_policy">Politique de confidentialité</string>
-    <string name="agreement">"En appuyuant sur J'accepte, vous reconnaissez et acceptez que vous avez lu et êtes lié par l'APP "<a href="http://www.xiaoyi.com/en/legal/action">"&lt;TERMES d'UTILISATION>"</a> et <a href="http://www.xiaoyi.com/en/home/privacy-policy/index.html">&lt;POLITIQUE VIE PRIVÉE></a>". Si vous ne les acceptez pas, appuyez sur «Annuler» et ne vous connectez pas ou n'utiliser pas l'application."</string>
+    <string name="agreement">"En appuyant sur J'accepte, vous reconnaissez et acceptez que vous avez lu et êtes lié par l'APP "<a href="http://www.xiaoyi.com/en/legal/action">"&lt;TERMES d'UTILISATION>"</a> et <a href="http://www.xiaoyi.com/en/home/privacy-policy/index.html">&lt;POLITIQUE VIE PRIVÉE></a>". Si vous ne les acceptez pas, appuyez sur «Annuler» et ne vous connectez pas ou n'utiliser pas l'application."</string>
 </resources>
