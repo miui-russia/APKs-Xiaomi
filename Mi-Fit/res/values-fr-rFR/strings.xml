@@ -333,26 +333,10 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_tip_hr_bracelet_label">Utiliser la fonction lumière faible du bracelet</string>
     <string name="running_tip_hr_bracelet_content">Affichage du rythme cardiaque</string>
     <string name="running_hr">Rythme cardiaque</string>
-    <string name="running_hr_check">Détection du rythme cardiaque</string>
     <string name="running_hr_disabled_tips">"Activer l'affichage du rythme cardiaque s'il vous plaît"</string>
     <string name="hr_tips1">"Avant de courir, activer la connexion Bluetooth； 
 Le fait de courir maintient la connexion Bluetooth"</string>
     <string name="hr_tips2">Détection du rythme cardiaque par la fonction lumière faible</string>
-    <string name="hr_tips3">"Il est recommandé de courir légèrement en dessous de votre rythme cardiaque aérobique maximum pour le contrôler, afin d'éviter le risque de blessures, ce qui aura pour effet d'améliorer les résultats obtenus sur la perte des graisses. Pour exemple : une personne de 25 ans, travaillant beaucoup et en manque d'exercices, sa fréquence cardiaque aérobique maximale correspond à 180-25-5=150(unité : battements/min). Le rythme cardiaque recommandé pendant la course se situe entre 140-150"</string>
-    <string name="hr_tips4">Fonctionnement aérobie, éviter les blessures, fitness Jianzhi</string>
-    <string name="hr_tips5">"Première étape : la valeur de base = 180-âge (unité : battements/min)。
-Seconde étape : la valeur de base sera ajustée en fonction de votre état physique du moment。
-1、Si vous avez été récemment malade : -10 sur la valeur de base。
-2、Si vous êtes blessés votre état n'est pas bon pour de l\'exercice sur le long terme : -5 sur la valeur de base。
-3、Si vous courrez depuis plus de deux ans, quatre fois par semaine : +5 sur la valeur de base。
-Conseils：Cette formule ne s\'applique pas pour les personnes qui ont plus de 65ans et moins de 16ans qui devront faire en fonction de leurs états physiques。"</string>
-    <string name="hr_tips6">Calculez la fréquence cardiaque maximale aérobique</string>
-    <string name="hr_tips7">Chacun à son rythme cardiaque aérobique maximum。Quand vous courrez，le rythme cardiaque est légèrement plus faible que le rythme cardiaque aérobique maximum pendant l\'entrainement，les exercices aérobiques peuvent améliorer son efficacité，augmenter la combustion des graisses。Si le rythme cardiaque est plus élevé，le corps va considérablement augmenter sa consommation en sucre et réduire la combustion des graisses。</string>
-    <string name="hr_tips8">Rythme cardiaque aérobique maximal</string>
-    <string name="hr_tips9">Les exercices intensifs (Paode) vont augmenter la proportion d\'anaérobie, le rythme cardiaque est relativement élevé et le corps augmentera sa consommation en sucre pour prduire de l\'énergie et diminuer sa combustion des graisses</string>
-    <string name="hr_tips10">Exercices anaérobique, consommation de sucre pour produire de l\'énergie</string>
-    <string name="hr_tips11">Les exercises mons intensifs (Paode) vont augmenter la poroportion d\'aérobie, le rythme cardiaque ralentit et le corps augmentera sa consommaion en graisses pour produire de l\'énergie。</string>
-    <string name="hr_tips12">Exercices anaérobique, consommation de graisses pour produire de l\'énergie</string>
     <string name="hr_dialog_title">Afficher rythme cardiaque pendant la course</string>
     <string name="hr_dialog_ble">Garder la connexion Bluetooth activée entre le téléphone et le bracelet</string>
     <string name="hr_dialog_pace">Le bracelet doit être connecté pour l\'affichage</string>
@@ -366,6 +350,18 @@ Conseils：Cette formule ne s\'applique pas pour les personnes qui ont plus de 6
 Le fait de courir maintient la connexion active。"</string>
     <string name="hr_battery_low">Batterie du bracelet inférieure à 10%</string>
     <string name="close_hr_check">En temps réel cardiofréquencemètre est éteint automatiquement</string>
+    <string name="sport_setting">Paramètres d\'entraînement</string>
+    <string name="hr_unit">BPM</string>
+    <string name="run_hr_instruct">(Exécution de l\'assistant#)</string>
+    <string name="hr_reminder">Alerte de fréquence cardiaque</string>
+    <string name="label_remind">Lorsque votre fréquence cardiaque passe au-dessus de ce niveau, le Mi-Fit vibrera deux fois</string>
+    <string name="hr_tips3" formatted="false">"Par exemple: Jack est de 20, son rythme cardiaque idéale pendant les séances d'entraînement est de 120-160 bpm (60% -80% de 200 = 220-20)"</string>
+    <string name="hr_tips10">Fréquence cardiaque idéal lors des séances d\'entraînement pour les différents âges</string>
+    <string name="running_cancel">Annuler</string>
+    <string name="hr_tips12" formatted="false">"Fréquence cardiaque idéal lors des séances d'entraînement:
+60% -80% de la fréquence cardiaque maximale aérobie"</string>
+    <string name="max_hr">Fréquence cardiaque maximale</string>
+    <string name="running_hr_check">Surveiller le rythme cardiaque</string>
     <string name="tag_action_tips">"Appairage effectué à %s. Pour effectuer l'appairage du bracelet, s'assurer que le bracelet et le téléphone sont distants de moins de 5 mètres sans obstacles entre eux."</string>
     <string name="tag_doing_label">Effectué à %s…</string>
     <string name="tag_connection">Connexion</string>
@@ -1393,7 +1389,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="heartrate_version">Version capteur cardiaque</string>
     <string name="pre_hr_value">Résultat précédent</string>
     <string name="unit_hr">BPM</string>
-    <string name="measure">Mesure Fréquence cardiaque</string>
+    <string name="measure">Mesure</string>
     <string name="this_measure">Résultat actuel</string>
     <string name="pre_measure">Résultat précédent</string>
     <string name="measure_tips">Gardez le Mi-Fit à proximité de votre peau</string>
@@ -1406,15 +1402,34 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="no_measure_data">Aucun résultat</string>
     <string name="no_measure_tips">Ne plus afficher</string>
     <string name="label_countdown">Patienter…</string>
-    <string name="measure_reminder">"Gardez votre poignet au niveau de la poitrine
-et le capteur à proximité de votre peau"</string>
     <string name="measuring">Mesure…</string>
     <string name="heartrate">Fréquence cardiaque</string>
     <string name="bracelet_disconnected">Mi-Fit non connecté</string>
     <string name="open_bluetooth_tips">Gardez Bluetooth activé</string>
     <string name="bracelet_disconnect_tips">Mi-Fit déconnecté</string>
     <string name="sleep_assist_tips">Mesurer la fréquence cardiaque périodiquement pendant votre sommeil pour rendre les données plus précis (consomme plus de batterie)</string>
-    <string name="sleep_assist_title">Assistant sommeil</string>
+    <string name="sleep_assist_title">Assistant sommeil</string>    
+    <string name="hr_slow">Rythme cardiaque lent</string>
+    <string name="hr_normal">Rythme cardiaque normal</string>
+    <string name="hr_sports">Activité physique</string>
+    <string name="hr_fast">Rythme cardiaque élevé</string>
+    <string name="hr">Vous %s</string>
+    <string name="hr_in">"Vous êtes engagé dans %s"</string>
+    <string name="hr_btn">Ne fonctionne pas</string>
+    <string name="bind_heartrate">Mi-Fit Pulse appairé</string>
+    <string name="bind_heartrate_text">Appairé Mi-Fit Pulse pour surveiller votre rythme cardiaque</string>
+    <string name="no_heartrate">"Je n'est pas de Mi-Fit"</string>
+    <string name="measure_reminder"><b>"Appuyez sur le capteur contre votre peau, ne bougez pas"</b></string>
+    <string name="measure_reminder_small">Gardez votre main au niveau de la poitrine pendant la mesure</string>
+    <string name="hr_detail_title"><b>Fréquence cardiaque normal: 60-100 bpm</b></string>
+    <string name="hr_detail_title1" formatted="false"><b>"Fréquence cardiaque idéal lors des séances d'entraînement:
+60% -80% de la fréquence cardiaque maximale (220-âge)"</b></string>
+    <string name="hr_detail_description">Les personnes qui exercent beaucoup ont habituellement un ralentissement du rythme cardiaque. Un exercice régulier et un mode de vie sain pour améliorer votre condition cardiaque</string>
+    <string name="hr_detail_description1">"Garder le rythme cardiaque à ce niveau permet de brûler plus de graisse corporelle et d'éviter les dommages"</string>
+    <string name="hr_detail_slow">Votre rythme cardiaque et lent</string>
+    <string name="hr_detail_normal">Votre rythme cardiaque et normal</string>
+    <string name="hr_detail_fast">Votre rythme cardiaque et élevé</string>
+    <string name="hr_detail_sports">"La fréquence cardiaque est généralement plus rapide lors des séances d'entraînement"</string>  
     <string name="sport_coming_soon">Prochainement !</string>
     <string name="share_to_mypace">Mon rythme</string>
     <string name="share_to_sport_trace">Mon tracé sportif</string>
@@ -1429,7 +1444,6 @@ et le capteur à proximité de votre peau"</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_sport_monitor_bracelet_offline">"Mi-Fit n'est pas connecté"</string>
     <string name="lab_factory_sport_monitor_bracelet_offline_notice">Connectez votre bracelet avant de commencer</string>
-    <string name="lab_factory_sport_monitor_shoes_offline_notice">Connect your shoes before you begin %s.</string>
     <string name="lab_factory_sport_monitor_cancelled_notice">Le capteur va compter %s automatiquement</string>
     <string name="lab_factory_sport_monitor_timeout_notice">"Pas d'activité detectée"</string>
     <string name="lab_factory_sport_device_preparing">Prêt</string>
@@ -1504,13 +1518,11 @@ et le capteur à proximité de votre peau"</string>
     <string name="lab_factory_disconnected_reminder_disconnect">"S'il vous plaît connectez le bracelet, puis modifiez les paramètres d'alerte"</string>
     <string name="sport_running_helper">Courses</string>
     <string name="sport_share">Partager maintenant</string>
-    <string name="lab_factory_left_time">Temps restant</string>
     <string name="lab_factory_rt_pace_frequency">En temps réel</string>
     <string name="lab_factory_average_pace_frequency">Pas moyen</string>
     <string name="lab_factory_start">Démarrer</string>
     <string name="lab_factory_restart">Recommencer</string>
     <string name="lab_factory_frequency_unit">Pas/min</string>
-    <string name="lab_factory_time_label">Deuxième compte à rebours</string>
     <string name="lab_factory_pace_frequency_test">Test Cadence</string>
     <string name="lab_factory_shoes_not_connected">Les chaussures de course ne sont pas connectés</string>
     <string name="lab_step_test">Test pas</string>
@@ -1624,8 +1636,8 @@ et le capteur à proximité de votre peau"</string>
     <string name="label_care_time_by_me">Envoyer %s Wizz de lui</string>
     <string name="label_no_care_time_by_me">Vide</string>
     <string name="label_step">Pas</string>
-    <string name="label_mileage">Kilométrage (Km)</string>
-    <string name="label_mileage_dynamic">Kilométrage (%s)</string>
+    <string name="label_mileage">Distance (km)</string>
+    <string name="label_mileage_dynamic">Distance (%s)</string>
     <string name="label_calorie">Calorie (Cal)</string>
     <string name="label_sleep_start_time">Temps de sommeil</string>
     <string name="toast_content_empty_error">Le champ ID ne peut pas être vide</string>
@@ -1645,6 +1657,9 @@ et le capteur à proximité de votre peau"</string>
     <string name="label_friend_accept_message">%s devenir votre ami</string>
     <string name="label_friend_refuse_message">"%s refuser d'être votre ami"</string>
     <string name="label_friend_care_message">%s coup de pouce envoyé!</string>
+    <string name="lab_factory_sport_monitor_shoes_offline_notice">Connectez vos chaussures pour commencer</string>
+    <string name="lab_factory_left_time">Temps restant/sec</string>
+    <string name="lab_factory_time_label">Compte à rebours/sec</string>
     <string name="lab_factory_internal_test">"Test de l'analyse des habitudes de déplacement"</string>
     <string name="sport_running_helper_test">Lancer des tests</string>
     <string name="debug_host_label">"Ajouter une adresse d'hôte："</string>
