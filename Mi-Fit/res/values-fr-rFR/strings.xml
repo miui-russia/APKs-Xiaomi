@@ -853,7 +853,7 @@ En moyenne, vous vous êtes couché(e) aux alentours de %5$s, et réveillé(e) a
     <string name="instruction_weight_page6_t1">Portez des vêtements légers</string>
     <string name="instruction_weight_page6_t2">Placez les deux pieds fermement sur le centre de la balance</string>
     <string name="instruction_weight_page6_t3">Placez-la sur une surface plane</string>
-    <string name="record_weight">Poids record</string>
+    <string name="record_weight">Poids enregistré</string>
     <string name="go_running">Course</string>
     <string name="new_record_born">Bravo ! Vous avez établi un nouveau record</string>
     <string name="new_record_format_str">"%1$s pas, %2$s calories brûlées.
@@ -870,7 +870,7 @@ Il faut garder le rythme."</string>
     <string name="bluetooth">Bluetooth :</string>
     <string name="setting_about_fw">Version firmware :</string>
     <string name="setting_about_app">"Version App : 
-Traduction par Fays et ggoldfinger"</string>
+Traduction par Fays, ggoldfinger et Angyann"</string>
     <string name="stop">Fin</string>
     <string name="start">Début</string>
     <string name="no_wear_bracelet">"Vous n'avez pas porté votre Mi-Fit la nuit dernière"</string>
@@ -1005,7 +1005,7 @@ ouvrir le compartiment de la batterie au dos de la balance et ajuster de nouveau
     <string name="bind_weight_fail">"Échec de l'appairage"</string>
     <string name="device_not_found">Périphérique introuvable</string>
     <string name="connecting">Connexion…</string>
-    <string name="multi_weight_devices_info">"S'il vous plaît réactiver le bluetooth et essayez à nouveau"</string>
+    <string name="multi_weight_devices_info">Veuillez réactiver le bluetooth et essayez à nouveau</string>
     <string name="look_weight_device_list">Afficher la liste des balances à proximité</string>
     <string name="family_member">Utilisateurs</string>
     <string name="user_staron_me">Abonnements</string>
@@ -1095,7 +1095,7 @@ record personnel est de %2$s jours"</string>
     <string name="daily_sport_report_week_info">"%1$s pas marchés.
 égal à %2$sx4 litres d'essence"</string>
     <string name="del_family_member">Retirer cet utilisateur ?</string>
-    <string name="del_family_member_content">"Les données sur la santé de l'utilisateur seront également supprimés. Vous ne pouvez pas annuler cette action ?"</string>
+    <string name="del_family_member_content">"Les données sur la santé de l'utilisateur seront également supprimées. Vous ne pouvez pas annuler cette action ?"</string>
     <string name="mi_band">Mi-Fit</string>
     <string name="add_family_member">Ajouter un utilisateur</string>
     <string name="delete_family_member">"Supprimer l'utilisateur"</string>
@@ -1395,7 +1395,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="measure_tips">Gardez le Mi-Fit à proximité de votre peau</string>
     <string name="measure_fail">Impossible de mesurer</string>
     <string name="hr_item_date">dd/MM HH:mm</string>
-    <string name="sleep_assist_info">Mesurer la fréquence cardiaque toutes les 2 min après vous vous endormez pour rendre les données de sommeil plus précis</string>
+    <string name="sleep_assist_info">Mesurer la fréquence cardiaque toutes les 2 min après vous être endormi pour rendre les données de sommeil plus précis</string>
     <string name="sleep_assist">Assistant sommeil</string>
     <string name="jump_measure_guide">Suivant</string>
     <string name="cannot_heartrate">Mi-Fit avec capteur de fréquence cardiaque non appairé</string>
@@ -1418,13 +1418,13 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="hr_btn">Ne fonctionne pas</string>
     <string name="bind_heartrate">Mi-Fit Pulse appairé</string>
     <string name="bind_heartrate_text">Appairé Mi-Fit Pulse pour surveiller votre rythme cardiaque</string>
-    <string name="no_heartrate">"Je n'est pas de Mi-Fit"</string>
-    <string name="measure_reminder"><b>"Appuyez sur le capteur contre votre peau, ne bougez pas"</b></string>
+    <string name="no_heartrate">"Je n'ai pas de Mi-Fit"</string>
+    <string name="measure_reminder"><b>"Appuyez le capteur contre votre peau, ne bougez pas"</b></string>
     <string name="measure_reminder_small">Gardez votre main au niveau de la poitrine pendant la mesure</string>
     <string name="hr_detail_title"><b>Fréquence cardiaque normal: 60-100 bpm</b></string>
-    <string name="hr_detail_title1" formatted="false"><b>"Fréquence cardiaque idéal lors des séances d'entraînement:
+    <string name="hr_detail_title1" formatted="false"><b>"Fréquence cardiaque idéale lors des séances d'entraînement:
 60% -80% de la fréquence cardiaque maximale (220-âge)"</b></string>
-    <string name="hr_detail_description">Les personnes qui exercent beaucoup ont habituellement un ralentissement du rythme cardiaque. Un exercice régulier et un mode de vie sain pour améliorer votre condition cardiaque</string>
+    <string name="hr_detail_description">Les personnes qui exercent beaucoup ont habituellement un ralentissement du rythme cardiaque. Un exercice régulier et un mode de vie sain améliore votre condition cardiaque</string>
     <string name="hr_detail_description1">"Garder le rythme cardiaque à ce niveau permet de brûler plus de graisse corporelle et d'éviter les dommages"</string>
     <string name="hr_detail_slow">Votre rythme cardiaque et lent</string>
     <string name="hr_detail_normal">Votre rythme cardiaque et normal</string>
@@ -1499,7 +1499,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="lab_factory_sport_steps_converted">est égal à %d pas</string>
     <string name="lab_factory_sport_come_on">Continuez !</string>
     <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
-    <string name="lab_factory_sport_vote_desc">"S'il vous plaît votez pour votre sport favori"</string>
+    <string name="lab_factory_sport_vote_desc">Veuillez votez pour votre sport favori</string>
     <string name="lab_factory_sport_vote_sub_desc">Arrivera bientôt</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
@@ -1515,7 +1515,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="lab_factory_sport_accumulate">Votre entrainement est de %d mois</string>
     <string name="lab_factory_disconnected_reminder">Alerte via bluetooth</string>
     <string name="lab_factory_disconnected_reminder_tips">"Si la connexion entre le bracelet et le téléphone mobile Bluetooth est perdue, le bracelet vibrera une fois et les lumières blanches s'allumeront pour vous prévenir"</string>
-    <string name="lab_factory_disconnected_reminder_disconnect">"S'il vous plaît connectez le bracelet, puis modifiez les paramètres d'alerte"</string>
+    <string name="lab_factory_disconnected_reminder_disconnect">"Veuillez connectez le bracelet, puis modifiez les paramètres d'alerte"</string>
     <string name="sport_running_helper">Courses</string>
     <string name="sport_share">Partager maintenant</string>
     <string name="lab_factory_rt_pace_frequency">En temps réel</string>
@@ -1524,7 +1524,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="lab_factory_restart">Recommencer</string>
     <string name="lab_factory_frequency_unit">Pas/min</string>
     <string name="lab_factory_pace_frequency_test">Test Cadence</string>
-    <string name="lab_factory_shoes_not_connected">Les chaussures de course ne sont pas connectés</string>
+    <string name="lab_factory_shoes_not_connected">Les chaussures de course ne sont pas connectées</string>
     <string name="lab_step_test">Test pas</string>
     <string name="sport_ranking_desc_poor">%s: La plupart des utilisateurs sont devant vous</string>
     <string name="sport_ranking_desc_normal" formatted="false">Votre place &lt;b>%s&lt;/b> sur %s utilisateurs</string>
@@ -1544,7 +1544,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="contour_track_failed_to_create">Impossible de partager, merci de vérifier le stockage restant</string>
     <string name="share_img_failed_to_create">Impossible de partager, merci de vérifier le stockage restant</string>
     <string name="label_continue_record">Continuer</string>
-    <string name="label_runner_group">Club de coureur</string>
+    <string name="label_runner_group">Club de coureurs</string>
     <string name="action_mark">Comportement de marquage</string>
     <string name="action_sleep">Sommeil</string>
     <string name="action_bath">Bain</string>
@@ -1641,7 +1641,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="label_calorie">Calorie (Cal)</string>
     <string name="label_sleep_start_time">Temps de sommeil</string>
     <string name="toast_content_empty_error">Le champ ID ne peut pas être vide</string>
-    <string name="label_search_result_empty">"ID n'existe pas ! essayez à nouveau !"</string>
+    <string name="label_search_result_empty">"Cet identifiant n'existe pas ! essayez à nouveau !"</string>
     <string name="label_date_with_week">%1$s/%2$s %3$s</string>
     <string name="label_sleep_record">%1$s/%2$s historique du sommeil</string>
     <string name="label_activity_record">"%1$s/%2$s historique de l'activité"</string>
@@ -1672,7 +1672,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="sport_running_distance_desc">kilomètre</string>
     <string name="sport_running_distance_unit">Distance(km)</string>
     <string name="sport_running_history_no_more_data">Aucune donnée</string>
-    <string name="sport_running_history_no_data_refresh">"Aucune donnée. S'il vous plaît cliquer pour rafraîchir"</string>
+    <string name="sport_running_history_no_data_refresh">Aucune donnée. Veuillez cliquer pour rafraîchir</string>
     <string name="sport_running_history_no_data_refreshing">Actualisation. Patienter..</string>
     <string name="sport_running_cost_cal">%.1f cal</string>
     <string name="sport_running_prepare_map">Préparation des données pour le partage..</string>
@@ -1693,7 +1693,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="sport_running_gallery">Galerie</string>
     <string name="sport_running_failed_to_get_history_neterror">Impossible de se connecter au réseau</string>
     <string name="sport_running_get_history_no_more_data">Aucune donnée supplémentaire</string>
-    <string name="sport_running_delete_track_item_confirm">Les enregistrements ne peuvent pas être restaurées</string>
+    <string name="sport_running_delete_track_item_confirm">Les enregistrements ne peuvent pas être restaurés</string>
     <string name="sport_running_backgroud_notification">Courir…</string>
     <string name="sport_running_volumn_notice">"Volume média faible pour l'annonce des kilomètres, merci de l'ajuster dans Musique/Paramètres"</string>
     <string name="watermark_search_location">\#Chargement de votre Localisation</string>
@@ -1709,7 +1709,7 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="description_list_icon">Icône objet</string>
     <string name="friends_invite2">Inviter</string>
     <string name="friends_search">Rechercher</string>
-    <string name="friends_search_tips">ID MIUI / surnom / numéro de téléphone</string>
+    <string name="friends_search_tips">Identifiant Mi/Surnom/Numéro de téléphone</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="noti_bracelet_low_battery_title_none">"Le Mi-Fit s'est arrêté."</string>
     <string name="point">Point(s)</string>
