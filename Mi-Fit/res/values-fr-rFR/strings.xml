@@ -186,8 +186,6 @@ Logo vers le haut"</string>
     <string name="running_kilometers_per_hour">km/h</string>
     <string name="running_gps_locating">Localisation…</string>
     <string name="running_set_pace">Alarme de cadence</string>
-    <string name="running_lable_miles_fastest">Mile le plus rapide</string>
-    <string name="running_lable_km_slowest">Km le plus lent</string>
     <string name="running_distance_unit">Distance (km)</string>
     <string name="running_short_track_desc">"Vous avez couru %dm, annuler cette session ?"</string>
     <string name="running_stop_sport_confirm">Quitter cette session?</string>
@@ -362,6 +360,11 @@ Le fait de courir maintient la connexion active。"</string>
 60% -80% de la fréquence cardiaque maximale aérobie"</string>
     <string name="max_hr">Fréquence cardiaque maximale</string>
     <string name="running_hr_check">Surveiller le rythme cardiaque</string>
+    <string name="running_lable_pace">Rythme moyen (min)</string>
+    <string name="running_lable_avg_hr">Fréquence cardiaque moyenne (BPM)</string>
+    <string name="hr_tips_age">Age</string>
+    <string name="hr_tips_arrange">Fréquence cardiaque idéal (BPM)</string>
+    <string name="hr_tips_180">180 pas/min</string>
     <string name="tag_action_tips">"Appairage effectué à %s. Pour effectuer l'appairage du bracelet, s'assurer que le bracelet et le téléphone sont distants de moins de 5 mètres sans obstacles entre eux."</string>
     <string name="tag_doing_label">Effectué à %s…</string>
     <string name="tag_connection">Connexion</string>
@@ -1409,7 +1412,6 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
     <string name="bracelet_disconnect_tips">Mi-Fit déconnecté</string>
     <string name="sleep_assist_tips">Mesurer la fréquence cardiaque périodiquement pendant votre sommeil pour rendre les données plus précis (consomme plus de batterie)</string>
     <string name="sleep_assist_title">Assistant sommeil</string>    
-    <string name="hr_slow">Rythme cardiaque lent</string>
     <string name="hr_normal">Rythme cardiaque normal</string>
     <string name="hr_sports">Activité physique</string>
     <string name="hr_fast">Rythme cardiaque élevé</string>
@@ -1426,10 +1428,15 @@ Utiliser la balance Mi pour enregister le poids de votre nourrisson"</string>
 60% -80% de la fréquence cardiaque maximale (220-âge)"</b></string>
     <string name="hr_detail_description">Les personnes qui exercent beaucoup ont habituellement un ralentissement du rythme cardiaque. Un exercice régulier et un mode de vie sain améliore votre condition cardiaque</string>
     <string name="hr_detail_description1">"Garder le rythme cardiaque à ce niveau permet de brûler plus de graisse corporelle et d'éviter les dommages"</string>
-    <string name="hr_detail_slow">Votre rythme cardiaque et lent</string>
     <string name="hr_detail_normal">Votre rythme cardiaque et normal</string>
     <string name="hr_detail_fast">Votre rythme cardiaque et élevé</string>
-    <string name="hr_detail_sports">"La fréquence cardiaque est généralement plus rapide lors des séances d'entraînement"</string>  
+    <string name="hr_detail_sports">"La fréquence cardiaque est généralement plus rapide lors des séances d'entraînement"</string>
+    <string name="hr_detail_slow">Votre rythme cardiaque est lent</string>
+    <string name="hr_slow">Le rythme cardiaque est lent</string>
+    <string name="hr_me">Mon rythme cardiaque</string>
+    <string name="hr_fast_label">Rapide</string>
+    <string name="hr_normal_label">Normal</string>
+    <string name="hr_slow_label">Lent</string>
     <string name="sport_coming_soon">Prochainement !</string>
     <string name="share_to_mypace">Mon rythme</string>
     <string name="share_to_sport_trace">Mon tracé sportif</string>
