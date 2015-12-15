@@ -79,6 +79,9 @@
     <string name="control_vol_by_cellphone">Utiliser votre appareil pour contrôler le volume</string>
     <string name="controller_list">Les télécommandes</string>
     <string name="cool_mode">Refroidissement</string>
+    <string name="create_shortcut_cancel">Non merci</string>
+    <string name="create_shortcut_confirm">Créer</string>
+    <string name="create_shortcut_done">Créer avec succès</string>
     <string name="current_place">Localisation actuelle</string>
     <string name="current_play">Lecture en cours :</string>
     <string name="current_stb">Actuel</string>
@@ -166,7 +169,7 @@
     <string name="humidity_frame">%1$d%%</string>
     <string name="input_complete">OK</string>
     <string name="input_source">"Source d'entrée"</string>
-    <string name="input_speech_button">Appuyez &amp; maintenez, puis énoncer votre commande</string>
+    <string name="input_speech_button">Appuyez et maintenez, puis énoncer votre commande</string>
     <string name="install_failed">"Impossible d'installer %s"</string>
     <string name="install_succed">%s installé avec succès</string>
     <string name="installing">Installation…</string>
@@ -196,6 +199,7 @@
     <string name="ir_device_tv">TV</string>
     <string name="ir_device_wifi">Télécommande Wi-Fi</string>
     <string name="jump_to_mivideo">Voir sur un appareil mobile</string>
+    <string name="just_now">Maintenant</string>
     <string name="just_used">"Tout à l'heure"</string>
     <string name="key_press_vibrate">Vibrer au contact</string>
     <string name="last_use_frame">Il y a %1$s</string>
@@ -220,6 +224,8 @@
     <string name="match_ac_name_power">Eteindre</string>
     <string name="match_count_frame">Associer %1$d%2$d télécommande</string>
     <string name="match_data">"Information d'appairage"</string>
+    <string name="match_data_error_tips">"Couldn't get info
+Go back to continue"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_dvd_intro_pause">Relâchez quand la lecture du DVD pause</string>
     <string name="match_dvd_intro_play">Relâchez quand le DVD commence à jouer</string>
@@ -268,6 +274,7 @@
     <string name="mitv">Mi TV</string>
     <string name="mitv_assistant_setting_version">Assistant de la Mi TV %1$s</string>
     <string name="mode">Mode</string>
+    <string name="month_day_format">dd-MM-yy</string>
     <string name="more">Plus</string>
     <string name="mute">Muet</string>
     <string name="network_diagnosis">Tester le réseau</string>
@@ -275,7 +282,7 @@
     <string name="network_ok">Aucun problème détecté</string>
     <string name="network_unstable">"· Vous disposez d'une connexion stable"</string>
     <string name="next_step">Suivant</string>
-    <string name="no">Annuler</string>
+    <string name="no">Non</string>
     <string name="no_brand_service">"Cette marque n'est pas actuellement disponible"</string>
     <string name="no_current_play">"Lecture en cours:- "</string>
     <string name="no_data">Aucune information</string>
@@ -304,13 +311,14 @@
     <string name="power">Power</string>
     <string name="press_to_continue_match">Appuyez pour continuer</string>
     <string name="press_to_match">Appuyez pour appairer</string>
-    <string name="privacy_content">En utilisant ce produit, vous acceptez notre <u>Politique de confidentialité</u> et les <u>Modalités de Service</u>. Mi Remote doit se connecter à internet pour fonctionner normalement.</string>
-    <string name="privacy_nohit">Ne plus montrer</string>
+    <string name="privacy_content">"Read Xiaomi's "<a href="http://www.miui.com/res/doc/privacy/en.html">Privacy Policy</a> and <a href="http://www.miui.com/res/doc/eula/en.html">User Agreement</a> before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>    <string name="privacy_nohit">Ne plus montrer</string>
     <string name="privacy_title">"Conditions d'utilisation"</string>
     <string name="projection_failed_for_disconnect">Appareils non connectés</string>
     <string name="province">Province</string>
     <string name="pull_down_refresh">Tirer vers le bas pour actualiser</string>
     <string name="pull_up_refresh">Glissez vers le haut pour actualiser</string>
+    <string name="push_add">Found a remote shared to you</string>
+    <string name="push_add_desc">Control the nearby %1$s with this remote?</string>
     <string name="rc">Télécommande</string>
     <string name="rc_name">Télécommande</string>
     <string name="refreshing">Actualisation…</string>
@@ -375,6 +383,8 @@
     <string name="share_title_to_mitalk_ellipsis">…</string>
     <string name="share_title_to_sina_weibo">"Partager à l'aide de Sina Weibo"</string>
     <string name="share_to_others">Partager</string>
+    <string name="shortcut_pop_desc">Looks like you use Mi Remote quite often. Create a Home screen shortcut?</string>
+    <string name="shortcut_pop_title">Shortcut</string>
     <string name="similar">Liés</string>
     <string name="somthing_wrong">Des problèmes ?</string>
     <string name="sorry">Erreur</string>
@@ -443,8 +453,10 @@
     <string name="virtual_keyhboard_intro">"Utiliser le clavier de votre appareil pour taper sur l'écran"</string>
     <string name="volume">Volume</string>
     <string name="weather_out">"Température à l'extérieure :"</string>
-    <string name="yes">Supprimer</string>
-    <string name="ac_mode_auto">auto</string>
+    <string name="year_month_day_format">dd MM yyyy</string>
+    <string name="yes">Oui</string>
+    <string name="yesterday">Hier</string>
+    <string name="ac_mode_auto">Auto</string>
     <string name="ac_mode_cold">Froid</string>
     <string name="ac_mode_dry">Déshumidifier</string>
     <string name="ac_mode_fan">Ventilateur</string>
@@ -574,7 +586,7 @@
     <string name="passport_quick_login_step2_title">2-Étape vérification</string>
     <string name="passport_quick_login_title">Entrez votre mot de passe</string>
     <string name="passport_re_get_verify_code">Obtenir de nouveau le code </string>
-    <string name="passport_re_register">S'inscrire à nouveau</string>
+    <string name="passport_re_register">S\'inscrire à nouveau</string>
     <string name="passport_reg_failed">Impossible de mettre en place le compte</string>
     <string name="passport_reg_new">Créer un Compte Mi gratuitement</string>
     <string name="passport_reg_sms_send_prompt">Envoi du code de vérification à %s</string>
@@ -583,8 +595,8 @@
     <string name="passport_reg_type_email">Créer un Compte en utilisant une adresse mail</string>
     <string name="passport_reg_type_other_ways"><u>"Créer un compte en utilisant d'autres moyens"</u></string>
     <string name="passport_reg_type_other_ways_title">"Créer un compte en utilisant d'autres moyens"</string>
-    <string name="passport_reg_using_other_phone">S'enregistrer avec un autre numéro de téléphone"</string>
-    <string name="passport_reg_using_other_phone_number_prompt">S'enregistrer avec un autre numéro de téléphone"</string>
+    <string name="passport_reg_using_other_phone">S\'enregistrer avec un autre numéro de téléphone"</string>
+    <string name="passport_reg_using_other_phone_number_prompt">S\'enregistrer avec un autre numéro de téléphone"</string>
     <string name="passport_reg_using_phone_number_prompt">"S'enregistrer avec votre numéro de téléphone"</string>
     <string name="passport_reg_via_sms_alert">"Votre opérateur mobile peut vous surtaxer pour l'utilisation de ce service d'activation du compte par SMS."</string>
     <string name="passport_reging">Création du compte...</string>
@@ -608,7 +620,7 @@
     <string name="passport_user_agreement">Accords utilisateur</string>
     <string name="passport_user_agreement_p1">"J'accepte"</string>
     <string name="passport_user_agreement_p2">Accords utilisateur</string>
-    <string name="passport_user_agreement_p3"> et </string>
+    <string name="passport_user_agreement_p3"> et </string>
     <string name="passport_user_agreement_p4">Politique de confidentialité</string>
     <string name="passport_vcode">Code de vérification</string>
     <string name="passport_vcode_notification_title">Votre vérification de connexion au compte est incomplète</string>
@@ -640,4 +652,26 @@
     <string name="wind_speed_low">Lent</string>
     <string name="wind_speed_medium">Modérée</string>
     <string name="wind_sweep">Balayage</string>
+    <string name="day_string">日</string>
+    <string name="empty_name_tip">遥控器还没有名字哦~</string>
+    <string name="epg_all_channels">全部频道</string>
+    <string name="epg_bookable">预约</string>
+    <string name="epg_booked">已预约</string>
+    <string name="epg_change_channel">换台</string>
+    <string name="epg_details_episode">第%1$s集</string>
+    <string name="epg_fav_channels">频道收藏</string>
+    <string name="epg_hot_channels">热门频道</string>
+    <string name="epg_hot_programs">热门节目</string>
+    <string name="epg_loading_hint">手机控制机顶盒一键换台</string>
+    <string name="epg_status_playing_text_v5">直播中</string>
+    <string name="get_location_fail_tip">自动获取位置失败，请手动选择城市</string>
+    <string name="month">月</string>
+    <string name="playing_time">播出时间</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="voice_download_tips">未检测到科大讯飞语音服务，点击\"确认\"下载...</string>
+    <string name="voice_download_title">提示</string>
+    <string name="voice_engine_ifly_fail">启动讯飞语音识别失败</string>
+    <string name="voice_record_start">开始录制语音</string>
+    <string name="voice_resolving">正在进行语音识别</string>
 </resources>
