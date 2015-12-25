@@ -47,7 +47,7 @@
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="UMAppUpdate">"Mise à jour de l'application"</string>
     <string name="UMBreak_Network">Vérifier votre connection à internet, mise à jour annulée</string>
-    <string name="UMDialog_InstallAPK">La dernière version a été téléchargée, souhaitez-vous l\'installer ?</string>
+    <string name="UMDialog_InstallAPK">"La dernière version a été téléchargée, souhaitez-vous l'installer ?"</string>
     <string name="UMExit">"Quitter l'application"</string>
     <string name="UMForceUpdate">Forcer la mise à jour afin de débloquer toutes les fonctionnalités</string>
     <string name="UMGprsCondition">(Information: environnement non-WIFI)</string>
@@ -64,14 +64,14 @@
     <string name="about">À propos</string>
     <string name="about_subtitle">En savoir plus</string>
     <string name="account_must_email">(Utiliser un e-mail pour le compte)</string>
-    <string name="agreement_content">"Le service XiaoYi-Cam vous oblige à accepter<u><a href="agreement://123">l\'accord utilisateur</a></u>avant toute utilisation de ses appareils，afin d\'être en mesure de connecter les périphériques avec la XiaoYi-Cam, l\'utilisation de XiaoYi-Cam utilise ce service pour se connecter au réseau, le positionnement et les données mobiles, l\'acceptez-vous ?"</string>
     <string name="agreement_content_title">Accord utilisateur</string>
     <string name="agreement_posi_btn">Accepter et continuer</string>
     <string name="agreement_title">Déclarations et accords</string>
-    <string name="alarm_time">"Heure de l'alarme"</string>
+    <string name="alarm_region_set_failure">Set the monitoring area failed.</string>
+    <string name="alarm_region_set_success">Set the monitoring area successfully.</string>
+    <string name="alarm_time">Alert Schedule</string>
     <string name="alart_content">La nouvelle alarme de caméra dynamique sera affichée ici</string>
-    <string name="alart_day">Cliquez sur le calendrier, vous pouvez changer de vue
-Alarme dans un délai maximum de sept jours</string>
+    <string name="alart_day">Cliquez sur le calendrier, vous pouvez changer de vue Alarme dans un délai maximum de sept jours</string>
     <string name="album">Galerie</string>
     <string name="album_before_yesterday">Avant-hier</string>
     <string name="album_choose">Choisir</string>
@@ -107,15 +107,16 @@ Alarme dans un délai maximum de sept jours</string>
     <string name="alert_readed_success">Marquer comme lu effectué</string>
     <string name="alert_refresh_footer">Modifier la dynamique de la veille</string>
     <string name="alert_refresh_footer_next">Ajouter plus de dynamique</string>
-    <string name="alert_refresh_header">Un jour après l\'affichage dynamique</string>
+    <string name="alert_refresh_header">"Un jour après l'affichage dynamique"</string>
     <string name="alert_refresh_load">Chargement terminé</string>
     <string name="alert_refresh_loading">Chargement</string>
-	<string name="alert_title">Alertes d\'activités</string>
+    <string name="alert_refresh_update_header_text">下拉刷新</string>
+    <string name="alert_title">"Alertes d'activités"</string>
     <string name="alert_video">Alarme de la vidéo</string>
-	<string name="alert_video_delete">Supprimer cette vidéo alerte ?</string>
+    <string name="alert_video_delete">Supprimer cette vidéo alerte ?</string>
     <string name="app_name">XiaoYi-Cam</string>
     <string name="app_version">Version numéro：%1$s</string>
-	<string name="auto">Auto</string>
+    <string name="auto">Auto</string>
     <string name="back_home">"Retour à la page d'accueil"</string>
     <string name="barcode_bind_fail">"Échec du scan,
 Réinitialiser la caméra"</string>
@@ -132,6 +133,7 @@ Réinitialiser la caméra"</string>
     <string name="buy">Acheter</string>
     <string name="buy_sdcard">Acheter Carte SD</string>
     <string name="camera_3g_network">Vous utilisez actuellement les réseaux de données mobiles 3G/4G, pensez à surveiller votre consommation de données.</string>
+    <string name="camera_alarm_notify_bad_network">当前网络状况不佳，请查看网络设置或切换画质。</string>
     <string name="camera_bind">Vérifiez la connexion avec la caméra</string>
     <string name="camera_bind_failed">Connexion échouée !</string>
     <string name="camera_bind_not_found">Aucune caméra trouvée !</string>
@@ -140,7 +142,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_binding">Connexion...</string>
     <string name="camera_buffing">Mise en mémoire tampon...</string>
     <string name="camera_config">Paramétrage de la caméra</string>
-    <string name="camera_connect_timeout">Connexion à la caméra échouée délai dépassé，veuillez réinitialiser la caméra </string>
+    <string name="camera_connect_timeout">Connexion à la caméra échouée délai dépassé，veuillez réinitialiser la caméra</string>
     <string name="camera_id">"ID: "</string>
     <string name="camera_initing">Connexion...</string>
     <string name="camera_is_in_recording">"L'enregistrement en cours ne supporte pas les images en mouvement !"</string>
@@ -148,7 +150,8 @@ Réinitialiser la caméra"</string>
     <string name="camera_motion_detect_des">"Enregistrer uniquement lorsqu'il y de l'activité dans le champs de la caméra，afin d'économiser de l'espace de stockage"</string>
     <string name="camera_name_cant_be_null">Le nom de la caméra ne peut pas être vide!</string>
     <string name="camera_not_connection">"Votre appareil ne semble pas être connecté au réseau, vérifiez la connexion à l'alimentation ou au réseau."</string>
-    <string name="camera_password_exceed_max_retry">Le nombre maximal de tentatives de saisie du mot de passe pour vous connecter à l\'appareil est dépassé !</string>
+    <string name="camera_password_exceed_max_retry">"Le nombre maximal de tentatives de saisie du mot de passe pour vous connecter à l'appareil est dépassé !"</string>
+    <string name="camera_not_network">Network unavailable, please check your network settings</string>
     <string name="camera_password_experied">"Le mot de passe de l'appareil a expiré, réinitialiser la caméra !"</string>
     <string name="camera_password_invaid">Mot de passe invalide, veuillez essayer à nouveau !</string>
     <string name="camera_password_no_support">Version du firmware de la caméra trop ancienne, veuillez mettre la dernière version du firmware disponible !</string>
@@ -156,6 +159,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_record_fail">Enregistrement échoué</string>
     <string name="camera_refresh_time">"Dernière mise à jour: aujourd'hui à %1$s"</string>
     <string name="camera_remove">Caméra supprimée</string>
+    <string name="camera_resolution">Qualité</string>
     <string name="camera_reverse_des">Retournez la caméra, pour activer cette option</string>
     <string name="camera_setting">Mettre en place la caméra</string>
     <string name="camera_setting_alarm_app_notify">"Réception d'un message d'alerte pour l'application"</string>
@@ -171,6 +175,12 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_decode_title">Décodage matériel</string>
     <string name="camera_setting_firmware_version">Version du firmware</string>
     <string name="camera_setting_foundation">Paramétrage de base</string>
+    <string name="camera_setting_ldc_mode_subtitle">校正镜头畸变导致拍摄的照片倾斜</string>
+    <string name="camera_setting_ldc_mode_title">畸变校正</string>
+    <string name="camera_setting_region_alarm_subtitle">Screen configuration, only send alerts when detecting changes on the screen area you choosed</string>
+    <string name="camera_setting_region_alarm_title">Monitor choosed screen area</string>
+    <string name="camera_setting_region_setting_alarm_des">Change</string>
+    <string name="camera_setting_region_setting_alarm_title">Monitoring area settings</string>
     <string name="camera_setting_motion_detect">"Activer l'enregistrement de détection de mouvement"</string>
     <string name="camera_setting_network_information">Réseau Wi-Fi</string>
     <string name="camera_setting_reverse">"Retourner l'image"</string>
@@ -189,6 +199,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_weixin_alarm_public_title">Canal Public</string>
     <string name="camera_setting_weixin_alarm_subtitle">"Les messages d'alarme peuvent être visualisés avec le contenu de la micro-canal"</string>
     <string name="camera_setting_weixin_alarm_title">"Réception un message d'avertissement via le Micro-canal"</string>
+    <string name="camera_tips_zoom">You can view the timeline below by clicking anywhere on the video.</string>
     <string name="camera_update">Nouveau firmware disponible, le mettre à jour immédiatement</string>
     <string name="camera_upgrade">Mise à niveau de la caméra</string>
     <string name="camera_version_update_memo">Mise à jour de journal</string>
@@ -204,8 +215,18 @@ Réinitialiser la caméra"</string>
     <string name="choose_config_type">Sélectionnez le type de configuration</string>
     <string name="click_bind">Appuyez pour vous connecter</string>
     <string name="click_show_log">Appuyez pour afficher le journal de mise à jour</string>
+    <string name="close">Désactivé</string>
     <string name="confirm_exit_camera_config">Quitter la Configuration de la caméra</string>
+    <string name="connect_app_version_scan_content1">Center the QR code sticked on the back of your camera in the scanning area</string>
+    <string name="connect_app_version_scan_content2">Then the app will check whether it is suitable for your camera</string>
+    <string name="connect_app_version_scan_error_button">Download</string>
+    <string name="connect_app_version_scan_error_content">"Your camera is China version. It's only useful in China with China version App. Download it right now?"</string>
+    <string name="connect_app_version_scan_error_title">Inappropriate App</string>
+    <string name="connect_app_version_scan_ok_content">This app is the same version as your smart camera. Please check other settings</string>
+    <string name="connect_app_version_scan_ok_title">Appropriate App</string>
+    <string name="connect_app_version_scan_title">Scan QR code to check</string>
     <string name="connect_distribute_server">Connexion au serveur de distribution</string>
+    <string name="connect_error_app">Mismatched app and camera?</string>
     <string name="connect_test_server_rate">Tester le taux de connexion au serveur</string>
     <string name="connect_to_wifi_msg">Veuillez connecter le téléphone à un réseau Wifi!</string>
     <string name="connect_video_cloud_server">Connexion au serveur de vidéo du Cloud</string>
@@ -231,6 +252,43 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="device_added_by_other2">"La caméra a été associé à d'autres utilisateurs"</string>
     <string name="device_not_exist">"La caméra n'existe pas"</string>
     <string name="device_not_found">"Ce numéro de caméra n'existe pas"</string>
+    <string name="devshare_accept_add_success">Device was successfully added</string>
+    <string name="devshare_accept_button">Accept Invitation</string>
+    <string name="devshare_accept_desc">You can now connect with your family through real-time video and audio anytime and anywhere. Click ‘Accept Invitation’ to start.</string>
+    <string name="devshare_accept_device_existed">Device has already been added</string>
+    <string name="devshare_accept_from">Invitation from &lt;font color=#0097ff>%1$s&lt;/font> Received</string>
+    <string name="devshare_accept_max_count_exceed">You have exceeded the maximum allowable sharing limit.</string>
+    <string name="devshare_accept_qrcode_expired">Invitation is invalid, click to refresh.</string>
+    <string name="devshare_accept_qrcode_invalid">This invitation is invalid, please request for a new QR code.</string>
+    <string name="devshare_accept_shared_to_self">Existed camera. Please watch it directly.</string>
+    <string name="devshare_accept_subtitle">Stay connected with your family anytime, from anywhere</string>
+    <string name="devshare_accept_title">Welcome to YI Home Camera</string>
+    <string name="devshare_invited_date">Invited on %1$s</string>
+    <string name="devshare_invited_delete_button">Cancel sharing</string>
+    <string name="devshare_invited_delete_cancel">Yes</string>
+    <string name="devshare_invited_delete_fail">Cancel sharing failed. Please try again.</string>
+    <string name="devshare_invited_delete_ok">No</string>
+    <string name="devshare_invited_delete_prompt">"Are you sure you want to cancel sharing?
+"</string>
+    <string name="devshare_invited_persons">Invitees</string>
+    <string name="devshare_invited_persons_counter">%1$d</string>
+    <string name="devshare_invited_title">Invitees</string>
+    <string name="devshare_network_error">Network Error. Check settings</string>
+    <string name="devshare_no_invited_person">Empty list</string>
+    <string name="devshare_not_authorized">You do not have permission to access camera</string>
+    <string name="devshare_qrcode_gen_desc">"Step 1. Ask invitee to open YI Home Camera app, click the account icon at the upper left corner of that page.
+ Step 2. Click the QR code icon at the upper right corner, then your friends can scan your QR code below for camera sharing."</string>
+    <string name="devshare_qrcode_gen_refresh"><u>Invalid QR Code? Click to refresh</u></string>
+    <string name="devshare_qrcode_scan_desc1">Center the QR code in the scanning area to start scanning</string>
+    <string name="devshare_qrcode_scan_desc2">● To scan, please ask your friend to select the camera and click the share icon</string>
+    <string name="devshare_qrcode_scan_desc3">● Scan the QR code to connect to your friend’s camera</string>
+    <string name="devshare_qrcode_scan_error">Invalid QR code. Please try again.</string>
+    <string name="devshare_qrcode_scan_title">Scan QR code</string>
+    <string name="devshare_shared_by_qrcode">Invite friends with QR code</string>
+    <string name="devshare_shared_by_title">After sharing your code, you can watch videos captured by your camera together with your friends.</string>
+    <string name="devshare_shared_cam_name">Camera %1$s shared by %2$s</string>
+    <string name="devshare_title_qrcode_gen">Share camera with QR code</string>
+    <string name="devshare_title_share">Share</string>
     <string name="dogfood_message">"Vous n'êtes pas un utilsateur XiaoYi-Cam ou vous ne faites pas partie des bêta testeurs. Cette version bêta expirée, veuillez vous rapprochez du service XiaoYi-Cam ou utiliser la version officielle."</string>
     <string name="downloading">Téléchargement...</string>
     <string name="exit_app">"Appuyez à nouveau pour quitter l'application"</string>
@@ -257,6 +315,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="feedback_upload_success">Commentaire envoyé avec succès, nous vous remercions pour votre soutien !</string>
     <string name="feedback_user_name">Vos informations personnelles (email, numéro de téléphone ou identifiant QQ)</string>
     <string name="find_camera_for_local">Caméra locale trouvée</string>
+    <string name="format_in_process_please_wait">格式化中，请稍候...</string>
     <string name="format_success_wait_restart">Formatage réussi, veuillez attendre que la caméra redémarre</string>
     <string name="friend_recommend">Recommander à un ami</string>
     <string name="full_time_alarm">"Heure de l'alarme"</string>
@@ -298,7 +357,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="network_info_extranet">Connexion à distance</string>
     <string name="network_info_intranet">Connexion LAN</string>
     <string name="network_info_loading">Chargement</string>
-    <string name="network_info_no_connect">Aucune visualisation de la  vidéo, erreur de connexion</string>
+    <string name="network_info_no_connect">Aucune visualisation de la vidéo, erreur de connexion</string>
     <string name="network_info_router_connect">Taux de perte de paquets réseau</string>
     <string name="network_info_server_connect">En dehors du taux de perte de paquets réseau</string>
     <string name="network_info_wifi_name">Nom du Wi-Fi</string>
@@ -309,16 +368,16 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="new_version_no">Nouvelle version détectée</string>
     <string name="nickname">Surnom</string>
     <string name="no_sdcard_info">Aucune carte mémoire insérée</string>
-    <string name="no_wifi_network">Le réseau Wi-Fi actuel est indisponible, veuillez vérifier vos paramètres  réseau</string>
+    <string name="no_wifi_network">Le réseau Wi-Fi actuel est indisponible, veuillez vérifier vos paramètres réseau</string>
     <string name="no_wifi_onlywifi_update">Pas de connexion Wi-Fi, mise à jour possible uniquement via le Wi-Fi</string>
     <string name="none_update">Aucune mise à jour</string>
     <string name="not_support">Non supporté</string>
     <string name="off_line">Hors ligne</string>
-	<string name="offline">Hors ligne</string>
+    <string name="offline">Hors ligne</string>
     <string name="ok">Ok</string>
     <string name="ok_close">Ok quitter</string>
     <string name="online">En ligne</string>
-	<string name="open">Ouvrir</string>
+    <string name="open">Ouvrir</string>
     <string name="open_camera">Allumer la caméra</string>
     <string name="other_login">Autres méthodes de connexion</string>
     <string name="other_login_right">>></string>
@@ -326,7 +385,6 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="password_is_invaild">Mot de passe erroné, veuillez réessayer !</string>
     <string name="phone_network_unreachable">Impossible de se connecter au serveur</string>
     <string name="photo_save_success">Photo sauvegardée avec succès!</string>
-    <string name="pincode_check_old">Vérification du mot de passe de sécurité, entrez le mot de passe à quatre chiffres</string>
     <string name="pincode_check_title">Vérification du mot de passe</string>
     <string name="pincode_clear_old">"Suppression de l'ancien mode de passe de sécurité, veuillez entrer l'ancien mot de passe."</string>
     <string name="pincode_clear_title">Effacer le mot de passe</string>
@@ -343,10 +401,12 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="pincode_update_new">Entrez un nouveau mot de passe</string>
     <string name="pincode_update_new_again">Entrez à nouveau le mot de passe</string>
     <string name="pincode_update_old">"Entrez l'ancien mot de passe"</string>
+    <string name="pincode_update_same_password">Enter a different PIN. Cannot use the same PIN</string>
     <string name="pincode_update_title">Changer le mot de passe</string>
     <string name="play_help_subtitle">Visionner le tutoriel vidéo</string>
     <string name="play_help_title">Comment utiliser votre nouvel appareil ？</string>
     <string name="play_time">00:00</string>
+    <string name="player_no_message">No alerts</string>
     <string name="please_input_device_password">Entrez le mot de passe</string>
     <string name="please_input_username_and_password">"Veuillez entrez l'email et le mot de passe!"</string>
     <string name="please_insert_sdcard">Veuillez insérer une Carte Micro SD !</string>
@@ -360,27 +420,28 @@ Définition en qualité HD, essayez la!"</string>
     <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer de fichiers !"</string>
     <string name="repassword">Répétez le mot de passe</string>
     <string name="reset">Réinitialiser</string>
-    <string name="reset_camera">"Pour réinitialiser, insérez la broche dans le trou de réinitialisation&lt;br/>jusqu'à ce que vous voyez&lt;font color=#ffb400>la LED jaune active&lt;/font></string>
+    <string name="reset_camera">"Pour réinitialiser, insérez la broche dans le trou de réinitialisation&lt;br/>jusqu'à ce que vous voyez&lt;font color=#ffb400>la LED jaune active&lt;/font>"</string>
     <string name="reset_success">Réinitialisation effectuée</string>
     <string name="resolution_auto">Auto</string>
     <string name="resolution_high">HD</string>
-	<string name="resolution_high_subtitle">画面质量低于1080P，录像大小约为1080P的四分之一</string>
+    <string name="resolution_high_subtitle">More compressed pictures, longer record time</string>
     <string name="resolution_high_title">720P @20fps 500Kbps</string>
     <string name="resolution_low">Faible</string>
-    <string name="resolution_normal">Normale</string>
-	<string name="resolution_super1080_subtitle">超高质量画质，更高的码流</string>
+    <string name="resolution_normal">SD</string>
+    <string name="resolution_super1080_subtitle">Superb picture quality, higher bit rate</string>
     <string name="resolution_super1080_title">1080P @25fps 1.5Mbps</string>
-    <string name="resolution_super_subtitle">高质量画质，一张32G存储卡约可完整记录4天录像</string>
+    <string name="resolution_super_subtitle">High-quality pictures, 32GB Micro SD Card can record up to four days of footage</string>
     <string name="resolution_super_title">1080P @20fps 800Kbps</string>
     <string name="save">Sauvegarder</string>
     <string name="save_failed">Sauvegarde échouée</string>
-    <string name="save_photo_msg">"Photo enregistrée dans mon album"</string>
+    <string name="save_photo_msg">Photo enregistrée dans mon album</string>
     <string name="save_success">Enregistrement effectué</string>
     <string name="save_video_msg">Vidéo a été enregistrée dans mon album</string>
     <string name="sd_tip_text">"Une fois formatée, la carte mémoire fera partie de l'espace utilisé pour les fichiers système, donc l'affichage de la capacité restante peut être inférieure à la capacité réelle de votre carte mémoire.
 Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous recommandons d'utiliser un lecteur de carte à l'aide de l'outil Gestion des disques sur l'ordinateur et reconstruire la partition formatée."</string>
     <string name="sdcard_format">Formater la carte mémoire</string>
     <string name="sdcard_format_fail">Formatage échoué, nous vous recommandons de remplacer la carte mémoire</string>
+    <string name="sdcard_in_formatting">In formatting</string>
     <string name="sdcard_need_format">Anomalie rencontrée，la carte mémoire doit être formatée</string>
     <string name="sdcard_normal">Carte mémoire en bon état</string>
     <string name="sdcard_not_find">"La carte mémoire n'est pas détecté"</string>
@@ -388,7 +449,7 @@ Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous r
     <string name="sdcard_slow">"Vitesse de lecture et d'écriture trop faible"</string>
     <string name="sdcard_small">"La capacité de la carte mémoire est trop faible, l'appareil peut ne pas fonctionner correctement"</string>
     <string name="search_camera">Recherche de la caméra</string>
-	<string name="seek_move_tip">Navigate the pointer to history video to smart zoom in and out</string>
+    <string name="seek_move_tip">Navigate the pointer to history video to smart zoom in and out</string>
     <string name="seek_zoom_tip">Operate as the figure to zoom in and out</string>
     <string name="setting_alarm_time">"Réglez l'heure de l'alarme"</string>
     <string name="splash_skip">Passer</string>
@@ -417,6 +478,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="timezone_choose">Select Timezone</string>
     <string name="timezone_eastern_name">Eastern</string>
     <string name="timezone_hawaii_name">Hawaii</string>
+    <string name="timezone_israel_name">Jerusalem</string>
     <string name="timezone_mountain_name">Mountain</string>
     <string name="timezone_pacific_name">Pacific</string>
     <string name="timezone_seoul_name">Seoul</string>
@@ -437,6 +499,8 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="traffic_statistics_net_flow">Trafic de réseau mobiles consommé</string>
     <string name="traffic_statistics_time">Á partir de %1$s depuis(statistiques des 15 derniers jours)</string>
     <string name="traffic_statistics_wifi_flow">Consommation du trafic Wi-Fi</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="twitter">Twitter</string>
     <string name="txtUID">Nombre</string>
     <string name="umeng_common_action_cancel">Annuler</string>
     <string name="umeng_common_action_continue">Continuer</string>
@@ -455,6 +519,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
 Impossible de sauvegarder momentanément l'historique des vidéo"</string>
     <string name="unread_sdcard_size">"Impossible de lire l'espace disponible"</string>
     <string name="unsearch_camera_for_local">Pas de recherche de caméra locale</string>
+    <string name="upgrade_download_failed">下载失败，请检查摄像机网络并重试。</string>
     <string name="use_barcode_bindkey_error">Génération de QR Code échouée, veuillez réessayer</string>
     <string name="use_barcode_bindkey_expire">QR Code actuel expiré, veuillez le regénérer</string>
     <string name="use_barcode_continue">Continuer la configuration</string>
@@ -471,26 +536,36 @@ Gardez le téléphone à distance"</string>
     <string name="user_camera_count_msg">%1$d Caméras</string>
     <string name="user_detail">En ma possession</string>
     <string name="user_icon">Image du Profil</string>
-    <string name="user_login_in_password_modified">"Le mot de passe du compte actuel a été modifié, veuillez vous reconnecter !</string>
+    <string name="user_icon_sdcard_not_exist">SD Card not found, unable to save your profile photo</string>
+    <string name="user_icon_select_again">Reselect</string>
+    <string name="user_icon_select_use">Select</string>
+    <string name="user_icon_setup_cancel">Cancel</string>
+    <string name="user_icon_setup_from_album">Select from your album</string>
+    <string name="user_icon_setup_from_photograph">Photo</string>
+    <string name="user_icon_update_failed">Failed</string>
+    <string name="user_icon_update_succeed">Updated</string>
+    <string name="user_login_in_password_modified">Le mot de passe du compte actuel a été modifié, veuillez vous reconnecter !</string>
     <string name="user_login_in_session_time">La session actuelle a expiré, veuillez vous reconnecter !</string>
     <string name="user_nickname">Surnom</string>
     <string name="user_setting">Paramètres utilisateur</string>
-    <string name="user_tips_add_camera">"Appuyez ici pour ajouter une caméra"</string>
+    <string name="user_tips_add_camera">Appuyez ici pour ajouter une caméra</string>
     <string name="user_tips_alarm">La nouvelle alarme de caméra dynamique sera affichée ici</string>
     <string name="user_tips_album">Vous utilisez une XiaoYi-Cam et les vidéos seront stockées ici</string>
     <string name="user_tips_list">"Lorsque la caméra est en ligne, la carte sera affichée en couleur, hors-ligne elle sera affichée en noir.
 Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="username">"Nom d'utilisateur"</string>
     <string name="valid_code">Code de sécurité</string>
+    <string name="video_is_invalid">该视频无法播放</string>
     <string name="video_is_saved">Vidéo enregistrée</string>
+    <string name="view_setting">Settings</string>
     <string name="video_not_wifi">Votre connexion actuelle est en réseau non-Wifi, la lecture de vidéo va consommer vos données mobiles.</string>
     <string name="video_out_time">Lien de la vidéo expiré. veuillez rafraîchir pour la relancer</string>
-    <string name="wait_orange_light">"Veuillez patienter et attendre environ 20 secondes&lt;br/>jusqu'à ce que la caméra&lt;font color=#ffb400>voyant orange&lt;/font>&lt;br/>message"En attente de connexion""</string>
+    <string name="wait_orange_light">"Veuillez patienter et attendre environ 20 secondes&lt;br/>jusqu'à ce que la caméra&lt;font color=#ffb400>voyant orange&lt;/font>&lt;br/>messageEn attente de connexion"</string>
     <string name="webaccount_is_invaild">"Nom d'utilisateur inexistant, veuillez essayer à nouveau !"</string>
     <string name="website_xiaoyi">Site officiel</string>
     <string name="weixin_alarm_close">"You'll no longer receive alerts and notification via Wechat, but you can click menu to fetch alert contents in YI Home Camera official WeChat account."</string>
     <string name="weixin_alarm_open">Recevez des alertes définies, pour les désactiver, veuillez allez dans Paramètres</string>
-    <string name="weixin_alarm_public_cancel_message">"Vous pouvez vous désabonner aux alertes "ques". Si vous annulez, vous ne serez plus en mesure d'utiliser l'un des services offerts par ce numéro public"</string>
+    <string name="weixin_alarm_public_cancel_message">"Vous pouvez vous désabonner aux alertes ques. Si vous annulez, vous ne serez plus en mesure d'utiliser l'un des services offerts par ce numéro public"</string>
     <string name="weixin_close_message">Si vous quitter vous ne recevrez plus de messages, confirmez-vous la fermeture ?</string>
     <string name="welcome_user_yicamera">XiaoYi-Cam</string>
     <string name="welcome_using">Your YI Home camera is now connected</string>
@@ -498,11 +573,126 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="wifi_password_erro">Mot de passe Wi-Fi erroné</string>
     <string name="winexperience_ensure_format_tfcard_info">"Après le formatage, l'historique de toutes les vidéos de la Carte Micro SD seront effacées, voulez-vous continuer ?
 (La caméra va redémarrer !)"</string>
+    <string name="winexperience_ensure_format_tfcard_info_v2">Sure to format Micro SD card?</string>
     <string name="winexperience_shouldupdate_gotoupdate_immediately">Update</string>
     <string name="xiaomi_login">Login with Xiaomi</string>
+    <string name="yi_user_agreement">I have read and agree to the <u><a href="agreement://123">Terms of Use</a></u></string>
+    <string name="yi_user_btn_next">Next</string>
+    <string name="yi_user_btn_reset">Reset Password</string>
+    <string name="yi_user_btn_save">Save</string>
+    <string name="yi_user_change_password_success">Change password successfully. Please login again.</string>
+    <string name="yi_user_change_password_title">Change password</string>
+    <string name="yi_user_code_hint">Code (click to refresh)</string>
+    <string name="yi_user_email_code_hint">Security code</string>
+    <string name="yi_user_email_hint">Enter email</string>
+    <string name="yi_user_error_code">Incorrect verification code</string>
+    <string name="yi_user_error_code_input">Enter verification code</string>
+    <string name="yi_user_error_email_format">Incorrect account format</string>
+    <string name="yi_user_error_email_input">Enter email</string>
+    <string name="yi_user_error_email_not_activated">Account not activated</string>
+    <string name="yi_user_error_email_not_exist">Account not exist</string>
+    <string name="yi_user_error_email_registered">The email has been registered</string>
+    <string name="yi_user_error_nickname_input">Enter nickname</string>
+    <string name="yi_user_error_password">Incorrect password</string>
+    <string name="yi_user_error_password_format">Incorrect password format</string>
+    <string name="yi_user_error_password_input">Enter password</string>
+    <string name="yi_user_error_password_not_match">Passwords do not match</string>
+    <string name="yi_user_error_password_same_as_old">The new password should be different from the old password, please reset it.</string>
+    <string name="yi_user_error_unknown">Network error</string>
+    <string name="yi_user_forgot_password">Forgot password</string>
+    <string name="yi_user_login">Login with YI</string>
+    <string name="yi_user_new_password2_hint">Confirm new password</string>
+    <string name="yi_user_new_password_hint">New password</string>
+    <string name="yi_user_nickname_hint">Nickname</string>
+    <string name="yi_user_old_password_hint">Enter current password</string>
+    <string name="yi_user_password_format">Password format:8 - 16 characters long, use at least three of the following types of characters: numbers, uppercase characters, lowercase characters, symbols</string>
+    <string name="yi_user_password_hint">Enter password</string>
+    <string name="yi_user_register_success1">An activation link has been sent to your email address.</string>
+    <string name="yi_user_register_success2">Confirm your registration within 30 minutes using the activation link sent to your email %1$s</string>
+    <string name="yi_user_register_success3">"If you did not receive an email:
+Check junk mail.
+Or use a different email address and try Sign Up again."</string>
+    <string name="yi_user_reset_password">Reset password</string>
+    <string name="yi_user_reset_password_desc">"Security code has been sent to your email
+(%1$s) 
+Please verify the code within 10 minutes"</string>
+    <string name="yi_user_reset_password_ok">"Reset password successfully
+ Please login again"</string>
+    <string name="yi_user_save_fail">Failed</string>
+    <string name="yi_user_save_ok">Saved</string>
+    <string name="yi_user_security_code_expire">Verification code expired, please request again.</string>
+    <string name="yi_user_sign_in">Login</string>
+    <string name="yi_user_sign_up">Sign up</string>
+    <string name="yi_user_sign_up_title">Sign up for YI</string>
+    <string name="alipay">支付宝好友</string>
+    <string name="alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string>
+    <string name="baidutieba">百度贴吧</string>
+    <string name="baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="douban">豆瓣</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="email">邮件</string>
+    <string name="evernote">印象笔记</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebookmessenger">Facebook Messenger</string>
+    <string name="flickr">Flickr</string>
+    <string name="foursquare">FourSquare</string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="googleplus">Google+</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string name="instapaper">Instapaper</string>
+    <string name="instapaper_email">邮箱</string>
+    <string name="instapaper_login">登录</string>
+    <string name="instapaper_logining">登录中…</string>
+    <string name="instapaper_pwd">密码</string>
+    <string name="kaixin">开心网</string>
+    <string name="kakaostory">KakaoStory</string>
+    <string name="kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="kakaotalk">KakaoTalk</string>
+    <string name="kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="laiwang">来往</string>
+    <string name="laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="laiwangmoments">来往动态</string>
+    <string name="line">Line</string>
+    <string name="line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="linkedin">领英</string>
+    <string name="mingdao">明道</string>
+    <string name="mingdao_share_content">网页分享</string>
+    <string name="neteasemicroblog">网易微博</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="pocket">Pocket</string>
+    <string name="qq">QQ</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="qzone">QQ空间</string>
+    <string name="renren">人人网</string>
+    <string name="share_to_baidutieba">分享到百度贴吧</string>
+    <string name="share_to_mingdao">分享到明道</string>
+    <string name="share_to_qq">分享到QQ</string>
+    <string name="share_to_qzone">分享到QQ空间</string>
+    <string name="share_to_qzone_default">来自%s的分享</string>
+    <string name="shortmessage">信息</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="sohumicroblog">搜狐微博</string>
+    <string name="sohusuishenkan">搜狐随身看</string>
+    <string name="tencentweibo">腾讯微博</string>
+    <string name="use_login_button">请改用“登录”按钮</string>
+    <string name="vkontakte">VK</string>
+    <string name="website">http://www.mob.com</string>
     <string name="wechat">WeChat</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
     <string name="wechatfavorite">WeChat Favourite</string>
     <string name="wechatmoments">WeChat Moments</string>
+    <string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="yixin">易信</string>
+    <string name="yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="yixinmoments">易信朋友圈</string>
+    <string name="youdao">有道云笔记</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_search_hint">Recherche…</string>
@@ -511,8 +701,7 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
-	<string name="camera_resolution">切换画质</string>    
-	<string name="code_token">"Via le code obtenir l'accesstoken"</string>
+    <string name="code_token">"Via le code obtenir l'accesstoken"</string>
     <string name="common_cancel">Annulé</string>
     <string name="common_complete">Effectué</string>
     <string name="common_device_name">Appareil intelligent</string>
@@ -570,7 +759,6 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="kualian_unconn_title">Connection au réseau impossible</string>
     <string name="login">登录</string>
     <string name="login_password_hint">密码</string>
-    <string name="player_no_message">设备安安静静，没有任何报警信息哦～</string>
     <string name="profile">获取个人名片</string>
     <string name="pull_down_refresh">下拉刷新</string>
     <string name="refresg_token">通过refreshtoken获取accesstoken</string>
@@ -580,9 +768,8 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="release_to_refresh">松开刷新</string>
     <string name="saveResult">保存token等结果到SD卡</string>
     <string name="status_bar_notification_info_overflow">999+</string>
- 	<string name="test_mac">Test</string>
+    <string name="test_mac">Test</string>
     <string name="title_activity_helper_activity_for_get_token_ut">HelperActivityForGetTokenUT</string>
-    <string name="view_setting">查看设置</string>
     <string name="wifi_rescan_wifi">重新扫描</string>
     <string name="wifi_save_passwd">下次记住密码</string>
     <string name="wifi_setting_choose">点击选择连接WLAN</string>
@@ -593,4 +780,5 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="wifi_setting_wifi_opening">WLAN开启中...</string>
     <string name="wifi_setting_wifi_scanning">WLAN扫描中...</string>
     <string name="wifi_setting_wifi_title">通过WLAN连接设备</string>
+    <string name="agreement_content">Le service XiaoYi-Cam vous oblige à accepter<a href="agreement://123"><u>"l'accord utilisateur"</u></a>"avant toute utilisation de ses appareils，afin d'être en mesure de connecter les périphériques avec la XiaoYi-Cam, l'utilisation de XiaoYi-Cam utilise ce service pour se connecter au réseau, le positionnement et les données mobiles, l'acceptez-vous ?"</string>
 </resources>
