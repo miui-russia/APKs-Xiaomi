@@ -77,7 +77,6 @@
     <string name="bind_unbind">Non connecté</string>
     <string name="binding_feedback">Association de compte</string>
     <string name="bing_tips">Voir la méthode de réinitialisation</string>
-    <string name="bluetooth_open_tips">Activez le Bluetooth</string>
     <string name="bought_device_go">En savoir plus</string>
     <string name="bought_device_remote">Commande intelligente</string>
     <string name="bought_device_switch">Prise intelligente Mi</string>
@@ -516,7 +515,7 @@
     <string name="gateway_motion_name">Capteur de mouvements</string>
     <string name="gateway_music_title">Sonnette</string>
     <string name="gateway_myscene">Ma localisation</string>
-    <string name="gateway_name">Sonnette</string>
+    <string name="gateway_name">gateway</string>
     <string name="gateway_no_device">Aucun équipement</string>
     <string name="gateway_no_support_firmware">Le matériel ne supporte pas le firmware de mise à jour proposé</string>
     <string name="gateway_no_support_firmware_allow_update">"La version actuelle du firmware n'est pas supportée. Mettez à jour le firmware"</string>
@@ -710,7 +709,7 @@
     <string name="lock_empty_message_need_login">Connectez-vous afin de pouvoir utiliser MiHome</string>
     <string name="lock_empty_title_need_add">"Vous n'avez aucun périphérique"</string>
     <string name="lock_empty_title_need_login">"Vous n'êtes pas connecté"</string>
-    <string name="lock_intell_title">Périphériques</string>
+    <string name="lock_intell_title">Mi-Home</string>
     <string name="lock_ir_title">Télécommande Infrarouge</string>
     <string name="lock_loading">Chargement</string>
     <string name="lock_subtitle_not_lognin">"Connectez-vous d'abord"</string>
@@ -771,7 +770,7 @@
     <string name="login_dynamic_token_trust">Vous ne serez pas invité à vérifier à nouveau lors de la connexion à ce périphérique</string>
     <string name="login_forget_password">Mot de passe oublié</string>
     <string name="login_local_admin_account_login">Connectez-vous au compte administrateur</string>
-    <string name="login_new_user_register">Créer un compte Mi</string>
+    <string name="login_new_user_register"><u>Connexion</u></string>
     <string name="login_passport_input_fail">"Le nom d'utilisateur ou le mot de passe entré est incorrect"</string>
     <string name="login_passport_login_fail">Vous ne pouvez pas vous connecter à votre compte Mi</string>
     <string name="login_passport_login_waiting">Connexion...</string>
@@ -813,6 +812,7 @@
     <string name="media_upload_none_selected">"Vous n'avez pas sélectionné de fichier à télécharger !"</string>
     <string name="menu_correct">Modifier emplacements</string>
     <string name="message_clear_all">Effacer tous les messages ?</string>
+    <string name="mi_key">Mi-Clé</string>
     <string name="mi_key_title">Mi-Clé du téléphone en bluetooth</string>
     <string name="midea_aircondition">Climatisation américaine</string>
     <string name="miio_before_firmware_upgrade_tip">Laisser le périphérique connecté</string>
