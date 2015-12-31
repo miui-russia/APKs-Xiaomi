@@ -179,50 +179,50 @@
         <item>"Test d'usine retenu
 
 "</item>
-        <item>"Pitching angle or roll angle is too large when Ninebot is driving. The error will appear generally when galloping falls over accidentally or vehicle falls down due to losing balance
+        <item>"Angle de rotation ou angle des roues trop large quand le Ninebot est en mouvement. L'erreur apparaît généralement lorsque d'une chute accidentelle ou lorsque le véhicule tombe en raison d'une perte d'équilibre.
 
 "</item>
-        <item>"Reserve unused error code; error type has not been defined yet 
+        <item>"Réservez code d'erreur inutilisé. Type d'erreur pas encore défini.
 
 "</item>
     </string-array>
     <array name="error_code_reason_mini" />
     <string-array name="error_code_solution">
-        <item>"Attempt to restart, if the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
 
  E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"Users cannot solve the fault by themselves. Please contact your retailer or Ninebot service center; you may be asked to deliver mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Les utilisateurs ne peuvent pas résoudre la faute par eux-mêmes. Veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
 
  E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"Attempt to restart, if it still cannot be solved, please contact your dealer or Ninebot service center, you may be asked to deliver mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
 
 E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"Attempt to restart, if it still cannot be solved, please contact your dealer or Ninebot service center, you may be asked to deliver mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
 
  E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"1. Ensure that downside of handlebar is inserted in place (refer to 2.3.2 of user’s manual).This error will occur if handlebar is inserted to mainframe in a wrong place. 
-2. Ensure 6 screws (i.e., the screws twisted when assemble is done to your new car) connecting upside and downside of handlebar have been perfectly tightened; waggle the handlebar gently, to ensure the position does not loose. Looseness of the screws may results in bad contact, which causes the error 
+        <item>"1. Veillez à ce que le bas du guidon soit bien en place (référez-vous au 2.3.2 du manuel utilisateur). Cette erreur se produit si le guidon est inséré à l'unité centrale à un mauvais endroit.
+2. Veiller aux 6 vis (i.e., les vis tordues lors de l'assemblage se font à votre nouveau véhicule) reliant du haut jusqu'au bas du guidon et soit parfaitement resserrées; remuer le guidon doucement, afin d'assurer la position sans la lâcher. Le desserement des vis peut être le résultat d'un mauvais contact, ce qui provoque l'erreur. 
 
 "</item>
-        <item>"Attempt to restart 2– for 3 times and observe whether the error disappears. If the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Tentez de redémarrer 2-3 fois et observer si l'erreur disparaît. Si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
 
  E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"dismantle battery pack and remount, try to charge again, if the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. 
+        <item>"Démontez la batterie et la remonter, essayer de charger de nouveau, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
 
  E-mail (Chinese/English): service@ninebot.com
 
 "</item>
-        <item>"Charge the car body for 10 minutes with the charger, if the problem still cannot be solved, dismantle battery pack and remount, try to charge again, if the error still exists, please contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. 
+        <item>"Chargez le véhicule durant 10 minutes avec le chargeur, si le problème n'est pas résolu, démontez la batterie et la remonter, essayez de le charger à nouveau, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
 
  E-mail (Chinese/English): service@ninebot.com
 
