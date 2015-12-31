@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="array_calculator_params">
-        <item>Model</item>
-        <item>Battery Capacity</item>
-        <item>Weight</item>
-        <item>Ambient Air Temperature</item>
-        <item>Driving Style</item>
-        <item>Full Charging Times of Battery</item>
+        <item>Modèle</item>
+        <item>Capacité de la batterie</item>
+        <item>Poids</item>
+        <item>"Température de l'air ambiant"</item>
+        <item>Style de conduite</item>
+        <item>Temps de la charge complète de la batterie</item>
     </string-array>
     <string-array name="array_calculator_params_default">
         <item>Ninebot Elite</item>
         <item>450WH</item>
         <item>50.0kg</item>
         <item>25℃</item>
-        <item>Move at a constant speed of 15 km/h</item>
-        <item>2 times</item>
+        <item>Roule à une vitesse constante de 15 km/h</item>
+        <item>2 fois</item>
     </string-array>
     <string-array name="array_calculator_temperature">
         <item>-20</item>
@@ -48,52 +48,52 @@
         <item>43</item>
         <item>44</item>
         <item>45</item>
-        <item>46 above</item>
+        <item>Au-dessus de 46</item>
     </string-array>
     <string-array name="error_code_content">
-        <item>Sensor of motor or driver is abnormal</item>
-        <item>High-power switch tube of driver is damaged</item>
-        <item>Other faults of motor driver of vehicle</item>
-        <item>Attitude sensor of vehicle is abnormal</item>
-        <item>Internal communication of vehicle is abnormal</item>
-        <item>Commutation circuit of battery is abnormal</item>
-        <item>Voltage of battery 1 output is abnormal</item>
-        <item>Voltage of battery 2 output is abnormal</item>
-        <item>Temperature of battery 1 is abnormal</item>
-        <item>Temperature of battery 2 is abnormal</item>
-        <item>Pedal sensor is abnormal</item>
-        <item>12VDC or 5VDC low voltage power output inside the vehicle is abnormal</item>
-        <item>Charger is abnormal</item>
-        <item>Factory test retaining</item>
-        <item>Dip angle of the vehicle is too large in the process of driving</item>
-        <item>Undefined error code</item>
+        <item>Capteur de moteur ou du conducteur anormal</item>
+        <item>Interrupteur de haute puissance du guidon de pilotage endommagé</item>
+        <item>Autres défauts de commande du moteur du véhicule</item>
+        <item>Attitude du capteur du véhicule anormale</item>
+        <item>La communication interne du véhicule est anormale</item>
+        <item>Circuit de commutation de la batterie anormal</item>
+        <item>Tension de la sortie 1 de la batterie anormale</item>
+        <item>Tension de la sortie 2 de la batterie anormale</item>
+        <item>Température de la batterie 1 anormale</item>
+        <item>Température de la batterie 2 anormale</item>
+        <item>Capteur de la pédale anormal</item>
+        <item>12V ou 5V faible tension de sortie à l'intérieur du véhicule anormale</item>
+        <item>Chargeur anormal</item>
+        <item>"Test d'usine retenu"</item>
+        <item>"Angle d'inclinaison du véhicule trop important pour la conduite"</item>
+        <item>Code erreur indéfini</item>
     </string-array>
     <string-array name="error_code_content_mini">
-        <item>12V voltage error, please check control board.</item>
-        <item>5V voltage error, please check control board.</item>
-        <item>3.3V voltage error, please check control board.</item>
-        <item>CPU start error, please check control board.</item>
-        <item>Left motor sensor error, please check control board.</item>
-        <item>Right motor sensor error, please check control board.</item>
-        <item>Firmware of battery is not availiable now, please update battery firmware.</item>
-        <item>Left foot sensor error, please check foot sensor or foot pedal switch cable.</item>
-        <item>Right foot sensor error, please check foot sensor or foot pedal switch cable.</item>
-        <item>Knee control turning sensor error, please check knee control sensor or the connecting cable.</item>
-        <item>Gravity sendor error.</item>
-        <item>Batter connection error, please check the battery connection.</item>
-        <item>Battery password error, please change the correct battery.</item>
-        <item>Drive voltage error, please check control board and battery voltage.</item>
-        <item>Cannot power off.</item>
-        <item>Left motor drive sensor error, please check control board.</item>
-        <item>Right motor drive sensor error, please check control board.</item>
-        <item>Over angle protection.</item>
-        <item>Firmware downloading error, please upgrade firmware.</item>
-        <item>Gyroscope error, please check control board.</item>
-        <item>Left motor sensor error, please check motor cable or change motor.</item>
-        <item>Right motor sensor error, please check motor cable or change motor.</item>
-        <item>Battery temperature error, please make sure the temperature is around -10℃~50℃.</item>
-        <item>Voltage of battery cell error, please contact after-sales service.</item>
-        <item>Undefined error code.</item>
+        <item>Erreur voltage 12V, veuillez vérifier la carte de commande.</item>
+        <item>Erreur voltage 5V, veuillez vérifier la carte de commande.</item>
+        <item>Erreur voltage 3.3V, veuillez vérifier la carte de commande.</item>
+        <item>Erreur du démarrage du CPU, veuillez vérifier la carte de commande.</item>
+        <item>Erreur du capteur du moteur gauche, veuillez vérifier la carte de commande.</item>
+        <item>Erreur du capteur du moteur droite, veuillez vérifier la carte de commande.</item>
+        <item>Firmware actuel de la batterie invalide, veuillez le mettre à jour.</item>
+        <item>Erreur du capteur du pied gauche, veuillez vérifier le capteur du pied ou le câble de la pédale.</item>
+        <item>Erreur du capteur du pied droit, veuillez vérifier le capteur du pied ou le câble de la pédale.</item>
+        <item>Erreur du capteur tournant des genoux, veuillez vérifier le capteur ou le câble de connexion.</item>
+        <item>Erreur du capteur de gravité.</item>
+        <item>Erreur de la connexion de la batterie, veuillez vérifier la connexion.</item>
+        <item>Erreur de mot de passe de la batterie, veuillez mettre la bonne batterie.</item>
+        <item>Erreur de tension, veuillez vérifier la carte de commande et le voltage de la batterie.</item>
+        <item>"Impossible d'éteindre."</item>
+        <item>Erreur du capteur du moteur gauche, veuillez vérifier la carte de commande.</item>
+        <item>Erreur du capteur du moteur droite, veuillez vérifier la carte de commande.</item>
+        <item>Plus de protection d'angle.</item>
+        <item>Erreur de téléchargement du Firmware, veuillez le mettre à jour.</item>
+        <item>Erreur du gyroscope, veuillez vérifier la carte de commande.</item>
+        <item>Erreur du capteur du moteur gauche, veuillez vérifier le câble du moteur ou changer le moteur.</item>
+        <item>Erreur du capteur du moteur droite, veuillez vérifier le câble du moteur ou changer le moteur.</item>
+        <item>Erreur de température de la batterie, veuillez vous assurer que la température est comprise entre -10℃~50℃.</item>
+        <item>Erreur de voltage de la cellule de la batterie, veuillez contacter le service après-vente.</item>
+        <item>Code erreur indéfini</item>
     </string-array>
     <string-array name="error_code_mini">
         <item>5</item>
@@ -123,15 +123,15 @@
         <item>Other</item>
     </string-array>
     <string-array name="error_code_reason">
-        <item>"1.impact to the mainframe 
-2.Motor sensor fault caused by some internal electrical defect. 
-3. Accidental self-test failed. 
+        <item>"1.Choc de l'ordinateur central
+2.Erreur du capteur moteur causée par un défaut électrique interne. 
+3. Auto-test accidentel échoué. 
 
 "</item>
-        <item>"This failure may be caused by over-voltage or over-current. Usually, violent collision during ride/ long-time over load/riding in very high ambient temperature may cause this failure. This error/failure is usually accompanied with wheel-lock(very hard to rotate the wheel).
+        <item>"Cet erreur peut être provoquée par une surtension ou une surintensité. Habituellement, une violente collision durant la conduite/ un temps trop long de la charge/ rouler avec une température ambiante très élevée peut provoquer cet erreur. Cette erreur est habituellement accompagné d'un blocage des roues (il est très difficile de tourner les roues).
 
 "</item>
-        <item>"Generally, reasons are power switch transistor is abnormal, or update of firmware of motor driver fails .
+        <item>"Généralement, les raisons sont que les transistors de commutation de puissance sont anormaux, ou que la mise à jour du firmware du moteur de conduite à échoue.
 
 "</item>
         <item>"1.Caused by fierce impact to the mainframe, which results in dislocation or damage of attitude sensor 
