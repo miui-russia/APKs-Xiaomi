@@ -128,55 +128,55 @@
 3. Auto-test accidentel échoué. 
 
 "</item>
-        <item>"Cet erreur peut être provoquée par une surtension ou une surintensité. Habituellement, une violente collision durant la conduite/ un temps trop long de la charge/ rouler avec une température ambiante très élevée peut provoquer cet erreur. Cette erreur est habituellement accompagné d'un blocage des roues (il est très difficile de tourner les roues).
+        <item>"Cette erreur peut être provoquée par une surtension ou une surintensité. Habituellement, une violente collision durant la conduite/ un temps trop long de la charge/ rouler avec une température ambiante très élevée peut provoquer cet erreur. Cette erreur est habituellement accompagné d'un blocage des roues (il est très difficile de tourner les roues).
 
 "</item>
         <item>"Généralement, les raisons sont que les transistors de commutation de puissance sont anormaux, ou que la mise à jour du firmware du moteur de conduite à échoue.
 
 "</item>
-        <item>"1.Caused by fierce impact to the mainframe, which results in dislocation or damage of attitude sensor 
-2. Components and parts of attitude sensor break down 
-3. Electromagnetic interference causes attitude sensor of the car to give abnormal signals 
-4. Occasional abnormal detection during starting up self-inspection
+        <item>"1.Causés par un violent impact de l'ordinateur central, ce qui entraîne la dislocation ou un dommage du capteur d'attitude 
+2. Composants et pièces du capteur d'attitude détériorés 
+3. Les interférences électromagnétiques provoqués au capteur d'attitude du véhicule peuvent donner des signaux anormaux
+4. Détection anormale occasionnelle lors du démarrage jusqu'à l'auto-inspection
 
 "</item>
-        <item>"1.Looseness of 6 lock screw between upside and downside of handlebar causes bad contact
-2. Looseness of internal cable and contact of the car body causes bad contact
-3. Components and parts related to internal communication of car body break down
+        <item>"1.Relâchement des 6 vis de blocage entre le haut et le bas du guidon provoque un mauvais contact
+2. Relâchement du câble interne et du contact de la carrosserie du véhicule ce qui entraîne un mauvais contact
+3. Composants et pièces liées à la communication interne du corps du véhicule en panne
 
 "</item>
-        <item>"Hot backup protection commutation circuit of internal battery of the vehicle is abnormal 
+        <item>"Sauvegarde à chaud du circuit de commutation de protection de la batterie interne du véhicule est anormale 
 
 "</item>
-        <item>"Over discharge, disconnection of battery 1 or short circuit protection appears 
+        <item>"Au cours de la décharge, la déconnexion de la batterie 1 ou la protection de court-circuit apparaît
 
 "</item>
-        <item>"Over discharge, disconnection of battery 2 or short circuit protection appears 
+        <item>"Au cours de la décharge, la déconnexion de la batterie 2 ou la protection de court-circuit apparaît 
 
 "</item>
-        <item>"1.Abnormal high temperature is generated in battery 1 due to short circuit 
-2. Damage of temperature sensor in battery interior 
-3. Environment temperature is too high or too low
+        <item>"1.Température anormalement élevée générée dans la batterie 1 en raison d'un court-circuit 
+2.Dommages du capteur de température à l'intérieur de la batterie
+3.La température ambiante est trop élevée ou trop basse.
 
 "</item>
-        <item>"1.1.Abnormal high temperature is generated in battery 2 due to short circuit 
-2. Damage of temperature sensor in battery interior 
-3. Environment temperature is too high or too low
+        <item>"1.1.Température anormalement élevée générée dans la batterie 2 en raison d'un court-circuit 
+2.Dommages du capteur de température à l'intérieur de la batterie
+3.La température ambiante est trop élevée ou trop basse.
 
 "</item>
-        <item>"1. Pedal sensor of human body is invalid
-2. Transformation of pedal faceplate results in that pedal sensor fails to work
+        <item>"1. Capteur de la pédale du corps invalide
+2. Transformation des résultats de la pédale de façade le capteur de la pédale ne fonctionne pas
 
 "</item>
-        <item>"1. Power supply load of handlebar USB is too heavy or short circuit (over 5VDC/1.5A) 
-2. Output short circuit of interior 12VDC power or 5 VDC power
-3. Power circuit is damaged
+        <item>"1. La charge d'alimentation de guidon USB est trop lourde ou en court-circuit (plus de 5 V/1.5A) 
+2. Sortie court-circuit à l'intérieur 12V ou 5 V
+3. Le circuit d'alimentation est endommagé
 
 "</item>
-        <item>"Charger output is abnormal, it is unable to charge Ninebot normally
+        <item>"La sortie du chargeur est anormale, il est incapable de charger le Ninebot normalement
 
 "</item>
-        <item>"Factory test retaining 
+        <item>"Test d'usine retenu
 
 "</item>
         <item>"Pitching angle or roll angle is too large when Ninebot is driving. The error will appear generally when galloping falls over accidentally or vehicle falls down due to losing balance
