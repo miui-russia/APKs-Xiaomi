@@ -13,7 +13,7 @@
         <item>450WH</item>
         <item>50.0kg</item>
         <item>25℃</item>
-        <item>Roule à une vitesse constante de 15 km/h</item>
+        <item>Avancer à une vitesse constante de 15km/h</item>
         <item>2 fois</item>
     </string-array>
     <string-array name="array_calculator_temperature">
@@ -62,7 +62,7 @@
         <item>Température de la batterie 1 anormale</item>
         <item>Température de la batterie 2 anormale</item>
         <item>Capteur de la pédale anormal</item>
-        <item>12V ou 5V faible tension de sortie à l'intérieur du véhicule anormale</item>
+        <item>12V ou 5V faible tension de sortie à l\'intérieur du véhicule anormale</item>
         <item>Chargeur anormal</item>
         <item>"Test d'usine retenu"</item>
         <item>"Angle d'inclinaison du véhicule trop important pour la conduite"</item>
@@ -86,7 +86,7 @@
         <item>"Impossible d'éteindre."</item>
         <item>Erreur du capteur du moteur gauche, veuillez vérifier la carte de commande.</item>
         <item>Erreur du capteur du moteur droite, veuillez vérifier la carte de commande.</item>
-        <item>Plus de protection d'angle.</item>
+        <item>Plus de protection d\'angle.</item>
         <item>Erreur de téléchargement du Firmware, veuillez le mettre à jour.</item>
         <item>Erreur du gyroscope, veuillez vérifier la carte de commande.</item>
         <item>Erreur du capteur du moteur gauche, veuillez vérifier le câble du moteur ou changer le moteur.</item>
@@ -188,99 +188,99 @@
     </string-array>
     <array name="error_code_reason_mini" />
     <string-array name="error_code_solution">
-        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
+        <item>"Essayez de le redémarrer, si l\'erreur persiste, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
- E-mail (Chinese/English): service@ninebot.com
-
-"</item>
-        <item>"Les utilisateurs ne peuvent pas résoudre la faute par eux-mêmes. Veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
-
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
+        <item>"Vous ne pouvez pas résoudre le problème par vous-même. Contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
-E-mail (Chinese/English): service@ninebot.com
-
-"</item>
-        <item>"Tentez de redémarrer, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
-
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"1. Veillez à ce que le bas du guidon soit bien en place (référez-vous au 2.3.2 du manuel utilisateur). Cette erreur se produit si le guidon est inséré à l'unité centrale à un mauvais endroit.
-2. Veiller aux 6 vis (i.e., les vis tordues lors de l'assemblage se font à votre nouveau véhicule) reliant du haut jusqu'au bas du guidon et soit parfaitement resserrées; remuer le guidon doucement, afin d'assurer la position sans la lâcher. Le desserement des vis peut être le résultat d'un mauvais contact, ce qui provoque l'erreur. 
+        <item>"Essayez de le redémarrer, si ça ne fonctionne pas, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
+
+E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"Tentez de redémarrer 2-3 fois et observer si l'erreur disparaît. Si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
+        <item>"Essayez de le redémarrer, si ça ne fonctionne pas, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
- E-mail (Chinese/English): service@ninebot.com
-
-"</item>
-        <item>"Démontez la batterie et la remonter, essayer de charger de nouveau, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation. 
-
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"Chargez le véhicule durant 10 minutes avec le chargeur, si le problème n'est pas résolu, démontez la batterie et la remonter, essayez de le charger à nouveau, si l'erreur persiste, veuillez contactez votre détaillant ou le service du Centre Ninebot; vous pouvez être invité à fournir l'unité centrale Ninebot à votre détaillant pour la réparation.
-
- E-mail (Chinese/English): service@ninebot.com
-
-"</item>
-        <item>"1. If the error occurs when using Ninebot after being deposited at minus 10 degrees Celsius, it may be the too low environment temperature that results in low temperature alarm. Please put Ninebot in room temperature environment for at least eight hours, and then try again. 
-2. Touch battery case with hand, if it is hot, please disuse immediately, and attempt to restart after placing Ninebot at room temperature for at least 4 hours. If the error still exists, please disuse Ninebot immediately and contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. 
-
- E-mail (Chinese/English): service@ninebot.com
+        <item>"1. Assurez-vous que le guidon est inséré à sa place (voir 2.3.2 du manuel de l\'utilisateur). Cet erreur se produira si le guidon est inséré à un mauvais endroit.
+2. Veiller à ce que les 6 vis (ref, les vis tordues doivent être remplacés) reliant le guidon ont été parfaitement resserré; bougez le guidon doucement, afin de s\'assurer que le guidon ne lâche pas.Le relâchement des vis peut créer un mauvais contact, ce qui provoque l\'erreur.
 
 "</item>
-        <item>"1. If the error occurs when using Ninebot after being deposited at minus 10 degrees Celsius, it may be the too low environment temperature that results in low temperature alarm. Please put Ninebot in room temperature environment for at least eight hours, and then try again. 
-2. Touch battery case with hand, if it is hot, please disuse immediately, and attempt to restart after placing Ninebot at room temperature for at least 4 hours. If the error still exists, please disuse Ninebot immediately and contact your retailer or Ninebot service center; you may be asked to deliver your battery pack to your retailer for overhauling. 
+        <item>"Essayez de redémarrer le Ninebot 2- 3 fois et observez si l\'erreur disparaît. Si l\'erreur persiste, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"1. Ensure that pedal faceplate is not stamped or pressed when starting up is being done. 
-2. Check whether pedal plate can bounce normally when feet are not on pedal faceplate. 
-3. If it still cannot be solved, please contact your retailer or Ninebot service center; you may be asked to deliver car body of Ninebot to your retailer for overhauling. 
+        <item>"Démonter la batterie et remonter-la puis tester de la recharger, si le problème persiste, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
+
+ E-mail (Chinois / Anglais) : service@ninebot.com
+
+"</item>
+        <item>"Chargez la batterie pendant 10 minutes avec le chargeur, si le problème ne peut toujours pas être résolu, démonter la batterie et remonter-la, essayer de charger de nouveau, si l\'erreur persiste,  contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
+
+ E-mail (Chinois / Anglais) : service@ninebot.com
+
+"</item>
+        <item>"1. Si l\'erreur se produit lors de l\'utilisation du Ninebot après l\'avoir utilisé à moins de 10 degrés Celsius, il se peut que la température soit trop basse et déclenche une alarme de basse température. Mettez le Ninebot dans un environnement à température ambiante pendant au moins huit heures, puis réessayez. 
+2. Touchez la batterie avec votre main, si elle est chaude, n\'utilisez plus le Ninebot ! Essayez de le redémarrer après 4 heures à température ambiante. Si l\'erreur persiste, contactez votre revendeur ou le SAV Ninebot, vous pourrez être amené à prendre des photos pour faire valoir la garantie.
+
+ E-mail (Chinois / Anglais) : service@ninebot.com
+
+"</item>
+        <item>"1. Si l\'erreur se produit lors de l\'utilisation du Ninebot après l\'avoir utilisé à moins de 10 degrés Celsius, il se peut que la température soit trop basse et déclenche une alarme de basse température. Mettez le Ninebot dans un environnement à température ambiante pendant au moins huit heures, puis réessayez. 
+2. Touchez la batterie avec votre main, si elle est chaude, n\'utilisez plus le Ninebot ! Essayez de le redémarrer après 4 heures à température ambiante. Si l\'erreur persiste, contactez votre revendeur ou le SAV Ninebot, vous pourrez être amené à prendre des photos pour faire valoir la garantie.
+
+ E-mail (Chinois / Anglais) : service@ninebot.com
+
+"</item>
+        <item>"1. Assurez-vous que le guidon ne soit pas pressé lors du démarrage.
+2. Vérifiez que le guidon peut bouger lorque vous n\'avez pas les pieds sur le Ninebot.
+3. Si le problème n\'est pas résolu, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
 ：
 
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"1.Ensure that peripheral power dissipation connecting the vehicle is below 8W (5V/1.5A); 
-2 In case no peripheral power is connected, disconnect the handlebar entirely from mainframe and restart .In case starting is conducted normally after handlebar is disconnected, it indicates that there is short circuit phenomenon in circuit inside the handlebar. Under the circumstance, you need to deliver upside and downside of the handlebar to your retailer for overhauling; In case the error still exists after the handlebar is disconnected, it indicates that faults exist in car body of Ninebot, and you need to deliver mainframe of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com
+        <item>"1. Assurez-vous que le chargeur ne délivre pas une puissance supérieur à 8W (5V / 1.5A)
+2 Dans le cas où aucun chargeur n\'est branché, débranchez-le guidon entièrement et redémarrez. Si le Ninebot fonctionne normalement après que le guidon soit débranché, cela veut dire qu\'il y a un court-circuit dans à l\'intérieur du guidon. Dans ces circonstances, vous devez donner le guidon à votre revendeur pour la garantie. Dans le cas où l\'erreur persiste après que le guidon soit débranché, cela veut dire qu\'un défaut exist dans le Ninebot, et vous avez besoin de livrer des photos Ninebot à votre revendeur pour la garantie. E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"1. Please remove charger from AC socket and Ninebot, and replug. If the error still exists, maybe there is something wrong with the charger, and you need to deliver the charger to your retailer for overhauling or ask to exchange for a new charger. 
-2 In case the error still exists when charging with the new charger, it indicates that something is wrong inside the car body. Please deliver the mainframe of Ninebot to your retailer for overhauling. E-mail (Chinese/English): service@ninebot.com
+        <item>"1. Enlevez le chargeur de la prise secteur et rebrancher-le. Si l\'erreur persiste, il y a quelque chose de mauvais avec le chargeur, et vous avez besoin de renvoyer le chargeur à votre revendeur pour la garantie. ou demander d\'échanger pour un nouveau chargeur.
+2 Dans le cas où le nouveauchargeur ne fonctionnerait pas, il est possible que le Ninebot ai un problème interne. Envoyez des photos à votre revendeur pour la garantie. E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"Normally, the error will not occur. In case the error appears, please deliver the mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Normalement, l\'erreur ne devrait pas se produire. Si elle se produit, contactez votre revendeur pour la garantie.
 
- E-mail (Chinese/English): service@ninebot.com
-
-"</item>
-        <item>"Generally, the error may auto disappear after restarting. In case the error still exists after restarting, please deliver the mainframe of Ninebot to your retailer for overhauling. 
-
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
-        <item>"At present, reserve unused error number. Attempt to restart 2– for 3 times and observe whether the error disappears. In case the error number still appears, maybe there is something wrong with your instrument panel of Ninebot. Please deliver the mainframe of Ninebot to your retailer for overhauling. 
+        <item>"Généralement, l\'erreur peut disparaître automatiquement après le redémarrage. Dans le cas où l\'erreur persiste après le redémarrage, fournissez les photos du Ninebot à votre revendeur pour la garantie..
 
- E-mail (Chinese/English): service@ninebot.com
+ E-mail (Chinois / Anglais) : service@ninebot.com
+
+"</item>
+        <item>"A l\'heure actuelle, votre problème n\'est pas répertorié. Essayez de le redémarrer 2-3 fois et observez si l\'erreur persiste. Si l\'erreur est toujours présente, contactez votre revendeur pour la garantie. Il se pourrait que le problème soit interne au Ninebot.
+
+ E-mail (Chinois / Anglais) : service@ninebot.com
 
 "</item>
     </string-array>
     <array name="error_code_solution_mini" />
     <string-array name="setting_light_mode">
-        <item>Close</item>
-        <item>Normally On</item>
-        <item>Breathing</item>
-        <item>Flashing</item>
-        <item>Left Marquee</item>
-        <item>Right Marquee</item>
-        <item>Bidirectional Marquee</item>
+        <item>Fermer</item>
+        <item>Normal</item>
+        <item>Respiration</item>
+        <item>Flash</item>
+        <item>Gauche</item>
+        <item>Droite</item>
+        <item>Bidirectionel</item>
     </string-array>
     <string-array name="settings_light_front_period">
         <item>1 s</item>
@@ -295,26 +295,26 @@ E-mail (Chinese/English): service@ninebot.com
         <item>10 s</item>
     </string-array>
     <string-array name="settings_light_mode_mini">
-        <item>Close atmosphere lamp</item>
-        <item>Monochrome breath</item>
-        <item>Full-color breath</item>
-        <item>Two dragons play with a ball</item>
-        <item>Full-color vector</item>
-        <item>Single-color meteor</item>
-        <item>Colorful meteor</item>
-        <item>Alarm lamp mode 1</item>
-        <item>Alarm lamp mode 2</item>
-        <item>Alarm lamp mode 3</item>
+        <item>Eteindre la lumière arrière</item>
+        <item>Fondu monochrome</item>
+        <item>Fondue multicouleur</item>
+        <item>Deux dragons jouent à la balle</item>
+        <item>Vecteur toutes les couleurs</item>
+        <item>Météorite une couleur</item>
+        <item>Météorite plusieurs couleurs</item>
+        <item>Mode alarme 1</item>
+        <item>Mode alarme 2</item>
+        <item>Mode alarme 3</item>
     </string-array>
     <string-array name="settings_light_mode_one">
-        <item>Close Atmosphere Light</item>
-        <item>Colorful Meteor</item>
-        <item>The Twins</item>
-        <item>Blossom Age</item>
-        <item>Dynamic Breathing</item>
-        <item>Colorful Flow</item>
-        <item>Colorful Meteor</item>
-        <item>Iridescence Breathing</item>
+        <item>Eteindre la lumière d\'ambiance</item>
+        <item>Météorite plusieurs couleurs</item>
+        <item>Les jumeaux</item>
+        <item>L\'âge de la fleur</item>
+        <item>Fondue dynamique</item>
+        <item>Débit coloré</item>
+        <item>Météorite plusieurs couleurs</item>
+        <item>Fondue irisate</item>
     </string-array>
     <string-array name="settings_speed_limit_metric">
         <item>4 km/h</item>
