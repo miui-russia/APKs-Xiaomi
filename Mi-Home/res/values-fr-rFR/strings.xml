@@ -375,7 +375,7 @@
     <string name="device_shop_order_detail_foot_money_fmt">%.2f￥</string>
     <string name="device_shop_order_detail_id">Numéro de commande</string>
     <string name="device_shop_order_detail_total_money">Total</string>
-    <string name="device_shop_order_detail_total_money_fmt">￥%.2f</string>
+    <string name="device_shop_order_detail_total_money_fmt">%.2f￥</string>
     <string name="device_shop_order_freight">Delivery fee</string>
     <string name="device_shop_order_freight_fmt">%.2f￥</string>
     <string name="device_shop_order_get_more">Appuyez pour plus de détails</string>
@@ -2470,9 +2470,9 @@ Appuyez longuement pour revenir"</string>
     <string name="weather_sandstorm">Tempête de sable</string>
     <string name="weather_shower">Chats et chiens!</string>
     <string name="weather_sleet">Neige fondue</string>
-    <string name="weather_sleet_rain">Nuages ​​dispersés</string>
-    <string name="weather_snowshower">Poudrerie</string>
-    <string name="weather_sun">Soleil</string>
+    <string name="weather_sleet_rain">Pluie fine</string>
+    <string name="weather_snowshower">Averse de neige</string>
+    <string name="weather_sun">Ensoleillé</string>
     <string name="weather_thundershower">Foudre</string>
     <string name="wednesday1">Jeudi</string>
     <string name="wifi_chg_pwd_test">"{type: router_changed, sous-type: 1, contenu: conseils de développement et d'autres équipements en général, sucTime: 1413442396, failTime: 1413442455, DEVICELIST: [{fait: 11877, le nom: le développement du conseil d'administration Xiaomi, modèle: xiaomi.dev.v1, le statut : 0}, {fait: 591 801, nom: Intelligent houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:1},{did:591801,name:Ευφυής houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:0},{did:591801,name:Ευφυής houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:1},{did:591801,name:Ευφυής houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:0},{did:591801,name:Ευφυής houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:1},{did:591801,name:Ευφυής houx Κλιματιστικά-Κλιματισμός,model:aux.aircondition.v1,status:0},{did:591801,name:Oakes intelligent, modèle: aux.aircondition.v1, état: 1}, {fait: 1172722, nom: Intelligent houx Κλιματιστικά-Κλιματισμός,model:idelan.aircondition.v1,status:0},{did:1172722,name:Jinxing système intelligent de climatisation, modèle: idelan.aircondition.v1, état: 1}, {fait: 39811, nom: air moteur Midea, modèle: midea.aircondition.v1, état: 1}, {fait: 39811, nom: air Moteur Midea, modèle: midea.aircondition.v1, statut: 0}, {a: 11497, Nom de famille: Millet NET de l'air, modèle: zhimi.airpurifier.v1, statut: 0}, {fait: 12450, nom: prises intelligentes mil , modèle: changmi.plug.v1, état: 1}]}"</string>
@@ -2480,7 +2480,7 @@ Appuyez longuement pour revenir"</string>
     <string name="wifi_pwd_changed_fail">Mise à jour Erreur</string>
     <string name="wifi_pwd_changed_succ">Mis à jour avec succés</string>
     <string name="year">An</string>
-    <string name="yeelight_device_name">Lampe Nuit Yeelight</string>
+    <string name="yeelight_device_name">Lampe Yeelight</string>
     <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
     <string name="yunyi_virtual_camera">Smart Camera fourmis à miel</string>
     <string name="yunyi_virtual_camera_create">Ajouter caméra intelligente;</string>
