@@ -9,13 +9,13 @@
     <string name="actionbar_menu">Menu</string>
     <string name="alert_title_unable_start_camera">Impossible démarrer camera</string>
     <string name="alert_body_unable_start_camera">"Camera éteinte, veuillez l'activer"</string>
-    <string name="hour">heure</string>
-    <string name="min">minute</string>
-    <string name="sec">seconde</string>
-    <string name="hour_min" formatted="false">heure minute</string>
-    <string name="hour_sec" formatted="false">heure seconde</string>
-    <string name="min_sec" formatted="false">minute seconde</string>
-    <string name="hour_min_sec" formatted="false">heure minute seconde</string>
+    <string name="hour">%d heure</string>
+    <string name="min">%d minute</string>
+    <string name="sec">%d seconde</string>
+    <string name="hour_min" formatted="false">%d heure %d minute</string>
+    <string name="hour_sec" formatted="false">%d heure %d seconde</string>
+    <string name="min_sec" formatted="false">%d minute %d seconde</string>
+    <string name="hour_min_sec" formatted="false">%d heure %d minute %d seconde</string>
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser les données</string>
     <string name="pull_to_refresh_release_label">Relâchez pour rafraîchir…</string>
     <string name="pull_to_refresh_refreshing_label">Chargement…</string>
