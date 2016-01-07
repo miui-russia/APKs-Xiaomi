@@ -3,20 +3,19 @@
     <string name="app_name">Amazit</string>
     <string name="ok">OK</string>
     <string name="cancel">Annuler</string>
-    <string name="action_exit">退出</string>
+    <string name="action_exit">Quitter</string>
     <string name="action_loading">Chargement</string>
     <string name="dialog_confirm">Ok</string>
     <string name="actionbar_menu">Menu</string>
-    <string name="alert_title_unable_start_camera">无法启动相机</string>
-    <string name="alert_body_unable_start_camera">"请检查是否已关闭相机权限，如是请
-开启相机权限，否则请重启手机。"</string>
-    <string name="hour">%d小时</string>
-    <string name="min">%d分钟</string>
-    <string name="sec">%d秒</string>
-    <string name="hour_min" formatted="false">%d小时%d分</string>
-    <string name="hour_sec" formatted="false">%d小时%d秒</string>
-    <string name="min_sec" formatted="false">%d分%d秒</string>
-    <string name="hour_min_sec" formatted="false">%d小时%d分%d秒</string>
+    <string name="alert_title_unable_start_camera">Impossible démarrer camera</string>
+    <string name="alert_body_unable_start_camera">"Camera éteinte, veuillez l'activer"</string>
+    <string name="hour">heure</string>
+    <string name="min">minute</string>
+    <string name="sec">seconde</string>
+    <string name="hour_min" formatted="false">heure minute</string>
+    <string name="hour_sec" formatted="false">heure seconde</string>
+    <string name="min_sec" formatted="false">minute seconde</string>
+    <string name="hour_min_sec" formatted="false">heure minute seconde</string>
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser les données</string>
     <string name="pull_to_refresh_release_label">Relâchez pour rafraîchir…</string>
     <string name="pull_to_refresh_refreshing_label">Chargement…</string>
