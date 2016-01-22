@@ -3569,7 +3569,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_expired">Expirée</string>
     <string name="redbag_expired_refund">Enveloppe rouge expirée</string>
     <string name="redbag_failed_tip1">La quantité dépasse la limite, maximum 100</string>
-    <string name="redbag_failed_tip10">Recevoir un montant d'enveloppe rouge dépassant la limite</string>
+    <string name="redbag_failed_tip10">Recevoir un montant d\'enveloppe rouge dépassant la limite</string>
     <string name="redbag_failed_tip11">Comptes bloqués</string>
     <string name="redbag_failed_tip12">"Le Total du groupe d'enveloppes rouges dépasse le limite de 5000 yuans"</string>
     <string name="redbag_failed_tip13">"Le Total du groupe d'enveloppes rouges dépasse le limite de 200 yuans"</string>
@@ -3580,7 +3580,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_failed_tip6">"Échec de réception d'une enveloppe rouge"</string>
     <string name="redbag_failed_tip7">Échec</string>
     <string name="redbag_failed_tip8">"Échec de l'envoi d'enveloppes rouges, veuillez nous envoyez un message avec comme informations les numéros des enveloppes, votre numéro d'abonnement "enregistrement enveloppes rouges - enveloppes rouges émises" des enveloppes rouges qui n'ont pas réussies a être envoyées"</string>
-    <string name="redbag_failed_tip9">Échec de réception le nombre d'enveloppes rouges dépassant la limite</string>
+    <string name="redbag_failed_tip9">Échec de réception le nombre d\'enveloppes rouges dépassant la limite</string>
     <string name="redbag_h">Heure</string>
     <string name="redbag_input_amount_hint">Quantité entrante</string>
     <string name="redbag_leave_msg">Laissez un message</string>
@@ -3623,7 +3623,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_title_recv">Enveloppe rouge reçue</string>
     <string name="redbag_title_send">Enveloppe rouge envoyée</string>
     <string name="redbag_total">Total</string>
-    <string name="redbag_verified_tip1">"Depuis votre compte, liez votre Carte Bancaire à votre Portefeuille Mi，veuillez &lt;br>en%s à l'intérieur，sinon, il sera retourné，&lt;font color=\"#f3635c\">rattacher la carte maintenant&lt;/font>"</string>
+    <string name="redbag_verified_tip1">"Depuis votre compte, liez votre Carte Bancaire à votre Portefeuille Mi，veuillez &lt;br>en %s à l\'intérieur，sinon, il sera retourné，&lt;font color=\"#f3635c\">rattacher la carte maintenant&lt;/font>"</string>
     <string name="redbag_verified_tip2">"Vous n'avez pas lié votre Carte Bancaire à votre Portefeuille Mi, les enveloppes rouges seront renvoyées à l'expéditeur"</string>
     <string name="redbag_verify_tips_1">"Jusqu'à 200¥ pour chaque enveloppe rouge"</string>
     <string name="redbag_verify_tips_2">"Jusqu'à 100 enveloppes rouges"</string>
@@ -3635,9 +3635,9 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_yuan">¥</string>
     <string name="redbag_yuan_symbol">¥</string>
     <string name="redbg">Enveloppe rouge</string>
-    <string name="redbg_received_you">%s que j'ai reçu</string>
+    <string name="redbg_received_you">%s que j\'ai reçu</string>
     <string name="redbg_self">Les miennes</string>
-    <string name="redbg_you_opend">Vous en avez reçu une de %s/string>
+    <string name="redbg_you_opend">Vous en avez reçu une de %s</string>
     <string name="redpacket_assistant_name">Mr Enveloppe Rouge</string>
     <string name="refresh">Rafraîchir</string>
     <string name="refresh_picture_code_failure">Impossible d\'obtenir le code de l\'image, réessayer plus tard</string>
