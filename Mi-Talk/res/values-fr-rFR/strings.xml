@@ -70,7 +70,7 @@
     <string name="action_button_scan">Scanner</string>
     <string name="action_button_send_msg">Nouveau message</string>
     <string name="action_button_vip_edit">Éditer</string>
-    <string name="activiate_email_sent">"S'il vous plait, regardez le mail de confirmation qu'on vient de vous envoyer. 
+    <string name="activiate_email_sent">"Veuillez regardez le mail de confirmation qu'on vient de vous envoyer. 
 
 Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot de passe qu'après avoir confirmer vos informations mail."</string>
     <string name="add_a_pic">Ajouter une photo</string>
@@ -214,7 +214,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="app_upgradeYes">Oui</string>
     <string name="app_upgrade_additional_size">[Mise à jour]Installation taille: %.2fMo</string>
     <string name="app_xiezai">Désinstaller</string>
-    <string name="apply_join_group_operation_success">Envoyer votre candidature, attendre que l\'administrateur pour confirmation</string>
+    <string name="apply_join_group_operation_success">Envoyer votre candidature et attendez la confirmation de l\'administrateur</string>
     <string name="apply_join_muc">Demander à rejoindre le groupe</string>
     <string name="apply_once_again">Appliquer à nouveau</string>
     <string name="apply_reason">Envoyer une demande</string>
@@ -229,7 +229,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="archived_no_msg_hint">Aucun message</string>
     <string name="archived_remind_frequency">Se souvenir fréquemment</string>
     <string name="archived_remove_failed">Échec de déplacement</string>
-    <string name="archived_remove_failed_netWork_error">"Échec pour se déplacer, S'il vous plaît vérifier votre réseau"</string>
+    <string name="archived_remove_failed_netWork_error">Échec du déplacement, veuillez vérifier votre réseau</string>
     <string name="archived_remove_success">Archivé</string>
     <string name="archived_success">Sauvegardé</string>
     <string name="archived_total_number">%s total</string>
@@ -487,11 +487,11 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_button">Annuler</string>
     <string name="cancel_dl_button">Annuler</string>
-    <string name="cancel_poll_old">Is pulling the other data, please try again later</string>
+    <string name="cancel_poll_old">Vide les autres données, veuillez réessayer plus tard.</string>
     <string name="cancel_select_all">Annuler</string>
     <string name="cancel_sptt">Annuler</string>
     <string name="cancel_ul_button">Annuler</string>
-    <string name="cancel_upgrade">Annuler la mise à niveau</string>
+    <string name="cancel_upgrade">Annuler la mise à jour</string>
     <string name="cannot_add_self">Désolé, vous ne pouvez pas être ami avec vous-même</string>
     <string name="cannot_delete_last_binded_email">Vous devez vous enregistrer avec au moins un compte e-mail</string>
     <string name="cannot_delete_last_binded_phone">Vous devez vous enregistrer avec au moins un numéro de téléphone</string>
@@ -588,7 +588,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="chose_position">Sélectionnez une localisation</string>
     <string name="classmate">Camarade de classe</string>
     <string name="clean_account_warning">"Tout l'historique de tchat du compte précédent sera effacé."</string>
-    <string name="clean_success">Clean Success</string>
+    <string name="clean_success">Nettoyage réussi</string>
     <string name="clear_avatar_cache">Effacer les images du profil</string>
     <string name="clear_avatar_cache_info">Effacer les images du profil ?</string>
     <string name="clear_avatar_step">Étape</string>
@@ -636,7 +636,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="company_empty_hits">Pas de résultats pour %s. Pour la créer, appuyez sur le bouton ci-dessous !</string>
     <string name="company_info">Société</string>
     <string name="company_info_exist">"Cette information de l'entreprise existe déjà."</string>
-    <string name="company_name_invalid">"S'il vous plaît entrez entre 3–100 caractères. le nom doit inclure seulement des caractères, des espaces et des chiffres."</string>
+    <string name="company_name_invalid">Veuillez entrez entre 3–100 caractères. le nom doit inclure seulement des caractères, des espaces et des chiffres.</string>
     <string name="company_num_invalid">Max. 5 compagnies</string>
     <string name="complete">Complet</string>
     <string name="complete_company_toast">Veuillez sélectionner la durée travaillée dans cette entreprise</string>
@@ -823,7 +823,7 @@ Un identifiant ne peut créer qu'un groupe proximité"</string>
     <string name="create_muc_chose_type_title">Sélectionnez le type de groupe</string>
     <string name="create_muc_company_group">Créer un groupe de travail</string>
     <string name="create_muc_default_name">%s…</string>
-    <string name="create_muc_failed">"Création impossible, veuillez s'il vous plaît réessayer."</string>
+    <string name="create_muc_failed">Création impossible, veuillez réessayer.</string>
     <string name="create_muc_group_description_hint">15 caractères minimum</string>
     <string name="create_muc_group_name_hint">Nommez ce groupe</string>
     <string name="create_muc_group_type_classmate">École</string>
@@ -858,7 +858,7 @@ par exemple Les amateurs de chat,
 Spéléologues de loisirs,
 Vit à Guomao"</string>
     <string name="create_nearby_group_name_et_hint">Entrez un nom de groupe (1-20 caractères)</string>
-    <string name="create_nearby_muc_failed">"Création du groupe impossible, veuillez s'il vous plaît réessayer. Vérifiez votre connexion réseau et réessayez."</string>
+    <string name="create_nearby_muc_failed">Création du groupe impossible. Vérifiez votre connexion réseau et réessayez.</string>
     <string name="create_personal_message">Créer</string>
     <string name="create_private_group">Créer un groupe privé</string>
     <string name="create_public_group">Créer un groupe public</string>
@@ -871,8 +871,8 @@ Vit à Guomao"</string>
     <string name="create_topic">Créez des sujets</string>
     <string name="create_topic_failed">Création impossible</string>
     <string name="create_topic_hint">Commencer une conversation</string>
-    <string name="create_user_too_many_times">"Vous avez essayé de créer trop de fois, s'il vous plaît veuillez réessayer plus tard."</string>
-    <string name="create_vote_can_not_empty">Vote ne peut pas vide</string>
+    <string name="create_user_too_many_times">Vous avez essayé un trop grand nombre de fois, veuillez réessayer plus tard.</string>
+    <string name="create_vote_can_not_empty">Le vote ne peut pas être vide</string>
     <string name="creating">Création…</string>
     <string name="creating_account">Traitement de votre information</string>
     <string name="creating_channel">Création…</string>
@@ -885,7 +885,7 @@ Vit à Guomao"</string>
     <string name="crop_title">Déplacer et recadrer</string>
     <string name="curent_password">Actuel</string>
     <string name="current_member_count_hint">%1$s à %2$s maintenant, les membres comptent limite est %3$s</string>
-    <string name="data_magrationing" formatted="false">En cours de mise à niveau des données... %d%</string>
+    <string name="data_magrationing" formatted="false">Mise à jour des données... %d%</string>
     <string name="date_format_str">dd/MM/yyyy</string>
     <string name="day">Jour</string>
     <string name="db_recovery_tip">"Une erreur de base de données s'est produite. Accédez aux paramètres et retélécharger les infos du contact."</string>
@@ -1034,7 +1034,7 @@ Vit à Guomao"</string>
     <string name="download_from_link">Téléchargé depuis le lien: %s</string>
     <string name="download_miba">Télécharger MiBa</string>
     <string name="download_miba_progress">%d</string>
-    <string name="download_offline_failed_expired">Fichier est pas à jour</string>
+    <string name="download_offline_failed_expired">"Le fichier n'est pas à jour"</string>
     <string name="download_original_image_failure">Impossible de télécharger</string>
     <string name="download_title_msg">Vous allez télécharger dans un environnement non-wifi, voulez-vous continuer ?</string>
     <string name="download_title_warning">Avertissement de téléchargement</string>
@@ -1153,17 +1153,17 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="favorite_failed">"Échec d'ajout aux favoris"</string>
     <string name="favorite_first_time">Vous pouvez afficher seulement vos favoris</string>
     <string name="feedback">Commentaires</string>
-    <string name="feedback_already_sending_hint">Already has sending task, please retry later</string>
+    <string name="feedback_already_sending_hint">Tâche déjà envoyée, veuillez réessayer plus tard</string>
     <string name="feedback_des_migroup">Dites nous en plus sur la façon dont nous pouvons aider ou améliorer</string>
     <string name="feedback_email">Dites-nous comment vous souhaitez être contacté</string>
     <string name="feedback_email_hidden">Optionnel</string>
     <string name="feedback_failed">Nous ne pouvons recevoir vos commentaires, veuillez réessayer. Nous vous remercions pour votre temps et votre soutien !</string>
-    <string name="feedback_large_size_not_wifi">upload　log file in Wifi Net</string>
+    <string name="feedback_large_size_not_wifi">Télécharger le fichier journal en Wifi</string>
     <string name="feedback_migroup">Groupe</string>
     <string name="feedback_send_log">Envoyer également un paquet de données</string>
     <string name="feedback_success">Nous avons bien reçu vos commentaires ! Nous vous remercions pour votre temps et votre soutien !</string>
     <string name="feedback_title">Comment pouvons-nous vous aider ?</string>
-    <string name="feedback_under_not_wifi">please retry when WIFI available</string>
+    <string name="feedback_under_not_wifi">Veuillez réessayer lorsque votre réseau Wifi est disponible</string>
     <string name="feedback_waiting">Envoi…</string>
     <string name="festival_msg_loading">Chargement…</string>
     <string name="fetch_network_data_error">"Impossible d'identifier les données du réseau."</string>
@@ -1924,7 +1924,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="invite_colleage">Inviter des collègues</string>
     <string name="invite_contact">"Carnet d'adresse du téléphone"</string>
     <string name="invite_contact_hit">"L'invitation par SMS peut engendrer des surcoûts. veuillez vous renseigner de ces coûts auprès de votre fournisseur d'accès"</string>
-    <string name="invite_count">Invite %d peoples success</string>
+    <string name="invite_count"> %d personnes invitées</string>
     <string name="invite_email_contacts">Adresse mail du compte des contacts</string>
     <string name="invite_facebook_contacts">Amis Facebook</string>
     <string name="invite_failed">Échec</string>
@@ -2011,7 +2011,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="load_fri_sug_error">Échec, veuillez essayer à nouveau</string>
     <string name="load_lottery_data_failed">Impossible de charger. Essayez à nouveau</string>
     <string name="load_more_sixin">Plus</string>
-    <string name="load_muc_info_error">Update muc info error, please try again later</string>
+    <string name="load_muc_info_error">Erreur de mise à jour des infos muc info error, veuillez réessayer plus tard</string>
     <string name="load_muc_message_history_time_out">Connexion expirée</string>
     <string name="load_nearby_users_failed">Impossible de charger, veuillez essayer la solution suivante</string>
     <string name="load_nearby_users_succeeded">Chargé</string>
@@ -2064,8 +2064,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="login_enter_miliao">Se connecter</string>
     <string name="login_error_incorrect_system_time">"Échec de connexion. Erreur d'heure système. Ajustez l'heure système et réessayer."</string>
     <string name="login_failed">Échec de connexion. Veuillez réessayer</string>
-    <string name="login_failed_verify_picture_code">"Échec de trop nombreuses fois, s'il vous plaît entrer le code d'image pour vérifier"</string>
-    <string name="login_failed_verify_security_token">"Impossible de vous connecter, s'il vous plaît vérifier ou activer votre téléphone"</string>
+    <string name="login_failed_verify_picture_code">"Échec de trop nombreuses fois, veuillez entrer le code d'image pour vérifier"</string>
+    <string name="login_failed_verify_security_token">"Impossible de vous connecter, veuillez vérifier ou activer votre téléphone"</string>
     <string name="login_failure">Échec de connexion, vérifiez votre connexion réseau</string>
     <string name="login_gender">Sexe</string>
     <string name="login_hint_send_sms">Inscrivez-vous et envoyer un SMS à la vérification sur ce téléphone</string>
@@ -3231,7 +3231,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="please_input_email_address">Adresse Email</string>
     <string name="please_input_email_content">Contenu Email</string>
     <string name="please_input_email_pwd">Mot de passe</string>
-    <string name="please_input_feedback_desc">Please input feedback Content</string>
+    <string name="please_input_feedback_desc">Veuillez saisir le contenu de votre commentaire</string>
     <string name="please_input_keywords">Contenu manquant</string>
     <string name="please_input_mi_id">Identifiant Mi</string>
     <string name="please_input_phone">Numéro de téléphone</string>
@@ -3465,7 +3465,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="pull_down_show_default">Abaissez vers le bas. Liste par défaut</string>
     <string name="pull_down_show_unread">Abaissez vers le bas. Non lu en premier</string>
     <string name="pull_down_to_get_history">"Glissez vers le bas pour afficher l'historique"</string>
-    <string name="pull_old_failed">Get the data failed. Please try again.</string>
+    <string name="pull_old_failed">Obtention des données échouée. Veuillez réessayer.</string>
     <string name="push_message_permission">"Envoyez un message à l'application Mi-Talk"</string>
     <string name="qq_login">Se connecter à QQ</string>
     <string name="qq_login_error">Erreur de connexion à QQ</string>
@@ -3551,27 +3551,27 @@ groupes et rejoignez-nous etc."</string>
     <string name="recording_error">Erreur</string>
     <string name="recording_release_cancel_hint">Disponible</string>
     <string name="recording_remove_hint">Déposez ici pour annuler</string>
-    <string name="red_bag_hint">新的聊天方式，用红包说话！</string>
-    <string name="red_packet_default_body">[系统提示]您的版本不支持米聊红包。</string>
-    <string name="red_packet_get_tip">领取红包</string>
-    <string name="red_packet_show_tip">查看红包</string>
-    <string name="redbag">RedBag</string>
-    <string name="redbag_amount_each">Amount Each</string>
-    <string name="redbag_amount_each_muc">Amount Each</string>
+    <string name="red_bag_hint">Nouvelle conversation, discutez via enveloppe rouge</string>
+    <string name="red_packet_default_body">[Push]Votre version ne prend pas en charge les enveloppes rouges</string>
+    <string name="red_packet_get_tip">Recevoir une enveloppe rouge</string>
+    <string name="red_packet_show_tip">"Afficher l'enveloppe rouge"</string>
+    <string name="redbag">Enveloppe rouge</string>
+    <string name="redbag_amount_each">Montant</string>
+    <string name="redbag_amount_each_muc">Montant</string>
     <string name="redbag_bag_counts" />
-    <string name="redbag_continue_send">继续发此红包</string>
-    <string name="redbag_convert_cash">%s未领取，将退回钱包余额。</string>
-    <string name="redbag_count_receive">共收到</string>
-    <string name="redbag_count_sent">共发出</string>
-    <string name="redbag_d">天</string>
-    <string name="redbag_detail">查看详情</string>
-    <string name="redbag_empty">手慢了，红包派完了</string>
-    <string name="redbag_expired">来晚了，红包已过期</string>
-    <string name="redbag_expired_refund">红包已过期，余额已退款到钱包余额</string>
-    <string name="redbag_failed_tip1">红包数量超出上限，最多100个</string>
-    <string name="redbag_failed_tip10">领取红包金额超出上限</string>
-    <string name="redbag_failed_tip11">账户被冻结</string>
-    <string name="redbag_failed_tip12">群红包总额超出上限5000元</string>
+    <string name="redbag_continue_send">"Continuer d'envoyer cette enveloppe rouge"</string>
+    <string name="redbag_convert_cash">%s non reçue，la somme sera remise dans le porte monnaie.</string>
+    <string name="redbag_count_receive">Reçue</string>
+    <string name="redbag_count_sent">Émise</string>
+    <string name="redbag_d">Jour</string>
+    <string name="redbag_detail">Afficher les détails</string>
+    <string name="redbag_empty">Vide</string>
+    <string name="redbag_expired">Expirée</string>
+    <string name="redbag_expired_refund">Enveloppe rouge expirée</string>
+    <string name="redbag_failed_tip1">La quantité dépasse la limite, maximum 100</string>
+    <string name="redbag_failed_tip10">Recevoir un montant d'enveloppe rouge dépassant la limite</string>
+    <string name="redbag_failed_tip11">Comptes bloqués</string>
+    <string name="redbag_failed_tip12">"Le Total du groupe d'enveloppes rouges dépasse le limite de 5000 yuans"</string>
     <string name="redbag_failed_tip13">群红包的单个红包金额超出上限200元</string>
     <string name="redbag_failed_tip2">红包金额不足，单个红包金额不能低于0.01元</string>
     <string name="redbag_failed_tip3">个人红包超出红包金额上限200元</string>
@@ -4845,7 +4845,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="voip_aggregation_miss_calls">%1$d contacs %2$d appels manqués</string>
     <string name="voip_already_in_call_hint">"Finir l'appel ?"</string>
     <string name="voip_audio_accepted">Autre réponse vocale</string>
-    <string name="voip_audio_active_tips">"S'il vous plaît répondre en utilisant le combiné"</string>
+    <string name="voip_audio_active_tips">Veuillez répondre en utilisant le combiné</string>
     <string name="voip_audio_calling">Demande d\'appel...</string>
     <string name="voip_audio_entry">Mi-Voip</string>
     <string name="voip_audio_positive_tips">Le correspondant a été ajouté à Mi-Voip</string>
