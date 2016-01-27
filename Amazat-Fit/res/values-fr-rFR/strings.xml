@@ -19,7 +19,7 @@
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser les données</string>
     <string name="pull_to_refresh_release_label">Relâchez pour rafraîchir…</string>
     <string name="pull_to_refresh_refreshing_label">Chargement…</string>
-    <string name="pull_to_refresh_from_bottom_pull_label">pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">Actualiser</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Rafraichir</string>
     <string name="share_uninstall_client">Installation non réussie</string>
@@ -85,10 +85,10 @@
     <string name="guide_login_error_not_install_third_app">Application non installée</string>
     <string name="guide_login_error_not_install_weixin">Weixin non installé</string>
     <string name="login_error_passport_tpa_denied_error">Erreur connexion, essayez à nouveau</string>
-    <string name="login_error_passport_tpa_done_no_result"Erreur connexion, essayez à nouveau</string>
+    <string name="login_error_passport_tpa_done_no_result">Erreur connexion, essayez à nouveau</string>
     <string name="login_error_passport_id_auth_denied_error">Réessayez plus tard</string>
     <string name="login_error_passport_parse_error">Erreur connexion, essayez à nouveau</string>
-   <String name ="login_error_passport_server_error">Erreur connexion, essayez à nouveau</string>
+    <string name ="login_error_passport_server_error">Erreur connexion, essayez à nouveau</string>
     <string name="login_error_passport_timeout_error">Essayez plus tard</string>
     <string name="login_error_passport_id_token_invalid_error">Echecs, connectez vous!</string>
     <string name="login_error_passport_no_login_error">Echecs, connetcez vous</string>
@@ -123,7 +123,7 @@
     <string name="profile_fragment_setting_gender_cancel">Annulez</string>
     <string name="profile_info_save">Enregistez</string>
     <string name="profile_info_save_success">Enregistré avec succès</string>
-    <string name="profile_info_save_error">L'enregistrement à échoué</string>
+    <string name="profile_info_save_error">L\'enregistrement à échoué</string>
     <string name="profile_modify_nickname">Modifiez pseudo</string>
     <string name="mut_exc_login_title">Hors ligne</string>
     <string name="mut_exc_login_logout">Déconnécté</string>
@@ -141,7 +141,7 @@
     <string name="get_image_file_fail">Echec récéption fichier</string>
     <string name="select_image">Modifier avatar</string>
     <string name="select_from_camera">Photo</string>
-    <string name="select_from_local">Séléctionner dans l'album</string>
+    <string name="select_from_local">Séléctionner dans l\'album</string>
     <string name="back">Retour</string>
     <string name="state_unauthorization_success">Retirez autorisation succès</string>
     <string name="state_unauthorization_error">Retirez autorisation echec</string>
@@ -156,7 +156,7 @@
     <string name="discover_service">Service</string>
     <string name="discover_activity">Activité</string>
     <string name="discover_mall">Galerie marchande</string>
-    <string name="discover_no_activity">Pas d'activié</string>
+    <string name="discover_no_activity">Pas d\'activité</string>
     <string name="discover_activity_people_attended">Déjà %s participants</string>
     <string name="discover_activity_lastday">Dernier jour</string>
     <string name="discover_activity_finished">Fin</string>
