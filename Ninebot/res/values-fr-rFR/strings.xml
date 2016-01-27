@@ -65,7 +65,7 @@
 1.Contenu de l'assurance d'accidents corporels；
 2.Contenu de l'assurance d'accidents corporels"</string>
     <string name="activate_insurance_clause_recieve">"J'ai lu les termes ci-dessus"</string>
-    <string name="activate_insurance_clause_title">Conditions de garantie d'assurance</string>
+    <string name="activate_insurance_clause_title">Conditions de garantie d\'assurance</string>
     <string name="activate_insurance_id_tip">"La carte d'identité de l'utilisateur est nécessaire pour compléter les informations d'assurance. Veuillez vérifiez à ce que votre nom, numéro de téléphone et vos identifiants soient corrects. Les informations fournies à l'assurance ne peuvent être révisées ou resoumises."</string>
     <string name="activate_insurance_prompt1">"Vous avez déjà l'assurance accidents personnels fournis par Ninebot, avec le n° d'assuré XXXX."</string>
     <string name="activate_insurance_prompt2">Réémission non autorisée.</string>
@@ -79,7 +79,7 @@
     <string name="activate_not_support_update_back">"Comme l'activation n'est pas disponible avec la version actuelle du firmware, vous serez renvoyé vers l'interface de recherche. Souhaitez-vous retourner vers l'interface de recherche ?"</string>
     <string name="activate_not_teach">Pour votre sécurité et celle des autres, veuillez finir le tutoriel.</string>
     <string name="activate_page_finish">Merci pour votre patience. Veuillez vous référer au Guide de conduite en toute sécurité. Nous vous souhaitons un excellent voyage.</string>
-    <string name="activate_page_finish2">Merci pour votre lecture! Veuillez effectuer l'apprentissage pour débutant via le manuel de conduite de sécurité.</string>
+    <string name="activate_page_finish2">Merci pour votre lecture ! Veuillez effectuer l\'apprentissage pour débutant via le manuel de conduite de sécurité.</string>
     <string name="activate_prompt">"Une fois le véhicule activé, Ninebot vous fournira une assurance individuelle accident d'un montant de 359 Yuan gratuitement, couvert par PICC. Veuillez compléter vos informations personnelles. Votre numéro de police d'assurance vous sera envoyé par sms dans les 24 heures de votre enregistrement. Remarque: toutes les informations privées sont seulement réservées pour la police d'assurance. Soyez rassuré en les renseignant."</string>
     <string name="activate_prompt2">"Êtes-vous sûr de ne pas accepter l'assurance contre les accidents personnels fournis par Ninebot? Une fois abandonner, vous devrez appeler le PICC et l'acheter pour une future utilisation. PICC Tel: 010-88119842 (9:00-17:00, du lundi au vendredi)"</string>
     <string name="activate_receive">"Accepter l'assurance"</string>
@@ -101,7 +101,7 @@
     <string name="activate_step_4">Descendez régulièrement</string>
     <string name="activate_step_4_getdown">Descendez</string>
     <string name="activate_step_4_getdown_ok">Déjà descendu</string>
-    <string name="activate_step_5">Relevez &amp; Bas</string>
+    <string name="activate_step_5">Relevez et Bas</string>
     <string name="activate_step_5_pickup">Relevez</string>
     <string name="activate_step_5_putdown">Rabaissez progressivement</string>
     <string name="activate_step_ble_disconnect">Bluetooth déconnecté, le tutoriel ne peut être repris.</string>
@@ -112,7 +112,7 @@
     <string name="activate_step_title">Tutoriel</string>
     <string name="activate_successful_warn">"Activation réussie, veuillez continuer avec l'apprentissage pour débutant, sinon le véhicule gardera une vitesse limitée à 7km/h. Pour votre sécurité,lire attentivement le manuel.</string>
     <string name="activate_successful_warn2">"Activation réussie, veuillez continuer avec l'apprentissage pour débutant, sinon le véhicule gardera une vitesse limitée à 7km/h. Pour votre sécurité, veuillez faire l'apprentissage pour débutant. 
-PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez vous référer au message de confirmation envoyé à votre téléphone."</string>
+-PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez vous référer au message de confirmation envoyé à votre téléphone."</string>
     <string name="activate_title">Activer</string>
     <string name="activate_video_skip">Passer</string>
     <string name="activate_video_title">Vidéo de conduite sécuritaire</string>
@@ -134,7 +134,7 @@ PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez v
     <string name="black_box_data_file">Fichiers</string>
     <string name="black_box_description_hint">Veuillez décrire le problème en moins de 500 caractères.</string>
     <string name="black_box_error_address">Adresse étendue hors de portée</string>
-    <string name="black_box_error_create_direct_failed">Ne peut être fait/Ninebot/Catalogue de la Boîte Noire！</string>
+    <string name="black_box_error_create_direct_failed">Ne peut être fait/Ninebot/Catalogue de la Boîte Noire ！</string>
     <string name="black_box_error_description_null">Description du problème !</string>
     <string name="black_box_error_description_too_long">Description du problème trop longue!</string>
     <string name="black_box_error_network_failure">Erreur de connexion, veuillez le renvoyer!</string>
@@ -151,7 +151,7 @@ PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez v
     <string name="black_box_successful_send">Téléchargement des données réussi, notre ingénieur après-vente va gérer cela en peu de temps !</string>
     <string name="black_box_tip_check_lock">La vérification est effectuée afin de confirmer si le véhicule est verrouillé ou non.</string>
     <string name="black_box_tip_complete_to_unlock">Données de la Boîte Noire lues. Déverrouiller ou non ?</string>
-    <string name="black_box_tip_read_again">Le lire à nouveau ou pas?</string>
+    <string name="black_box_tip_read_again">Le lire à nouveau ou pas ?</string>
     <string name="black_box_tip_read_complete">"Données de la Boîte Noire lues. Veuillez remplir la description du problème et cliquez sur l'envoi de mail."</string>
     <string name="black_box_tip_reading">Données de la Boîte Noire en cours de lecture...</string>
     <string name="black_box_tip_send">"Cliquez sur envoi de mail, la description du problème et les données de la Boîte Noire seront envoyées à XXX par email. Notre équipe du service après-vente va vérifier et analyser les données dans les temps impartis."</string>
@@ -169,10 +169,10 @@ PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez v
     <string name="black_box_title_version">Version du Firmware：</string>
     <string name="ble_action_connect">Connexion</string>
     <string name="ble_connect">Bluetooth connecté</string>
-    <string name="ble_disconnect">Bluetooth déconnecté/string>
+    <string name="ble_disconnect">Bluetooth déconnecté</string>
     <string name="ble_disconnect_setting_failed">Bluetooth déconnecté, paramètrage échoué!</string>
     <string name="ble_initial_failed">Initialisation Bluetooth échouée !</string>
-    <string name="ble_not_enable">Veuillez activer le bluetooth!</string>
+    <string name="ble_not_enable">Veuillez activer le bluetooth !</string>
     <string name="ble_not_support">Appareil non supporté impossible de se connecter.</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bound_phone_fail">Appairage avec le téléphone échouée</string>
@@ -268,9 +268,9 @@ PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez v
     <string name="error_register_12">Désolé, votre IP ne pourra être enregistrée que dans quelques heures</string>
     <string name="error_register_13">Désolé, votre adresse IP  ne peut être enregistrée que 3 fois dans les 24 heures</string>
     <string name="error_register_14">Format vide ou incorrecte</string>
-    <string name="error_register_15">Le Nom d'utilisateur possède des chiffres sensibles</string>
-    <string name="error_register_16">Le Nom d'utilisateur possède des chiffres interdits</string>
-    <string name="error_register_17">Le Nom d'utilisateur a été enregistré</string>
+    <string name="error_register_15">Le Nom d\'utilisateur possède des chiffres sensibles</string>
+    <string name="error_register_16">Le Nom d\'utilisateur possède des chiffres interdits</string>
+    <string name="error_register_17">Le Nom d\'utilisateur a été enregistré</string>
     <string name="error_register_18">Email invalide</string>
     <string name="error_register_19">"Désolé, l'email contient un domaine email invalide"</string>
     <string name="error_register_2">"Le site n'est pas autorisé à enregistrer."</string>
@@ -286,12 +286,8 @@ PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez v
     <string name="error_register_7">Mot de passe trop simple</string>
     <string name="error_register_8">Désolé, deuxième mot de passe incompatible avec le premier</string>
     <string name="error_register_9">Désolé, le mot de passe est vide ou contient des chiffres illégaux</string>
-    <string name="error_res">"Les raisons éventuelles:
-
-"</string>
-    <string name="error_solution">"Les solutions correspondantes:
-
-"</string>
+    <string name="error_res">"Les raisons éventuelles:"</string>
+    <string name="error_solution">"Les solutions correspondantes:"</string>
     <string name="evernote">Impression Notes</string>
     <string name="exit_warning">Press again to exit the program!</string>
     <string name="facebook">Facebook</string>
