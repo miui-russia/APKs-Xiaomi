@@ -327,46 +327,42 @@ pour mettre en Pause"</string>
     <string name="running_shoes_unbinded">Non appairé</string>
     <string name="running_share_to_watermark">Ma photo de filigrane</string>
     <string name="running_share_to_title">Amazit</string>
-    <string name="running_settings_title">跑步设置</string>
+    <string name="running_settings_title">Paramètres course</string>
     <string name="running_gps_inable_hint">记录可能有偏差,请到开阔室外跑步</string>
-    <string name="running_max_speed">最大时速</string>
-    <string name="running_speaker">语音播报</string>
-    <string name="what_pace">什么是步频？</string>
-    <string name="pace_desp">步频就是你在跑步时每分钟迈开的步数。</string>
-    <string name="raise_pace">专注于提高步频</string>
-    <string name="raise_pace_desp">"一般跑者为了提高速度会本能的增加步幅, 但步幅的
-增加很容易造成肌肉损伤; 有经验的跑者会选择增加
-步频来提高速度。"</string>
-    <string name="target_frequency">目标步频</string>
-    <string name="target_frequency_desp">"优秀的长跑运动员每分钟迈出180步, 我们也建议以
-180的步频作为长跑练习的目标。"</string>
-    <string name="blue_conn">连接手环, 检测步频</string>
+    <string name="running_max_speed">Vitesse Max</string>
+    <string name="running_speaker">Voix</string>
+    <string name="what_pace">Rythme?</string>
+    <string name="pace_desp">Rythme/Minute</string>
+    <string name="raise_pace">Augmenter Rythme</string>
+    <string name="raise_pace_desp">"Augmenter rythme/minutes"</string>
+    <string name="target_frequency">Cadence cible</string>
+    <string name="target_frequency_desp">"Cadence cible/minute"</string>
+    <string name="blue_conn">Pas de détection bracelet</string>
     <string name="blue_conn_desp">"跑步前, 开启蓝牙, 连接手环;\u0009
 跑步中, 保持蓝牙连接。"</string>
-    <string name="avg_pace_speed">平均配速</string>
-    <string name="max_pace_speed">最高配速</string>
-    <string name="running_change_watermark_color_button_text">黑白反色</string>
+    <string name="avg_pace_speed">Allure moyenne</string>
+    <string name="max_pace_speed">Allure Max</string>
+    <string name="running_change_watermark_color_button_text">Inverser Noir&Blanc</string>
     <string name="running_watermark_title_text">水印照片</string>
-    <string name="china">中国</string>
-    <string name="take_photo">拍摄</string>
-    <string name="running_close">关闭</string>
-    <string name="mi_run">米动</string>
+    <string name="china">Chine</string>
+    <string name="take_photo">Prendre Photo</string>
+    <string name="running_close">Fermer</string>
+    <string name="mi_run">Mi Course</string>
     <string name="pace_frequency">步频</string>
-    <string name="crop_image">裁剪图片</string>
-    <string name="next_go">下一步</string>
+    <string name="crop_image">Recadrer Photo</string>
+    <string name="next_go">Prochaine</string>
     <string name="isbound_alert">"使用手环后，可检测
 实时步频，可在商城中购买手环"</string>
-    <string name="isboundBle_alert">"请开启蓝牙
-手环连接后，可显示步频"</string>
+    <string name="isboundBle_alert">isboundBle Alerte</string>
     <string name="isconnect_alert">"轨迹加载失
 败，请检查网络后重试"</string>
-    <string name="ble_known">知道了</string>
-    <string name="early_hours_in_the_morning">凌晨</string>
-    <string name="early_morning">早上</string>
-    <string name="morning">上午</string>
-    <string name="noon">中午</string>
-    <string name="afternoon">下午</string>
-    <string name="night">晚上</string>
+    <string name="ble_known">Connaître</string>
+    <string name="early_hours_in_the_morning">Aube</string>
+    <string name="early_morning">Aurore</string>
+    <string name="morning">Matin</string>
+    <string name="noon">Midi</string>
+    <string name="afternoon">Après-midi</string>
+    <string name="night">Nuit</string>
     <string name="com.crashlytics.android.build_id">70da5ecd-b7b8-4700-9523-10416f06cd9a</string>
     <string name="register">"S'inscrire"</string>
     <string name="login">Connexion</string>
