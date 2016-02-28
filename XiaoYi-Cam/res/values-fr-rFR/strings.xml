@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Haut</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">Terminé</string>
-    <string name="abc_activity_chooser_view_see_all">Voir tout</string>
+    <string name="abc_activity_chooser_view_see_all">Afficher tout</string>
     <string name="abc_activitychooserview_choose_application">Choisir une application</string>
     <string name="abc_searchview_description_clear">Effacer une requête</string>
     <string name="abc_searchview_description_query">Rechercher une requête</string>
@@ -99,12 +99,19 @@
     <string name="alert_all_camera">Toutes les caméras</string>
     <string name="alert_all_choose">Sélectionner tout</string>
     <string name="alert_all_dynamic">Tous les dynamiques</string>
+    <string name="alert_calendar_friday">Ven</string>
+    <string name="alert_calendar_monday">Lun</string>
+    <string name="alert_calendar_saturday">Sam</string>
+    <string name="alert_calendar_sunday">Dim</string>
+    <string name="alert_calendar_thursday">Jeu</string>
+    <string name="alert_calendar_tuesday">Mar</string>
+    <string name="alert_calendar_wednesday">Mer</string>
     <string name="alert_choosed_all">Tous sélectionnés</string>
     <string name="alert_choosed_item">%1$d Objets sélectionnés</string>
     <string name="alert_delete">Souhaitez-vous supprimer ces %1$d messages ?</string>
     <string name="alert_delete_no_message">Aucun message sélectionné</string>
     <string name="alert_message">"Message d'alerte"</string>
-    <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage～."</string>
+    <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage."</string>
     <string name="alert_no_choose">Tout décocher</string>
     <string name="alert_no_message">"Aujourd'hui, vous êtes tranquille, vous n'avez aucun message."</string>
     <string name="alert_no_save_message">Aucun historique, aucun message depuis 7 jours</string>
@@ -146,7 +153,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_3g_network">Vous utilisez actuellement les réseaux de données mobiles 3G/4G, pensez à surveiller votre consommation de données.</string>
     <string name="camera_alarm_customize_add_alarm">Appuyez  pour ajouter une alarme</string>
     <string name="camera_alarm_customize_cancel">Annuler</string>
-    <string name="camera_alarm_customize_delete">Supprimer cette alarme</string>
+    <string name="camera_alarm_customize_delete">Supprimer</string>
     <string name="camera_alarm_customize_delete_dialog">Êtes-vous sûr de vouloir supprimer cette alarme ?</string>
     <string name="camera_alarm_customize_end">Heure de fin</string>
     <string name="camera_alarm_customize_everyday">Tous les jours</string>
@@ -199,7 +206,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_performance_not_enough">Performances du téléphone inégale. Activez le décodeur matériel ou sélectionnez basse résolution dans les paramètres</string>
     <string name="camera_player_error">Erreur réseau, le chargement de la vidéo a échoué</string>
     <string name="camera_record_fail">Enregistrement échoué</string>
-    <string name="camera_record_too_short">Durée de la vidéo est trop courte pour générer le fichier!</string>
+    <string name="camera_record_too_short">Durée de la vidéo est trop courte pour générer le fichier !</string>
     <string name="camera_refresh">Actualisé</string>
     <string name="camera_refresh_time">"Dernière mise à jour: aujourd'hui à %1$s"</string>
     <string name="camera_remove">Caméra supprimée</string>
@@ -214,15 +221,16 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_alarm_setting">"Paramètres d'alerte dynamique"</string>
     <string name="camera_setting_alarm_setting_des">Paramétrage des notifications et des alertes dynamiques</string>
     <string name="camera_setting_alarm_tip">"L'image change lors d'une détection rapide"</string>
+    <string name="camera_setting_beep_mode_fail">Réglages rapides vocaux échoué, réessayer à nouveau</string>
     <string name="camera_setting_beep_mode_title">Notification sonore de la mise à jour du firmware de la Caméra</string>
     <string name="camera_setting_camera_name">Nom de la caméra</string>
-    <string name="camera_setting_day_night_subtitle">Interrupteur manuel on/off de la lumière infrarouge</string>
-    <string name="camera_setting_day_night_title">Paramétrage de la lumière infrarouge</string>
+    <string name="camera_setting_day_night_subtitle">Interrupteur manuel on/off de la lumière infrarouge manuellement</string>
+    <string name="camera_setting_day_night_title">Paramètres vision nocturne</string>
     <string name="camera_setting_decode_subtitle">Utilisez la puce matérielle pour faire le décodage vidéo et améliorer les performances</string>
     <string name="camera_setting_decode_title">Décodage matériel</string>
     <string name="camera_setting_device_timezone">Fuseau horaire</string>
     <string name="camera_setting_firmware_version">Version du firmware</string>
-    <string name="camera_setting_foundation">Paramétrage de base</string>
+    <string name="camera_setting_foundation">Paramètres</string>
     <string name="camera_setting_ldc_mode_subtitle">"La lentille correctrice peut provoquer des distorsions d'inclinaison des photos/vidéos"</string>
     <string name="camera_setting_ldc_mode_title">Correction de la distorsion</string>
     <string name="camera_setting_motion_detect">Enregistrement lors de détection de mouvement</string>
@@ -242,16 +250,17 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_resolution_title">Paramètres HD</string>
     <string name="camera_setting_reverse">"Retourner l'image"</string>
     <string name="camera_setting_sensitivity_alarm_title">Niveau de sensibilité</string>
+    <string name="camera_setting_speaker_adjust_fail">Réglages de volume échoué, réessayer à nouveau</string>
     <string name="camera_setting_stats_light">État du voyant</string>
-    <string name="camera_setting_storage_set">Paramétrage de la carte mémoire</string>
+    <string name="camera_setting_storage_set">Paramètres de la carte mémoire</string>
     <string name="camera_setting_storage_situation">État de la carte mémoire</string>
     <string name="camera_setting_subtitle">"État du voyant, orientation de l'écran, informations réseau, version du firmware, etc..."</string>
     <string name="camera_setting_title">Réglages de la caméra</string>
     <string name="camera_setting_video_alarm_subtitle">Encryptage vidéo avec alarme rapide, une carte méoire peut également être utilisée</string>
     <string name="camera_setting_video_alarm_title">"Paramétrage du déclenchement de l'alarme par la vidéo"</string>
     <string name="camera_setting_volume">Volume de la caméra</string>
-    <string name="camera_setting_volume_subtitle">Régler le volume du haut-parleur pendant un appel</string>
-    <string name="camera_setting_volume_title">Volume des appels</string>
+    <string name="camera_setting_volume_subtitle">Régler le volume pendant un appel du haut-parleur</string>
+    <string name="camera_setting_volume_title">Volume d\'appels</string>
     <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Se désabonner, ne plus utiliser le service de XiaoYi-Cam</string>
     <string name="camera_setting_weixin_alarm_public_cancel_title">Supprimer la connexion à la caméra</string>
     <string name="camera_setting_weixin_alarm_public_change_subtitle">Remplacer la caméra</string>
@@ -288,7 +297,7 @@ Réinitialiser la caméra"</string>
     <string name="connect_error_app">Application et appareil photo discordants</string>
     <string name="connect_hear_voice_prompt">Appuyez sur suivant si le scan du QR code est réussi</string>
     <string name="connect_test_server_rate">Tester le taux de connexion au serveur</string>
-    <string name="connect_to_wifi_msg">Veuillez connecter le téléphone à un réseau Wifi!</string>
+    <string name="connect_to_wifi_msg">Veuillez connecter le téléphone à un réseau Wi-Fi !</string>
     <string name="connect_video_cloud_server">Connexion au serveur de vidéo du Cloud</string>
     <string name="connect_video_encryption">Connexion serveur de cryptage vidéo</string>
     <string name="connect_video_forward_server">Connexion au serveur de relais vidéo</string>
@@ -318,8 +327,9 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="devshare_accept_button">"Accepter l'invitation"</string>
     <string name="devshare_accept_desc">"Vous pouvez maintenant vous connecter avec votre famille grâce à la vidéo en temps réel, à tout moment et partout. Cliquez sur Accepter l'invitation pour démarrer."</string>
     <string name="devshare_accept_device_existed">Le périphérique a déjà été ajouté</string>
-    <string name="devshare_accept_from">Invitation de &lt;font color=#0097ff>%1$s&lt;/font> reçu</string>
+    <string name="devshare_accept_from">Invitation de &lt;font color=#0097ff>%1$s&lt;/font>reçu</string>
     <string name="devshare_accept_max_count_exceed">Vous avez dépassé la limite de partage maximale admissible.</string>
+    <string name="devshare_accept_not_in_same_region">QR Code scan failed. Please select the same login location as your friend.</string>
     <string name="devshare_accept_qrcode_expired">Invitation non valide, cliquez pour actualiser.</string>
     <string name="devshare_accept_qrcode_invalid">Cette invitation est non valide, veuillez demander un nouveau QR code.</string>
     <string name="devshare_accept_shared_to_self">Caméra existante. Veuillez regarder directement.</string>
@@ -330,7 +340,8 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="devshare_invited_delete_cancel">Oui</string>
     <string name="devshare_invited_delete_fail">Annulation échouée. Veuillez réessayer.</string>
     <string name="devshare_invited_delete_ok">Non</string>
-    <string name="devshare_invited_delete_prompt">" Êtes-vous sûr de vouloir annuler le partage ?"</string>
+    <string name="devshare_invited_delete_prompt">" Êtes-vous sûr de vouloir annuler le partage ?
+"</string>
     <string name="devshare_invited_persons">Invités</string>
     <string name="devshare_invited_persons_counter">%1$d</string>
     <string name="devshare_invited_title">Invités</string>
@@ -342,7 +353,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="devshare_qrcode_gen_refresh"><u>QR Code non valide ? Appuyez pour actualiser</u></string>
     <string name="devshare_qrcode_scan_desc1">Centrer le QR code dans la zone de scann pour démarrer le scan</string>
     <string name="devshare_qrcode_scan_desc2">"● Pour scanner, veuillez demander à votre ami de sélectionner la caméra et d'appuyer sur l'icône de partage"</string>
-    <string name="devshare_qrcode_scan_desc3">● Scannez le QR code pour vous connecter à la caméra de vos amis</string>
+    <string name="devshare_qrcode_scan_desc3">"● Scannez le QR code pour vous connecter à la caméra de vos amis"</string>
     <string name="devshare_qrcode_scan_error">QR code non valide. Veuillez réessayer.</string>
     <string name="devshare_qrcode_scan_title">Scanner le QR code</string>
     <string name="devshare_shared_by_qrcode">Inviter des amis avec le QR code</string>
@@ -355,7 +366,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="downloading">Téléchargement…</string>
     <string name="dropbox">Dropbox</string>
     <string name="email">Email</string>
-    <string name="enter_album">"Afficher l'album"</string>
+    <string name="enter_album">Afficher album</string>
     <string name="evernote">Evernote</string>
     <string name="exit_app">"Appuyez à nouveau pour quitter l'application"</string>
     <string name="facebook">Facebook</string>
@@ -398,7 +409,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="guide_sub_title2">Zoomer facilement</string>
     <string name="guide_sub_title3">Ne manquez aucun mouvement</string>
     <string name="guide_sub_title4">Pour une meilleure expérience</string>
-    <string name="guide_sub_title5">visualisation à distance via le smartphone</string>
+    <string name="guide_sub_title5">Visualisation à distance via le smartphone</string>
     <string name="guide_title1">"Une nouvelle conception de l'interface"</string>
     <string name="guide_title2">Navigation Chronologique</string>
     <string name="guide_title3">"Bouton d'alarme en temps réel"</string>
@@ -430,12 +441,12 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="laiwang">Laiwang</string>
     <string name="laiwang_client_inavailable">Votre version Laiwang est trop ancienne ou non installée, vous devez installer pour pouvoir utiliser Laiwang</string>
     <string name="laiwangmoments">Laiwang moments</string>
-    <string name="license_agreement">Conditions d'utilisation</string>
+    <string name="license_agreement">Conditions d\'utilisation</string>
     <string name="line">Line</string>
     <string name="line_client_inavailable">Votre version Line est trop ancienne ou non installée, vous devez installer pour pouvoir utiliser Line</string>
     <string name="linkedin">Linkedin</string>
-    <string name="listen_wifi_password_error">"J'ai entendu" \"Erreur mot de passeWi-Fi\"</string>
-    <string name="live_video">Live</string>
+    <string name="listen_wifi_password_error">J\'ai entendu (Erreur mot de passe Wi-Fi)</string>
+    <string name="live_video">En direct</string>
     <string name="live_video_off">La caméra est éteinte</string>
     <string name="loading">Chargement...</string>
     <string name="loading_video">Téléchargement de la vidéo</string>
@@ -445,6 +456,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="middle">Moyen</string>
     <string name="mingdao">Mingdao</string>
     <string name="mingdao_share_content">Partager du contenu Mingdao</string>
+    <string name="my_camera_H21">XiaoYi-Cam 1080P</string>
     <string name="my_camera">XiaoYi-Cam</string>
     <string name="my_return">Retour</string>
     <string name="net_bad_tip">"Réseau instable, l'enregistrement vidéo peut être affectée."</string>
@@ -491,7 +503,7 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
 Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconnectez la"</string>
     <string name="pincode_not_sure">"Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !"</string>
     <string name="pincode_protect">Protection par mot de passe</string>
-    <string name="pincode_protect_above">Équipement de sécurité</string>
+    <string name="pincode_protect_above">Sécurité</string>
     <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
     <string name="pincode_set">Protection par mot de passe</string>
     <string name="pincode_set_new">"Merci d'entrer un mot de passe, allumer la caméra"</string>
@@ -514,8 +526,8 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="pocket">Poche</string>
     <string name="preparatory_work_at_last">"Derniers préparatifs en cours
 Veuillez patienter"</string>
-	<string name="privacy_policy">politique de confidentialité</string>
-    <string name="privacy_policy_title">politique de confidentialité</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="privacy_policy_title">Politique de confidentialité</string>
     <string name="product_description">Description du produit</string>
     <string name="prompt">Message</string>
     <string name="qq">QQ</string>
@@ -558,11 +570,11 @@ Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous r
     <string name="sdcard_need_format">Anomalie rencontrée，la carte mémoire doit être formatée</string>
     <string name="sdcard_normal">Carte mémoire en bon état</string>
     <string name="sdcard_not_find">"La carte mémoire n'est pas détecté"</string>
-    <string name="sdcard_size">%1$.1fG disponible %2$.1fG exactement</string>
+    <string name="sdcard_size">%1$.1fGo disponible %2$.1fGo exactement</string>
     <string name="sdcard_slow">"Vitesse de lecture et d'écriture trop faible"</string>
     <string name="sdcard_small">"La capacité de la carte mémoire est trop faible, l'appareil peut ne pas fonctionner correctement"</string>
     <string name="search_camera">Recherche de la caméra</string>
-    <string name="seek_move_tip">Déplacer le pointeur de l'historique de vidéo pour zoomer et dézoomer</string>
+    <string name="seek_move_tip">Déplacer le pointeur de l\'historique de vidéo pour zoomer et dézoomer</string>
     <string name="seek_zoom_tip">Agir comme le schéma pour zoomer en avant et en arrière</string>
     <string name="sense_drag">Faites glisser le curseur ci-dessous pour définir</string>
     <string name="sense_high">"L'alerte sera déclenchée lorsqu'une légère activité sera détectée"</string>
@@ -573,7 +585,7 @@ Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous r
     <string name="share_to_mingdao">Partagez avec Mingdao</string>
     <string name="share_to_qq">Partagez avec QQ</string>
     <string name="share_to_qzone">Partagez avec Zone QQ</string>
-    <string name="share_to_qzone_default">Provient de %s<string>
+    <string name="share_to_qzone_default">Provient de %s</string>
     <string name="shortmessage">Informations</string>
     <string name="sinaweibo">Weibo Chine</string>
     <string name="sohumicroblog">sohumicroblog</string>
@@ -603,7 +615,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="timezone_AbuDhabiMuscat">Abu Dhabi, Muscat</string>
     <string name="timezone_Alaska">Alaska</string>
     <string name="timezone_Amman">Amman</string>
-    <string name="timezone_AmsterdamBerlinViennaRomeBernStockholm">Amsterdam, Berlin, Vienne, Rome, Berne, Stockholm</string>
+    <string name="timezone_AmsterdamBerlinViennaRomeBernStockholm">Amsterdam, Berlin, Vienna, Rome, Bern, Stockholm</string>
     <string name="timezone_Arizona">Arizona</string>
     <string name="timezone_Astana">Astana</string>
     <string name="timezone_AthensBucharest">Athens, Bucharest</string>
@@ -649,11 +661,14 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="timezone_Irkutsk">Irkoutsk</string>
     <string name="timezone_IslamabadKarachi">Islamabad, Karachi</string>
     <string name="timezone_Istanbul">Istanbul</string>
+    <string name="timezone_Jayapura">Jayapura</string>
     <string name="timezone_Jerusalem">Jérusalem</string>
     <string name="timezone_Kiritimati">Île Christmas</string>
     <string name="timezone_KualaLumpurSingapore">Kuala Lumpur, Singapour</string>
     <string name="timezone_KuwaitRiyadh">Koweït, Riyadh</string>
     <string name="timezone_Magadan">Magadan</string>
+    <string name="timezone_Makassar">Makassar</string>
+    <string name="timezone_Manila">Manila</string>
     <string name="timezone_Minsk">Minsk</string>
     <string name="timezone_Montevideo">Montevideo</string>
     <string name="timezone_MoscowStPetersburgVolgograd">Moscou, St. Petersbourg, Volgograd</string>
@@ -663,6 +678,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="timezone_OsakaSapporoTokyo">Osaka, Sapporo, Tokyo</string>
     <string name="timezone_Pacific">Pacifique</string>
     <string name="timezone_Perth">Perth</string>
+    <string name="timezone_Pontianak">Pontianak</string>
     <string name="timezone_PortLouis">Port Louis</string>
     <string name="timezone_Santiago">Santiago</string>
     <string name="timezone_SarajevoSkopjeWarsawZagreb">Sarajevo, Skopje, Varsovie, Zagreb</string>
@@ -698,7 +714,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="txtUID">ID</string>
     <string name="umeng_common_action_cancel">Annuler</string>
     <string name="umeng_common_action_continue">Continuer</string>
-    <string name="umeng_common_action_info_exist">Télécharger.</string>
+    <string name="umeng_common_action_info_exist">Télécharger</string>
     <string name="umeng_common_action_pause">Pause</string>
     <string name="umeng_common_download_failed">Téléchargement échoué</string>
     <string name="umeng_common_download_finish">Téléchargement terminé, veuillez appuyer sur Installer</string>
@@ -726,22 +742,22 @@ Les autres modèles seront pris en charge dans les prochaines versions."</string
     <string name="use_barcode_tip_title">"Conseils d'utilisation"</string>
     <string name="use_barcode_use_tip">"Veuillez effectuer les opérations représentées sur la schéma.
 Gardez le téléphone à distance"</string>
-    <string name="use_login_button">Veuillez utiliser le bouton "Se connecter"</string>
+    <string name="use_login_button">Utilisez le bouton "connexion"</string>
     <string name="user_account">Compte utilisateur</string>
     <string name="user_camera_count_msg">%1$d Caméras</string>
     <string name="user_detail">Mon compte</string>
-    <string name="user_icon">Image du Profil</string>
-    <string name="user_icon_sdcard_not_exist">Carte SD non trouvée, impossible de sauvegarder la photo de votre profil</string>
-    <string name="user_icon_select_again">Sélectionner à nouveau</string>
+    <string name="user_icon">Avatar</string>
+    <string name="user_icon_sdcard_not_exist">Carte SD introuvable, impossible d\'enregistrer votre photo de profil</string>
+    <string name="user_icon_select_again">Resélectionner</string>
     <string name="user_icon_select_use">Sélectionner</string>
     <string name="user_icon_setup_cancel">Annuler</string>
-    <string name="user_icon_setup_from_album">"Sélectionner depuis l'album"</string>
+    <string name="user_icon_setup_from_album">Sélectionnez à partir de votre album</string>
     <string name="user_icon_setup_from_photograph">Photo</string>
     <string name="user_icon_update_failed">Échec</string>
-    <string name="user_icon_update_succeed">Mis à jour</string>
+    <string name="user_icon_update_succeed">Actualisé</string>
     <string name="user_login_in_password_modified">Le mot de passe du compte actuel a été modifié, veuillez vous reconnecter !</string>
     <string name="user_login_in_session_time">La session actuelle a expiré, veuillez vous reconnecter !</string>
-    <string name="user_nickname">Surnom</string>
+    <string name="user_nickname">Prénom</string>
     <string name="user_setting">Paramètres utilisateur</string>
     <string name="user_tips_add_camera">Appuyez ici pour ajouter une caméra</string>
     <string name="user_tips_alarm">La nouvelle alarme de caméra dynamique sera affichée ici</string>
@@ -835,7 +851,6 @@ Ou utiliser une adresse mail différente et essayer à nouveau."</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_settings">Paramètres</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="code_token">"Via le code obtenir l'accesstoken"</string>
