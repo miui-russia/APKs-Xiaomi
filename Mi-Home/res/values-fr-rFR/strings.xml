@@ -219,8 +219,9 @@
     <string name="current_all_step">"Nombre de pas "</string>
     <string name="current_speed">Vitesse actuelle</string>
     <string name="date_format_key">%1$d-%2$d</string>
-    <string name="day">"j "</string>
+    <string name="day">Jour</string>
     <string name="delete">"Effacer l'historique"</string>
+    <string name="devcie_shop_cart_invalid_time_fmt">Invalide après %1$d minutes</string>
     <string name="developer_plug_debug">Mode développeur</string>
     <string name="developer_plugin_info">Informations du plug-in développeur</string>
     <string name="developer_remote_debug">Test de la couverture réseau du domicile</string>
@@ -265,6 +266,7 @@
     <string name="device_shop_addr_check_name">Le destinataire ne peuvent pas être vide</string>
     <string name="device_shop_addr_check_street">"L'adresse ne peut pas être inférieure à 5 caractères"</string>
     <string name="device_shop_addr_check_tel">Le numéro de téléphone ne peut être vide</string>
+    <string name="device_shop_addr_check_tellen">Mauvais numéro de téléphone</string>
     <string name="device_shop_addr_check_zipcode">Le code postal ne peut être vide</string>
     <string name="device_shop_video_error">Les vidéos ne peuvent pas être lues</string>
     <string name="disclaim_cancel">Quitter</string>
@@ -300,7 +302,7 @@
     <string name="family_share_count">Partager %s périphériques intelligents</string>
     <string name="family_share_detail_title">Détails</string>
     <string name="family_share_device_count">Périphériques disponibles :</string>
-    <string name="family_share_time">%1$s.%2$s.%3$s shared</string>
+    <string name="family_share_time">%1$s.%2$s.%3$s partagé</string>
     <string name="family_wait_accept">Invitation envoyée !</string>
     <string name="feedback">Avis</string>
     <string name="feedback_app_succ_router_fail">"Retour concernant l'échec des utilisateurs se connectant au routeur"</string>
@@ -324,11 +326,11 @@
     <string name="gateway_edit_scene">Éditer une prise de vue</string>
     <string name="gateway_magnet_location_updating">Mise à jour...</string>
     <string name="gateway_magnet_name">Capteur de porte et de fenêtre</string>
-    <string name="gateway_main_title">Mi Home Suite</string>
+    <string name="gateway_main_title">Mi-Home Suite</string>
     <string name="gateway_motion_name">Capteur de mouvements</string>
     <string name="gateway_music_title">Sonnette</string>
     <string name="gateway_myscene">Ma localisation</string>
-    <string name="gateway_name">gateway</string>
+    <string name="gateway_name">Passerelle</string>
     <string name="gateway_no_device">Aucun équipement</string>
     <string name="gateway_no_support_firmware">Le matériel ne supporte pas le firmware de mise à jour proposé</string>
     <string name="gateway_no_support_firmware_allow_update">"La version actuelle du firmware n'est pas supportée. Mettez à jour le firmware"</string>
@@ -629,7 +631,7 @@
     <string name="mi_key_title">Mi-Clé du téléphone en bluetooth</string>
     <string name="midea_aircondition">Climatisation américaine</string>
     <string name="miio_before_firmware_upgrade_tip">Laisser le périphérique connecté</string>
-    <string name="miio_close">Désactivé</string>
+    <string name="miio_close">Quitter</string>
     <string name="miio_del_success">Appareil retiré</string>
     <string name="miio_device_list_add_device">Ajouter un périphérique</string>
     <string name="miio_device_list_add_device_fail">Impossible de se connecter au périphérique</string>
@@ -707,7 +709,7 @@
     <string name="mikey_reopen_tips">Réinitialisation  cette fonction permet de désactiver Mi-Clé</string>
     <string name="mikey_scene_desc">Si %1$s，alors %2$s</string>
     <string name="mile">miles</string>
-    <string name="minute">min </string>
+    <string name="minute">minute</string>
     <string name="mitv_apk_background_downloading">Téléchargement en arrière plan</string>
     <string name="mitv_apk_cancel_downloading">Annuler le téléchargement</string>
     <string name="mitv_apk_downloading">Téléchargement</string>
@@ -1052,7 +1054,7 @@
     <string name="scene_enable">Activé</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
-    <string name="scene_manage">Mode Prise de vue</string>
+    <string name="scene_manage">Scène</string>
     <string name="scene_modify_name_error">Nom de la Prise de vue déjà existant, veuillez essayez à nouveau</string>
     <string name="scene_recommend">Prise de vue recommandée</string>
     <string name="scene_repeat_tip">"%1$d. Cette emplacement multiplie \"%2$s\"
@@ -1060,9 +1062,8 @@
     <string name="scene_save">Sauvegarder cette Prise de vue</string>
     <string name="scene_save1">Sauvegarder</string>
     <string name="scene_then">Ensuite</string>
-    <string name="scene_then_extra">Ajouter des instructions</string>
-    <string name="search_new_device">Périphériques à proximité trouvés, vous pouvez les connecter</string>
-    <string name="second">s</string>
+    <string name="scene_then_extra">Ajouter des instructions</string>   
+    <string name="score_page_title">Score</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
     <string name="select_from_camera">Prendre un Photo</string>
     <string name="select_local_picture">Choisir depuis la Galerie</string>
@@ -1073,7 +1074,7 @@
     <string name="serach_no_device_yellow">Si le voyant est jaune clignotant, le périphérique peut normalement être ajouté</string>
     <string name="setting">Paramètres</string>
     <string name="setting_detail_device">Connecté: %1$s    Partagé: %2$s    Autre: %3$s</string>
-    <string name="setting_home_wifi">SDéfinir le réseau Wi-fi domestique</string>
+    <string name="setting_home_wifi">Définir le réseau Wi-fi domestique</string>
     <string name="setting_logout">Se déconnecter</string>
     <string name="setting_logout_message">Se déconnecter maintenant?</string>
     <string name="setting_logout_waiting">Déconnexion...</string>
@@ -1174,9 +1175,9 @@
     <string name="smarthome_device_get_subdevice_error">Impossible de se connecter à ce périphérique</string>
     <string name="smarthome_device_hint">Ajouter une télécommande</string>
     <string name="smarthome_device_launcher">Ajouter un raccourci sur le lanceur</string>
-    <string name="smarthome_device_mibox1">Mi Box 1</string>
-    <string name="smarthome_device_mibox1s">Mi Box 1S</string>
-    <string name="smarthome_device_mitv">Mi TV</string>
+    <string name="smarthome_device_mibox1">Mi-Box 1</string>
+    <string name="smarthome_device_mibox1s">Mi-Box 1S</string>
+    <string name="smarthome_device_mitv">Mi-TV</string>
     <string name="smarthome_device_remove">Supprimer le périphérique</string>
     <string name="smarthome_device_remove_error">Impossible de supprimer le périphérique</string>
     <string name="smarthome_device_remove_succ">Périphérique supprimé</string>
@@ -1447,23 +1448,18 @@
  2.1.2 Le droit de télécharger, installer et utiliser ce produitsur tous vos équipements de communications avec internet, ordinateurs, tablettes et smartphones.
  2.2 Restrictive clauses
  us serez soumis aux restrictions suivantes de cet accord:
- 2.2.1 
-Vous ne devrez pas utiliser ce produit pour la vente, la location, le transfert, la distribution ou d\'autres fins commerciales;
+ 2.2.1 Vous ne devrez pas utiliser ce produit pour la vente, la location, le transfert, la distribution ou d\'autres fins commerciales;
  2.2.2 Sauf interdiction par la loi de ces restrictions, vous ne pouvez pas modifier, traduire, adapter, fusionner, utiliser, démonter, reconstruire, décompiler ou rétroconcevoir une quelconque partie de ce produit ou des produits dérivés.
  2.2.3 Vous ne pouvez pas utiliser le produit pour créer des services similaires ou compétitifs;
- 2.2.4 
-Sauf statué explicitement par la loi, vous ne pouvez pas fabriquer, copier, distribuer, vendre, télécharger ou afficher le produit ou une partie quelconque de ce produit.
- 2.2.5 
-Vous ne pouvez pas supprimer ou détruire toute déclaration des droits d\'auteur ou de la propriété contenue dans ce produit.
+ 2.2.4 Sauf statué explicitement par la loi, vous ne pouvez pas fabriquer, copier, distribuer, vendre, télécharger ou afficher le produit ou une partie quelconque de ce produit.
+ 2.2.5 Vous ne pouvez pas supprimer ou détruire toute déclaration des droits d\'auteur ou de la propriété contenue dans ce produit.
  2.3 Les droits du propriétaire
  2.3.1 Xiaomi vous permettra de télécharger et utiliser ce produit.
  2.3.2 Xiaomi (et ses \"personnes autorisées\", le cas échéant) est propriétaire de tous les droits de propriété intellectuelle pertinents de ce produit.
  
  2.4 Frais
- 
-Vous devez payer pour le coût du produit, l\'accès à Internet personnel ou un tiers des frais de communication du parti, les coûts d\'information et autres dépenses connexes (y compris, mais sans s\'y limiter, les télécommunications ou prestataire de téléphonie mobile). En termes de services de télécommunication à valeur ajoutée, nous vous recommandons de confirmer les coûts pertinents avec un fournisseur de services à valeur ajoutée.
- 2.5 
-Les mises à jour ou des versions ultérieures de ce produit, ainsi que toutes les mises à jour ou d\'autres changements seront soumis aux dispositions du présent accord.
+ Vous devez payer pour le coût du produit, l\'accès à Internet personnel ou un tiers des frais de communication du parti, les coûts d\'information et autres dépenses connexes (y compris, mais sans s\'y limiter, les télécommunications ou prestataire de téléphonie mobile). En termes de services de télécommunication à valeur ajoutée, nous vous recommandons de confirmer les coûts pertinents avec un fournisseur de services à valeur ajoutée.
+ 2.5 Les mises à jour ou des versions ultérieures de ce produit, ainsi que toutes les mises à jour ou d\'autres changements seront soumis aux dispositions du présent accord.
  
  3. Contenu utilisateur
  3.1 Contenu utilisateur
@@ -1702,7 +1698,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="write_review_exit_dialog_title_text">Annuler les changements ?</string>
     <string name="write_review_rating_text">"Nombre d'étoiles"</string>
     <string name="write_review_tag_text">Tag</string>
-    <string name="xiaomi_router">Mi Router</string>
+    <string name="xiaomi_router">Mi-Routeur</string>
     <string name="yeelight_beach">Plage</string>
     <string name="yeelight_bright_value">Luminosité：</string>
     <string name="yeelight_btn_save">Sauvegarder</string>
@@ -1755,7 +1751,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="change_sex_success">Changement de genre réussi</string>
     <string name="closed">Quitter</string>
     <string name="dialog_button_create_yeelight_group">Créer lampes</string>
-    <string name="dialog_title_apk_downloaded">Nouvelle version téléchargée, mettre à jour immédiatement ?</string>
     <string name="dialog_title_create_yeelight_group">Yeelight peut créer un jeu de lumière de la gestion unifiée</string>
     <string name="dialog_title_force_update">Une nouvelle version, vous devez mettre à jour pour continuer à utiliser</string>
     <string name="dialog_title_remote_card_tip">Mode carte IR</string>
@@ -1769,22 +1764,12 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="select_camera">Sélectionnez les paramètres de caméra intelligente pour les alertes</string>
     <string name="smarthome_device_" />
     <string name="smarthome_device_virtual_delete">Supprimer un groupe</string>
-    <string name="smarthome_scene_set_fail">Définition de la nouvelle prise de vue échouée, veuillez essayer à nouveau</string>
     <string name="toast_create_group_failed">Impossible de créer le groupe</string>
     <string name="toast_create_group_success">Groupe créé</string>
     <string name="toast_get_group_failed">"Impossible d'obtenir des informations"</string>
     <string name="toast_modify_group_failed">Échec de regroupement</string>
     <string name="visible_in_main_device_list_failed">Ajout échoué</string>
     <string name="visible_in_main_device_list_success">Ajout réussi</string>
-    <string name="cube_ptr_hours_ago"> il y a des heures</string>
-    <string name="cube_ptr_last_update">Dernière mise à jour: </string>
-    <string name="cube_ptr_minutes_ago"> il y a des minutes</string>
-    <string name="cube_ptr_pull_down">Tirer</string>
-    <string name="cube_ptr_pull_down_to_refresh">Tirer pour actualiser</string>
-    <string name="cube_ptr_refresh_complete">Mis à jour.</string>
-    <string name="cube_ptr_refreshing">Mise à jour...</string>
-    <string name="cube_ptr_release_to_refresh">Relâcher pour actualiser</string>
-    <string name="cube_ptr_seconds_ago"> il y a des secondes</string>
     <string name="about_check_update_new">Vérifiez les mises à jour</string>
     <string name="action_back">Retour</string>
     <string name="action_settings">Paramètres</string>
@@ -1794,7 +1779,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="air_100">Bon air</string>
     <string name="air_150">Pollution lumineuse</string>
     <string name="air_200">Pollution lumineuse</string>
-    <string name="air_250">Pollution secondaire</string>
     <string name="air_300">Contamination lourd</string>
     <string name="air_50">Excellente air</string>
     <string name="air_desc_detail">Grâce à des données de %s</string>
@@ -1804,6 +1788,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="air_x">Forte pollution</string>
     <string name="all_sleep_time">%1$d %2$d m</string>
     <string name="all_sleep_time_text">Heures de couchage</string>
+    <string name="area_air_quality">Qualité de l\'air</string>
     <string name="area_auto_locate">"Indiquez l'emplacement du"</string>
     <string name="area_auto_locate_failed">Malheureusement, je ne pouvais pas trouver</string>
     <string name="area_center_dot">;</string>
@@ -1814,7 +1799,10 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="balance_car">Segway</string>
     <string name="ble_device_connected">Déjà connecté %1$s</string>
     <string name="ble_device_offline">Périphérique Bluetooth est %1$s</string>
+    <string name="bluetooth_open_tips">please open your bluetooth</string>
     <string name="buildin_ir_name">Télécommande Xiaomi</string>
+    <string name="change_at_once">Change</string>
+    <string name="change_fail">Fail changing</string>
     <string name="check_account_retry">"S'il vous plaît aller au compte Xiaomi MiHome"</string>
     <string name="check_network_retry">Vérifiez votre réseau et réessayer</string>
     <string name="choose_ir_plugin">Télécommande</string>
@@ -1830,8 +1818,17 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="connecting_failed">Erreur de connexion</string>
     <string name="connecting_success">Connecté</string>
     <string name="create_launcher">Créer un raccourci sur le bureau</string>
-    <string name="day2">Il y a 2 jours</string>
-    <string name="day_before">Jours précédents</string>
+     <string name="cube_ptr_hours_ago"> hours ago</string>
+    <string name="cube_ptr_last_update">last update: </string>
+    <string name="cube_ptr_minutes_ago"> minutes ago</string>
+    <string name="cube_ptr_pull_down">Pull Down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="cube_ptr_refresh_complete">Updated.</string>
+    <string name="cube_ptr_refreshing">Updating...</string>
+    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+    <string name="cube_ptr_seconds_ago"> seconds ago</string>
+    <string name="day2">day</string>
+    <string name="day_before">day before</string>
     <string name="day_run_calorie_text">Consommation de la course</string>
     <string name="day_run_distance_text">Distance de la course</string>
     <string name="day_run_time_text">Durée de la course</string>
@@ -1845,6 +1842,8 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="deep_sleep_time_text">Sommeil Profond</string>
     <string name="delete_msg">Confirmez-vous la suppressions des %1$s messages sélectionnés ?</string>
     <string name="delete_msg_title">Suppression de message</string>
+    <string name="developer_plugin_package_info_downloaded">plugin package downloaded</string>
+    <string name="developer_plugin_package_info_installed">plugin package installed</string>
     <string name="developer_push_id">PushId</string>
     <string name="device_connect_with_band">Connexion</string>
     <string name="device_list_plugin_download_failure">Téléchargement échoué</string>
@@ -2077,7 +2076,7 @@ Appuyez longuement pour revenir"</string>
     <string name="score_raffle_btn_title">Points concours</string>
     <string name="score_raffle_title">Points concours</string>
     <string name="score_sign_btn_text_fmt">Aujourd\'hui +%1$d</string>
-    <string name="score_sign_btn_title">Fréquentation quotidienne</string>
+    <string name="score_sign_btn_title">Fréquentation</string>
     <string name="score_sign_btn_tomorrow_text_fmt">Hier+%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
     <string name="score_sign_get_score_fmt">Inscrivez-vous pour obtenir %1$d points</string>
@@ -2112,7 +2111,7 @@ Appuyez longuement pour revenir"</string>
     <string name="setting_discount_title">Coupon de réduction</string>
     <string name="setting_message_count_fmt">%1$d nouveaux messages</string>
     <string name="setting_my_family_count_fmt">%1$d amis</string>
-    <string name="setting_my_family_title">Mes amis</string>
+    <string name="setting_my_family_title">Amis</string>
     <string name="setting_my_shop">Ma Boutique</string>
     <string name="setting_sub_title">Compte Mi:%s</string>
     <string name="shallow_sleep_time_text">Durée sommeil léger</string>
