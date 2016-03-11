@@ -269,7 +269,7 @@
     <string name="match_count_tip_frame">Boutons associés (%1$d/%2$d)</string>
     <string name="match_data">"Information d'appairage"</string>
     <string name="match_data_error_tips">"Impossible d'obtenir des infos, 
-tap pour continuer"</string>
+tap retour pour continuer"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Utiliser les touches directionnelles ?</string>
     <string name="match_dvd_intro_pause">Relâchez quand la lecture du DVD pause</string>
@@ -450,7 +450,7 @@ tap pour continuer"</string>
     <string name="share_content_type_video_to_sina_weibo">Vidéo</string>
     <string name="share_device_name">"Partager le nom de l'appareil"</string></string>
     <string name="share_done">partagé avec succès</string>
-    <string name="share_fail">"Impossible de se connecter, essayer à nouveau"</string>
+    <string name="share_fail">Impossible de se connecter, essayer à nouveau</string>
     <string name="share_friends_cancel">Annuler</string>
     <string name="share_friends_confirm">OK</string>
     <string name="share_friends_none_text">Aucun ami trouvé</string>
@@ -484,7 +484,7 @@ tap pour continuer"</string>
     <string name="share_title_to_mitalk_ellipsis">…</string>
     <string name="share_title_to_sina_weibo">"Partager à l'aide de Sina Weibo"</string>
     <string name="share_to_others">Partager</string>
-    <string name="sharerc_tips">Après avoir partagé cette télécommande, les personnes à proximité vont pouvoir l'utiliser.</string>
+    <string name="sharerc_tips">"Après avoir partagé cette télécommande, les personnes à proximité vont pouvoir l'utiliser."</string>
     <string name="shortcut_pop_desc">"On dirait que vous utilisez Mi Remote souvent. Créer un raccourci sur l'écran d'accueil?"</string>
     <string name="shortcut_pop_title">Raccourci</string>
     <string name="similar">Liés</string>
@@ -518,7 +518,7 @@ tap pour continuer"</string>
     <string name="to_qq">Ouvrez QQ et rejoignez notre groupe</string>
     <string name="to_qq_maintext">Joignez-vous à notre groupe QQ et envoyez-nous vos commentaires</string>
     <string name="to_qq_subtext">Groupe QQ: 532652329</string>
-    <string name="today">aujourd'hui</string>
+    <string name="today">"aujourd'hui"</string>
     <string name="tomorrow">Demain</string>
     <string name="tv">TV</string>
     <string name="tv_broadcast">Télé et radio</string>
@@ -681,14 +681,14 @@ Pour changer, appuis long sur le bouton power de la TV"</string>
     <string name="passport_register_account_verified_confirm">Vous avez déjà vérifié votre compte</string>
     <string name="passport_register_by_email"><u>Créer un compte en utilisant une adresse mail</u></string>
     <string name="passport_register_restricted">Plusieurs comptes ont été associés à ce numéro, essayez un autre</string>
-    <string name="passport_register_restricted_title">"Vous ne pouvez pas utiliser ce numéro de téléphone"</string>
+    <string name="passport_register_restricted_title">Vous ne pouvez pas utiliser ce numéro de téléphone</string>
     <string name="passport_reject_recycle_account">Nope</string>
     <string name="passport_relogin">Se reconnecter</string>
     <string name="passport_relogin_notice">Vous avez besoin de vous reconnecter</string>
     <string name="passport_remove_confirm">Se déconnecter</string>
     <string name="passport_remove_unactivated_account_notice">"Votre compte n'a pas été activé."</string>
     <string name="passport_resend_active_email">Renvoyer un email</string>
-    <string name="passport_reset_fail_title">"Impossible de réinitialiser"</string>
+    <string name="passport_reset_fail_title">Impossible de réinitialiser</string>
     <string name="passport_reset_password_prompt">Le mot de passe est incorrect</string>
     <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
     <string name="passport_restart">Recommencer</string>
