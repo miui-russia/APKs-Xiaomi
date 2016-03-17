@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="catalyst_debugjs">Debug in Chrome</string>
+    <string name="catalyst_element_inspector">Show Inspector</string>
+    <string name="catalyst_jsload_error">"Unable to download JS bundle from the dev server.
+
+Try the following to fix the issue:
+• Ensure that the packager server is running
+• Ensure that your device/emulator is connected to your machine and has USB debugging enabled - run 'adb devices' to see a list of connected devices
+• If you're on a physical device connected to the same machine, run 'adb reverse tcp:8081 tcp:8081' to forward requests from your device
+• If your device is on the same Wi-Fi network, set 'Debug server host &amp; port for device' in 'Dev settings' to your machine's IP address and the port of the local dev server - e.g. 10.0.1.1:8081"</string>
+    <string name="catalyst_jsload_message">Fetching JS bundle</string>
+    <string name="catalyst_jsload_title">Please wait…</string>
+    <string name="catalyst_reloadjs">Reload JS</string>
+    <string name="catalyst_settings">Dev Settings</string>
+    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
     <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
     <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
     <string name="about_check_update">Vérifiez les mises à jour</string>
@@ -31,7 +65,7 @@
     <string name="add_other_family">"Inviter d'autres personnes"</string>
     <string name="add_scene">Ajouter une scène</string>
     <string name="add_timer_button">Ajouter maintenant</string>
-    <string name="add_timer_hint">N\'a pas encore été ajouté</string>
+    <string name="add_timer_hint">"N'a pas encore été ajouté"</string>
     <string name="air_con_subtitle">%1$s %2$.1f℃</string>
     <string name="air_error_page_text">"Après vous êtes connecté au réseau, appuyez sur le bouton mode et l'interrupteur de la lumière simultanément pendant 5 secondes, pour entendre le Bip, et vérifiez que votre Wi-Fi fonctionne correctement sinon le réinitialiser"</string>
     <string name="air_purifier">"Purificateur d'air MI"</string>
@@ -49,7 +83,7 @@
     <string name="air_serach_no_device_green_2">"L'appareil est occupé, veuillez le réinitialiser"</string>
     <string name="all_model_latest">Tous les appareils sont à jour</string>
     <string name="all_plugin_latest">Tous les plug-ins sont à jour</string>
-    <string name="app_curr_version">Version actuelle: </string>
+    <string name="app_curr_version">Version actuelle:</string>
     <string name="app_latest_version_installed">"Félicitations, l'application actuelle est à jour"</string>
     <string name="app_latest_version_installed_smarthome">Vous possédez la dernière version</string>
     <string name="app_name">Mi-Home</string>
@@ -89,7 +123,7 @@
     <string name="button_bind_tips">Veuillez appuyer sur une touche quelconque %d secondes pour achever la connexion</string>
     <string name="calorie">cal</string>
     <string name="camera_bind_erro_time_out">Délai de connexion dépassé, réinitialiser votre caméra</string>
-    <string name="camera_bind_erro_verify_coder">"Erreur de connexion, entrez le code de vérification"</string>
+    <string name="camera_bind_erro_verify_coder">Erreur de connexion, entrez le code de vérification</string>
     <string name="camera_bind_error">Échec de connexion</string>
     <string name="camera_bind_input_verify_code">Saisissez le mot de passe de vérification</string>
     <string name="camera_bind_trigger_camera_token_error">Aucunes XiaoYi-Cam détectées</string>
@@ -223,7 +257,6 @@
     <string name="delete">"Effacer l'historique"</string>
     <string name="devcie_shop_cart_invalid_time_fmt">Invalide après %1$d minutes</string>
     <string name="developer_plug_debug">Mode développeur</string>
-    <string name="developer_plugin_info">Informations du plug-in développeur</string>
     <string name="developer_remote_debug">Test de la couverture réseau du domicile</string>
     <string name="developing_desc">En construction…</string>
     <string name="device_closed">Hors ligne</string>
@@ -268,6 +301,63 @@
     <string name="device_shop_addr_check_tel">Le numéro de téléphone ne peut être vide</string>
     <string name="device_shop_addr_check_tellen">Mauvais numéro de téléphone</string>
     <string name="device_shop_addr_check_zipcode">Le code postal ne peut être vide</string>
+    <string name="device_shop_addr_load_contact_fail">"Impossible d'obtenir les informations des contacts"</string>
+    <string name="device_shop_cancel_order_ensure_msg">Etes-vous sûr de vouloir annuler cette commande ?</string>
+    <string name="device_shop_cart_good_add_success_tips">Ajouter au panier avec succès!</string>
+    <string name="device_shop_cart_invalid">Échec</string>
+    <string name="device_shop_cart_invalid_tips">Veuillez retirer les produits expirés, puis sélectionnez Facturation</string>
+    <string name="device_shop_cart_left_time_day">Il y a %1$d de jours échoués</string>
+    <string name="device_shop_cart_left_time_hour">"Il y a %1$d d'heures échouées"</string>
+    <string name="device_shop_cart_left_time_minute">Il y a %1$d de minutes échouées</string>
+    <string name="device_shop_cart_left_time_second">Il y a %1$d de secondes échouées</string>
+    <string name="device_shop_category_selected_title">Sélectionné:</string>
+    <string name="device_shop_checkout_id_error1">Erreur ID du produit !</string>
+    <string name="device_shop_checkout_id_error2">Erreur réseau ID du produit!</string>
+    <string name="device_shop_checkout_new_address">Veuillez fournir votre adresse de livraison</string>
+    <string name="device_shop_checkout_quick_type_error">Erreurs de type raccourci !</string>
+    <string name="device_shop_crowdfunding_delivery_date">Date de livraison:</string>
+    <string name="device_shop_crowdfunding_goal">Objectif de la relance:</string>
+    <string name="device_shop_crowdfunding_left_day">Nombre de jours restants:</string>
+    <string name="device_shop_crowdfunding_sponsor">Promoteur du projet:</string>
+    <string name="device_shop_detail_bottom_tip">Continuez de glisser vers le bas pour afficher les détails</string>
+    <string name="device_shop_detail_bottom_title_notify">Notification</string>
+    <string name="device_shop_detail_bottom_title_panic_buy">Achat</string>
+    <string name="device_shop_detail_bottom_title_pre_book">Réservation</string>
+    <string name="device_shop_detail_bottom_title_pre_buy">Vente</string>
+    <string name="device_shop_detail_crowdfunding_payback">Retour</string>
+    <string name="device_shop_detail_crowdfunding_select_payback">Sélectionnez le retour</string>
+    <string name="device_shop_detail_crowdfunding_select_payback_prompt">Veuillez sélectionnez un des modes de prise en charge</string>
+    <string name="device_shop_detail_crowdfunding_shipment">Livraison: Livraison gratuite</string>
+    <string name="device_shop_detail_crowdfunding_support">Assistance</string>
+    <string name="device_shop_find_pid_error">Cette sélection ne peut pas être achetée</string>
+    <string name="device_shop_min_price_suffix">Yuan</string>
+    <string name="device_shop_not_include_shop_money">Cela ne comprend pas le transport</string>
+    <string name="device_shop_order_detail_left_time_day">Commande passée il y a %1$d jours</string>
+    <string name="device_shop_order_detail_left_time_hour">Commande passée il y a %1$d heures</string>
+    <string name="device_shop_order_detail_left_time_minute">Commande passée il y a %1$d minutes</string>
+    <string name="device_shop_order_detail_left_time_second">Commande passée il y a %1$d secondes</string>
+    <string name="device_shop_order_list_left_time_day">Environ %1$d jours</string>
+    <string name="device_shop_order_list_left_time_hour">Environ %1$d heures</string>
+    <string name="device_shop_order_list_left_time_minute">Environ %1$d minutes</string>
+    <string name="device_shop_order_list_left_time_second">Environ %1$d secondes</string>
+    <string name="device_shop_order_pay_error_tip">Le paiement a rencontré un problème ? veuillez réessayer</string>
+    <string name="device_shop_order_score_rule_title">À propos des points</string>
+    <string name="device_shop_order_type_all">Toutes les commandes</string>
+    <string name="device_shop_order_type_had_accept">Déjà réceptionné</string>
+    <string name="device_shop_order_type_had_trace">En attente de réception</string>
+    <string name="device_shop_order_type_is_refunding">Remboursement</string>
+    <string name="device_shop_order_type_need_pay">En attente de paiement</string>
+    <string name="device_shop_pay_failed">Erreur de paiement</string>
+    <string name="device_shop_pay_success">Paiement réussi</string>
+    <string name="device_shop_pay_type_3">Crédit Mi</string>
+    <string name="device_shop_payment_result_failed_1">Erreur de paiement, veuillez réessayer</string>
+    <string name="device_shop_price2">%1$.2f</string>
+    <string name="device_shop_price_suffix">Yuan</string>
+    <string name="device_shop_return_cart_text">Revenir au panier</string>
+    <string name="device_shop_select_all">Tout sélectionner</string>
+    <string name="device_shop_share_copy_success">Copie réussie</string>
+    <string name="device_shop_title_complete_text">Terminé</string>
+    <string name="device_shop_unselect_failure">Déselection échouée</string>
     <string name="device_shop_video_error">Les vidéos ne peuvent pas être lues</string>
     <string name="disclaim_cancel">Quitter</string>
     <string name="disclaim_confirm">Accepter</string>
@@ -364,7 +454,7 @@
     <string name="header_title_home">Maison</string>
     <string name="header_title_office">De retour au bureau</string>
     <string name="header_title_outside">Sorti</string>
-    <string name="home_log_privacy">"La fonction carnet de bord requiert l'accès aux informations liées à votre position et au Wi-Fi, acceptez-vous ?</string>
+    <string name="home_log_privacy">"La fonction carnet de bord requiert l'accès aux informations liées à votre position et au Wi-Fi, acceptez-vous ?"</string>
     <string name="home_set_failed">Paramétrage échoué, veuillez réessayer plus tard</string>
     <string name="hour">"h "</string>
     <string name="ignore">Ignorer</string>
@@ -379,7 +469,7 @@
     <string name="intelligent_plug_dunhao">、</string>
     <string name="intelligent_plug_everyday">Tous les jours</string>
     <string name="intelligent_plug_everytime">Hebdomadaire</string>
-    <string name="intelligent_plug_failed">Impossible de définir l\'heure, veuillez vérifier votre réseau</string>
+    <string name="intelligent_plug_failed">"Impossible de définir l'heure, veuillez vérifier votre réseau"</string>
     <string name="intelligent_plug_finish">OK</string>
     <string name="intelligent_plug_five">Vendredi</string>
     <string name="intelligent_plug_four">Jeudi</string>
@@ -405,7 +495,7 @@
     <string name="intelligent_plug_time">Heure</string>
     <string name="intelligent_plug_timer_repeat">Répéter</string>
     <string name="intelligent_plug_timer_setting">Paramètres de la minuterie</string>
-    <string name="intelligent_plug_tips">"2 minutes après le réglage de l'heure, sinon 24 heures après le démarrage".</string>
+    <string name="intelligent_plug_tips">"2 minutes après le réglage de l'heure, sinon 24 heures après le démarrage."</string>
     <string name="intelligent_plug_tuesday">Mardi</string>
     <string name="intelligent_plug_two">Mardi</string>
     <string name="intelligent_plug_wednesday">Mercredi</string>
@@ -651,7 +741,7 @@
     <string name="miio_device_rename">Renommer</string>
     <string name="miio_fetch_token_fail">Obtention du jeton échoué</string>
     <string name="miio_firmware_upgrade">Mise à jour du périphérique</string>
-    <string name="miio_firmware_upgrade_fail">"Impossible de mettre à jour le périphérique</string>
+    <string name="miio_firmware_upgrade_fail">Impossible de mettre à jour le périphérique</string>
     <string name="miio_firmware_upgrade_success">Périphérique mis à jour</string>
     <string name="miio_firmware_upgrading">Mise à jour...</string>
     <string name="miio_go_back_tips">Revenir plus tard sur la page</string>
@@ -706,7 +796,7 @@
     <string name="mikey_event_registerd">%1$s événements Mi-Clé enregistrés, Bluetooth occupés</string>
     <string name="mikey_not_set">Pas encore défini</string>
     <string name="mikey_not_supported">Mi-Clé est pas pris en charge</string>
-    <string name="mikey_reopen_tips">Réinitialisation  cette fonction permet de désactiver Mi-Clé</string>
+    <string name="mikey_reopen_tips">Réinitialisation cette fonction permet de désactiver Mi-Clé</string>
     <string name="mikey_scene_desc">Si %1$s，alors %2$s</string>
     <string name="mile">miles</string>
     <string name="minute">minute</string>
@@ -933,7 +1023,7 @@
     <string name="remote_control_combined_key_preview">Aperçu</string>
     <string name="remote_control_combined_key_save_fail">"Impossible d'enregistrer les paramètres"</string>
     <string name="remote_control_combined_key_start">"Commencer l'enregistrement"</string>
-    <string name="remote_control_combined_key_stop">>"Arrêter l'enregistrement"</string>
+    <string name="remote_control_combined_key_stop">">Arrêter l'enregistrement"</string>
     <string name="remote_control_combined_key_title">Personnalisation des combinaisons de touches</string>
     <string name="remote_control_curation_close">Arrêter</string>
     <string name="remote_control_curation_open">Démarrer</string>
@@ -951,7 +1041,7 @@
     <string name="remote_control_get_key_study">Chargement...</string>
     <string name="remote_control_get_key_study_fail">"Impossible d'appairer"</string>
     <string name="remote_control_get_key_study_success">Télécommande appairée</string>
-    <string name="remote_control_get_subdevice_info">Obtention d\'informations...</string>
+    <string name="remote_control_get_subdevice_info">"Obtention d'informations..."</string>
     <string name="remote_control_get_subdevice_info_fail">"Impossible d'obtenir les informations concernant le périphérique"</string>
     <string name="remote_control_home">Accueil</string>
     <string name="remote_control_left">Gauche</string>
@@ -1002,7 +1092,7 @@
     <string name="router_downloading">Téléchargement</string>
     <string name="router_downloading_info">Téléchargement %1$d fichiers</string>
     <string name="router_guide_tip1_desc">Détecter les interférences du réseau et afficher les périphériques dangereux</string>
-    <string name="router_guide_tip1_title">"Vous n'aimez pas les interférences réseau ?</string>
+    <string name="router_guide_tip1_title">"Vous n'aimez pas les interférences réseau ?"</string>
     <string name="router_guide_tip2_desc">Télécharger des films Blu-ray hors-ligne et les regarder devient vraiment facile et amusant</string>
     <string name="router_guide_tip2_title">Des vidéos qui freeze ?</string>
     <string name="router_guide_tip3_desc">Une optimisation du réseau qui rend votre réseau immédiatement plus rapide</string>
@@ -1062,8 +1152,7 @@
     <string name="scene_save">Sauvegarder cette Prise de vue</string>
     <string name="scene_save1">Sauvegarder</string>
     <string name="scene_then">Ensuite</string>
-    <string name="scene_then_extra">Ajouter des instructions</string>   
-    <string name="score_page_title">Score</string>
+    <string name="scene_then_extra">Ajouter des instructions</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
     <string name="select_from_camera">Prendre un Photo</string>
     <string name="select_local_picture">Choisir depuis la Galerie</string>
@@ -1074,7 +1163,7 @@
     <string name="serach_no_device_yellow">Si le voyant est jaune clignotant, le périphérique peut normalement être ajouté</string>
     <string name="setting">Paramètres</string>
     <string name="setting_detail_device">Connecté: %1$s    Partagé: %2$s    Autre: %3$s</string>
-    <string name="setting_home_wifi">Définir le réseau Wi-fi domestique</string>
+    <string name="setting_home_wifi">SDéfinir le réseau Wi-fi domestique</string>
     <string name="setting_logout">Se déconnecter</string>
     <string name="setting_logout_message">Se déconnecter maintenant?</string>
     <string name="setting_logout_waiting">Déconnexion...</string>
@@ -1131,11 +1220,11 @@
     <string name="smarthome_bodysensor_airpurify_auto_onlinescene_detail">"Le Purificateur d'air passe en mode automatique lorsque le capteur ne détecte aucune personne"</string>
     <string name="smarthome_bodysensor_airpurify_off_onlinescene">"Le purificateur d'air s'éteint automatiquement lorsque vous sortez"</string>
     <string name="smarthome_bodysensor_airpurify_off_onlinescene_detail">"Le purificateur d'air s'éteindra automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
-    <string name="smarthome_bodysensor_airpurify_on_onlinescene">"Le purificateur d'air se déclenche lorsqu'un mouvement est détecté</string>
+    <string name="smarthome_bodysensor_airpurify_on_onlinescene">"Le purificateur d'air se déclenche lorsqu'un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_airpurify_on_onlinescene_detail">"Le purificateur d'air s'allumera automatiquement si le capteur détecte un mouvement"</string>
-    <string name="smarthome_bodysensor_airpurify_weak_onlinescene">Passer en Mode Silencieux lorsqu\'un mouvement est détecté</string>
+    <string name="smarthome_bodysensor_airpurify_weak_onlinescene">"Passer en Mode Silencieux lorsqu'un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_airpurify_weak_onlinescene_detail">"Le purificateur d'air passera automatiquement en Mode Silencieux si le capteur détecte un mouvement"</string>
-    <string name="smarthome_bodysensor_gatewaysound_onlinescene">Déclencher la sonnette lorsqu\'un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_gatewaysound_onlinescene">"Déclencher la sonnette lorsqu'un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_gatewaysound_onlinescene_detail">La sonnette retentira si un mouvement est détecté</string>
     <string name="smarthome_bodysensor_plug220_off_onlinescene">"Les prises 220V s'éteignent quand vous sortez"</string>
     <string name="smarthome_bodysensor_plug220_off_onlinescene_detail">"Les prises 220V s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
@@ -1144,7 +1233,7 @@
     <string name="smarthome_bodysensor_plugusb_off_onlinescene">"Les prises USB s'éteignent quand vous sortez"</string>
     <string name="smarthome_bodysensor_plugusb_off_onlinescene_detail">"Les prises USB s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_plugusb_on_onlinescene">"Les prises USB s'allument lorsqu'un mouvement est détecté"</string>
-    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">Les prises USB s\'allumeront automatiquement si un mouvement est détecté"</string>
+    <string name="smarthome_bodysensor_plugusb_on_onlinescene_detail">"Les prises USB s'allumeront automatiquement si un mouvement est détecté"</string>
     <string name="smarthome_bodysensor_smartlight_off_onlinescene">"Les ampoules Mi s'éteignent une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_smartlight_off_onlinescene_detail">"Les ampoules Mi s'éteindront automatiquement une fois que le capteur aura détecté que tout le monde a quitté la pièce"</string>
     <string name="smarthome_bodysensor_smartlight_on_onlinescene">"Les ampoules Mi s'allumeront lorsqu'un mouvement est détecté"</string>
@@ -1152,7 +1241,7 @@
     <string name="smarthome_cancel_timespan">Annuler</string>
     <string name="smarthome_create_scene">Créer un Prise de Vue</string>
     <string name="smarthome_delete_timespan">Supprimer les horaires définis</string>
-    <string name="smarthome_device__add_subdevice_error">Impossible d\'ajouter ce périphérique, veuillez réessayer"</string>
+    <string name="smarthome_device__add_subdevice_error">"Impossible d'ajouter ce périphérique, veuillez réessayer"</string>
     <string name="smarthome_device__add_subdevice_succ">Périphérique ajouté</string>
     <string name="smarthome_device__confirm_remove">Supprimer ce périphérique ?</string>
     <string name="smarthome_device_add_to_launcher">Ajouter un raccourci sur le lanceur</string>
@@ -1338,13 +1427,13 @@
     <string name="smarthome_shared_time_format">dd jour MM mois yyyy années</string>
     <string name="smarthome_smart_liucheng">Mode Prise de vue</string>
     <string name="smarthome_span_error">Veuillez sélectionner au moins une journée</string>
-    <string name="smarthome_switch_status_get_failed">>"Impossible d'obtenir l'état de la Prise Mi"</string>
+    <string name="smarthome_switch_status_get_failed">">Impossible d'obtenir l'état de la Prise Mi"</string>
     <string name="smarthome_switch_status_set_failed">"Impossible de paramétrer l'état de la Prise Mi"</string>
     <string name="smarthome_switch_status_setting">"Impossible de paramétrer l'état de la scène intelligente"</string>
     <string name="smarthome_switchsensor_airpurify_on_off_onlinescene">"Interrupteur du purificateur d'air"</string>
     <string name="smarthome_switchsensor_airpurify_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, le purificateur d'air s'allume ou s'éteint"</string>
     <string name="smarthome_switchsensor_airpurify_weak_onlinescene">"Utiliser l'interrupteur sans fil pour changer les modes du purificateur"</string>
-    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">Après avoir appuyé sur l\'interrupteur sans fil le purificateur d\'air se met en mode silencieux"</string>
+    <string name="smarthome_switchsensor_airpurify_weak_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil le purificateur d'air se met en mode silencieux"</string>
     <string name="smarthome_switchsensor_comehome_onlinescene">Mode retour à la maison</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene">"Interrupteur de l'alarme de la porte d'entrée"</string>
     <string name="smarthome_switchsensor_gatewayarming_on_off_onlinescene_detail">"Après avoir appuyé sur l'interrupteur sans fil, l'alarme de la porte d'entrée s'ouvre ou se ferme"</string>
@@ -1391,7 +1480,7 @@
     <string name="title_person_info">Info personnelle</string>
     <string name="toast_lock_switch_failed">"Échec de l'opération, vérifiez le réseau"</string>
     <string name="try_barcode_connection">Utiliser le QR code</string>
-    <string name="try_barcode_info">>"Seul le modèle à vision nocturne prend en charge la lecture de QR code, d'autres modèles seront pris en charge dans les versions ultérieures."</string>
+    <string name="try_barcode_info">">Seul le modèle à vision nocturne prend en charge la lecture de QR code, d'autres modèles seront pris en charge dans les versions ultérieures."</string>
     <string name="try_barcode_ok">Continuer</string>
     <string name="tuesday">Mardi</string>
     <string name="unauthoried_tip">Authentification échouée, veuillez essayer à nouveau</string>
@@ -1424,218 +1513,214 @@
     <string name="use_barcode_heard_connecting">Entendez-vous le son de confirmation de connexion, si non patientez ?</string>
     <string name="useable_space">Espace de stockage du routeur</string>
     <string name="user_license">"Information Importante
- Avant d\'utiliser les produits de la série Xiaomi Mi Home (ci-après dénommé \"produits\"), veuillez lire attentivement tous les droits et restrictions dans le contrat de licence de l\'utilisateur (ci-après dénommé \"cet accord\")
- Xiaomi Communication Technology co., LTD. (ci-après dénommé \"Xiaomi\" ou \"nous\") respecte et de protége strictement les droits et les intérêts de nos utilisateurs légitimes en utilisant ce produit (y compris la vie privée de l\'utilisateur, les données de l\'utilisateur, etc.) et de les protéger contre toute atteinte.
- Ce produit inclut mais ne se limite pas au logiciel Xiaomi Mi Home et aux divers matériaux qui sont tous développés par des droits de propriété intellectuelle Xiaomi. Les matériaux (y compris les droits d\'auteur, les droits de brevet et de droits de marque, etc.) dans ce produit appartiennent tous à Xiaomi.
- Cet accord (y compris la politique de confidentialité) est l\'accord final, complète et exclusive concernant les produits (y compris les personnes physiques, personnes morales ou d\'autres organisations, ci-après dénommé le \"utilisateur\" ou \"vous \" qui ont obtenu les produits par des moyens légaux). En outre, cet accord se substituera aux discussions et accords entre les parties concernées mentionnées ci-dessus.
- Cet accord est juridiquement contraignant pour les utilisateurs de produits. Vous êtes donc pleinement d\'accord avec les termes de cet accord utilisateur. L\'utilisation de ce produit sera considéré comme ayant accepté cette accord. Veuillez lire attentivement les termes de cet accord, y compris les clauses qui limitent la responsabilité de Xiaomi, et les termes qui restreignent les droits des utilisateurs (les mineurs doivent être accompagnés par un parent ou un tuteur lors de la lecture de l\'accord). Si vous ne pouvez pas accepter tous les termes de cet accord, veuillez ne pas commencer à utiliser ce produit (si vous avez acheté les produits et matériaux, mais que vous n\'acceptez pas tous les termes de cet accord, alors veuillez se référer à http//:www.mi.fr pour la politique des retours produits)
+ Avant d'utiliser les produits de la série Xiaomi Mi Home (ci-après dénommé \"produits\"), veuillez lire attentivement tous les droits et restrictions dans le contrat de licence de l'utilisateur (ci-après dénommé \"cet accord\")
+ Xiaomi Communication Technology co., LTD. (ci-après dénommé \"Xiaomi\" ou \"nous\") respecte et de protége strictement les droits et les intérêts de nos utilisateurs légitimes en utilisant ce produit (y compris la vie privée de l'utilisateur, les données de l'utilisateur, etc.) et de les protéger contre toute atteinte.
+ Ce produit inclut mais ne se limite pas au logiciel Xiaomi Mi Home et aux divers matériaux qui sont tous développés par des droits de propriété intellectuelle Xiaomi. Les matériaux (y compris les droits d'auteur, les droits de brevet et de droits de marque, etc.) dans ce produit appartiennent tous à Xiaomi.
+ Cet accord (y compris la politique de confidentialité) est l'accord final, complète et exclusive concernant les produits (y compris les personnes physiques, personnes morales ou d'autres organisations, ci-après dénommé le \"utilisateur\" ou \"vous \" qui ont obtenu les produits par des moyens légaux). En outre, cet accord se substituera aux discussions et accords entre les parties concernées mentionnées ci-dessus.
+ Cet accord est juridiquement contraignant pour les utilisateurs de produits. Vous êtes donc pleinement d'accord avec les termes de cet accord utilisateur. L'utilisation de ce produit sera considéré comme ayant accepté cette accord. Veuillez lire attentivement les termes de cet accord, y compris les clauses qui limitent la responsabilité de Xiaomi, et les termes qui restreignent les droits des utilisateurs (les mineurs doivent être accompagnés par un parent ou un tuteur lors de la lecture de l'accord). Si vous ne pouvez pas accepter tous les termes de cet accord, veuillez ne pas commencer à utiliser ce produit (si vous avez acheté les produits et matériaux, mais que vous n'acceptez pas tous les termes de cet accord, alors veuillez se référer à http//:www.mi.fr pour la politique des retours produits)
  
  1. Utilisation
  1.1 Compte
- L\'utilisateur peut utiliser les produits sans créer de compte. Si vous souhaitez utiliser plusieurs fonctions du produit, vous devez vous inscrire et créer un compte Xiaomi, vous connecter et vous enregistrer
+ L'utilisateur peut utiliser les produits sans créer de compte. Si vous souhaitez utiliser plusieurs fonctions du produit, vous devez vous inscrire et créer un compte Xiaomi, vous connecter et vous enregistrer
  Veuillez rentrer vos informations personnelles. Vos informations personnelles doivent permettre et garantir que::
- 1.1.1 Toutes les informations d\'inscription que vous soumettez doivent être véridiques et exactes;
- 1.1.2 Votre comportement lors de l\'utilisation de ce produit doit être légale;
- 1.1.3 Vous pourrez utiliser votre compte et à tout moment le résilier en conformité avec l\'accord des conditions d\'utilisation des comptes Xiaomi.
- Selon les dispositions de l\'article 5 de cette convention, votre compte sera conservé ou résilié. Vous devez promettre de garder vos informations de connexion confidentielles et d\'autres ne peuvent pas accéder utiliser ces informations. En outre, vous serez responsable de toutes vos actions lorsque vous utilisez ce compte. Vous devez nous informer de tout comportement illégal, l\'utilisation non autorisée ou soupçonnée de produit de contre-façon. Nous ne serons tenu responsable de toute perte causée par votre incapacité à vous conformer aux exigences ci-dessus.
+ 1.1.1 Toutes les informations d'inscription que vous soumettez doivent être véridiques et exactes;
+ 1.1.2 Votre comportement lors de l'utilisation de ce produit doit être légale;
+ 1.1.3 Vous pourrez utiliser votre compte et à tout moment le résilier en conformité avec l'accord des conditions d'utilisation des comptes Xiaomi.
+ Selon les dispositions de l'article 5 de cette convention, votre compte sera conservé ou résilié. Vous devez promettre de garder vos informations de connexion confidentielles et d'autres ne peuvent pas accéder utiliser ces informations. En outre, vous serez responsable de toutes vos actions lorsque vous utilisez ce compte. Vous devez nous informer de tout comportement illégal, l'utilisation non autorisée ou soupçonnée de produit de contre-façon. Nous ne serons tenu responsable de toute perte causée par votre incapacité à vous conformer aux exigences ci-dessus.
  1.2 Accélération connexion Internet et service de dépannage.
- Dans certains scénarios, tout en étant utilisé, le produit permettra de tester l\'accès au réseau après votre permission. Ceci est conçu pour vous aider à accélérer votre réseau et mettre en œuvre des services de dépannage si nécessaire. Le test du système est effectué par le logiciel. Il n\'y a pas de surveillance artificielle. Il suffit d\'utiliser le logiciel pertinent pour correspondre et vous guider pour ouvrir le contenu tiers correspondant. Nous promettons de garder les détails concernant votre utilisation de ce produit confidentiel.
+ Dans certains scénarios, tout en étant utilisé, le produit permettra de tester l'accès au réseau après votre permission. Ceci est conçu pour vous aider à accélérer votre réseau et mettre en œuvre des services de dépannage si nécessaire. Le test du système est effectué par le logiciel. Il n'y a pas de surveillance artificielle. Il suffit d'utiliser le logiciel pertinent pour correspondre et vous guider pour ouvrir le contenu tiers correspondant. Nous promettons de garder les détails concernant votre utilisation de ce produit confidentiel.
  
- 2. Protocole de l\'utilisateur final
+ 2. Protocole de l'utilisateur final
  2.1 Permissions
  Selon les dispositions de cet accord, ce produit vous donnera les non transférables et non exclusives licences suivantes:
- 2.1.1 Le droit d\'utiliser ce produit;
+ 2.1.1 Le droit d'utiliser ce produit;
  2.1.2 Le droit de télécharger, installer et utiliser ce produitsur tous vos équipements de communications avec internet, ordinateurs, tablettes et smartphones.
  2.2 Restrictive clauses
  us serez soumis aux restrictions suivantes de cet accord:
- 2.2.1 Vous ne devrez pas utiliser ce produit pour la vente, la location, le transfert, la distribution ou d\'autres fins commerciales;
+ 2.2.1 Vous ne devrez pas utiliser ce produit pour la vente, la location, le transfert, la distribution ou d'autres fins commerciales;
  2.2.2 Sauf interdiction par la loi de ces restrictions, vous ne pouvez pas modifier, traduire, adapter, fusionner, utiliser, démonter, reconstruire, décompiler ou rétroconcevoir une quelconque partie de ce produit ou des produits dérivés.
  2.2.3 Vous ne pouvez pas utiliser le produit pour créer des services similaires ou compétitifs;
  2.2.4 Sauf statué explicitement par la loi, vous ne pouvez pas fabriquer, copier, distribuer, vendre, télécharger ou afficher le produit ou une partie quelconque de ce produit.
- 2.2.5 Vous ne pouvez pas supprimer ou détruire toute déclaration des droits d\'auteur ou de la propriété contenue dans ce produit.
+ 2.2.5 Vous ne pouvez pas supprimer ou détruire toute déclaration des droits d'auteur ou de la propriété contenue dans ce produit.
  2.3 Les droits du propriétaire
  2.3.1 Xiaomi vous permettra de télécharger et utiliser ce produit.
  2.3.2 Xiaomi (et ses \"personnes autorisées\", le cas échéant) est propriétaire de tous les droits de propriété intellectuelle pertinents de ce produit.
  
  2.4 Frais
- Vous devez payer pour le coût du produit, l\'accès à Internet personnel ou un tiers des frais de communication du parti, les coûts d\'information et autres dépenses connexes (y compris, mais sans s\'y limiter, les télécommunications ou prestataire de téléphonie mobile). En termes de services de télécommunication à valeur ajoutée, nous vous recommandons de confirmer les coûts pertinents avec un fournisseur de services à valeur ajoutée.
- 2.5 Les mises à jour ou des versions ultérieures de ce produit, ainsi que toutes les mises à jour ou d\'autres changements seront soumis aux dispositions du présent accord.
+ Vous devez payer pour le coût du produit, l'accès à Internet personnel ou un tiers des frais de communication du parti, les coûts d'information et autres dépenses connexes (y compris, mais sans s'y limiter, les télécommunications ou prestataire de téléphonie mobile). En termes de services de télécommunication à valeur ajoutée, nous vous recommandons de confirmer les coûts pertinents avec un fournisseur de services à valeur ajoutée.
+ 2.5 Les mises à jour ou des versions ultérieures de ce produit, ainsi que toutes les mises à jour ou d'autres changements seront soumis aux dispositions du présent accord.
  
  3. Contenu utilisateur
  3.1 Contenu utilisateur
- 3.1.1 Le contenu de l\'utilisateur se réfère au contenu créé lors du téléchargement, la publication, ou d\'utiliser ce produit dans d\'autres moyens (par exemple: votre information, les images, la musique, ou tout autre contenu).
+ 3.1.1 Le contenu de l'utilisateur se réfère au contenu créé lors du téléchargement, la publication, ou d'utiliser ce produit dans d'autres moyens (par exemple: votre information, les images, la musique, ou tout autre contenu).
  3.1.2 
 Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque de vous et tout tiers étant identifié à la suite de la divulgation des informations utilisateur.
- 3.1.3 Vous avez accepté que votre contenu d\'utilisateur est limitée par l\'article 4.
+ 3.1.3 Vous avez accepté que votre contenu d'utilisateur est limitée par l'article 4.
  
  3.2 Commentaire
- 3.2.1 Les suggestions que vous faites à Xiaomi (aussi appelés \"commentaires\") sontt réputées comme un transfert de tous les droits de la rétroaction et vous convenez que Xiaomi a le droit d\'utiliser cette rétroaction ou toute autre information de manière raisonnable. Cela permettra de traiter cette information comme non confidentielle et non exclusive;
+ 3.2.1 Les suggestions que vous faites à Xiaomi (aussi appelés \"commentaires\") sontt réputées comme un transfert de tous les droits de la rétroaction et vous convenez que Xiaomi a le droit d'utiliser cette rétroaction ou toute autre information de manière raisonnable. Cela permettra de traiter cette information comme non confidentielle et non exclusive;
  3.2.2 You have agreed to Xiaomi that you will not offer any information that will be considered as confidential and proprietary.
  3.3 Nous nous réservons les droits des utilisateurs à partager (mais pas obligé de partager) contenu basé sur notre jugement
-  Que nous vous informer ou non, nous avons le droit de supprimer du contenu partagé par nos utilisateurs à tout moment et pour toute reason.According à l\'article 5, nous avons le droit de conserver ou de résilier votre compte.
+  Que nous vous informer ou non, nous avons le droit de supprimer du contenu partagé par nos utilisateurs à tout moment et pour toute reason.According à l'article 5, nous avons le droit de conserver ou de résilier votre compte.
  
  4. Limitation des droits
- 4.1 Vous avez accepté d\'utiliser ces services connexes de ce produit. Pendant le processus, vous serez tenu entièrement responsable des risques encourus par les actions suivantes:
+ 4.1 Vous avez accepté d'utiliser ces services connexes de ce produit. Pendant le processus, vous serez tenu entièrement responsable des risques encourus par les actions suivantes:
  4.1.1 Les principes de base fixées par la constitution;
- 4.1.2 Jepoardizing sécurité de l\'Etat, divulgation de secrets d\'Etat, subversion du pouvoir de l\'Etat et de saper l\'unité nationale;
- 4.1.3 causant des dommages à l\'honneur et les intérêts de la nation;
- 4.1.4 Incitation à la haine ethnique, la discrimination ethnique et de saper l\'unité nationale;
+ 4.1.2 Jepoardizing sécurité de l'Etat, divulgation de secrets d'Etat, subversion du pouvoir de l'Etat et de saper l'unité nationale;
+ 4.1.3 causant des dommages à l'honneur et les intérêts de la nation;
+ 4.1.4 Incitation à la haine ethnique, la discrimination ethnique et de saper l'unité nationale;
  4.1.5 Neutralisation de la politique religieuse du pays, la promotion des cultes et de la superstition féodale;
- 4.1.6 Répandre des rumeurs, de perturber l\'ordre social et de saper la stabilité sociale;
+ 4.1.6 Répandre des rumeurs, de perturber l'ordre social et de saper la stabilité sociale;
  4.1.7 Promouvoir des obscénités, la pornographie, le jeu, la violence, assassiner, le terrorisme ou la complicité dans le crime;
- 4.1.8 insultant ou calomnier les autres, ou empiéter sur les droits et les intérêts légitimes d\'autrui;
+ 4.1.8 insultant ou calomnier les autres, ou empiéter sur les droits et les intérêts légitimes d'autrui;
  4.1.9 Stockage autre contenu qui est interdit par les lois et les règles et règlements administratifs.
  4.2 Vous avez accepté de ne pas effectuer les actions suivantes:
  4.2.1 sortie ou ordinateur de partage virus, vers, les codes malveillants, de vandalisme ou de logiciels qui détruit délibérément ou modifie le logiciel ou les données du système informatique.
  4.2.2 Collecte des informations ou des données des utilisateurs sans autorisation telles que les adresses e-mail, etc;
- 4.2.3 L\'utilisation de ce produit malicieusement de manière automatisée dans le but de mettre un fardeau excessif sur le serveur ou d\'interférer avec ou d\'endommager les serveurs Web et le réseau des liens à d\'autres moyens;
- 4.2.4 Tentative d\'accéder aux données ou la communication non autorisée lorsque le serveur de produit;
- 4.2.5 Intervenir ou de saper les autres utilisateurs lors de l\'utilisation du produit.
+ 4.2.3 L'utilisation de ce produit malicieusement de manière automatisée dans le but de mettre un fardeau excessif sur le serveur ou d'interférer avec ou d'endommager les serveurs Web et le réseau des liens à d'autres moyens;
+ 4.2.4 Tentative d'accéder aux données ou la communication non autorisée lorsque le serveur de produit;
+ 4.2.5 Intervenir ou de saper les autres utilisateurs lors de l'utilisation du produit.
  
  5. Modification et résiliation
  5.1 Modification
- 5.1.1 Les modifications autorisées pour ce agreement.If il ya un changement important dans cet accord, nous vous informerons par e-mail ou via le site officiel du produit (http://home.mi.com) .Si vous continuez à utiliser ce produit après l\'avis de changement, il sera considéré que vous avez compris le changement et d\'accord pour accepter les termes connexes.
+ 5.1.1 Les modifications autorisées pour ce agreement.If il ya un changement important dans cet accord, nous vous informerons par e-mail ou via le site officiel du produit (http://home.mi.com) .Si vous continuez à utiliser ce produit après l'avis de changement, il sera considéré que vous avez compris le changement et d'accord pour accepter les termes connexes.
  5.1.2 Xiaomi se réserve le droit de modifier, de réserve ou fermer tout service à tout moment sans préavis.
  5.1.3 Vous avez convenu que Xiaomi ne sera pas tenu responsable pour vous ou tout tiers pour la modification, le maintien ou la fermeture de ce produit.
  5.2 Résiliation
- 5.2.1 Cet accord prend effet à la date de votre acceptation, et restera en vigueur jusqu\'à la résiliation de cet accord;
- 5.2.2 Malgré les règlements qui précède, si vous utilisez ce produit avant d\'accepter l\'accord, l\'accord prendra effet à partir du moment où vous utilisez le produit, à moins qu\'il ne se termine conformément à l\'accord.
- 5.2.3 Nous pouvons, selon les dispositions de la loi, révoquer votre droit d\'utiliser ce produit ou vos droits de compte du site Web. Que nous vous informons ou non, nous pouvons mettre fin à cet accord à tout moment pour une raison quelconque, y compris si nous sommes amenés à croire avec toutes les bonnes intentions que vous violez les politiques d\'utilisation ou d\'autres dispositions de cet accord;
- 5.2.4 Sans être soumis à des révisions de l\'alinéa précédent, si l\'utilisateur a violé le droit d\'auteur de tiers ou de l\'avis de l\'agent juridique des propriétaires de droits d\'auteur, Xiaomi se réserve le droit de résilier le présent accord;
- 5.2.5 Une fois cette convention a été résiliée, vos droits d\'utilisateur de ce produit seront terminated.Please être conscient que la résiliation signifie que votre contenu d\'utilisateur sera supprimé à partir de notre base de données d\'activité. Xiaomi ne sera pas tenu pour responsable de la résiliation de cet accord, y compris la cessation et le retrait de votre compte utilisateur.
+ 5.2.1 Cet accord prend effet à la date de votre acceptation, et restera en vigueur jusqu'à la résiliation de cet accord;
+ 5.2.2 Malgré les règlements qui précède, si vous utilisez ce produit avant d'accepter l'accord, l'accord prendra effet à partir du moment où vous utilisez le produit, à moins qu'il ne se termine conformément à l'accord.
+ 5.2.3 Nous pouvons, selon les dispositions de la loi, révoquer votre droit d'utiliser ce produit ou vos droits de compte du site Web. Que nous vous informons ou non, nous pouvons mettre fin à cet accord à tout moment pour une raison quelconque, y compris si nous sommes amenés à croire avec toutes les bonnes intentions que vous violez les politiques d'utilisation ou d'autres dispositions de cet accord;
+ 5.2.4 Sans être soumis à des révisions de l'alinéa précédent, si l'utilisateur a violé le droit d'auteur de tiers ou de l'avis de l'agent juridique des propriétaires de droits d'auteur, Xiaomi se réserve le droit de résilier le présent accord;
+ 5.2.5 Une fois cette convention a été résiliée, vos droits d'utilisateur de ce produit seront terminated.Please être conscient que la résiliation signifie que votre contenu d'utilisateur sera supprimé à partir de notre base de données d'activité. Xiaomi ne sera pas tenu pour responsable de la résiliation de cet accord, y compris la cessation et le retrait de votre compte utilisateur.
  
  6.Les tierces parties
  6.1 Vous reconnaissez déjà ou acceptez que partie de notre service a été acquis de support technique tiers.
- Vous êtes déjà au courant que cet accord est entre vous et Xiaomi, plutôt que par un tiers. Xiaomi est la seule personne en charge du contenu, de la maintenance, des services de soutien, de garantie et de poursuites généré par le produit. Vous avez accepté de se conformer à la convention et d\'autoriser ce produit pour restreindre votre utilisation des services du produit.
+ Vous êtes déjà au courant que cet accord est entre vous et Xiaomi, plutôt que par un tiers. Xiaomi est la seule personne en charge du contenu, de la maintenance, des services de soutien, de garantie et de poursuites généré par le produit. Vous avez accepté de se conformer à la convention et d'autoriser ce produit pour restreindre votre utilisation des services du produit.
  6.2 information et des services de tiers
- 6.2.1 Ce produit contient une partie des informations et des services de tiers. Xiaomi ne contrôle pas et ne sont pas responsable de l\'information et des services de la troisième partie.
+ 6.2.1 Ce produit contient une partie des informations et des services de tiers. Xiaomi ne contrôle pas et ne sont pas responsable de l'information et des services de la troisième partie.
  6.2.2 Xiaomi fournit les renseignements et les services pour votre commodité ou pour les besoins de la troisième partie.
- 6.2.3 L\'utilisateur doit supporter le risque de l\'utilisation de l\'information et des services de tiers.
- 6.2.4 Lorsque les utilisateurs ont accès à l\'information et aux services de tiers, ils sont soumis à des conditions et des politiques de la tierce partie.
+ 6.2.3 L'utilisateur doit supporter le risque de l'utilisation de l'information et des services de tiers.
+ 6.2.4 Lorsque les utilisateurs ont accès à l'information et aux services de tiers, ils sont soumis à des conditions et des politiques de la tierce partie.
  6.3 Autres utilisateurs
- 6.3.1 Ce produit contient du contenu utilisateur offerts par d\'autres utilisateurs. Ce produit ne contrôle ni assumer la responsabilité juridique pour le contenu de l\'utilisateur. Ce produit n\'a pas l\'obligation de vérifier, surveiller, examiner, approuver, promettre ou le contenu de l\'utilisateur de garantie. Vous devez assumer la responsabilité juridique pour les risques de l\'utilisation du contenu d\'utilisateur et d\'interagir avec d\'autres utilisateurs.
- 6.3.2 Interactions avec d\'autres utilisateurs est le comportement entre vous et d\'autres utilisateurs. Ce produit ne prend pas la responsabilité juridique d\'un tel comportement. Vous avez accepté que ce produit ne décline toute responsabilité légale de ces interactions.
+ 6.3.1 Ce produit contient du contenu utilisateur offerts par d'autres utilisateurs. Ce produit ne contrôle ni assumer la responsabilité juridique pour le contenu de l'utilisateur. Ce produit n'a pas l'obligation de vérifier, surveiller, examiner, approuver, promettre ou le contenu de l'utilisateur de garantie. Vous devez assumer la responsabilité juridique pour les risques de l'utilisation du contenu d'utilisateur et d'interagir avec d'autres utilisateurs.
+ 6.3.2 Interactions avec d'autres utilisateurs est le comportement entre vous et d'autres utilisateurs. Ce produit ne prend pas la responsabilité juridique d'un tel comportement. Vous avez accepté que ce produit ne décline toute responsabilité légale de ces interactions.
  
  
  7.Rémunération
- 7.1 Vous avez accepté d\'utiliser ce produit sans danger pour éviter les plaintes, litiges, perte, dommage, responsabilité, coûts et dépenses (y compris les honoraires d\'avocat) de tiers pour les comportements suivants.
+ 7.1 Vous avez accepté d'utiliser ce produit sans danger pour éviter les plaintes, litiges, perte, dommage, responsabilité, coûts et dépenses (y compris les honoraires d'avocat) de tiers pour les comportements suivants.
  7.1.1 Utilisation des comportements de ce produit;
- Contenu 7.1.2 de l\'utilisateur;
- 7.1.3 violation d\'utilisateur de cet accord.
- 7.2 Xiaomi se réserve le droit de la défense exclusive et demande d\'indemnisation.
+ Contenu 7.1.2 de l'utilisateur;
+ 7.1.3 violation d'utilisateur de cet accord.
+ 7.2 Xiaomi se réserve le droit de la défense exclusive et demande d'indemnisation.
  7.3 Sauf si vous avez reçu le consentement écrit de Xiaomi, vous acceptez que vous ne vous contentez pas de manière unilatérale avec la tierce partie dans un procès commun avec Xiaomi.
  7.4 Xiaomi fera tout son possible pour vous informer de ces litiges, des comportements ou des processus contentieux.
- 7.5 Ce produit ne saurait en aucun cas assumer toute responsabilité pour vous ou tout tiers résultant de tous dommages indirects, punitifs, accessoires ou spéciaux. Le risque de dommages à un système informatique ou des communications mobiles base de données des équipements causés par l\'accès et l\'utilisation de ce produit sera supporté par vous personnellement.
+ 7.5 Ce produit ne saurait en aucun cas assumer toute responsabilité pour vous ou tout tiers résultant de tous dommages indirects, punitifs, accessoires ou spéciaux. Le risque de dommages à un système informatique ou des communications mobiles base de données des équipements causés par l'accès et l'utilisation de ce produit sera supporté par vous personnellement.
  
  8.Réclamations
  8.1 Si les situations suivantes se produisent, ce produit ne suppose pas de responsabilité juridique:
  8.1.1 Vos informations personnelles sont fournies conformément aux lois et règlements ou les exigences des ministères concernés;
  8.1.2 Informations fuite due à une mauvaise utilisation par vous;
- 8.1.3 Les interruptions de service, blocage et d\'autres situations qui ne répondent pas aux exigences de l\'utilisateur en raison d\'une attaque de hacker, l\'invasion de virus informatique, les contenus illicites, protection de l\'information sur le harcèlement, le contrôle du gouvernement et des problèmes relatifs à des lignes de la technologie ou de communication, et d\'autres gestion de la sécurité de l\'information du réseau.
- 8.1.4 Les dommages causés par des erreurs de ligne de communication, des problèmes techniques, des erreurs de réseau ou un ordinateur, l\'instabilité et les cas de force majeure;
- 8.1.5 L\'utilisation de ce produit peuvent entraîner des risques causés par des menaces anonymes ou pseudonymes, diffamer, infraction ou contenu illégal;
- 8.1.6 Le produit indique clairement que ce produit ne sera pas garantir la rapidité, la sécurité ou à l\'exactitude du produit explicitement, implicitement ou sous toute autre forme.
+ 8.1.3 Les interruptions de service, blocage et d'autres situations qui ne répondent pas aux exigences de l'utilisateur en raison d'une attaque de hacker, l'invasion de virus informatique, les contenus illicites, protection de l'information sur le harcèlement, le contrôle du gouvernement et des problèmes relatifs à des lignes de la technologie ou de communication, et d'autres gestion de la sécurité de l'information du réseau.
+ 8.1.4 Les dommages causés par des erreurs de ligne de communication, des problèmes techniques, des erreurs de réseau ou un ordinateur, l'instabilité et les cas de force majeure;
+ 8.1.5 L'utilisation de ce produit peuvent entraîner des risques causés par des menaces anonymes ou pseudonymes, diffamer, infraction ou contenu illégal;
+ 8.1.6 Le produit indique clairement que ce produit ne sera pas garantir la rapidité, la sécurité ou à l'exactitude du produit explicitement, implicitement ou sous toute autre forme.
  
  9.Politique de confidentialité
-  Le \"Xiaomi Mi-Home produits de la série politique de confidentialité\" fait partie de cet accord qui vous pouvez trouver dans la dernière partie de cet article. S\'il vous plaît lire attentivement tout le contenu dans l\'accord de confidentialité.
+  Le \"Xiaomi Mi-Home produits de la série politique de confidentialité\" fait partie de cet accord qui vous pouvez trouver dans la dernière partie de cet article. S'il vous plaît lire attentivement tout le contenu dans l'accord de confidentialité.
  
  10.Avis
  10.1 Les utilisateurs doivent fournir le compte Xiaomi avec un récent email valide address.We ne sera pas assumer aucune responsabilité si votre adresse e-mail ne peut pas être utilisé ou pour une raison quelconque nous ne pouvons pas vous informer.
- 10.2 L\'avis publié par le produit et les e-mails contenant un tel avis deviendra sans aucun doute un avis valide.
+ 10.2 L'avis publié par le produit et les e-mails contenant un tel avis deviendra sans aucun doute un avis valide.
  
  11.Droit applicable
  11.1 Cet accord applique à la loi de la République populaire de Chine.
- 11.2 En cas de litige, les parties concernées devraient essayer de régler le problème sur la base du principe de la consultation à l\'amiable. Si aucun règlement peut être atteint, les parties concernées doivent soumettre leur affaire devant le tribunal local où Xiaomi est basée.
+ 11.2 En cas de litige, les parties concernées devraient essayer de régler le problème sur la base du principe de la consultation à l'amiable. Si aucun règlement peut être atteint, les parties concernées doivent soumettre leur affaire devant le tribunal local où Xiaomi est basée.
  
  12.indépendance
  Certaines des clauses de cet accord ne sont pas applicables. Les autres dispositions du présent Accord continuent à appliquer et à des conditions non-applicables seront modifiées afin de se conformer à la loi.
  
  13.Exhaustivité
- 13.1 Cet accord (y compris la politique de confidentialité) est l\'accord final, complet et exclusif entre vous et le produit. En outre, l\'accord remplace les discussions et d\'accords des parties concernées à propos de ces questions (y compris les certificats d\'utilisateur final précédente, et les termes de politiques de service et de confidentialité).
- 13.2 Le titre de chaque segment est en lecture seule et ne contient pas d\'obligations légales ou contractuelles.
+ 13.1 Cet accord (y compris la politique de confidentialité) est l'accord final, complet et exclusif entre vous et le produit. En outre, l'accord remplace les discussions et d'accords des parties concernées à propos de ces questions (y compris les certificats d'utilisateur final précédente, et les termes de politiques de service et de confidentialité).
+ 13.2 Le titre de chaque segment est en lecture seule et ne contient pas d'obligations légales ou contractuelles.
  13.3 Sauf autorisation écrite a été donnée par Xiaomi, vous ne pouvez pas transférer les droits et obligations spécifiées dans le présent accord. Toute violation des règles ou des tentatives de transfert mentionnés ci-dessus sera en vain.
  
  Xiaomi Mi-Home produits de la série politiques de confidentialité Xiaomi Smart Home politiques produits de la série de confidentialité
- Vous pouvez utiliser nos services dans une variété de différentes façons, comme en vous connectant sur le site officiel de Xiaomi acheter Xiaomi produits matériels intelligents, et en utilisant Xiaomi Smart Home logiciels et de services dans les différents terminaux. Si vous partagez avec nous les informations (par exemple, en créant un compte Xiaomi), nous pouvons vous fournir de meilleurs services, tels que les mises à jour de produits et la publicité présentant de l\'intérêt supérieur pour vous aider à prendre contact avec les autres ou de partager le contenu avec d\'autres plus facilement. Basé sur ce but, nous allons vous expliquer comment nous collectons et utiliser l\'information, et comment vous pouvez protéger votre vie privée.
+ Vous pouvez utiliser nos services dans une variété de différentes façons, comme en vous connectant sur le site officiel de Xiaomi acheter Xiaomi produits matériels intelligents, et en utilisant Xiaomi Smart Home logiciels et de services dans les différents terminaux. Si vous partagez avec nous les informations (par exemple, en créant un compte Xiaomi), nous pouvons vous fournir de meilleurs services, tels que les mises à jour de produits et la publicité présentant de l'intérêt supérieur pour vous aider à prendre contact avec les autres ou de partager le contenu avec d'autres plus facilement. Basé sur ce but, nous allons vous expliquer comment nous collectons et utiliser l'information, et comment vous pouvez protéger votre vie privée.
  Nos politiques de confidentialité comprennent les questions suivantes:
  Les informations que nous recueillons.
  Comment nous recueillons et utilisons les informations.
  Comment vous fournissez ces informations de manière sélective, et comment y accéder et mettre à jour des informations.
- Partage et sécurité de l\'information et de gamme d\'applications et la révision des politiques de confidentialité.
+ Partage et sécurité de l'information et de gamme d'applications et la révision des politiques de confidentialité.
  
  Les renseignements que nous recueillons
  Nous recueillons deux types de renseignements: des renseignements personnels (renseignements personnels est la seule donnée qui peut être utilisée pour identifier ou contacter une personne) et des informations non personnelles (ie données ne sont pas directement liées à une personne en particulier) .Si nous combinons le personnel informations et des informations non personnelles, ces informations seront traitées comme des renseignements personnels.
  
  Comment nous recueillons et utilisons les informations
  
- Collecte et l\'utilisation des renseignements personnels
- Lorsque vous interagissez avec co Xiaomi technologies de la communication., LTD. (ci-après dénommé \ "Xiaomi \" ou \ "nous \") et de ses sociétés associées, vous pouvez être invité à fournir des informations personnelles de base à utiliser nos services de base du produit. Les renseignements personnels peut être combiné avec d\'autres informations afin d\'améliorer nos produits et services.
+ Collecte et l'utilisation des renseignements personnels
+ Lorsque vous interagissez avec co Xiaomi technologies de la communication., LTD. (ci-après dénommé Xiaomi \" ou nous \") et de ses sociétés associées, vous pouvez être invité à fournir des informations personnelles de base à utiliser nos services de base du produit. Les renseignements personnels peut être combiné avec d'autres informations afin d'améliorer nos produits et services.
  Ci-dessous est le type de renseignements personnels Xiaomi peut recueillir et quelques exemples de la façon dont nous utilisons les informations.
  
  Collecte de renseignements personnels
- Lorsque vous créez un Xiaomi compte, télécharger et mettre à jour le logiciel Xiaomi, inscrivez-vous à un détaillant en ligne mobiles Xiaomi et de participer à des sondages en ligne ou dans d\'autres interactions avec Xiaomi, nous allons vous demander de fournir des renseignements personnels, y compris mais non limité à votre nom, numéro de téléphone numéro, une adresse e-mail, adresse postale, etc.
- Lorsque vous achetez des produits et services Xiaomi, nous allons recueillir des renseignements personnels, y compris mais sans s\'y limiter: les détails de livraison, les comptes bancaires, les détails de carte de crédit, adresse de facturation, des vérifications de crédit, les autres informations financières, et les dossiers de contact et de communication, etc.
- Lorsque vous utilisez un produit Xiaomi de partager votre contenu avec la famille et les amis, envoyer des messages ou des produits ou inviter d\'autres personnes sur le Xiaomi BBS, Xiaomi va recueillir des renseignements personnels qui est pertinente pour les personnes mentionnées ci-dessus, tels que le nom, l\'adresse postale, E Adresse -mail et numéro de téléphone.
- Lorsque vous la première utilisation et activez votre appareil mobile Xiaomi, votre information mobile d\'identification de l\'utilisateur, le seul numéro d\'identification de votre appareil mobile, et l\'emplacement géographique générale de votre appareil seront envoyés à Smart Home. La collecte de l\'information ci-dessus peut également appliquer la mise à jour et la restauration des paramètres d\'usine.
+ Lorsque vous créez un Xiaomi compte, télécharger et mettre à jour le logiciel Xiaomi, inscrivez-vous à un détaillant en ligne mobiles Xiaomi et de participer à des sondages en ligne ou dans d'autres interactions avec Xiaomi, nous allons vous demander de fournir des renseignements personnels, y compris mais non limité à votre nom, numéro de téléphone numéro, une adresse e-mail, adresse postale, etc.
+ Lorsque vous achetez des produits et services Xiaomi, nous allons recueillir des renseignements personnels, y compris mais sans s'y limiter: les détails de livraison, les comptes bancaires, les détails de carte de crédit, adresse de facturation, des vérifications de crédit, les autres informations financières, et les dossiers de contact et de communication, etc.
+ Lorsque vous utilisez un produit Xiaomi de partager votre contenu avec la famille et les amis, envoyer des messages ou des produits ou inviter d'autres personnes sur le Xiaomi BBS, Xiaomi va recueillir des renseignements personnels qui est pertinente pour les personnes mentionnées ci-dessus, tels que le nom, l'adresse postale, E Adresse -mail et numéro de téléphone.
+ Lorsque vous la première utilisation et activez votre appareil mobile Xiaomi, votre information mobile d'identification de l'utilisateur, le seul numéro d'identification de votre appareil mobile, et l'emplacement géographique générale de votre appareil seront envoyés à Smart Home. La collecte de l'information ci-dessus peut également appliquer la mise à jour et la restauration des paramètres d'usine.
  
  Utilisation des renseignements personnels
- Xiaomi va utiliser vos informations strictement selon cette politique de confidentialité et de sa mise à jour. Vos informations personnelles ne seront utilisées à des fins qui ont été confirmées et convenues. Si nous utilisons les informations à d\'autres fins, nous vous demanderons votre consentement à l\'avance.
- Les renseignements personnels que nous recueillons sera utilisée pour vous fournir les produits et services de Xiaomi, traitement de votre commande ou l\'exécution d\'un contrat entre vous et Xiaomi pour assurer la fonction et la sécurité de nos produits et services, de vérifier votre identité et prévenir et enquêter sur la fraude ou autre une mauvaise utilisation.
+ Xiaomi va utiliser vos informations strictement selon cette politique de confidentialité et de sa mise à jour. Vos informations personnelles ne seront utilisées à des fins qui ont été confirmées et convenues. Si nous utilisons les informations à d'autres fins, nous vous demanderons votre consentement à l'avance.
+ Les renseignements personnels que nous recueillons sera utilisée pour vous fournir les produits et services de Xiaomi, traitement de votre commande ou l'exécution d'un contrat entre vous et Xiaomi pour assurer la fonction et la sécurité de nos produits et services, de vérifier votre identité et prévenir et enquêter sur la fraude ou autre une mauvaise utilisation.
  Les renseignements personnels que nous recueillons sera utilisé pour le développement de nos produits et services. Cependant, en général, nous utilisons uniquement des informations complètes et statistiques à cet effet.
  Les renseignements personnels que nous recueillons sera utilisé pour communiquer avec vous, par exemple, les mises à jour de produits ou services. Nous vous informerons immédiatement après la nouvelles est libéré.
- Les renseignements personnels recueillis seront utilisés pour la conception personnalisée des produits et pour vous fournir un service plus personnalisé. Par exemple: recommander et le contenu de l\'affichage et les publicités conçues uniquement pour vous ou pour la recherche.
- Si vous participez à un tirage au sort de Xiaomi, compétitions ou activités promotionnelles similaires, les informations personnelles que vous fournissez sera utilisée pour gérer ce genre d\'activité.
- En ce qui concerne vos informations d\'identification d\'utilisateur mobile, seul le numéro d\'identification de votre appareil mobile peut être utilisé pour activer vos services de garantie et licence de logiciel spécifique, et nous pourrions vous inviter à participer à l\'enquête. Nous pouvons également utiliser ces informations pour améliorer nos produits et d\'analyser l\'efficacité de nos opérations commerciales. Néanmoins, nous ne serons pas utiliser cette information pour suivre votre position.
+ Les renseignements personnels recueillis seront utilisés pour la conception personnalisée des produits et pour vous fournir un service plus personnalisé. Par exemple: recommander et le contenu de l'affichage et les publicités conçues uniquement pour vous ou pour la recherche.
+ Si vous participez à un tirage au sort de Xiaomi, compétitions ou activités promotionnelles similaires, les informations personnelles que vous fournissez sera utilisée pour gérer ce genre d'activité.
+ En ce qui concerne vos informations d'identification d'utilisateur mobile, seul le numéro d'identification de votre appareil mobile peut être utilisé pour activer vos services de garantie et licence de logiciel spécifique, et nous pourrions vous inviter à participer à l'enquête. Nous pouvons également utiliser ces informations pour améliorer nos produits et d'analyser l'efficacité de nos opérations commerciales. Néanmoins, nous ne serons pas utiliser cette information pour suivre votre position.
  Collecte et utilisation des informations non personnelles.
- Pendant ce temps, dans le but de gérer et d\'améliorer la technologie et des services de Xiaomi, Xiaomi va collecter automatiquement vos informations personnelles. Cela aidera Xiaomi vous fournir une meilleure expérience utilisateur et améliorer la qualité de service.
- Collecte d\'informations non personnelles.
- Lorsque vous créez un Xiaomi compte, télécharger et mettre à jour le logiciel Xiaomi, inscrivez-vous auprès d\'un détaillant en ligne mobiles Xiaomi et de participer à un sondage en ligne ou dans d\'autres interactions avec Xiaomi, nous recueillerons vos informations telles que la langue, le code postal, l\'indicatif régional et le temps zone où vous utilisez des produits Xiaomi.
- En ce qui concerne les informations relatives aux habitudes des utilisateurs et des problèmes rencontrés lors de l\'utilisation de l\'application Xiaomi Smart Home, nous allons, selon le besoin, recueillir des statistiques anonymes sur la façon dont vous utilisez l\'Internet pour vous fournir une meilleure expérience en ligne. En outre, lorsque le système Xiaomi Smart Home est dans un état plus ou se bloque anormale, nous pouvons collecter des informations telles que l\'ID de l\'appareil, l\'adresse de protocole Internet et les paquets de données d\'itinéraire afin de déterminer la racine du problème.
- En ce qui concerne les cookies et d\'autres technologies utilisées pour recueillir des informations, le site Xiaomi, services en ligne, logiciel d\'application interactive, les messages e-mail et la publicité peuvent utiliser des cookies et d\'autres technologies telles que les balises de pixels et les balises Web pour recueillir et stocker vos informations personnelles.
- Connectez informations - lorsque vous accédez Xiaomi Smart Home, notre serveur enregistre automatiquement certaines informations du journal. Ce genre d\'informations du journal du serveur peut inclure les informations suivantes: adresse IP, le type de navigateur, langages de navigateur, consultez la page source, système d\'exploitation, la date / marque de temps et de données clickstream.
+ Pendant ce temps, dans le but de gérer et d'améliorer la technologie et des services de Xiaomi, Xiaomi va collecter automatiquement vos informations personnelles. Cela aidera Xiaomi vous fournir une meilleure expérience utilisateur et améliorer la qualité de service.
+ Collecte d'informations non personnelles.
+ Lorsque vous créez un Xiaomi compte, télécharger et mettre à jour le logiciel Xiaomi, inscrivez-vous auprès d'un détaillant en ligne mobiles Xiaomi et de participer à un sondage en ligne ou dans d'autres interactions avec Xiaomi, nous recueillerons vos informations telles que la langue, le code postal, l'indicatif régional et le temps zone où vous utilisez des produits Xiaomi.
+ En ce qui concerne les informations relatives aux habitudes des utilisateurs et des problèmes rencontrés lors de l'utilisation de l'application Xiaomi Smart Home, nous allons, selon le besoin, recueillir des statistiques anonymes sur la façon dont vous utilisez l'Internet pour vous fournir une meilleure expérience en ligne. En outre, lorsque le système Xiaomi Smart Home est dans un état plus ou se bloque anormale, nous pouvons collecter des informations telles que l'ID de l'appareil, l'adresse de protocole Internet et les paquets de données d'itinéraire afin de déterminer la racine du problème.
+ En ce qui concerne les cookies et d'autres technologies utilisées pour recueillir des informations, le site Xiaomi, services en ligne, logiciel d'application interactive, les messages e-mail et la publicité peuvent utiliser des cookies et d'autres technologies telles que les balises de pixels et les balises Web pour recueillir et stocker vos informations personnelles.
+ Connectez informations - lorsque vous accédez Xiaomi Smart Home, notre serveur enregistre automatiquement certaines informations du journal. Ce genre d'informations du journal du serveur peut inclure les informations suivantes: adresse IP, le type de navigateur, langages de navigateur, consultez la page source, système d'exploitation, la date / marque de temps et de données clickstream.
  Utilisation des informations non personnelles.
- Les informations non personnelles que nous recueillons tels que les professions, les langues, les codes postaux, les codes de la région et le fuseau horaire où vous utilisez votre produit Xiaomi peut nous aider à mieux comprendre les comportements des utilisateurs afin d\'améliorer nos produits, services, et des campagnes publicitaires.
- Nous pouvons utiliser les statistiques obtenues à partir de la \ "expérience utilisateur programme d\'amélioration \" pour améliorer en permanence l\'expérience d\'exploitation, en cours d\'exécution performances, les problèmes de réparation et d\'amélioration de la conception de la fonction.
- Les informations que nous avons recueillies à partir des cookies et autres technologies (telles que les balises de pixels) peut vous apporter une meilleure expérience utilisateur, et d\'améliorer notre qualité de service globale. En sauvegardant vos préférences de langue, par exemple, nous pouvons montrer nos services dans votre langue préférée. Nous pouvons utiliser les marques de pixels pour envoyer des courriels dans un format lisible pour les utilisateurs, et nous serons informés si le courriel est ouvert. Nous pouvons utiliser ces informations pour réduire les e-mails envoyés à des utilisateurs ou de cesser d\'envoyer des e-mails.
- Comment les utilisateurs fournissent des informations de manière sélective?
- Tout le monde a un accent différent sur la vie privée. Sur cette base, nous allons indiquer clairement la façon dont nous recueillons des informations pour vous de choisir la façon dont vous fournissez des informations.
- Vous êtes libre de décider de rejoindre le \"utilisateur l\'amélioration de l\'expérience plan de\", à savoir, vous pouvez quitter le plan en éteignant l\'option \ "Plan d\'amélioration de l\'expérience utilisateur de \".
- Vous pouvez modifier l\'emplacement de votre appareil, par exemple: modifier ou désactiver la méthode ou le positionnement positionnement serveur, ou de modifier l\'exactitude de l\'information de localisation de modifier les informations de localisation fournies par Xiaomi.
- Vous pouvez modifier les paramètres de votre navigateur pour refuser ou d\'accepter les biscuits selon vos propres besoins. Vous pouvez également supprimer de vos périphériques de stockage, à tout moment, ou faire vous avertir lorsque vous écrivez les cookies.
+ Les informations non personnelles que nous recueillons tels que les professions, les langues, les codes postaux, les codes de la région et le fuseau horaire où vous utilisez votre produit Xiaomi peut nous aider à mieux comprendre les comportements des utilisateurs afin d'améliorer nos produits, services, et des campagnes publicitaires.
+ Nous pouvons utiliser les statistiques obtenues à partir de la expérience utilisateur programme d'amélioration \" pour améliorer en permanence l'expérience d'exploitation, en cours d'exécution performances, les problèmes de réparation et d'amélioration de la conception de la fonction. Les informations que nous avons recueillies à partir des cookies et autres technologies (telles que les balises de pixels) peut vous apporter une meilleure expérience utilisateur, et d'améliorer notre qualité de service globale. En sauvegardant vos préférences de langue, par exemple, nous pouvons montrer nos services dans votre langue préférée. Nous pouvons utiliser les marques de pixels pour envoyer des courriels dans un format lisible pour les utilisateurs, et nous serons informés si le courriel est ouvert. Nous pouvons utiliser ces informations pour réduire les e-mails envoyés à des utilisateurs ou de cesser d'envoyer des e-mails. Comment les utilisateurs fournissent des informations de manière sélective? Tout le monde a un accent différent sur la vie privée. Sur cette base, nous allons indiquer clairement la façon dont nous recueillons des informations pour vous de choisir la façon dont vous fournissez des informations. Vous êtes libre de décider de rejoindre le \"utilisateur l'amélioration de l'expérience plan de\", à savoir, vous pouvez quitter le plan en éteignant l'option Plan d'amélioration de l'expérience utilisateur de \".
+ Vous pouvez modifier l'emplacement de votre appareil, par exemple: modifier ou désactiver la méthode ou le positionnement positionnement serveur, ou de modifier l'exactitude de l'information de localisation de modifier les informations de localisation fournies par Xiaomi.
+ Vous pouvez modifier les paramètres de votre navigateur pour refuser ou d'accepter les biscuits selon vos propres besoins. Vous pouvez également supprimer de vos périphériques de stockage, à tout moment, ou faire vous avertir lorsque vous écrivez les cookies.
  Accès et mise à jour des renseignements personnels.
- En cliquant sur [https://account.xiaomi.com] pour vous connecter à votre compte, vous serez en mesure d\'accéder et de mettre à jour vos informations personnelles. Vous pouvez aussi supprimer une partie de vos renseignements personnels ou nous demander de retirer votre compte personnel, à moins que nous devons garder l\'information pour des raisons juridiques.
- Chaque fois que vous utilisez notre service, nous nous efforçons de vous donner accès à vos renseignements personnels. Si l\'information est incorrecte, nous allons essayer de vous faire mettre à jour ou supprimer les informations rapidement par divers moyens (sauf si nous devons garder cette information pour le commerce légitime ou pour des raisons juridiques). Lorsque vous mettez à jour vos informations personnelles, nous pouvons vous demander de vérifier votre identité d\'abord, puis traiter votre demande.
- Nous pouvons refuser les demandes qui ont répétition sans fin, exigent trop l\'apport de technologie, le risque de la vie privée d\'autrui, ou sommes très irréaliste.
- Tant que nous pouvons vous permettre d\'accéder et de modifier les informations, et il n\'a pas besoin de trop d\'entrée, nous allons fournir le service gratuitement. Nous nous efforçons de protéger notre service contre les dommages accidentels ou volontaires. Par conséquent, lorsque vous supprimez les informations de notre service, nous ne pouvons pas supprimer immédiatement les copies résiduelles de l\'information à partir du serveur en cours d\'utilisation. Par conséquent, les informations correspondantes stockées sur le système de sauvegarde ne peut pas être supprimé immédiatement.
+ En cliquant sur [https://account.xiaomi.com] pour vous connecter à votre compte, vous serez en mesure d'accéder et de mettre à jour vos informations personnelles. Vous pouvez aussi supprimer une partie de vos renseignements personnels ou nous demander de retirer votre compte personnel, à moins que nous devons garder l'information pour des raisons juridiques.
+ Chaque fois que vous utilisez notre service, nous nous efforçons de vous donner accès à vos renseignements personnels. Si l'information est incorrecte, nous allons essayer de vous faire mettre à jour ou supprimer les informations rapidement par divers moyens (sauf si nous devons garder cette information pour le commerce légitime ou pour des raisons juridiques). Lorsque vous mettez à jour vos informations personnelles, nous pouvons vous demander de vérifier votre identité d'abord, puis traiter votre demande.
+ Nous pouvons refuser les demandes qui ont répétition sans fin, exigent trop l'apport de technologie, le risque de la vie privée d'autrui, ou sommes très irréaliste.
+ Tant que nous pouvons vous permettre d'accéder et de modifier les informations, et il n'a pas besoin de trop d'entrée, nous allons fournir le service gratuitement. Nous nous efforçons de protéger notre service contre les dommages accidentels ou volontaires. Par conséquent, lorsque vous supprimez les informations de notre service, nous ne pouvons pas supprimer immédiatement les copies résiduelles de l'information à partir du serveur en cours d'utilisation. Par conséquent, les informations correspondantes stockées sur le système de sauvegarde ne peut pas être supprimé immédiatement.
  Partager des informations avec des tiers.
  Sauf cette politique de confidentialité comprend des politiques de partage limitées, nous allons garder vos renseignements personnels confidentiels et ne communiquerons pas vos renseignements personnels avec des tiers.
  Avec votre autorisation, nous allons partager vos renseignements personnels avec des tiers sans votre autorisation dans les situations suivantes:
- Nous allons partager des renseignements personnels avec des tiers en raison de l\'enquête judiciaire, les litiges, l\'exécution forcée ou d\'autres dispositions ou des exigences obligatoires juridiques.
- Nous allons fournir des renseignements personnels à nos filiales, sociétés affiliées, ou d\'autres entreprises dignes de confiance ou des individus pour nous aider à traiter les renseignements personnels en notre nom. Nous exigeons les parties ci-dessus pour accepter de traiter les renseignements personnels conformément à nos conditions, les politiques de confidentialité et toutes autres mesures de confidentialité et de sécurité applicables.
- Si nous restructurons, fusionner ou vendre, nous allons, en fonction des contraintes actuelles de la politique de confidentialité conserver toutes les informations personnelles que nous collectons confidentielles et informer tous les utilisateurs touchés avant que nous transférons l\'information.
+ Nous allons partager des renseignements personnels avec des tiers en raison de l'enquête judiciaire, les litiges, l'exécution forcée ou d'autres dispositions ou des exigences obligatoires juridiques.
+ Nous allons fournir des renseignements personnels à nos filiales, sociétés affiliées, ou d'autres entreprises dignes de confiance ou des individus pour nous aider à traiter les renseignements personnels en notre nom. Nous exigeons les parties ci-dessus pour accepter de traiter les renseignements personnels conformément à nos conditions, les politiques de confidentialité et toutes autres mesures de confidentialité et de sécurité applicables.
+ Si nous restructurons, fusionner ou vendre, nous allons, en fonction des contraintes actuelles de la politique de confidentialité conserver toutes les informations personnelles que nous collectons confidentielles et informer tous les utilisateurs touchés avant que nous transférons l'information.
  Nous pouvons partager des informations non personnelles résumées raisonnablement avec le public et nos partenaires à des fins commerciales ou pour la protection des utilisateurs, par exemple, en montrant les tendances générales relatives à nos produits et services.
- La sécurité de l\'information
+ La sécurité de l'information
  Nous nous efforçons de protéger les utilisateurs Xiaomi partir de leurs informations illégalement accédé, manipulé, divulgués ou détruits. Pour ce faire, les mesures spéciales suivantes sont en place:
  Nous chiffrons de nombreux services en utilisant le protocole SSL.
- Nous allons examiner la collecte d\'informations, le stockage et le traitement (y compris les mesures de sécurité physiques) afin de protéger les différents systèmes d\'accès non autorisé.
- Nous ne permettons personnel Xiaomi et du personnel autorisés à travailler pour le compte de sociétés de services d\'accéder à des renseignements personnels, et ils doivent respecter strictement les termes de confidentialité du contrat. Si elles ne parviennent pas à effectuer ces obligations, ils peuvent être étudiés pour la responsabilité juridique conformément à la loi, ou de leur relation de travail avec Xiaomi peuvent être résiliés.
- Pour nous, la sécurité de votre information est très importante. Par conséquent, nous allons continuer à faire tous les efforts pour assurer la sécurité de vos renseignements personnels, et nous allons utiliser stockage complètes et des méthodes de cryptage de la transmission à protéger vos renseignements contre l\'accès non autorisé, utilisation ou la divulgation. Données chiffrées spécifiques ne peuvent être accessibles par les utilisateurs eux-mêmes.
+ Nous allons examiner la collecte d'informations, le stockage et le traitement (y compris les mesures de sécurité physiques) afin de protéger les différents systèmes d'accès non autorisé.
+ Nous ne permettons personnel Xiaomi et du personnel autorisés à travailler pour le compte de sociétés de services d'accéder à des renseignements personnels, et ils doivent respecter strictement les termes de confidentialité du contrat. Si elles ne parviennent pas à effectuer ces obligations, ils peuvent être étudiés pour la responsabilité juridique conformément à la loi, ou de leur relation de travail avec Xiaomi peuvent être résiliés.
+ Pour nous, la sécurité de votre information est très importante. Par conséquent, nous allons continuer à faire tous les efforts pour assurer la sécurité de vos renseignements personnels, et nous allons utiliser stockage complètes et des méthodes de cryptage de la transmission à protéger vos renseignements contre l'accès non autorisé, utilisation ou la divulgation. Données chiffrées spécifiques ne peuvent être accessibles par les utilisateurs eux-mêmes.
  Demande portée des politiques de protection des renseignements personnels
  Notre politique de confidentialité ne concerne pas les produits et / ou services tiers. Xiaomi intelligents produits et services de la série peuvent contenir Accueil tiers produits et services tiers. Lorsque vous utilisez un produit tiers ou de recevoir un service de tiers, ils peuvent acquérir vos informations. Par conséquent, nous sommes là pour vous rappeler de lire attentivement les politiques de les tierces parties concernées de la vie privée.
  Pendant ce temps, cette politique de confidentialité ne vaut pas pour la collecte de données à partir des sites Web externes après avoir cliqué sur le lien.
- Collecte et l\'utilisation des renseignements personnels des enfants
+ Collecte et l'utilisation des renseignements personnels des enfants
  Nous recommandons que les enfants de moins de 13 utilisent des produits ou des services Xiaomi avec la permission et les conseils de leurs tuteurs.
- Xiaomi ne sera pas recueillir des renseignements personnels des enfants quand il est conscient que ce sont des enfants et ne seront pas divulguer des renseignements personnels à des tiers. Tuteurs ont le droit de refuser Xiaomi et ses sociétés affiliées de recueillir davantage d\'informations personnelles de mineurs ou de demander Xiaomi et ses sociétés affiliées pour supprimer les informations personnelles de mineurs. Si nous constatons que nous avons recueilli des renseignements personnels des enfants de moins de 13 ans, nous supprimerons ces informations dès que possible.
+ Xiaomi ne sera pas recueillir des renseignements personnels des enfants quand il est conscient que ce sont des enfants et ne seront pas divulguer des renseignements personnels à des tiers. Tuteurs ont le droit de refuser Xiaomi et ses sociétés affiliées de recueillir davantage d'informations personnelles de mineurs ou de demander Xiaomi et ses sociétés affiliées pour supprimer les informations personnelles de mineurs. Si nous constatons que nous avons recueilli des renseignements personnels des enfants de moins de 13 ans, nous supprimerons ces informations dès que possible.
  Révision des politiques de confidentialité.
- Les politiques de confidentialité peuvent être révisées. Sans votre consentement explicite, nous ne serons pas abroger les droits que vous aimez conformément à cette politique de confidentialité, sauf si nous vous envoyons un avis par l\'adresse e-mail que vous avez fourni à nous ou si nous avons fait une annonce publique sur notre site.
+ Les politiques de confidentialité peuvent être révisées. Sans votre consentement explicite, nous ne serons pas abroger les droits que vous aimez conformément à cette politique de confidentialité, sauf si nous vous envoyons un avis par l'adresse e-mail que vous avez fourni à nous ou si nous avons fait une annonce publique sur notre site.
  "</string>
-    <string name="user_license_btn_text">Conditions d\'utilisation et Politique de Confidentialité</string>
+    <string name="user_license_btn_text">"Conditions d'utilisation et Politique de Confidentialité"</string>
     <string name="version_name_string">Version actuelle: %s</string>
     <string name="videos_group_name_x_num_x" formatted="false">%s | %d fichiers</string>
     <string name="visible_in_main_device_list">Ajouter à la liste des périphériques</string>
     <string name="waiting_for_update">Patienter…</string>
     <string name="water_purifier">"Purificateur d'eau"</string>
-    <string name="water_purifier_subtitle">L\'eau du robinet TDS: %1$d</string>
+    <string name="water_purifier_subtitle">"L'eau du robinet TDS: %1$d"</string>
     <string name="weak_device_signal">Signal faible</string>
     <string name="web_shell_loading">Chargement…</string>
     <string name="wednesday">Mercredi</string>
@@ -1658,7 +1743,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="wifi_log_month_title">Mois %d</string>
     <string name="wifi_log_reset_query">Confirmer la réinitialisation des paramètres ?</string>
     <string name="wifi_log_set_success">Paramètres Wi-Fi enregistrés</string>
-    <string name="wifi_log_set_success_sub_title">"wifi_log_set_success_sub_title</string>
+    <string name="wifi_log_set_success_sub_title">wifi_log_set_success_sub_title</string>
     <string name="wifi_log_stat_at_home_title">Domicile</string>
     <string name="wifi_log_stat_at_office_title">Travail</string>
     <string name="wifi_log_stat_out_home_title">Extérieur - Domicile</string>
@@ -1687,8 +1772,8 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="wifi_setting_wifi_opening">Activer le Wi-Fi...</string>
     <string name="wifi_setting_wifi_scanning">Analyse des réseaux Wi-Fi...</string>
     <string name="wifi_setting_wifi_title">Connecter les périphériques en utilisant la connexion Wi-Fi</string>
-    <string name="write_a_review_hint">"Le commentaire doit contenir entre 5 et 140 caractères"</string>
-    <string name="write_a_review_title">Écrire un commentaire </string>
+    <string name="write_a_review_hint">Le commentaire doit contenir entre 5 et 140 caractères</string>
+    <string name="write_a_review_title">Écrire un commentaire</string>
     <string name="write_review_add_tag_error_text">Vous ne pouvez pas ajouter plus de 10 tags</string>
     <string name="write_review_add_tag_hint_text">Ajouter un tag</string>
     <string name="write_review_comment_edit_hint_text">Vous aimez ce produit ? Dites-nous ce que vous en pensez, vous pouvez mettre quelques photos en plus</string>
@@ -1723,10 +1808,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="yeelight_toast_name_too_long">Ne peut excéder 4 caractères</string>
     <string name="yeelight_warf">Vagues</string>
     <string name="yesterday">Hier</string>
-    <string name="mipay_account_confirm_text">Payez avec %1$s</string>
-    <string name="mipay_account_confirm_title">Compte Xiaomi Paiement Confirmation</string>
-    <string name="mipay_cancel_button_text">Annulation</string>
-    <string name="mipay_confirm_button_text">Confirmation</string>
     <string name="ucashier_choose_pay_method_title">Sélectionnez la méthode de paiement</string>
     <string name="ucashier_confirm_button_text">Confirmation de paiement</string>
     <string name="ucashier_error_account_changed">"Les informations contenues dans votre compte ont changé. S'il vous plaît vous connecter à nouveau."</string>
@@ -1750,7 +1831,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="change_sex_fail">Échec de modification de genre</string>
     <string name="change_sex_success">Changement de genre réussi</string>
     <string name="closed">Quitter</string>
-    <string name="dialog_button_create_yeelight_group">Créer lampes</string>
     <string name="dialog_title_create_yeelight_group">Yeelight peut créer un jeu de lumière de la gestion unifiée</string>
     <string name="dialog_title_force_update">Une nouvelle version, vous devez mettre à jour pour continuer à utiliser</string>
     <string name="dialog_title_remote_card_tip">Mode carte IR</string>
@@ -1761,6 +1841,29 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="mikey_take_photo">Prendre une photo</string>
     <string name="mitv_clean_system_info">Accélération immédiate</string>
     <string name="please_install_plug_first">Installer %s plug-in</string>
+    <string name="score_consume">use</string>
+    <string name="score_doing">done</string>
+    <string name="score_get">get</string>
+    <string name="score_get_task">get task</string>
+    <string name="score_get_task_err">fetch task fail</string>
+    <string name="score_get_task_ok">fetch task success</string>
+    <string name="score_goto">go</string>
+    <string name="score_history_page_title">history</string>
+    <string name="score_look_history_title">show history</string>
+    <string name="score_may_got_score_fmt">complete order to get %d score</string>
+    <string name="score_more_consume_item">consume</string>
+    <string name="score_more_score">more score</string>
+    <string name="score_more_score_item">how to get more score</string>
+    <string name="score_no_detail_msg">can not fetch task</string>
+    <string name="score_page_title">my score</string>
+    <string name="score_sign">sign</string>
+    <string name="score_sign_error1">sign fail</string>
+    <string name="score_sign_error2">sign fail</string>
+    <string name="score_sign_today_signed">already signed today</string>
+    <string name="score_signed">signed</string>
+    <string name="score_task_detail_title">task detail</string>
+    <string name="score_time_desc_fmt">yyyy年MM月dd日 HH:mm:ss</string>
+    <string name="score_totoal_score">Score</string>
     <string name="select_camera">Sélectionnez les paramètres de caméra intelligente pour les alertes</string>
     <string name="smarthome_device_" />
     <string name="smarthome_device_virtual_delete">Supprimer un groupe</string>
@@ -1772,8 +1875,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="visible_in_main_device_list_success">Ajout réussi</string>
     <string name="about_check_update_new">Vérifiez les mises à jour</string>
     <string name="action_back">Retour</string>
-    <string name="action_settings">Paramètres</string>
-    <string name="add_bracelet_content">Souhaitez-vous ajouter le bracelet Mi-Fit à la liste "Mes périphériques" ?</string>
+    <string name="add_bracelet_content">Souhaitez-vous ajouter le bracelet Mi-Fit à la liste Mes périphériques ?</string>
     <string name="add_bracelet_title">Ajouter bracelet Mi-Fit</string>
     <string name="add_device_manual">Saisie manuelle</string>
     <string name="air_100">Bon air</string>
@@ -1788,7 +1890,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="air_x">Forte pollution</string>
     <string name="all_sleep_time">%1$d %2$d m</string>
     <string name="all_sleep_time_text">Heures de couchage</string>
-    <string name="area_air_quality">Qualité de l\'air</string>
+    <string name="area_air_quality">"Qualité de l'air"</string>
     <string name="area_auto_locate">"Indiquez l'emplacement du"</string>
     <string name="area_auto_locate_failed">Malheureusement, je ne pouvais pas trouver</string>
     <string name="area_center_dot">;</string>
@@ -1818,17 +1920,17 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="connecting_failed">Erreur de connexion</string>
     <string name="connecting_success">Connecté</string>
     <string name="create_launcher">Créer un raccourci sur le bureau</string>
-    <string name="cube_ptr_hours_ago"> il y a des heures</string>
-    <string name="cube_ptr_last_update">Dernière mise à jour: </string>
-    <string name="cube_ptr_minutes_ago"> il y a des minutes</string>
-    <string name="cube_ptr_pull_down">Tirer</string>
-    <string name="cube_ptr_pull_down_to_refresh">Tirer pour actualiser</string>
-    <string name="cube_ptr_refresh_complete">Mis à jour.</string>
-    <string name="cube_ptr_refreshing">Mise à jour...</string>
-    <string name="cube_ptr_release_to_refresh">Relâcher pour actualiser</string>
-    <string name="cube_ptr_seconds_ago"> il y a des secondes</string>
-    <string name="day2">jour</string>
-    <string name="day_before">jour d\après</string>
+    <string name="cube_ptr_hours_ago"> hours ago</string>
+    <string name="cube_ptr_last_update">last update: </string>
+    <string name="cube_ptr_minutes_ago"> minutes ago</string>
+    <string name="cube_ptr_pull_down">Pull Down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="cube_ptr_refresh_complete">Updated.</string>
+    <string name="cube_ptr_refreshing">Updating...</string>
+    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+    <string name="cube_ptr_seconds_ago"> seconds ago</string>
+    <string name="day2">day</string>
+    <string name="day_before">day before</string>
     <string name="day_run_calorie_text">Consommation de la course</string>
     <string name="day_run_distance_text">Distance de la course</string>
     <string name="day_run_time_text">Durée de la course</string>
@@ -1849,63 +1951,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="device_list_plugin_download_failure">Téléchargement échoué</string>
     <string name="device_list_plugin_download_immediately">Télécharger maintenant</string>
     <string name="device_not_found_nearby">Aucun périphérique à proximité trouvé</string>
-    <string name="device_shop_addr_load_contact_fail">"Impossible d'obtenir les informations des contacts"</string>
-    <string name="device_shop_cancel_order_ensure_msg">Etes-vous sûr de vouloir annuler cette commande ?</string>
-    <string name="device_shop_cart_good_add_success_tips">Ajouter au panier avec succès!</string>
-    <string name="device_shop_cart_invalid">Échec</string>
-    <string name="device_shop_cart_invalid_tips">Veuillez retirer les produits expirés, puis sélectionnez Facturation</string>
-    <string name="device_shop_cart_left_time_day">Il y a %1$d de jours échoués</string>
-    <string name="device_shop_cart_left_time_hour">"Il y a %1$d d'heures échouées"</string>
-    <string name="device_shop_cart_left_time_minute">Il y a %1$d de minutes échouées</string>
-    <string name="device_shop_cart_left_time_second">Il y a %1$d de secondes échouées</string>
-    <string name="device_shop_category_selected_title">Sélectionné:</string>
-    <string name="device_shop_checkout_id_error1">Erreur ID du produit !</string>
-    <string name="device_shop_checkout_id_error2">Erreur réseau ID du produit!</string>
-    <string name="device_shop_checkout_new_address">Veuillez fournir votre adresse de livraison</string>
-    <string name="device_shop_checkout_quick_type_error">Erreurs de type raccourci !</string>
-    <string name="device_shop_crowdfunding_delivery_date">Date de livraison:</string>
-    <string name="device_shop_crowdfunding_goal">Objectif de la relance:</string>
-    <string name="device_shop_crowdfunding_left_day">Nombre de jours restants:</string>
-    <string name="device_shop_crowdfunding_sponsor">Promoteur du projet:</string>
-    <string name="device_shop_detail_bottom_tip">Continuez de glisser vers le bas pour afficher les détails</string>
-    <string name="device_shop_detail_bottom_title_notify">Notification</string>
-    <string name="device_shop_detail_bottom_title_panic_buy">Achat</string>
-    <string name="device_shop_detail_bottom_title_pre_book">Réservation</string>
-    <string name="device_shop_detail_bottom_title_pre_buy">Vente</string>
-    <string name="device_shop_detail_crowdfunding_payback">Retour</string>
-    <string name="device_shop_detail_crowdfunding_select_payback">Sélectionnez le retour</string>
-    <string name="device_shop_detail_crowdfunding_select_payback_prompt">Veuillez sélectionnez un des modes de prise en charge</string>
-    <string name="device_shop_detail_crowdfunding_shipment">Livraison: Livraison gratuite</string>
-    <string name="device_shop_detail_crowdfunding_support">Assistance</string>
-    <string name="device_shop_find_pid_error">Cette sélection ne peut pas être achetée</string>
-    <string name="device_shop_min_price_suffix">Yuan</string>
-    <string name="device_shop_not_include_shop_money">Cela ne comprend pas le transport</string>
-    <string name="device_shop_order_detail_left_time_day">Commande passée il y a %1$d jours</string>
-    <string name="device_shop_order_detail_left_time_hour">Commande passée il y a %1$d heures</string>
-    <string name="device_shop_order_detail_left_time_minute">Commande passée il y a %1$d minutes</string>
-    <string name="device_shop_order_detail_left_time_second">Commande passée il y a %1$d secondes</string>
-    <string name="device_shop_order_list_left_time_day">Environ %1$d jours</string>
-    <string name="device_shop_order_list_left_time_hour">Environ %1$d heures</string>
-    <string name="device_shop_order_list_left_time_minute">Environ %1$d minutes</string>
-    <string name="device_shop_order_list_left_time_second">Environ %1$d secondes</string>
-    <string name="device_shop_order_pay_error_tip">Le paiement a rencontré un problème ? veuillez réessayer</string>
-    <string name="device_shop_order_score_rule_title">À propos des points</string>
-    <string name="device_shop_order_type_all">Toutes les commandes</string>
-    <string name="device_shop_order_type_had_accept">Déjà réceptionné</string>
-    <string name="device_shop_order_type_had_trace">En attente de réception</string>
-    <string name="device_shop_order_type_is_refunding">Remboursement</string>
-    <string name="device_shop_order_type_need_pay">En attente de paiement</string>
-    <string name="device_shop_pay_failed">Erreur de paiement</string>
-    <string name="device_shop_pay_success">Paiement réussi</string>
-    <string name="device_shop_pay_type_3">Crédit Mi</string>
-    <string name="device_shop_payment_result_failed_1">Erreur de paiement, veuillez réessayer</string>
-    <string name="device_shop_price2">%1$.2f</string>
-    <string name="device_shop_price_suffix">Yuan</string>
-    <string name="device_shop_return_cart_text">Revenir au panier</string>
-    <string name="device_shop_select_all">Tout sélectionner</string>
-    <string name="device_shop_share_copy_success">Copie réussie</string>
-    <string name="device_shop_title_complete_text">Terminé</string>
-    <string name="device_shop_unselect_failure">Déselection échouée</string>
     <string name="device_with_band">Connexion Mi-Fit</string>
     <string name="dialog_option_okay">OK</string>
     <string name="dialog_option_one_more">Une fois de plus</string>
@@ -1970,7 +2015,6 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="group_type_locationinfo">Informations à proximité</string>
     <string name="group_type_phoneir">Télécommande infrarouge via le téléphone</string>
     <string name="group_type_webinfo">Infos</string>
-    <string name="hello_world">Traduit par Angyann et Fays</string>
     <string name="ir_config_enter_plugin">Plugin</string>
     <string name="ir_config_manage_remote">Gestion de la télécommande</string>
     <string name="irv2_controller_back_text">Retour</string>
@@ -2014,7 +2058,6 @@ Appuyez longuement pour revenir"</string>
     <string name="miband_get_data">Obtenir les données</string>
     <string name="miband_get_info_failed">Obtention des informations échouée, veuillez réessayer</string>
     <string name="miband_title">Mi-Fit</string>
-    <string name="miio_setting_forum">Forum</string>
     <string name="mikey_bind_failed_status">Désolé...impossible de trouver la Mi-clé</string>
     <string name="mikey_binding_status">Un seul click et la Mi-Clé se connectera automatiquement</string>
     <string name="mikey_camera_open">"Ouvrir l'appareil photo"</string>
@@ -2061,48 +2104,48 @@ Appuyez longuement pour revenir"</string>
     <string name="scan_device">Scan des périphériques</string>
     <string name="scene_condition_miband_awake">"Lors de la détection d'un utilisateur dans le sillage"</string>
     <string name="scene_condition_miband_sleep">"Lorsque l'utilisateur est détectée comme endormi"</string>
-    <string name="score_about_desc">Quels sont les points obtenus, comment gagner des points</string>
-    <string name="score_about_title">À propos des points</string>
-    <string name="score_account_title">Compte：</string>
-    <string name="score_address_is_read">"L'adresse de livraison déjà rempli"</string>
-    <string name="score_address_update_ensure">"Confirmez-vous ladresse de livraison ?"</string>
-    <string name="score_all_type_score">Tous les points</string>
-    <string name="score_gift_had_got">Vous avez déjà reçu le packs débutant, vous ne pouvez pas le recevoir à nouveau</string>
-    <string name="score_gift_package_btn_title">Pack débutant</string>
-    <string name="score_local_time_error">Heure locale et heure du serveur différente, demandez confirmation</string>
-    <string name="score_lottery_address_title">Gestion des adresses</string>
-    <string name="score_lottery_load_error">Accès aux données du réseau échoué</string>
-    <string name="score_phone_title">Téléphone：</string>
-    <string name="score_raffle_btn_title">Points concours</string>
-    <string name="score_raffle_title">Points concours</string>
-    <string name="score_sign_btn_text_fmt">Aujourd\'hui +%1$d</string>
-    <string name="score_sign_btn_title">Fréquentation</string>
-    <string name="score_sign_btn_tomorrow_text_fmt">Hier+%1$d</string>
+    <string name="score_about_desc">what can score do，how to get it</string>
+    <string name="score_about_title">about score</string>
+    <string name="score_account_title">account：</string>
+    <string name="score_address_is_read">address filled</string>
+    <string name="score_address_update_ensure">can not modify address after set，ok？</string>
+    <string name="score_all_type_score">all score</string>
+    <string name="score_gift_had_got">you got already, can not get again</string>
+    <string name="score_gift_package_btn_title">novice packs</string>
+    <string name="score_local_time_error">please correct local time</string>
+    <string name="score_lottery_address_title">address management</string>
+    <string name="score_lottery_load_error">fetch data fail</string>
+    <string name="score_phone_title">phone：</string>
+    <string name="score_raffle_btn_title">draw</string>
+    <string name="score_raffle_title">draw</string>
+    <string name="score_sign_btn_text_fmt">today+%1$d</string>
+    <string name="score_sign_btn_title">sign</string>
+    <string name="score_sign_btn_tomorrow_text_fmt">tomorrow+%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
-    <string name="score_sign_get_score_fmt">Inscrivez-vous pour obtenir %1$d points</string>
-    <string name="score_sign_got_score_fmt">"Participation aujourd'hui déjà faite, vous ne pouvez plus gagner des points"</string>
-    <string name="score_sign_month_view_fmt">%1$d mois</string>
-    <string name="score_sign_tomorrow_desc">Soyez présent demain pour obtenir %1$d points，total des points %2$d</string>
-    <string name="score_today_text">"Aujourd'hui"</string>
+    <string name="score_sign_get_score_fmt">got %1$d score</string>
+    <string name="score_sign_got_score_fmt">signed today, can not get more score</string>
+    <string name="score_sign_month_view_fmt">%1$d month</string>
+    <string name="score_sign_tomorrow_desc">sign for %1$d tomorrow，total %2$d</string>
+    <string name="score_today_text">today</string>
     <string name="score_total_score_fmt">%d</string>
-    <string name="score_unsign">Aucun point de signe</string>
-    <string name="score_update_address_error">Définition votre adresse réseau échouée !</string>
-    <string name="score_update_address_failure">Définition votre adresse réseau échouée，veuillez réessayer！</string>
-    <string name="score_update_address_succ">Définition réussie!</string>
-    <string name="score_user_id_fmt">Identifiant Mi:%1$s</string>
-    <string name="score_week_friday">5</string>
-    <string name="score_week_monday">1</string>
-    <string name="score_week_saturday">6</string>
-    <string name="score_week_sunday">7</string>
-    <string name="score_week_thursday">4</string>
-    <string name="score_week_tuesday">2</string>
-    <string name="score_week_wednesday">3</string>
-    <string name="score_winning_get_time_fmt">Date de la liste des gagnants dd.MM.yyyy</string>
-    <string name="score_winning_list_head">La semaine dernière, un gagnant annoncé chaque jour</string>
-    <string name="score_winning_list_last">"Nous n'avons plus de liste"</string>
-    <string name="score_winning_list_title">Liste des gagnants</string>
-    <string name="score_winning_period_fmt">Période %1$d</string>
-    <string name="score_winning_time_fmt">Date de publication dd.MM.yyyy</string>
+    <string name="score_unsign">unsigned</string>
+    <string name="score_update_address_error">set fail</string>
+    <string name="score_update_address_failure">set fail, retry!</string>
+    <string name="score_update_address_succ">set success!</string>
+    <string name="score_user_id_fmt">mi account id:%1$s</string>
+    <string name="score_week_friday">friday</string>
+    <string name="score_week_monday">monday</string>
+    <string name="score_week_saturday">saturday</string>
+    <string name="score_week_sunday">sunday</string>
+    <string name="score_week_thursday">thursday</string>
+    <string name="score_week_tuesday">tuesday</string>
+    <string name="score_week_wednesday">wednesday</string>
+    <string name="score_winning_get_time_fmt">get date yyyy.MM.dd</string>
+    <string name="score_winning_list_head">publish winning list</string>
+    <string name="score_winning_list_last">not more</string>
+    <string name="score_winning_list_title">winning list</string>
+    <string name="score_winning_period_fmt">%1$d期</string>
+    <string name="score_winning_time_fmt">publish date yyyy.MM.dd</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="selected_0_cnt_tips">Veuillez sélectionner un article</string>
     <string name="selected_cnt_tips">%1$s articles sélectionnés</string>
@@ -2268,11 +2311,148 @@ Appuyez longuement pour revenir"</string>
     <string name="wx_not_installed">"Veuillez installer l'application wenxin"</string>
     <string name="year">An</string>
     <string name="yeelight_device_name">Lampe de chevet Yeelight</string>
-    <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
     <string name="yunyi_virtual_camera">Smart Camera fourmis à miel</string>
     <string name="yunyi_virtual_camera_create">Ajouter caméra intelligente;</string>
     <string name="yunyi_virtual_camera_create_fail">"Impossible d'ajouter direct petite caméra"</string>
     <string name="yunyi_virtual_camera_create_get_location_fail">Le défaut de recevoir des informations de localisation</string>
     <string name="yunyi_virtual_camera_create_success">"Ajouter Caméra intelligente des fourmis à miel avec succès "</string>
     <string name="zimi_power_name">ZMI puissance mobile intelligent</string>
+    <string name="accept">Accept</string>
+    <string name="add_condition_error">5 conditions at most</string>  
+    <string name="ble_connect_failed_message">connect fail, try again？</string>
+    <string name="ble_connect_failed_tips">connect fail</string>
+    <string name="ble_connect_success_toast">connect success</string>
+    <string name="ble_connecting">ble connecting</string>
+    <string name="ble_connecting_tips">do not keep phone away</string>
+    <string name="body_sensor_motion">人体传感器感应到有人移动</string>
+    <string name="body_sensor_no_motion">人体传感器感应到有人离开</string>
+    <string name="choose_body_sensor">请选择人体传感器</string>
+    <string name="choose_home_router">请选择家中路由器</string>
+    <string name="choose_home_yi_camera">请选择家中摄像机</string>
+    <string name="conditions_control">多条件控制</string>
+    <string name="connect_wlan">connect WLAN</string>
+    <string name="connect_wlan_tips">select available WLAN</string>
+    <string name="device_connect_failed_tips">make sure WLAN password correct and available</string>
+    <string name="device_connecting">connecting</string>
+    <string name="device_connecting_tips">make sure phone bluetooth connected</string>
+    <string name="feedback_already_submit">反馈已经提交，感谢您的吐槽</string>
+    <string name="feedback_app_experience">应用体验</string>
+    <string name="feedback_detail">反馈详情</string>
+    <string name="feedback_eshop">商城</string>
+    <string name="feedback_history">反馈记录</string>
+    <string name="feedback_more">更多</string>
+    <string name="feedback_more_problem">更多讨论</string>
+    <string name="feedback_my_device">我的设备</string>
+    <string name="feedback_other">其他</string>
+    <string name="feedback_problem">反馈问题</string>
+    <string name="feedback_title">帮助与反馈</string>
+    <string name="feedback_waitting">请耐心等待回复</string>
+    <string name="footer_error_text">no device found or unable to connect device</string>
+    <string name="i_know">我知道了</string>
+    <string name="kuailian_processing_hint">make sure your router, phone and device are close to each other</string>
+    <string name="mi_band">小米手环</string>
+    <string name="mi_band_exist_nearby">蓝牙设备检测到附近无小米手环</string>
+    <string name="mi_band_not_exist_nearby">蓝牙设备检测到附近有小米手环</string>
+    <string name="mi_camera">小蚁摄像机</string>
+    <string name="mi_camera_change">摄像机画面有变化时</string>
+    <string name="mi_camera_no_change">摄像机画面无变化时</string>
+    <string name="mi_router">小米路由器</string>
+    <string name="mi_router_connect_device">路由器检测到设备连网</string>
+    <string name="mi_router_disconnect_device">路由器检测到设备离网</string>
+    <string name="mi_smart_home_cs">小米智能家庭客服</string>
+    <string name="mi_validate_relogin">please relogin</string>
+    <string name="network_info_extranet">远程连接</string>
+    <string name="network_info_intranet">局域网连接</string>
+    <string name="network_info_loading">正在获取</string>
+    <string name="network_info_wifi_ip">IP地址</string>
+    <string name="network_info_wifi_mac">MAC地址</string>
+    <string name="network_info_wifi_name">WIFI名称</string>
+    <string name="network_info_wifi_signal">WIFI强度</string>
+    <string name="network_info_wifi_type">当前模式</string>
+    <string name="notification_quick_op_title">Notification operation</string>
+    <string name="phone">手机</string>
+    <string name="phone_connect_wifi">当手机连上WIFI</string>
+    <string name="phone_disconnect_wifi">当手机断开WIFI</string>
+    <string name="picker_sec">sec</string>
+    <string name="plugin_loading">Loading</string>
+    <string name="plugin_loading_fail">Loading failed</string>
+    <string name="scene2_add_other_device">添加其他设备</string>
+    <string name="scene2_awake">起床场景</string>
+    <string name="scene2_close_airpurifier">开窗后关闭空净和空调</string>
+    <string name="scene2_custom_add_scene">自定义添加场景</string>
+    <string name="scene2_device_group_condition_come">回家时</string>
+    <string name="scene2_device_group_condition_desc">点击设置</string>
+    <string name="scene2_device_group_condition_leave">离家时</string>
+    <string name="scene2_enable_push">执行结果通知</string>
+    <string name="scene2_leavehome">离家场景</string>
+    <string name="scene2_mute">手机来电后电视静音</string>
+    <string name="scene2_photograph">开门后自动牌照</string>
+    <string name="scene2_safety">家居安全</string>
+    <string name="scene_confirm_delete">确认删除场景？</string>
+    <string name="scene_enable_to_change">此场景不符合规范，建议删除后重建</string>
+    <string name="scene_error_0">执行成功</string>
+    <string name="scene_error_2">设备离线</string>
+    <string name="scene_error_3">执行超时</string>
+    <string name="scene_error_other">异常错误</string>
+    <string name="scene_unclickable_toast_1">无法同时满足所选条件</string>
+    <string name="scene_unclickable_toast_2">无法与已选条件/动作创建有效场景</string>
+    <string name="set_timer_fail_delete">上次定时删除失败，是否重试?</string>
+    <string name="set_timer_fail_delete1">定时删除失败，是否重试?</string>
+    <string name="set_timer_fail_disable">上次定时更新失败，是否重试?</string>
+    <string name="set_timer_fail_disable1">定时更新失败，是否重试?</string>
+    <string name="set_timer_fail_edit">上次定时编辑失败，是否重试?</string>
+    <string name="set_timer_fail_edit1">定时编辑失败，是否重试?</string>
+    <string name="smart_life_entry_sub_title">Change device smart</string>
+    <string name="smart_life_entry_title">Change device smart</string>
+    <string name="smart_life_intro_device_socket">Xiaomi Socket</string>
+    <string name="smart_life_intro_device_ultrared">Xiaomi Ultrared Controller</string>
+    <string name="smart_life_intro_tip4">Make your %1$s smart</string>
+    <string name="smarthome_scene_delay">延时</string>
+    <string name="smarthome_scene_delay_detal_min">%d分后</string>
+    <string name="smarthome_scene_delay_detal_min_sec">%1$d分%2$d秒后</string>
+    <string name="smarthome_scene_delay_detal_sec">%d秒后</string>
+    <string name="tag_ellipsis">…</string>
+    <string name="vip_achievement">achievement</string>
+    <string name="vip_level">level</string>
+    <string name="wx_login_cancel">cancel</string>
+    <string name="etc">等</string>
+    <string name="scene_user_license">智能场景使用须知</string>
+    <string name="scene_user_license_content">"智能场景使用中如发生下述情形，本产品不承担任何法律责任
+ 1、凡以任何方式创建智能场景者均被视为自愿接受本声明。
+ 2、本功能目前处于试验阶段，仅供体验交流，该功能可能产生的缺陷将通过软件的升级逐渐修正。其他内容我无异议。
+ 3、对于包括但不限于黑客攻击、网络中断、网络延时、设备离线等原因造成的智能场景未执行或者错误执行，本公司不承担任何责任，但将尽力减少因此给用户造成的损失或影响。
+ 4、因用户不当使用本功能而导致的任何损失，本公司亦不承担任何法律责任。
+
+"</string>
+    <string name="scene_user_license_title">使用须知</string>
+    <string name="scene_user_license_title_1">我已阅读《智能场景使用须知》</string>
+    <string name="scene_warrning_text">风险提醒：场景可能因网络等问题导致执行失败，请勿联动可能导致安全隐患的设备。</string>
+    <string name="share_last">最近</string>
+    <string name="share_permission_can_control">允许控制</string>
+    <string name="share_permission_can_control_info">可浏览设备信息并可控制设备</string>
+    <string name="share_permission_cannot_control">仅可查看</string>
+    <string name="share_permission_cannot_control_info">可浏览设备,不可控制设备</string>
+    <string name="share_pic_not_extern_storage">not enough storage</string>
+    <string name="share_select_permission">共享设备使用权限</string>
+    <string name="share_to_mi_account">共享给小米帐号</string>
+    <string name="share_to_wx_friend">共享给微信好友</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="catalyst_debugjs_off">Stop Chrome Debugging</string>
+    <string name="catalyst_element_inspector_off">Hide Inspector</string>
+    <string name="catalyst_hot_module_replacement">Enable Hot Module Replacement</string>
+    <string name="catalyst_hot_module_replacement_off">Disable Hot Module Replacement</string>
+    <string name="catalyst_live_reload">Enable Live Reload</string>
+    <string name="catalyst_live_reload_off">Disable Live Reload</string>
+    <string name="catalyst_perf_monitor">Enable Perf Monitor</string>
+    <string name="catalyst_perf_monitor_off">Disable Perf Monitor</string>
+    <string name="catalyst_remotedbg_error">Unable to connect with remote debugger</string>
+    <string name="catalyst_remotedbg_message">Connecting to remote debugger</string>
+    <string name="catalyst_start_profile">Start Profile</string>
+    <string name="catalyst_stop_profile">Stop Profile</string>
+    <string name="hello_world">Traduit par Angyann et Fays</string>
+    <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
+    <string name="miio_setting_forum">Forum</string>
+    <string name="miot_store_app_name">MiotStore</string>
+    <string name="developer_plugin_info">Informations du plug-in développeur</string>
+    <string name="dialog_button_create_yeelight_group">Créer lampes</string>
 </resources>
