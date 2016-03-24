@@ -12,6 +12,7 @@
     <string name="btn_open">Activer</string>
     <string name="btn_close">Désactiver</string>
     <string name="btn_next">Étape suivante</string>
+    <string name="btn_exit">Quitter</string>
     <string name="delete">Supprimer</string>
     <string name="delete_success">Supprimer !</string>
     <string name="delete_fail">Delete error!</string>
@@ -54,13 +55,14 @@
     <string name="channel_send_current">Fréquence</string>
     <string name="channel_prompt">Réglez votre autoradio</string>
     <string name="channel_recommend">Fréquence recommandé</string>
+    <string name="download_fail_nofilename">Erreur de fichier（400）</string>
     <string name="drive_title_today">"Enregistrement aujourd'hui"</string>
     <string name="drive_title">Enregistrement de la conduite</string>
     <string name="drive_title_drive">Voyage</string>
     <string name="drive_title_drive_today">Conduite du jour:</string>
     <string name="drive_title_hour">Heure</string>
     <string name="drive_title_minute">Minute</string>
-    <string name="drive_near_info">%1$s Conduire%2$s</string>
+    <string name="drive_near_info">%1$s Conduire %2$s</string>
     <string name="drive_time_0">"Rui meters, surprises
 hurry to enjoy this belong to you the fun of it"</string>
     <string name="drive_time_30_1">"恭喜你，在绿色行车的道路已做到了极致
@@ -94,7 +96,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="fb_sending">Envoi...</string>
     <string name="fb_send_success">Succès!</string>
     <string name="fb_send_fail">Erreur! Non envoyé!</string>
-    <string name="feed_back_list_null1">Problème de traduction? Envoyer une capture d'écran</string>
+    <string name="feed_back_list_null1">Problème de traduction ? Envoyer une capture d\'écran</string>
     <string name="feed_back_list_null2">adresse mail: mesilikas@gmail.com</string>
     <string name="guide">Guide</string>
     <string name="guide_use">Recommencé...</string>
@@ -141,7 +143,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="help_A3">操作提示：进入APP，点击首页的【FM发射频率】，设置一下播放器的发射频率，点击发射调频看到调频成功提示信息后，将车载FM调频调制所设的频率即可。</string>
     <string name="help_Q4">4、Comment changer de lecteur par défaut?</string>
     <string name="help_A4">Astuce: cliquez sur "Lecteur par défaut", puis choisissez votre APP</string>
-    <string name="help_Q5">5、Le lecteur ne s'ouvre pas automatiquement</string>
+    <string name="help_Q5">5、Le lecteur ne s\'ouvre pas automatiquement</string>
     <string name="help_A5">操作提示：请在手机的系统设置中将车载蓝牙FM应用程序设置为受保护的后台应用。参考：进入手机【设置】，点击【受保护的后台应用】，点击车载蓝牙FM应用后面的开关。</string>
     <string name="help_Q6">6、Aucun changement sur certaine option</string>
     <string name="help_A6">Astuce: Pour activer certaine option, vous devez déconnecter puis reconnecter votre BT</string>
@@ -173,6 +175,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="help_CC_A8">"Si vous choisissez une fréquence déjà utilisé, il risque d'y avoir des interférence voir même l'impossibilitée d'entendre votre musique"</string>
     <string name="help_CC_Q9">Comment trouver une fréquence optimae？</string>
     <string name="help_CC_A9">"Les fréquences recommandées ne sont pas forcément les meilleurs dans votre ville, vous pouvez essayer d'augmenter ou diminuer de 0.1MHz (sur l'application et l'autoradio), une fois que vous avez la meilleur qualitée vous pouvez nous envoyer le nom de votre ville et sa fréquence optimale, cela nous permettra d'ajuster les fréquences recommandées。"</string>
+    <string name="info_center">Centre d\'information</string>
     <string name="login">Se connecter</string>
     <string name="login_fail">Echec!</string>
     <string name="login_out">Se déconnecter</string>
@@ -302,6 +305,8 @@ hurry to enjoy this belong to you the fun of it"</string>
 本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
     <string name="phone_voice_title">Appels entrant</string>
     <string name="push_activity">Active</string>
+    <string name="shake_song">摇一摇切歌</string>
+    <string name="shake_song_tip">提示:部分硬件不支持摇一摇切歌功能。</string>
     <string name="setting">Paramètres</string>
     <string name="update">Vérifier mise à jour !</string>
     <string name="update_title">Mise à jour</string>
@@ -320,6 +325,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="update_download">Mettre à jour maintenant</string>
     <string name="update_install">Installation</string>
     <string name="update_dialog_title">Essayez la nouvelle version! （Version v%1$s）</string>
+    <string name="update_dialog_title_force">发现新版本。要继续使用应用，您必须安装新版本！</string>
     <string name="update_dialog_not_update">Plus tard</string>
     <string name="update_dialog_update">Mettre à jour maintenant</string>
     <string name="voice_title">Info vocale (en Chinois)</string>
