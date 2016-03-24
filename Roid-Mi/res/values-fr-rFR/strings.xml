@@ -35,7 +35,7 @@
     <string name="auto_info">Choisissez Ouvrir dans votre lecteur</string>
     <string name="auto_info_title">Mode de démarrage</string>
     <string name="auto_state_default">Défaut</string>
-    <string name="auto_state_click">Tap Open</string>
+    <string name="auto_state_click">Tap ouvrir</string>
     <string name="auto_state_play">Lecture automatique</string>
     <string name="auto_state_click_info">Tap OK pour ouvrir votre lecteur</string>
     <string name="auto_state_play_info">Ouverture automatique du lecteur et de la lecture</string>
@@ -94,7 +94,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="fb_sending">Envoi...</string>
     <string name="fb_send_success">Succès!</string>
     <string name="fb_send_fail">Erreur! Non envoyé!</string>
-    <string name="feed_back_list_null1">Translate questions? Send screenshot following</string>
+    <string name="feed_back_list_null1">Problème de traduction? Envoyer une capture d'écran</string>
     <string name="feed_back_list_null2">adresse mail: mesilikas@gmail.com</string>
     <string name="guide">Guide</string>
     <string name="guide_use">Recommencé...</string>
@@ -105,7 +105,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="guide_protocol"><u>Licence</u></string>
     <string name="guide_privacy_policyl"><u>Politique de confidentialité</u></string>
     <string name="guide_start_up">Commencez</string>
-    <string name="guide_start_up_info1">保证程序正常运行</string>
+    <string name="guide_start_up_info1">Assurez vous du fonctionnement normal du programme</string>
     <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche Retour pour revenir sur cet écran"</string>
     <string name="guide_start_up_setting">Commencer le paramètrage</string>
     <string name="guide_install">"C'est parti!"</string>
@@ -154,7 +154,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="help_Q10">10、常用的播放器在自动播放模式下使用不了？</string>
     <string name="help_A10">操作提示：请确认该播放器是否进行了更新操作，如果为更新后的软件，请及时将播放器的引导页点击关闭掉。</string>
     <string name="help_Q11">"11、Votre lecteur n'est pas reconnu？"</string>
-    <string name="help_A11">"Astuce: Votre lecteur ne fait pas parti des lecteurs reconnu par notre logiciel, nous vous recommandons d'utiliser le lecteur par défaut ou le logiciel musique QQ"</string></string>
+    <string name="help_A11">"Astuce: Votre lecteur ne fait pas parti des lecteurs reconnu par notre logiciel, nous vous recommandons d'utiliser le lecteur par défaut ou le logiciel musique QQ"</string>
     <string name="help_CC_Q1">播放器是否在手机附近？</string>
     <string name="help_CC_A1">播放器通过蓝牙与手机连接，播放器和手机的距离越近，越有利于播放器和手机连接。</string>
     <string name="help_CC_Q2">播放器是否还有供电？</string>
@@ -192,7 +192,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="music">Lecteur par défaut</string>
     <string name="music_title">Lecteur</string>
     <string name="music_not_install">APP non intallé!</string>
-    <string name="music_main_title">Ouvrir pour démarrer:</string>
+    <string name="music_main_title">Tap pour les options du lecteur:</string>
     <string name="music_main_default_title">Set your start APP!</string>
     <string name="music_mode">Lecture automatique</string>
     <string name="music_chose_app">Choisir APP:</string>
@@ -322,7 +322,7 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="update_dialog_title">Essayez la nouvelle version! （Version v%1$s）</string>
     <string name="update_dialog_not_update">Plus tard</string>
     <string name="update_dialog_update">Mettre à jour maintenant</string>
-    <string name="voice_title">Commande vocale</string>
+    <string name="voice_title">Info vocale (en Chinois)</string>
     <string name="voice_mode_close">Quitter</string>
     <string name="voice_info">是否每次启动音乐app时进行语音提醒</string>
     <string name="voice_info_title">是否开启语音提示（疲劳驾驶、打开播放器等）？</string>
