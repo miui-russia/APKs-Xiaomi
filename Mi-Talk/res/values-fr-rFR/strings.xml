@@ -214,7 +214,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="app_upgradeYes">Oui</string>
     <string name="app_upgrade_additional_size">[Mise à jour]Installation taille: %.2fMo</string>
     <string name="app_xiezai">Désinstaller</string>
-    <string name="apply_join_group_operation_success">Envoyer votre candidature et attendez la confirmation de l\'administrateur</string>
+    <string name="apply_join_group_operation_success">"Envoyer votre candidature et attendez la confirmation de l'administrateur"</string>
     <string name="apply_join_muc">Demander à rejoindre le groupe</string>
     <string name="apply_once_again">Appliquer à nouveau</string>
     <string name="apply_reason">Envoyer une demande</string>
@@ -573,7 +573,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="choose_one">Sélectionnez-en une</string>
     <string name="choose_phone_contact">Sélectionnez des contacts</string>
     <string name="choose_service_account">Sélectionnez un service de comptes</string>
-    <string name="choose_transmist_target">Sélectionnez la personne de contact </string>
+    <string name="choose_transmist_target">Sélectionnez la personne de contact</string>
     <string name="choose_union">Sélectionnez un groupe</string>
     <string name="choose_unions">Sélectionnez des groupes</string>
     <string name="choosertitle_sharevia">"Complétez cette action pour l'utiliser"</string>
@@ -807,7 +807,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="create_muc_add_info_input_des_0">Contactez-créateur du groupe</string>
     <string name="create_muc_add_info_title">Profil du Groupe</string>
     <string name="create_muc_add_info_tuijian">Sélectionnez un type</string>
-    <string name="create_muc_choose_poi_message">"La localisation ne peut pas être modifié après que le groupe soit créé"</string>
+    <string name="create_muc_choose_poi_message">La localisation ne peut pas être modifié après que le groupe soit créé</string>
     <string name="create_muc_chose_classmate_tips">Seulement recommander à ses collègues</string>
     <string name="create_muc_chose_colleage_tips">Seulement recommander à ses collègues</string>
     <string name="create_muc_chose_company">Sélectionnez une entreprise</string>
@@ -1834,8 +1834,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="high_image_no_download">Téléchargement des images de haute qualité en cours, veuillez essayer de nouveau plus tard</string>
     <string name="high_risk_alert_title_hint">Confirmer amie</string>
     <string name="high_risk_muc_hint">Le muc a récemment été signalé plusieurs fois</string>
-    <string name="high_risk_user_hint">L\'utilisateur a été récemment signalé plusieurs fois</string>
-    <string name="high_risk_user_hint_alert">L\'utilisateur a été récemment signalé de nombreuses fois, vous êtes sûr de faire ami ?</string>
+    <string name="high_risk_user_hint">"L'utilisateur a été récemment signalé plusieurs fois"</string>
+    <string name="high_risk_user_hint_alert">"L'utilisateur a été récemment signalé de nombreuses fois, vous êtes sûr de faire ami ?"</string>
     <string name="hint_search_friend_online">Rechercher tous les utilisateurs de Mi-Talk</string>
     <string name="hint_search_location_online">Lieux à proximité</string>
     <string name="hint_setting">Cliquer pour paramètrer</string>
@@ -1924,7 +1924,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="invite_colleage">Inviter des collègues</string>
     <string name="invite_contact">"Carnet d'adresse du téléphone"</string>
     <string name="invite_contact_hit">"L'invitation par SMS peut engendrer des surcoûts. veuillez vous renseigner de ces coûts auprès de votre fournisseur d'accès"</string>
-    <string name="invite_count"> %d personnes invitées</string>
+    <string name="invite_count">%d personnes invitées</string>
     <string name="invite_email_contacts">Adresse mail du compte des contacts</string>
     <string name="invite_facebook_contacts">Amis Facebook</string>
     <string name="invite_failed">Échec</string>
@@ -2065,7 +2065,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="login_error_incorrect_system_time">"Échec de connexion. Erreur d'heure système. Ajustez l'heure système et réessayer."</string>
     <string name="login_failed">Échec de connexion. Veuillez réessayer</string>
     <string name="login_failed_verify_picture_code">"Échec de trop nombreuses fois, veuillez entrer le code d'image pour vérifier"</string>
-    <string name="login_failed_verify_security_token">"Impossible de vous connecter, veuillez vérifier ou activer votre téléphone"</string>
+    <string name="login_failed_verify_security_token">Impossible de vous connecter, veuillez vérifier ou activer votre téléphone</string>
     <string name="login_failure">Échec de connexion, vérifiez votre connexion réseau</string>
     <string name="login_gender">Sexe</string>
     <string name="login_hint_send_sms">Inscrivez-vous et envoyer un SMS à la vérification sur ce téléphone</string>
@@ -3055,6 +3055,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="notification_wall_reply_you">%1$s commenté votre message</string>
     <string name="notification_wall_reply_you_with_cnt">%1$s…(%2$d) commenté votre message sur votre Mur</string>
     <string name="notify">Rappel</string>
+    <string name="notify_bar_sub_forward_content">Partager un lien</string>
     <string name="notify_connection_off">Échec de connexion</string>
     <string name="notify_connection_off_when_pull_old">Connexion avec le serveur perdue, vérifier votre connexion réseau et réessayez</string>
     <string name="notify_multi_login">Vous avez été déconnecté car votre compte a été enregistré sur un autre appareil. Appuyez pour vous connecter</string>
@@ -3127,8 +3128,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="openapp_local_downloading">Démarrage…</string>
     <string name="openapp_moredetail">Appuyez pour voir les détails</string>
     <string name="operation_failed_no_network">Impossible de se connecter au réseau</string>
-    <string name="opreation_failed_push_connected_faild">Échec de l\'envoi du message, réessayer plus tard !</string>
-	<string name="optimize_avatar_folder">Organiser vos photos de profil</string>
+    <string name="opreation_failed_push_connected_faild">"Échec de l'envoi du message, réessayer plus tard !"</string>
+    <string name="optimize_avatar_folder">Organiser vos photos de profil</string>
     <string name="optimize_avatar_folder_info">Réorganisez toutes vos photos de profil téléchargées depuis Mi-Talk vers votre Carte SD ?</string>
     <string name="option_menu_batch_delete">Supprimé</string>
     <string name="order_track">Suivre une commande</string>
@@ -3569,7 +3570,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_expired">Expirée</string>
     <string name="redbag_expired_refund">Enveloppe rouge expirée</string>
     <string name="redbag_failed_tip1">La quantité dépasse la limite, maximum 100</string>
-    <string name="redbag_failed_tip10">Recevoir un montant d\'enveloppe rouge dépassant la limite</string>
+    <string name="redbag_failed_tip10">"Recevoir un montant d'enveloppe rouge dépassant la limite"</string>
     <string name="redbag_failed_tip11">Comptes bloqués</string>
     <string name="redbag_failed_tip12">"Le Total du groupe d'enveloppes rouges dépasse le limite de 5000 yuans"</string>
     <string name="redbag_failed_tip13">"Le Total du groupe d'enveloppes rouges dépasse le limite de 200 yuans"</string>
@@ -3579,8 +3580,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_failed_tip5">Échec de la demande, veuillez réessayer</string>
     <string name="redbag_failed_tip6">"Échec de réception d'une enveloppe rouge"</string>
     <string name="redbag_failed_tip7">Échec</string>
-    <string name="redbag_failed_tip8">"Échec de l'envoi d'enveloppes rouges, veuillez nous envoyez un message avec comme informations les numéros des enveloppes, votre numéro d'abonnement "enregistrement enveloppes rouges - enveloppes rouges émises" des enveloppes rouges qui n'ont pas réussies a être envoyées"</string>
-    <string name="redbag_failed_tip9">Échec de réception le nombre d\'enveloppes rouges dépassant la limite</string>
+    <string name="redbag_failed_tip8">"Échec de l'envoi d'enveloppes rouges, veuillez nous envoyez un message avec comme informations les numéros des enveloppes, votre numéro d'abonnement enregistrement enveloppes rouges - enveloppes rouges émises des enveloppes rouges qui n'ont pas réussies a être envoyées"</string>
+    <string name="redbag_failed_tip9">"Échec de réception le nombre d'enveloppes rouges dépassant la limite"</string>
     <string name="redbag_h">Heure</string>
     <string name="redbag_input_amount_hint">Quantité entrante</string>
     <string name="redbag_leave_msg">Laissez un message</string>
@@ -3623,7 +3624,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_title_recv">Enveloppe rouge reçue</string>
     <string name="redbag_title_send">Enveloppe rouge envoyée</string>
     <string name="redbag_total">Total</string>
-    <string name="redbag_verified_tip1">"Depuis votre compte, liez votre Carte Bancaire à votre Portefeuille Mi，veuillez &lt;br>en %s à l\'intérieur，sinon, il sera retourné，&lt;font color=\"#f3635c\">rattacher la carte maintenant&lt;/font>"</string>
+    <string name="redbag_verified_tip1">"Depuis votre compte, liez votre Carte Bancaire à votre Portefeuille Mi，veuillez &lt;br>en %s à l'intérieur，sinon, il sera retourné，&lt;font color=\"#f3635c\">rattacher la carte maintenant&lt;/font>"</string>
     <string name="redbag_verified_tip2">"Vous n'avez pas lié votre Carte Bancaire à votre Portefeuille Mi, les enveloppes rouges seront renvoyées à l'expéditeur"</string>
     <string name="redbag_verify_tips_1">"Jusqu'à 200¥ pour chaque enveloppe rouge"</string>
     <string name="redbag_verify_tips_2">"Jusqu'à 100 enveloppes rouges"</string>
@@ -3635,12 +3636,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_yuan">¥</string>
     <string name="redbag_yuan_symbol">¥</string>
     <string name="redbg">Enveloppe rouge</string>
-    <string name="redbg_received_you">%s que j\'ai reçu</string>
+    <string name="redbg_received_you">"%s que j'ai reçu"</string>
     <string name="redbg_self">Les miennes</string>
     <string name="redbg_you_opend">Vous en avez reçu une de %s</string>
     <string name="redpacket_assistant_name">Mr Enveloppe Rouge</string>
     <string name="refresh">Rafraîchir</string>
-    <string name="refresh_picture_code_failure">Impossible d\'obtenir le code de l\'image, réessayer plus tard</string>
+    <string name="refresh_picture_code_failure">"Impossible d'obtenir le code de l'image, réessayer plus tard"</string>
     <string name="refresh_user_info_error">Échec de chargement, vérifiez votre connexion réseau et réessayez</string>
     <string name="refreshing">Téléchargement..</string>
     <string name="register">"S'inscrire"</string>
@@ -3655,6 +3656,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="register_new_account">"Vous n'avez pas de compte ? Créez-en un maintenant !"</string>
     <string name="register_new_btn">"S'inscrire"</string>
     <string name="register_now_btn">"S'inscrire"</string>
+    <string name="register_phone_verification_exceed_limit">获取验证码次数已经超过每日上限</string>
     <string name="register_quota_ok">Changez de numéro</string>
     <string name="register_succeed">Enregistrement réussi</string>
     <string name="register_verification_code_quota">Ce téléphone a atteint sa limite quotidienne de cinq fois pour obtenir le code de vérification</string>
@@ -3788,6 +3790,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="report_quick_feedback">"Exemple d'évaluations"</string>
     <string name="report_recordPro">Voix</string>
     <string name="report_record_pro_content">Veuillez décrire le problème</string>
+    <string name="report_redpacket">Redpacket</string>
     <string name="report_talk">Discussion</string>
     <string name="report_thank">Merci pour votre soutien !</string>
     <string name="report_title">Commentaires</string>
@@ -3811,8 +3814,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="resend_bind_sms">Renvoyer un code</string>
     <string name="resend_confirm_sms_for_secret_account">Vous avez été mis à jour. Pour la sécurité de votre compte, veuillez confirmer la mise à jour de les informations de votre adresse mail via un lien dans un SMS que nous venons de vous envoyer. Vous pouvez vous connecter et restaurer votre mot de passe avec votre email après validation complète</string>
     <string name="resend_email_succeeded">Le mail de confirmation a été envoyé !</string>
-    <string name="resend_failed">Échec</string>    
-	<string name="resend_sms">Renvoyer</string>
+    <string name="resend_failed">Échec</string>
+    <string name="resend_sms">Renvoyer</string>
     <string name="resend_sms_succeeded">Le message de confirmation a été envoyé !</string>
     <string name="reset_password">Réinitialiser votre mot de passe</string>
     <string name="reset_password_your_miid">Compte Mi</string>
@@ -3950,6 +3953,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_failed">"Échec d'envoi, veuillez essayer à nouveau."</string>
     <string name="send_feedback">Signaler un problème</string>
     <string name="send_forbidden_chat">Bloqué</string>
+    <string name="send_friend_name_card">Envoyer à un ami Carte de visite</string>
     <string name="send_group_sms">Message de diffusion</string>
     <string name="send_inviting_email">Envoi en cours..</string>
     <string name="send_message_to_friends">Envoyer à contacts</string>
@@ -3958,6 +3962,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_muc_card_bubble_title">Groupe</string>
     <string name="send_muc_card_not_support">"Nom du groupe: %1$s Identifiant du groupe: %2$s La version de Mi-Talk que vous utilisez actuellement ne supporte pas l'affichage de carte de visite."</string>
     <string name="send_muc_card_tip">[Carte de visite du groupe]</string>
+    <string name="send_muc_name_card">发送公会名片</string>
     <string name="send_pwd_by_email">Un email a été envoyé. Suivez les instructions fournies pour réinitialiser votre mot de passe</string>
     <string name="send_pwd_by_sms">Un sms a été envoyé à votre numéro de téléphone. Suivez les instructions fournies pour réinitialiser votre mot de passe</string>
     <string name="send_pwd_to">Envoyez-moi un sms de confirmation</string>
@@ -4082,7 +4087,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="settings_notification_detail_sound_file">Sonnerie</string>
     <string name="settings_notification_detail_vibrate">Vibrer</string>
     <string name="settings_notification_detail_vibrate_enable">Vibrer</string>
-    <string name="settings_notification_fold_hint">"Une fois désactiver les notifications seront masquer"</string>
+    <string name="settings_notification_fold_hint">Une fois désactiver les notifications seront masquer</string>
     <string name="settings_notification_fold_switch">Afficher les notifications</string>
     <string name="settings_notification_muc">Notification des messages du groupe</string>
     <string name="settings_notification_switch">Recevoir une notification du tchat</string>
@@ -4261,7 +4266,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="sixin_report">Signaler</string>
     <string name="sixin_report_btn">Obtenir</string>
     <string name="sixin_report_tips">"Soyez prudent avec le partage d'informations privées telles que des informations de compte bancaire. Si vous n'êtes à l'aise avec les messages reçus, vous pouvez appuyez longuement sur le message de discussion à signaler."</string>
-    <string name="sixin_report_user">Rapport d\'utilisateur</string>
+    <string name="sixin_report_user">"Rapport d'utilisateur"</string>
     <string name="sixin_request_after_cancelled">"Demande d'ami annulée，vous pouvez appuyer sur ajouter pour envoyer une demande."</string>
     <string name="sixin_resend">Renvoyer</string>
     <string name="sixin_sb_is_deleting">%s ne veut pas être ajoutée par personne</string>
@@ -4531,7 +4536,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="thread_tips_remind">[Rappel]</string>
     <string name="thursday">Jeudi</string>
     <string name="time_template">Heure: %1$s</string>
-    <string name="title_floating_window_permission">Paramètres d\'autorisation</string>
+    <string name="title_floating_window_permission">"Paramètres d'autorisation"</string>
     <string name="title_invite_classmate">Inviter des camarades</string>
     <string name="title_invite_colleague">Inviter des collègues</string>
     <string name="title_invite_friend">Inviter des amis</string>
@@ -4845,7 +4850,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="voip_already_in_call_hint">"Finir l'appel ?"</string>
     <string name="voip_audio_accepted">Autre réponse vocale</string>
     <string name="voip_audio_active_tips">Veuillez répondre en utilisant le combiné</string>
-    <string name="voip_audio_calling">Demande d\'appel...</string>
+    <string name="voip_audio_calling">"Demande d'appel..."</string>
     <string name="voip_audio_entry">Mi-Voip</string>
     <string name="voip_audio_positive_tips">Le correspondant a été ajouté à Mi-Voip</string>
     <string name="voip_audio_ringing">Appel vocal VoiP</string>
@@ -4881,7 +4886,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="voip_group_joining_channel">Connexion…</string>
     <string name="voip_group_joining_channel_xmpp_msg">"【Je viens juste de rejoindre le groupe d'appel】"</string>
     <string name="voip_group_leaving_channel_xmpp_msg">"【Je viens juste de quitter le groupe d'appel】"</string>
-    <string name="voip_group_video_positive_tips">%s ajouté aux appels VoiP</string>   
+    <string name="voip_group_video_positive_tips">%s ajouté aux appels VoiP</string>
     <string name="voip_guide_item1">"Lorsque votre ami Mi-Talk et vous êtes tous les deux disponibles, vous pouvez appuyez sur le bouton Micall pour lancer l'appel"</string>
     <string name="voip_guide_item2">"Afin d'assurer la qualité de vos appels, veuillez vérifier d'avoir une bonne connexion wifi ou réseau 3G."</string>
     <string name="voip_guide_item3">"Si vous avez des questions ou des commentaires afin d'améliorer notre service, veuillez nous envoyer un mail à support@mitalk.com, ou grâce à vos retours ou signalement."</string>
@@ -5129,7 +5134,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="xiaoice_dialog_title">Microsoft Ice</string>
     <string name="xiaoice_load_fail">Chargement de Microsoft Ice choué, veuillez effacer vos données Mi locales et redémarrer</string>
     <string name="xiaoice_name">%s Ice</string>
-    <string name="xiaomi_wallet">Portefeuille Mi</string>
+    <string name="xiaomi_wallet">Mi-Wallet</string>
     <string name="xm_shop">Boutique Mi-Crédits</string>
     <string name="xm_shop_category">Tous les produits</string>
     <string name="xm_shop_friend">Faites les boutiques avec des amis</string>
@@ -5275,7 +5280,6 @@ groupes et rejoignez-nous etc."</string>
     <string name="keep_on_import_contacts">Fait ! Vous pouvez envoyer des invitations maintenant</string>
     <string name="namecard_">DOB:</string>
     <string name="new_namecard__muc">Rejoindre un groupe</string>
-    <string name="no_power_change_muc_tag">"Seul le groupe principal peut modifier l'étiquette"</string>
     <string name="private_licence">"Conditions et accord de confidentialité de l'utilisateur"</string>
     <string name="say_sth">Voulez-vous dire quelque chose ?</string>
     <string name="sdcard_is_absent">"Il n'y a pas de carte SD"</string>
@@ -5293,7 +5297,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="switch_on" />
     <string name="update_member_count_titlebar">%s membres mis à jour</string>
     <string name="upload_muc_avarter">Télécharger Image MUC</string>
-    <string name="voip_no_answer">L\'autre partie ne répond pas</string>
+    <string name="voip_no_answer">"L'autre partie ne répond pas"</string>
     <string name="weibo_upgrade_image_url">http://lxcdn.dl.files.xiaomi.net/mfsv2/download/s010/p01DV6mtwyy2/S9Tslpq3qs95pX.jpg</string>
     <string name="weibo_upgrade_msg">\#2016 nouveau design flat pour le système de tchat, nouveaux modes, interface simplifiée, un contenu riche et un gameplay ! Prise en charge des F-code, communautés Mi, chansons thème, jeux pour jouer avec vos amis ! Amusant, ayez des conversations agréable, jouez ensemble ! http://www.miliao.com</string>
 </resources>
