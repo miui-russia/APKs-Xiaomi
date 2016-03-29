@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="catalyst_debugjs">Debug in Chrome</string>
-    <string name="catalyst_element_inspector">Show Inspector</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="catalyst_debugjs">Debug JS</string>
+    <string name="catalyst_element_inspector">Inspecter l\'élément</string>
     <string name="catalyst_jsload_error">"Unable to download JS bundle from the dev server.
 
 Try the following to fix the issue:
@@ -30,7 +30,7 @@ Try the following to fix the issue:
 • If you're on a physical device connected to the same machine, run 'adb reverse tcp:8081 tcp:8081' to forward requests from your device
 • If your device is on the same Wi-Fi network, set 'Debug server host &amp; port for device' in 'Dev settings' to your machine's IP address and the port of the local dev server - e.g. 10.0.1.1:8081"</string>
     <string name="catalyst_jsload_message">Fetching JS bundle</string>
-    <string name="catalyst_jsload_title">Please wait…</string>
+    <string name="catalyst_jsload_title">Veuillez patienter...</string>
     <string name="catalyst_reloadjs">Reload JS</string>
     <string name="catalyst_settings">Dev Settings</string>
     <string name="catalyst_settings_title">Catalyst Dev Settings</string>
@@ -53,7 +53,19 @@ Try the following to fix the issue:
     <string name="about_region">Sélectionnez la région</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
     <string name="about_test">"Passez à l'environnement de test"</string>
+    <string name="account_basic_data">Basic Info</string>
+    <string name="account_binding">Account Binding</string>
+    <string name="account_binding_waiting">请稍等...</string>
+    <string name="account_bound">bound</string>
     <string name="account_login">Connexion</string>
+    <string name="account_security">Privacy</string>
+    <string name="account_unbind_alert_msg">you need re-login after unbind, sure？</string>
+    <string name="account_unbind_alert_title">confirm unbind</string>
+    <string name="account_unbind_alert_unbind">unbind</string>
+    <string name="account_unbind_failed">解除绑定失败</string>
+    <string name="account_unbound">unbound</string>
+    <string name="account_vip_achievement">Grade</string>
+    <string name="account_wechat">WeChat</string>
     <string name="activity_title_upgrade">Mise à jour</string>
     <string name="add_back_device_error">"Échec d'ajout de l'appareil，veuillez réessayer"</string>
     <string name="add_btn_text">Ajouter</string>
@@ -110,10 +122,11 @@ Try the following to fix the issue:
     <string name="bind_title">Détails de connexion des périphériques</string>
     <string name="bind_unbind">Non connecté</string>
     <string name="binding_feedback">Association de compte</string>
-    <string name="bing_tips">Voir la méthode de réinitialisation</string>
-    <string name="bought_device_go">En savoir plus</string>
+    <string name="bing_tips">Afficher la méthode de réinitialisation</string>
+    <string name="bought_device_go">Plus</string>
     <string name="bought_device_remote">Commande intelligente</string>
     <string name="bought_device_switch">Prise intelligente Mi</string>
+    <string name="bt_device_not_support_launcher">蓝牙设备不支持添加快捷方式</string>
     <string name="button_bind">Connexion</string>
     <string name="button_bind_failed">Connexion échouée, veuillez réessayer</string>
     <string name="button_bind_failed_info">Connexion échouée, veuillez vérifier que le périphérique et le téléphone utilisent le même routeur</string>
@@ -229,6 +242,7 @@ Try the following to fix the issue:
     <string name="complete">OK</string>
     <string name="condition_come_home">Rentrer au domicile</string>
     <string name="condition_leave_home">Quitter le domicile</string>
+    <string name="conditions_control">多条件控制</string>
     <string name="confirm_button">OK</string>
     <string name="confirm_delete_family">Êtes-vous sûr de vouloir supprimer cette personne ?</string>
     <string name="confirm_quit">Quitter</string>
@@ -419,7 +433,7 @@ Try the following to fix the issue:
     <string name="gateway_main_title">Mi-Home Suite</string>
     <string name="gateway_motion_name">Capteur de mouvements</string>
     <string name="gateway_music_title">Sonnette</string>
-    <string name="gateway_myscene">Ma localisation</string>
+    <string name="gateway_myscene">Scène</string>
     <string name="gateway_name">Passerelle</string>
     <string name="gateway_no_device">Aucun équipement</string>
     <string name="gateway_no_support_firmware">Le matériel ne supporte pas le firmware de mise à jour proposé</string>
@@ -427,7 +441,7 @@ Try the following to fix the issue:
     <string name="gateway_remove_scene">Supprimer une prise de vue</string>
     <string name="gateway_remove_subdevice_tips">OK pour supprimer les périphériques secondaires</string>
     <string name="gateway_rename_scene">Renommer une prise de vue</string>
-    <string name="gateway_scene">Prise de vue</string>
+    <string name="gateway_scene">Scène</string>
     <string name="gateway_scene_empty_tip">Aucune Prise de vue</string>
     <string name="gateway_sub_device_offline_text">Essayez: 1 faire déclencher le capteur; 2 après la réinitialisation, reconnecter; 3 Remplacement de la batterie...</string>
     <string name="gateway_sub_device_offline_url">Après la réinitialisation, reconnecter</string>
@@ -589,7 +603,7 @@ Try the following to fix the issue:
     <string name="label_email">Adresse email</string>
     <string name="label_head">Avatar</string>
     <string name="label_name">Nom et Prénom</string>
-    <string name="label_phone">Numéro de téléphone</string>
+    <string name="label_phone">Numéro</string>
     <string name="label_pwd">Modifier le mot de passe</string>
     <string name="label_sex">Sexe</string>
     <string name="launcher_login">Connexion...</string>
@@ -761,6 +775,7 @@ Try the following to fix the issue:
     <string name="miio_setting_message_center">Messages</string>
     <string name="miio_setting_share">Partage</string>
     <string name="miio_setting_share_manager">Partage de périphériques</string>
+    <string name="miio_setting_share_short">Partager</string>
     <string name="miio_setting_upgrade">Vérifier les mises à jour</string>
     <string name="miio_setting_upgrade_checking">Vérification...</string>
     <string name="miio_start_firmware_upgrade_fail">Échec de la mise à jour</string>
@@ -850,6 +865,14 @@ Try the following to fix the issue:
     <string name="my_phone_ir_name">Télécommande Mi</string>
     <string name="my_phone_name">Journal de bord</string>
     <string name="network_disable">Connexion réseau invalide</string>
+    <string name="network_info_extranet">Remote</string>
+    <string name="network_info_intranet">Local</string>
+    <string name="network_info_loading">Loading</string>
+    <string name="network_info_wifi_ip">IP address</string>
+    <string name="network_info_wifi_mac">MAC address</string>
+    <string name="network_info_wifi_name">WIFI name</string>
+    <string name="network_info_wifi_signal">WIFI signal</string>
+    <string name="network_info_wifi_type">WIFI model</string>
     <string name="next_button">Suivant</string>
     <string name="nick_name_empty">Vide</string>
     <string name="nick_too_long">Le pseudo doit avoir moins de 20 caractères</string>
@@ -998,6 +1021,7 @@ Try the following to fix the issue:
     <string name="publish_progress_message">Publication en cours...</string>
     <string name="pull_down_refresh">Tirer pour actualiser</string>
     <string name="pull_up_refresh">Tirer pour rafraîchir</string>
+    <string name="quit">Quitter</string>
     <string name="quit_application">Quitter</string>
     <string name="quit_hint">Quitter maintenant ?</string>
     <string name="reboot_router_rebooting_title">Redémarrage...</string>
@@ -1126,6 +1150,7 @@ Try the following to fix the issue:
     <string name="scene_add_condition_empty">Aucune condition</string>
     <string name="scene_add_task">Étape 2: Ajouter des instructions</string>
     <string name="scene_add_task_empty">Aucune instruction</string>
+    <string name="scene_confirm_delete">确认删除场景？</string>
     <string name="scene_conflict_tip">"%1$d. Cette prise de vue est en conflit avec \"%2$s\" (si elle doit être créé, supprimez ou désactivez les prises de vue en contradiction)
 "</string>
     <string name="scene_default_keyname_1">Protégez votre maison de façon intelligente</string>
@@ -1142,6 +1167,11 @@ Try the following to fix the issue:
     <string name="scene_default_name_5">Mode Bonne Nuit</string>
     <string name="scene_doorring_repeat_tip">Cette emplacement multiplie \"Sonnerie\"</string>
     <string name="scene_enable">Activé</string>
+    <string name="scene_enable_to_change">此场景不符合规范，建议删除后重建</string>
+    <string name="scene_error_0">执行成功</string>
+    <string name="scene_error_2">设备离线</string>
+    <string name="scene_error_3">执行超时</string>
+    <string name="scene_error_other">异常错误</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
     <string name="scene_manage">Scène</string>
@@ -1153,6 +1183,8 @@ Try the following to fix the issue:
     <string name="scene_save1">Sauvegarder</string>
     <string name="scene_then">Ensuite</string>
     <string name="scene_then_extra">Ajouter des instructions</string>
+    <string name="scene_unclickable_toast_1">无法同时满足所选条件</string>
+    <string name="scene_unclickable_toast_2">无法与已选条件/动作创建有效场景</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
     <string name="select_from_camera">Prendre un Photo</string>
     <string name="select_local_picture">Choisir depuis la Galerie</string>
@@ -1201,6 +1233,10 @@ Try the following to fix the issue:
     <string name="share_device_title_text">Trouver les périphériques partagés</string>
     <string name="share_no_device">Aucun périphérique partagé</string>
     <string name="share_no_user">"Périphérique non partagé avec d'autres utilsateurs"</string>
+    <string name="share_permission_can_control">Control permission</string>
+    <string name="share_permission_can_control_info">Can view and control device</string>
+    <string name="share_permission_cannot_control">Only view permission</string>
+    <string name="share_permission_cannot_control_info">Can only view cannot control device</string>
     <string name="share_score_action_scores">"Indice d'activité: %1$d"</string>
     <string name="share_score_all_socres">"Votre indice d'intelligence %1$d"</string>
     <string name="share_score_safe_scores">Indice de sécurité: %1$d</string>
@@ -1209,6 +1245,9 @@ Try the following to fix the issue:
     <string name="share_score_score_info">Partager mes indices de sécurité Mi Home</string>
     <string name="share_score_share_no_install">Ne supporte pas le partage</string>
     <string name="share_score_win">Devant %1$d%% utilisateurs</string>
+    <string name="share_select_permission">Choose share permission</string>
+    <string name="share_to_mi_account">Share to xiaomi account</string>
+    <string name="share_to_wx_friend">Share to weixin</string>
     <string name="shop_click_refresh"><u>Actualiser</u></string>
     <string name="single_click">Simple Clic</string>
     <string name="smart_bulb">Ampoule Yee</string>
@@ -1266,6 +1305,9 @@ Try the following to fix the issue:
     <string name="smarthome_device_launcher">Ajouter un raccourci sur le lanceur</string>
     <string name="smarthome_device_mibox1">Mi-Box 1</string>
     <string name="smarthome_device_mibox1s">Mi-Box 1S</string>
+    <string name="smarthome_device_mijia">Add Xiaomi Home</string>
+    <string name="smarthome_device_mijia_add_success">Add Success</string>
+    <string name="smarthome_device_mijia_cant_delete">You can not delete device at Xiaomi Home</string>
     <string name="smarthome_device_mitv">Mi-TV</string>
     <string name="smarthome_device_remove">Supprimer le périphérique</string>
     <string name="smarthome_device_remove_error">Impossible de supprimer le périphérique</string>
@@ -1717,6 +1759,8 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="user_license_btn_text">"Conditions d'utilisation et Politique de Confidentialité"</string>
     <string name="version_name_string">Version actuelle: %s</string>
     <string name="videos_group_name_x_num_x" formatted="false">%s | %d fichiers</string>
+    <string name="vip_achievement">achievement</string>
+    <string name="vip_level">level</string>
     <string name="visible_in_main_device_list">Ajouter à la liste des périphériques</string>
     <string name="waiting_for_update">Patienter…</string>
     <string name="water_purifier">"Purificateur d'eau"</string>
@@ -1852,7 +1896,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="score_look_history_title">show history</string>
     <string name="score_may_got_score_fmt">complete order to get %d score</string>
     <string name="score_more_consume_item">consume</string>
-    <string name="score_more_score">more score</string>
+    <string name="score_more_score">Score</string>
     <string name="score_more_score_item">how to get more score</string>
     <string name="score_no_detail_msg">can not fetch task</string>
     <string name="score_page_title">my score</string>
@@ -1866,6 +1910,14 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="score_totoal_score">Score</string>
     <string name="select_camera">Sélectionnez les paramètres de caméra intelligente pour les alertes</string>
     <string name="smarthome_device_" />
+    <string name="server_change_server_failure">Change failure</string>
+    <string name="server_change_server_message">Change server need re-login, sure?</string>
+    <string name="server_change_server_title">Change server to %s</string>
+    <string name="server_location_incompatible_cancel">Cancel</string>
+    <string name="server_location_incompatible_confirm">Confirm</string>
+    <string name="server_location_incompatible_content">Change server to %s ?</string>
+    <string name="server_location_incompatible_ignore">Ignore</string>
+    <string name="server_location_incompatible_title">Change Server</string>
     <string name="smarthome_device_virtual_delete">Supprimer un groupe</string>
     <string name="toast_create_group_failed">Impossible de créer le groupe</string>
     <string name="toast_create_group_success">Groupe créé</string>
@@ -1891,6 +1943,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="all_sleep_time">%1$d %2$d m</string>
     <string name="all_sleep_time_text">Heures de couchage</string>
     <string name="area_air_quality">"Qualité de l'air"</string>
+    <string name="area_not_located">not located</string>
     <string name="area_auto_locate">"Indiquez l'emplacement du"</string>
     <string name="area_auto_locate_failed">Malheureusement, je ne pouvais pas trouver</string>
     <string name="area_center_dot">;</string>
@@ -2329,7 +2382,6 @@ Appuyez longuement pour revenir"</string>
     <string name="choose_body_sensor">请选择人体传感器</string>
     <string name="choose_home_router">请选择家中路由器</string>
     <string name="choose_home_yi_camera">请选择家中摄像机</string>
-    <string name="conditions_control">多条件控制</string>
     <string name="connect_wlan">connect WLAN</string>
     <string name="connect_wlan_tips">select available WLAN</string>
     <string name="device_connect_failed_tips">make sure WLAN password correct and available</string>
@@ -2361,14 +2413,6 @@ Appuyez longuement pour revenir"</string>
     <string name="mi_router_disconnect_device">路由器检测到设备离网</string>
     <string name="mi_smart_home_cs">小米智能家庭客服</string>
     <string name="mi_validate_relogin">please relogin</string>
-    <string name="network_info_extranet">远程连接</string>
-    <string name="network_info_intranet">局域网连接</string>
-    <string name="network_info_loading">正在获取</string>
-    <string name="network_info_wifi_ip">IP地址</string>
-    <string name="network_info_wifi_mac">MAC地址</string>
-    <string name="network_info_wifi_name">WIFI名称</string>
-    <string name="network_info_wifi_signal">WIFI强度</string>
-    <string name="network_info_wifi_type">当前模式</string>
     <string name="notification_quick_op_title">Notification operation</string>
     <string name="phone">手机</string>
     <string name="phone_connect_wifi">当手机连上WIFI</string>
@@ -2388,20 +2432,14 @@ Appuyez longuement pour revenir"</string>
     <string name="scene2_mute">手机来电后电视静音</string>
     <string name="scene2_photograph">开门后自动牌照</string>
     <string name="scene2_safety">家居安全</string>
-    <string name="scene_confirm_delete">确认删除场景？</string>
-    <string name="scene_enable_to_change">此场景不符合规范，建议删除后重建</string>
-    <string name="scene_error_0">执行成功</string>
-    <string name="scene_error_2">设备离线</string>
-    <string name="scene_error_3">执行超时</string>
-    <string name="scene_error_other">异常错误</string>
-    <string name="scene_unclickable_toast_1">无法同时满足所选条件</string>
-    <string name="scene_unclickable_toast_2">无法与已选条件/动作创建有效场景</string>
     <string name="set_timer_fail_delete">上次定时删除失败，是否重试?</string>
     <string name="set_timer_fail_delete1">定时删除失败，是否重试?</string>
     <string name="set_timer_fail_disable">上次定时更新失败，是否重试?</string>
     <string name="set_timer_fail_disable1">定时更新失败，是否重试?</string>
     <string name="set_timer_fail_edit">上次定时编辑失败，是否重试?</string>
     <string name="set_timer_fail_edit1">定时编辑失败，是否重试?</string>
+    <string name="sh_share_repeated_request">Cannot share again</string>
+    <string name="share_last">Last</string>
     <string name="smart_life_entry_sub_title">Change device smart</string>
     <string name="smart_life_entry_title">Change device smart</string>
     <string name="smart_life_intro_device_socket">Xiaomi Socket</string>
@@ -2412,8 +2450,6 @@ Appuyez longuement pour revenir"</string>
     <string name="smarthome_scene_delay_detal_min_sec">%1$d分%2$d秒后</string>
     <string name="smarthome_scene_delay_detal_sec">%d秒后</string>
     <string name="tag_ellipsis">…</string>
-    <string name="vip_achievement">achievement</string>
-    <string name="vip_level">level</string>
     <string name="wx_login_cancel">cancel</string>
     <string name="etc">等</string>
     <string name="scene_user_license">智能场景使用须知</string>
@@ -2427,15 +2463,7 @@ Appuyez longuement pour revenir"</string>
     <string name="scene_user_license_title">使用须知</string>
     <string name="scene_user_license_title_1">我已阅读《智能场景使用须知》</string>
     <string name="scene_warrning_text">风险提醒：场景可能因网络等问题导致执行失败，请勿联动可能导致安全隐患的设备。</string>
-    <string name="share_last">最近</string>
-    <string name="share_permission_can_control">允许控制</string>
-    <string name="share_permission_can_control_info">可浏览设备信息并可控制设备</string>
-    <string name="share_permission_cannot_control">仅可查看</string>
-    <string name="share_permission_cannot_control_info">可浏览设备,不可控制设备</string>
     <string name="share_pic_not_extern_storage">not enough storage</string>
-    <string name="share_select_permission">共享设备使用权限</string>
-    <string name="share_to_mi_account">共享给小米帐号</string>
-    <string name="share_to_wx_friend">共享给微信好友</string>
     <string name="action_settings">Paramètres</string>
     <string name="catalyst_debugjs_off">Stop Chrome Debugging</string>
     <string name="catalyst_element_inspector_off">Hide Inspector</string>
