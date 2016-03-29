@@ -3790,7 +3790,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="report_quick_feedback">"Exemple d'évaluations"</string>
     <string name="report_recordPro">Voix</string>
     <string name="report_record_pro_content">Veuillez décrire le problème</string>
-    <string name="report_redpacket">Redpacket</string>
+    <string name="report_redpacket">Paquet Rouge</string>
     <string name="report_talk">Discussion</string>
     <string name="report_thank">Merci pour votre soutien !</string>
     <string name="report_title">Commentaires</string>
@@ -3953,7 +3953,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_failed">"Échec d'envoi, veuillez essayer à nouveau."</string>
     <string name="send_feedback">Signaler un problème</string>
     <string name="send_forbidden_chat">Bloqué</string>
-    <string name="send_friend_name_card">Envoyer à un ami Carte de visite</string>
+    <string name="send_friend_name_card">Envoyer une Carte de visite à un ami</string>
     <string name="send_group_sms">Message de diffusion</string>
     <string name="send_inviting_email">Envoi en cours..</string>
     <string name="send_message_to_friends">Envoyer à contacts</string>
@@ -5134,7 +5134,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="xiaoice_dialog_title">Microsoft Ice</string>
     <string name="xiaoice_load_fail">Chargement de Microsoft Ice choué, veuillez effacer vos données Mi locales et redémarrer</string>
     <string name="xiaoice_name">%s Ice</string>
-    <string name="xiaomi_wallet">Mi-Wallet</string>
+    <string name="xiaomi_wallet">Portefeuille Mi</string>
     <string name="xm_shop">Boutique Mi-Crédits</string>
     <string name="xm_shop_category">Tous les produits</string>
     <string name="xm_shop_friend">Faites les boutiques avec des amis</string>
