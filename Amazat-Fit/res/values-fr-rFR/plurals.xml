@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">" %1$d fichiers sélectionnés"</item>
+        <item quantity="zero">%1$d fichiers sélectionnés</item>
+        <item quantity="one">" %1$d fichier sélectionné"</item>
+    </plurals>
+    <plurals name="plural_days">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="plural_hours">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="plural_steps">
+        <item quantity="other">%d pas</item>
+        <item quantity="one">%d pas</item>
+    </plurals>
+    <plurals name="unit_plural_days">
+        <item quantity="other">" jours"</item>
+        <item quantity="one">" jour"</item>
+    </plurals>
+    <plurals name="unit_plural_days_no_number">
+        <item quantity="other">" jours"</item>
+        <item quantity="one">" jour"</item>
+    </plurals>
+    <plurals name="unit_plural_steps">
+        <item quantity="other">" pas"</item>
+        <item quantity="one">" pas"</item>
+    </plurals>
+    <plurals name="unit_plural_steps_no_number">
+        <item quantity="other">" pas"</item>
+        <item quantity="one">" pas"</item>
+    </plurals>
+</resources>
