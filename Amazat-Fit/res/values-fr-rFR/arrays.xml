@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode_week_start_from_monday">
+        <item>L</item>
+        <item>M</item>
+        <item>M</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="mode_week_start_from_sunday">
+        <item>D</item>
+        <item>L</item>
+        <item>M</item>
+        <item>M</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="running_months">
+        <item>Jan</item>
+        <item>Fév</item>
+        <item>Mar</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juil</item>
+        <item>Août</item>
+        <item>Sept</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+    </string-array>
+    <string-array name="searching_band_tips">
+        <item>Please keep your Amazfit close by.</item>
+        <item>"Please make sure your
+Amazfit has power and is nearby."</item>
+        <item>"Please try to keep
+other Bluetooth devices away."</item>
+        <item>"If this band was paired with another
+phone before, please turn Bluetooth off on that phone."</item>
+        <item>"If this band was paired with
+another account before, please unpair them first."</item>
+        <item>"A band can only be paired
+with one account at the same time."</item>
+    </string-array>
+    <string-array name="wear_way">
+        <item>Poignet</item>
+        <item>Cou</item>
+        <item>Annuler</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
+    </string-array>
+</resources>
