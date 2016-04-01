@@ -27,7 +27,7 @@
     <string name="common_google_play_services_updating_title">Mise à jour des services Google Play</string>
     <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
-    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="place_autocomplete_clear_button">Effacer la recherche</string>
     <string name="place_autocomplete_search_hint">Rechercher</string>
@@ -430,9 +430,9 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_help_slow_run_suggest">"L'attérissage sur vos midéo-tarsiens ou talons affecte fortement vos genous. Frapper le sol avec l'avant-pied nécessite de forts muscles du mollet et tendons d'Achille"</string>
     <string name="running_helper">Assistant de course</string>
     <string name="running_history">Historique</string>
-    <string name="running_history_child_date_format">%1$d jours</string>
-    <string name="running_history_date" formatted="false">"%d mois/%d jours
-%d années"</string>
+    <string name="running_history_child_date_format">%1$d</string>
+    <string name="running_history_date" formatted="false">"%d/%d
+%d"</string>
     <string name="running_history_group_distance">%1$.2fkm</string>
     <string name="running_history_group_distance_br">%1$.2fmi</string>
     <string name="running_history_group_time_format">dd/MM/yy</string>
@@ -543,7 +543,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_unsynchronous">Non synchronisé</string>
     <string name="running_volumn_notice">"Nous vous recommandons de régler le volume à un niveau raisonnable afin que vous soyez en mesure d'entendre les instructions vocales lors de l'exécution."</string>
     <string name="running_watermark">Filigrane</string>
-    <string name="running_watermark_btn_confirm">Enregistrer/partager</string>
+    <string name="running_watermark_btn_confirm">Enregistrer</string>
     <string name="running_watermark_guide_tips">Déplacer le filigrane pour ajuster</string>
     <string name="running_watermark_search_location">\#Obtention des informations de localisation#</string>
     <string name="sdcarderror">"Assurez-vous que la carte SD est insérée et n'est pas en lecture seul."</string>
@@ -611,10 +611,11 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="toast_no_more_data">Pas de données supplémentaires</string>
     <string name="toast_operation_failed">Erreur</string>
     <string name="toast_user_info_error">"L'information utilisateur que vous avez entré en invalide"</string>
+    <string name="today">"Aujourd'hui"</string>
     <string name="unbind">Désappairer</string>
     <string name="unbind_google_fit">Stopper la synchro avec Google Fit</string>
     <string name="unbinding">Désappairage…</string>
-    <string name="unit_calorie">" Cal"</string>
+    <string name="unit_calorie">" cal"</string>
     <string name="unit_foot">" pieds"</string>
     <string name="unit_hour">" h"</string>
     <string name="unit_hr">" BPM"</string>
@@ -675,7 +676,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="weight_settings_merge_title">Regroupement des éléments fréquents de pesée</string>
     <string name="your_gender">Sexe</string>
     <string name="your_height">Taille</string>
-    <string name="your_weight">Poids</string>
+    <string name="your_weight">"Poids "</string>
     <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
@@ -692,6 +693,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="add_family_name_title">Ajouter un nouveau membre</string>
     <string name="add_family_nickname_hint">Entrer le surnom de la famille</string>
     <string name="add_family_weight_low_elect">Remplacer les piles de la balance et réessayer</string>
+    <string name="alarm_null_data_tip">Cliquez ci-dessous pour ajouter un bouton pour régler l\'alarme</string>
     <string name="alert_app_max_number_tips">Vous pouvez ajouter un maximum de 5 applications</string>
     <string name="alert_disable">Désactivé</string>
     <string name="alert_enable">Activé</string>
@@ -701,7 +703,7 @@ Gardez le Bluetooth activé pendant la course."</string>
 Mettre à jour quand même ?"</string>
     <string name="apk_upgrade_force_upgrade_title">Votre version est trop ancienne. Mettre à jour pour utiliser Mi-Fit</string>
     <string name="apk_upgrde_title">Mise à jour à la dernière version</string>
-    <string name="app_day_report_content">Tap pour voir les détails</string>
+    <string name="app_day_report_content">Cliquez pour afficher les détails</string>
     <string name="app_day_report_title">"Marché %1$d pas aujourd'hui. Cool!"</string>
     <string name="app_day_report_title_low">Marché %1$d pas</string>
     <string name="app_day_report_title_rank">"Devant %1$s personnes aujourd'hui"</string>
@@ -807,6 +809,9 @@ Essayez la synchronisation sur la page de démarrage."</string>
     <string name="date_mmdd_format">%2$s/%1$s</string>
     <string name="date_yyyymmdd_format">%3$s/%2$s/%1$s</string>
     <string name="delay_alert">Vibrer</string>
+    <string name="delete_alarm">Suppression…</string>
+    <string name="delete_alarm_failed">Suppression échoué</string>
+    <string name="delete_alarm_success">Suppression réussi</string>
     <string name="delete_weight">Supprimer</string>
     <string name="device_bind_success">Appairé avec succès</string>
     <string name="device_binding">Appairrage…</string>
@@ -938,11 +943,14 @@ Essayez la synchronisation sur la page de démarrage."</string>
     <string name="incoming_call_whitelist_tips1">Ajouter Mi-fit aux exceptions</string>
     <string name="install_google_fit_tips">Installer Google Fit en premier</string>
     <string name="install_weixin_tips">Installer WeChat en premier</string>
+    <string name="kilo_cal">" cal"</string>
     <string name="label_friend_confirm_unfollow">"You won't be able to share data and receive follow notifications after you unfriend this person."</string>
     <string name="label_no_update">"N'a pas été mis à jour"</string>
     <string name="label_sleep_time_detail">%1$sh %2$sm</string>
     <string name="last_break_goal">Le record a pris fin le %2$d/%1$d. En attente d\'un nouveau départ !</string>
+    <string name="last_month">Le mois dernier</string>
     <string name="last_reach_goal">La dernière série a duré %1$d jours</string>
+    <string name="last_week">La semaine dernière</string>
     <string name="load_fail">"Impossible d'obtenir les données"</string>
     <string name="load_failed">Vérifiez le réseau et essayez à nouveau</string>
     <string name="load_success">Chargé avec succès</string>
@@ -1128,6 +1136,7 @@ measurement range (%s)"</string>
     <string name="saving_family_member">Sauvegarde…</string>
     <string name="saving_success">Sauvegarde réussie</string>
     <string name="scan_label">Put the QRCode in the square to scan.</string>
+    <string name="screen_lock_text_tip">Terminé</string>
     <string name="screen_unlock">Déverrouillage de l\'écran</string>
     <string name="selected_alert_apps">Applications sélectionnées</string>
     <string name="send_fail">"Impossible d'envoyer"</string>
@@ -1304,6 +1313,8 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="sync_data_label1">Données synchroniser</string>
     <string name="sync_personinfo_failed">Impossible de synchroniser, essayez à nouveau</string>
     <string name="third_in">Autres compte</string>
+    <string name="this_month">Ce mois-ci</string>
+    <string name="this_week">Cette semaine</string>
     <string name="three">Marier</string>
     <string name="thursday">Jeudi</string>
     <string name="title_activity_about">À propos</string>
@@ -1340,6 +1351,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="unit_day">" j"</string>
     <string name="unit_evening">PM</string>
     <string name="unit_forenoon">AM</string>
+    <string name="unit_hour_long">" h"</string>
     <string name="unit_kc">" cal"</string>
     <string name="unit_kg">" kg"</string>
     <string name="unit_km">" km"</string>
@@ -1379,6 +1391,7 @@ before stepping off the scale."</string>
     <string name="weixin_data_updating">Mise à jour des données WeChat…</string>
     <string name="year">An</string>
     <string name="yes">OK</string>
+    <string name="yesterday">Hier</string>
     <string name="yestoday_no_sleep">Aucune donnée de sommeil pour la nuit dernière</string>
     <string name="cube_ptr_hours_ago">Il y a   heures</string>
     <string name="cube_ptr_last_update">Dernière mise à jour: </string>
