@@ -377,7 +377,7 @@
     <string name="other">Autre</string>
     <string name="outdoor_temp_unknown">Inconnu</string>
     <string name="partner">Support</string>
-    <string name="place_frame">Localisation: </string>
+    <string name="place_frame">"Localisation: "</string>
     <string name="play_in_phone">Regardez sur le téléphone</string>
     <string name="play_on_tv">Jouer à la télé</string>
     <string name="playing_time">Air date</string>
@@ -425,7 +425,7 @@
     <string name="screenshot_failed_and_check_connection">"Impossible de faire une capture d'écran, vérifiez que vos appareils sont connecté"</string>
     <string name="screenshot_not_support_adb_devices">"La capture d'écran n'est pas supportée par cet appareil"</string>
     <string name="screenshot_not_support_video">"Capture d'écran non supportée"</string>
-    <string name="screenshoting">Capture d'écran...</string>
+    <string name="screenshoting">Capture d\'écran...</string>
     <string name="search_failed">"Impossible d'obtenir des résultats"</string>
     <string name="search_history">Historique des recherches</string>
     <string name="search_history_clear">"Effacer l'historique"</string>
@@ -686,7 +686,7 @@ Pour changer, un appui longs ur le bouton Power de la TV"</string>
     <string name="passport_quick_login_title">Entrez votre mot de passe</string>
     <string name="passport_re_get_verify_code">Obtenir de nouveau le code</string>
     <string name="passport_re_register">"S'inscrire à nouveau"</string>
-    <string name="passport_recycle_account_prompt">Est-ce votre compte Mi?</string>
+    <string name="passport_recycle_account_prompt">Est-ce votre compte Mi ?</string>
     <string name="passport_reg_failed">Impossible de mettre en place le compte</string>
     <string name="passport_reg_new">Créer un Compte Mi gratuitement</string>
     <string name="passport_reg_sms_send_prompt">Envoi du code de vérification à %s</string>
