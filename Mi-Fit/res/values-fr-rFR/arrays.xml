@@ -38,13 +38,13 @@
         <item>Dimanche</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Lun.</item>
-        <item>Mar.</item>
-        <item>Mer.</item>
-        <item>Jeu.</item>
-        <item>Ven.</item>
-        <item>Sam.</item>
-        <item>Dim.</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
     </string-array>
     <string-array name="weight_body_figures">
         <item>Maigre</item>
@@ -54,8 +54,8 @@
     </string-array>
     <string-array name="weight_body_figures_for_child">
         <item>Normal</item>
-        <item>En surpoids</item>
-        <item>Sévèrement obèse</item>
+        <item>Surpoids</item>
+        <item>Obèse</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" kg"</item>
@@ -69,64 +69,78 @@
         <item>Intense</item>
     </string-array>
     <string-array name="mili_help_tips">
-        <item>"Assurez-vous que le bracelet est suffisamment chargé."</item>
+        <item>"Assurez-vous que le bracelet est suffisamment chargé"</item>
         <item>Désactivez le Bluetooth, puis appairez avec le dispositif.</item>
-        <item>"Si le bracelet est chargé, mais que le téléphone ne le voit pas, essayez de redémarrer le Bluetooth du téléphone."</item>
-        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone."</item>
+        <item>"Si le bracelet est chargé, mais que le téléphone ne le voit pas, essayez de redémarrer le Bluetooth du téléphone"</item>
+        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone"</item>
     </string-array>
     <string-array name="mili_help_title">
-        <item>Est-ce que votre bracelet est chargé?</item>
-        <item>Est-ce que le bracelet est appairé à un autre appareil?</item>
+        <item>Est-ce que votre bracelet est chargé ?</item>
+        <item>Est-ce que le bracelet est appairé à un autre appareil ?</item>
         <item>Essayez de réinitialiser le Bluetooth</item>
         <item>Essayez de redémarrer votre téléphone</item>
     </string-array>
     <string-array name="mili_pro_display_items">
-        <item>时间</item>
-        <item>步数</item>
-        <item>里程</item>
-        <item>热量</item>
+        <item>Temps</item>
+        <item>Mesures</item>
+        <item>Kilométrage</item>
+        <item>Chaleur</item>
         <item>Fréquence Cardiaque</item>
     </string-array>
+    <string-array name="month_list">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
     <string-array name="shoes_help_tips">
-        <item>"Si vous n'utilisez pas le capteur Huami pendant une longue période, il se mettra en veille. Essayez de le secouer."</item>
-        <item>"La durée de vie de la batterie du capteur Huami est d'un an. Si vous l'avez utilisé pour une période plus longue, peut-être qu'il n'y a plus de batterie."</item>
-        <item>Éteignez d'abord le Bluetooth de l'appareil, ensuite appairez le.</item>
-        <item>Essayez de redémarrer votre téléphone, et appairez le bracelet.</item>
-        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone."</item>
+        <item>"Si vous n'utilisez pas le capteur Huami pendant une longue période, il se mettra en veille. Essayez de le secouer"</item>
+        <item>"La durée de vie de la batterie du capteur Huami est d'un an. Si vous l'avez utilisé pour une période plus longue, peut-être qu'il n'y a plus de batterie"</item>
+        <item>"Éteignez d'abord le Bluetooth de l'appareil, ensuite appairez le"</item>
+        <item>Essayez de redémarrer votre téléphone, et appairez le bracelet</item>
+        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone"</item>
         <item>Chaque fois que vous ouvrez Mi Fit il va essayer de synchroniser automatiquement les données.</item>
     </string-array>
     <string-array name="shoes_help_title">
         <item>Secouez le capteur Huami</item>
-        <item>Est-ce que le capteur Huami est chargé?</item>
-        <item>Est-ce que le capteur Huami est appairé à un autre appareil?</item>
+        <item>Est-ce que le capteur Huami est chargé ?</item>
+        <item>Est-ce que le capteur Huami est appairé à un autre appareil ?</item>
         <item>Essayez de réinitialiser le Bluetooth</item>
         <item>Essayez de redémarrer votre téléphone</item>
-        <item>Comment synchroniser les données des chaussures?</item>
+        <item>Comment synchroniser les données des chaussures ?</item>
     </string-array>
     <string-array name="unbind_device_description">
-        <item>Mi Band</item>
-        <item>Mi Balance</item>
+        <item>Mi-Fit</item>
+        <item>Mi-Balance</item>
         <item>Chaussures</item>
     </string-array>
     <string-array name="weight_body_figures_for_not_chinese">
-        <item>En sous poids</item>
+        <item>Mince</item>
         <item>Normal</item>
-        <item>Modérément obèse</item>
-        <item>Sévèrement obèse</item>
-        <item>Très gravement obèse</item>
+        <item>Surpoids</item>
+        <item>Obèse</item>
+        <item>Gravement obèse</item>
     </string-array>
     <string-array name="weight_help_tips">
-        <item>Vous pouvez monter sur la balance pour vérifiez qu'elle affiche votre poids. Si elle affiche une icône de la batterie, remplacez les piles.</item>
-        <item>"Si la balance ne réagit pas, vérifiez que les piles sont installées correctement."</item>
-        <item>"Si le bracelet est chargé, mais que le téléphone ne le voit pas, essayez de redémarrer le Bluetooth du téléphone."</item>
-        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone."</item>
+        <item>"Vous pouvez monter sur la balance pour vérifiez qu'elle affiche votre poids. Si elle affiche une icône de la batterie, remplacez les piles"</item>
+        <item>"Si la balance ne réagit pas, vérifiez que les piles sont installées correctement"</item>
+        <item>"Si le bracelet est chargé, mais que le téléphone ne le voit pas, essayez de redémarrer le Bluetooth du téléphone"</item>
+        <item>"Si le redémarrage du Bluetooth ne résout pas le problème, essayez de redémarrer le téléphone"</item>
         <item>Chaque fois que vous ouvrez Mi Fit il va essayer de synchroniser automatiquement les données.</item>
     </string-array>
     <string-array name="weight_help_title">
-        <item>Reste-t-il assez de batterie?</item>
-        <item>Les piles sont installées correctement?</item>
+        <item>Reste-t-il assez de batterie ?</item>
+        <item>Les piles sont installées correctement ?</item>
         <item>Essayez de redémarrer le Bluetooth</item>
         <item>Essayez de redémarrer votre téléphone</item>
-        <item>Comment la Mi Balance synchronise les données?</item>
+        <item>Comment la Mi-Balance synchronise les données ?</item>
     </string-array>
 </resources>
