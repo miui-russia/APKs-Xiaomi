@@ -262,7 +262,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="label_sleep_data">Données du sommeil</string>
     <string name="label_sleep_record">%2$s/%1$s Historique du Sommeil</string>
     <string name="label_sleep_start_time">"S'est endormi à"</string>
-    <string name="label_sleep_time">%1$sh %2$sm</string>
+    <string name="label_sleep_time"> %1$sh %2$sm</string>
     <string name="label_sport_data">"Données d'activité"</string>
     <string name="label_step">Pas</string>
     <string name="label_step_with_unit">%s Pas</string>
