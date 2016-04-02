@@ -338,7 +338,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="pull_to_refresh_refreshing_label">Chargement…</string>
     <string name="pull_to_refresh_release_label">Relâcher pour rafraîchir…</string>
     <string name="rebind_weibo_health">Ajouter un compte</string>
-    <string name="record_weight">Poids record</string>
+    <string name="record_weight">Enregistrer une valeur</string>
     <string name="red">Rouge</string>
     <string name="register">Créer un compte Mi</string>
     <string name="reset_weight_goal">Reset</string>
@@ -1019,7 +1019,7 @@ measurement range (%s)"</string>
     <string name="mili_setting_mili_1s">Mi-Fit Pulse</string>
     <string name="mili_setting_set_color">Couleur de la LED</string>
     <string name="mili_setting_set_color_blue">Bleu</string>
-    <string name="mili_setting_set_wear">Poignée</string>
+    <string name="mili_setting_set_wear">Poignet</string>
     <string name="mili_setting_set_wear_left">Gauche</string>
     <string name="mili_setting_sleep_assist">Assistant sommeil</string>
     <string name="mili_setting_sleep_assist_close_failed">"Couldn't turn off"</string>
