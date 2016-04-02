@@ -229,7 +229,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="label_friend_added">Ajouté</string>
     <string name="label_friend_care_message">%s vous ont envoyés un coup de pouce</string>
     <string name="label_friend_refuse_message">"%s a refusé votre demande d'amis"</string>
-    <string name="label_get_up_time">Temps réveillé</string>
+    <string name="label_get_up_time">Heure du réveil</string>
     <string name="label_loading">Chargement…</string>
     <string name="label_message">Message</string>
     <string name="label_message_empty">Vide</string>
@@ -487,7 +487,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_prepare_map">Chargement des données…</string>
     <string name="running_prompt_come_on">Continuer comme ça!</string>
     <string name="running_prompt_great">Super!</string>
-    <string name="running_prompt_per_kilometer" formatted="false">Vous avez déjà couru%sKm. Durée : s%s. Dernier km : s%s.</string>
+    <string name="running_prompt_per_kilometer" formatted="false">Vous avez déjà couru %sKm. Durée : s%s. Dernier km : s%s.</string>
     <string name="running_real_time_mile_pace">Rythme (min/mi)</string>
     <string name="running_real_time_pace">Rythme (min/km)</string>
     <string name="running_resume">Continuer</string>
@@ -911,7 +911,7 @@ Essayez la synchronisation sur la page de démarrage."</string>
     <string name="has_close">Désactivé</string>
     <string name="heart_rate_times">Fréquence cardiaque %1$d BPM</string>
     <string name="hold_baby_weight">Se peser avec un bébé</string>
-    <string name="home_deep_sleep">Sommeil profond</string>
+    <string name="home_deep_sleep">Sommeil profond </string>
     <string name="home_sleep">Sommeil</string>
     <string name="home_total_sleep">Sommeil total</string>
     <string name="homepage_item_discover">Découvrir</string>
@@ -984,23 +984,23 @@ measurement range (%s)"</string>
     <string name="measure_heart_rate_title">Prêt pour la mesure</string>
     <string name="mi_band_alarm">Alarme</string>
     <string name="mi_band_connect_failed">"Couldn't connect, try again"</string>
-    <string name="miband_alarm_delay_tips_days">Vibrate in %1$sd %2$sh %3$sm</string>
-    <string name="miband_alarm_delay_tips_hour">Vibrate in %1$shrs</string>
-    <string name="miband_alarm_delay_tips_hour_minute">Vibrate in %1$sh %2$sm</string>
-    <string name="miband_alarm_delay_tips_in_one_minute">Vibrate within a minute</string>
-    <string name="miband_alarm_delay_tips_minute">Vibrate in %1$smin</string>
-    <string name="miband_alarm_not_bound">Pair Mi-Fit to use alarm</string>
+    <string name="miband_alarm_delay_tips_days">Vibrer dans %1$sj %2$sh %3$sm</string>
+    <string name="miband_alarm_delay_tips_hour">Vibrer dans %1$shrs</string>
+    <string name="miband_alarm_delay_tips_hour_minute">Vibrer dans %1$sh %2$sm</string>
+    <string name="miband_alarm_delay_tips_in_one_minute">Vibrer dans une minute</string>
+    <string name="miband_alarm_delay_tips_minute">Vibrer dans %1$smin</string>
+    <string name="miband_alarm_not_bound">Appairer leMi-Fit pour utiliser l'alarme</string>
     <string name="miband_tips">Tapotez sur le Mi-Fit quand il vibre pour éteindre l\'alarme</string>
     <string name="mili_connecting">Connexion au Mi-Fit…</string>
     <string name="mili_data_not_sync">Données non synchronisés</string>
     <string name="mili_device_help">Aide Mi-Fit</string>
-    <string name="mili_low_battery_tips">Make sure battery level is more than 10% to update</string>
+    <string name="mili_low_battery_tips">Vérifiez que la batterie est à plus de 10% pour mettre à jour</string>
     <string name="mili_low_battery_title">Chargez votre Mi-Fit</string>
-    <string name="mili_not_connected">"Band isn't connected"</string>
+    <string name="mili_not_connected">"Bracelet non connecté"</string>
     <string name="mili_not_weared">Aucune donnée de sommeil pour la nuit dernière</string>
     <string name="mili_pro_display_item_title">Choose following items to be displayed on the band</string>
     <string name="mili_setting_bind_new">Appairer le nouveau Mi-Fit</string>
-    <string name="mili_setting_charge_full">Batteire chargée</string>
+    <string name="mili_setting_charge_full">Batterie chargée</string>
     <string name="mili_setting_charging">En charge...</string>
     <string name="mili_setting_display_item">Mi-Fit display settings</string>
     <string name="mili_setting_display_item_tips">Choose items displayed on the band</string>
@@ -1051,9 +1051,9 @@ measurement range (%s)"</string>
     <string name="mine_sport_goal">%s pas</string>
     <string name="mine_status_notify">Notifications</string>
     <string name="mine_step_unit">" pas"</string>
-    <string name="modify_family_nickname">Éditer nickname</string>
-    <string name="modify_family_nickname_hint">Enter nickname</string>
-    <string name="modify_nickname_hint">Enter nickname</string>
+    <string name="modify_family_nickname">Éditer le pseudo</string>
+    <string name="modify_family_nickname_hint">Entrer un pseudo</string>
+    <string name="modify_nickname_hint">Entrer un pseudo</string>
     <string name="monday">Lundi</string>
     <string name="monday_to_friday">Jours de la semaine</string>
     <string name="month">M</string>
@@ -1077,8 +1077,8 @@ measurement range (%s)"</string>
     <string name="not_restore">"Don't restore"</string>
     <string name="not_wear_data">Not wearing band</string>
     <string name="null_time_data">00:00</string>
-    <string name="one">Mon</string>
-    <string name="only_once">Once</string>
+    <string name="one">1</string>
+    <string name="only_once">Une fois</string>
     <string name="open_gallery">Ouvrir la galerie</string>
     <string name="open_weight_settings_merge_title">Fusionner les doublons</string>
     <string name="over_max_range_weight">Poids maximum dépassé (%s)</string>
@@ -1100,13 +1100,13 @@ measurement range (%s)"</string>
     <string name="phone_alarm_alert_tips">Le Mi-Fit doit être connecté au téléphone en Bluetooth</string>
     <string name="phone_alarm_not_bound">"appairé le Mi-Fit pour recevoir les notifications d'alarme"</string>
     <string name="phone_not_bind">Pas maintenant</string>
-    <string name="picker_menu_done">Done</string>
+    <string name="picker_menu_done">Effectué</string>
     <string name="please_stand_weight">Montez sur la Mi-Balance</string>
     <string name="pull_label_sync_data">Tirer vers le bas pour synchroniser</string>
-    <string name="pull_to_connect_mili">Pull down to connect Mi-Fit</string>
-    <string name="pull_to_connect_shoes">Pull down to connect shoes</string>
+    <string name="pull_to_connect_mili">Tirer vers le bas pour connecter le Mi-Fit</string>
+    <string name="pull_to_connect_shoes">Tirer vers le bas pour connecter les chaussures</string>
     <string name="pull_to_refresh_complete">Rafraîchir</string>
-    <string name="pull_to_refresh_loading">Refreshing…</string>
+    <string name="pull_to_refresh_loading">Actualisation…</string>
     <string name="pull_to_refresh_tip">Tirer vers le bas pour rafraîchir</string>
     <string name="query_weixin_btn_text">View WeChats top</string>
     <string name="quite_heart_rate">Au repos</string>
@@ -1150,8 +1150,8 @@ measurement range (%s)"</string>
     <string name="setting_length_metric">Métrique (m, km)</string>
     <string name="setting_unit">Unités</string>
     <string name="setting_unit_length">Unités de distance</string>
-    <string name="setting_unit_tip">"You've already paired Mi Scale.
-You can change the measurement unit manually in the battery section of the scale."</string>
+    <string name="setting_unit_tip">"Vous avez déjà appairé la Mi-Balande.
+Vous pouvez changer l'unité de mesure manuellement dans le compartiment des piles sur la balance."</string>
     <string name="setting_unit_weight">Définir l\'unité de poids</string>
     <string name="setting_update">Vérifier les mises à jour</string>
     <string name="setting_weight_british">Impérial (lbs)</string>
@@ -1161,13 +1161,13 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_achieve_goal_equal">Objectif atteint</string>
     <string name="share_content">Mes données de remise en forme</string>
     <string name="share_continue">Records</string>
-    <string name="share_continue_make_new">New record set!</string>
+    <string name="share_continue_make_new">Nouveau record établi!</string>
     <string name="share_continue_max_day">Record personnel: %1$d jours</string>
     <string name="share_continue_null">Atteindre les objectifs tous les jours</string>
     <string name="share_continue_rank">99% des personnes sont devant vous, continuer!</string>
     <string name="share_day_deep_sleep">Moy sommeil profond</string>
-    <string name="share_day_start_sleep">Avg fall asleep time</string>
-    <string name="share_day_stop_sleep">Avg wake up time</string>
+    <string name="share_day_start_sleep">Moy couché(e) à</string>
+    <string name="share_day_stop_sleep">Moy réveillé(e) à</string>
     <string name="share_deep_sleep">Sommeil profond</string>
     <string name="share_last_continue">Dernière série</string>
     <string name="share_sleep">Dormir</string>
@@ -1176,7 +1176,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_sleep_month_title">Sommeil moyen en %1$d</string>
     <string name="share_sleep_this_month_title">Sommeil moyen ce mois-ci</string>
     <string name="share_sleep_this_week_title">Sommeil moyen cette semaine</string>
-    <string name="share_sleep_tonight">Couché la nuit dernière</string>
+    <string name="share_sleep_tonight">Couché(e) la nuit dernière</string>
     <string name="share_sleep_week_title">Moy hebdomadaire du sommeil</string>
     <string name="share_start_sleep">S\'endormir</string>
     <string name="share_step">Pas</string>
@@ -1191,9 +1191,9 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_step_month_title">Steps in %1$d</string>
     <string name="share_step_rank">Devant %1$s personnes</string>
     <string name="share_step_this_month_title">Total de pas ce mois</string>
-    <string name="share_step_this_week_title">Marché cette semainek</string>
+    <string name="share_step_this_week_title">Marché cette semaine</string>
     <string name="share_step_week_title">Total de pas hebdomadaires</string>
-    <string name="share_stop_sleep">Réveillé</string>
+    <string name="share_stop_sleep">Réveillé(e)</string>
     <string name="share_today_step">Pas d\'aujourd\'hui</string>
     <string name="share_topic">\#Mi-Fit#</string>
     <string name="share_weight_bmi">IMC</string>
@@ -1246,12 +1246,12 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="sleep_all_time">Sommeil total</string>
     <string name="sleep_awake">Éveillé</string>
     <string name="sleep_awake_duration">Temps éveillé</string>
-    <string name="sleep_awake_time">Réveillée à</string>
+    <string name="sleep_awake_time">Réveillé(e) à</string>
     <string name="sleep_bind_band">Appairer le Mi-Fit pour mieux comprendre votre sommeil</string>
     <string name="sleep_chart_no_data">Aucune donnée de sommeil</string>
     <string name="sleep_deep">Sommeil profond</string>
     <string name="sleep_deep_time">Sommeil profond</string>
-    <string name="sleep_go_sleep_time">Couchée à</string>
+    <string name="sleep_go_sleep_time">Couché(e) à</string>
     <string name="sleep_light">Sommeil léger</string>
     <string name="sleep_light_time">Sommeil léger</string>
     <string name="sleep_notifi_tip">Pair Mi-Fit to use wake up notifications</string>
@@ -1264,7 +1264,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="sleep_title">Sommeil</string>
     <string name="sleep_week_all_time">Sommeil moyen</string>
     <string name="sleep_week_awake_duration">Moy éveillée à</string>
-    <string name="sleep_week_awake_time">Moy réveillée à</string>
+    <string name="sleep_week_awake_time">Moy réveillé(e) à</string>
     <string name="sleep_week_deep_time">Moy sommeil profond</string>
     <string name="sleep_week_go_sleep_time">Moy temps de sommeil</string>
     <string name="sleep_week_light_time">Moy sommeil léger</string>
@@ -1315,7 +1315,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="third_in">Autres compte</string>
     <string name="this_month">Ce mois-ci</string>
     <string name="this_week">Cette semaine</string>
-    <string name="three">Marier</string>
+    <string name="three">3</string>
     <string name="thursday">Jeudi</string>
     <string name="title_activity_about">À propos</string>
     <string name="title_activity_heart_rate_detial">Détails de la fréquence cardiaque</string>
@@ -1376,12 +1376,12 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="weight_disconnect">"Impossible de se connecter à la balance"</string>
     <string name="weight_family_info_title">Family info</string>
     <string name="weight_goal">Objectif de poids</string>
-    <string name="weight_instable_left_title">"Wait until the LED notification light stops blinking
-before stepping off the scale."</string>
-    <string name="weight_low_elec_title">Change scale batteries</string>
+    <string name="weight_instable_left_title">"Attendez que la LED arrête de clignoter
+avant de descendre de la balance."</string>
+    <string name="weight_low_elec_title">Changer les piles de la balance</string>
     <string name="weight_measuring">Mesure…</string>
     <string name="weight_setting_fw_version">Version Firmware</string>
-    <string name="weight_setting_help">Apprendre encore plus</string>
+    <string name="weight_setting_help">En savoir plus</string>
     <string name="weight_setting_weight">Mi-Balance</string>
     <string name="weight_settting_mac_address">Adresse MAC Mi-Balance</string>
     <string name="weight_sync_time">Synchronisé à %s</string>
