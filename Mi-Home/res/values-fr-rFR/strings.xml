@@ -520,6 +520,9 @@ Try the following to fix the issue:
     <string name="inter_sub_domain_in">Inde</string>
     <string name="inter_sub_domain_sg">Singapore</string>
     <string name="inter_sub_domain_tw">Taiwan</string>
+    <string name="miot_store_app_name">Mi-Market</string>
+    <string name="miot_store_loaded_failed_view_text">Échec du chargement</string>
+    <string name="miot_store_loading_view_text">Chargement…</string>
     <string name="internet_feedback">Questions liées à Internet</string>
     <string name="intro_camera_text_1">Se sentir en sécurité où que vous soyez</string>
     <string name="intro_camera_text_2">Parlez aux personnes qui sont là</string>
@@ -1899,14 +1902,14 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="score_more_score">Score</string>
     <string name="score_more_score_item">how to get more score</string>
     <string name="score_no_detail_msg">can not fetch task</string>
-    <string name="score_page_title">my score</string>
+    <string name="score_page_title">Mon score</string>
     <string name="score_sign">sign</string>
     <string name="score_sign_error1">sign fail</string>
     <string name="score_sign_error2">sign fail</string>
     <string name="score_sign_today_signed">already signed today</string>
     <string name="score_signed">signed</string>
     <string name="score_task_detail_title">task detail</string>
-    <string name="score_time_desc_fmt">yyyy年MM月dd日 HH:mm:ss</string>
+    <string name="score_time_desc_fmt">dd/MM/yy HH:mm:ss</string>
     <string name="score_totoal_score">Score</string>
     <string name="select_camera">Sélectionnez les paramètres de caméra intelligente pour les alertes</string>
     <string name="smarthome_device_" />
@@ -2159,7 +2162,7 @@ Appuyez longuement pour revenir"</string>
     <string name="scene_condition_miband_sleep">"Lorsque l'utilisateur est détectée comme endormi"</string>
     <string name="score_about_desc">what can score do，how to get it</string>
     <string name="score_about_title">about score</string>
-    <string name="score_account_title">account：</string>
+    <string name="score_account_title">Compte</string>
     <string name="score_address_is_read">address filled</string>
     <string name="score_address_update_ensure">can not modify address after set，ok？</string>
     <string name="score_all_type_score">all score</string>
@@ -2168,10 +2171,10 @@ Appuyez longuement pour revenir"</string>
     <string name="score_local_time_error">please correct local time</string>
     <string name="score_lottery_address_title">address management</string>
     <string name="score_lottery_load_error">fetch data fail</string>
-    <string name="score_phone_title">phone：</string>
+    <string name="score_phone_title">Téléphone: </string>
     <string name="score_raffle_btn_title">draw</string>
     <string name="score_raffle_title">draw</string>
-    <string name="score_sign_btn_text_fmt">today+%1$d</string>
+    <string name="score_sign_btn_text_fmt">Aujourd\'hui +%1$d</string>
     <string name="score_sign_btn_title">sign</string>
     <string name="score_sign_btn_tomorrow_text_fmt">tomorrow+%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
@@ -2179,7 +2182,7 @@ Appuyez longuement pour revenir"</string>
     <string name="score_sign_got_score_fmt">signed today, can not get more score</string>
     <string name="score_sign_month_view_fmt">%1$d month</string>
     <string name="score_sign_tomorrow_desc">sign for %1$d tomorrow，total %2$d</string>
-    <string name="score_today_text">today</string>
+    <string name="score_today_text">Aujourd\'hui</string>
     <string name="score_total_score_fmt">%d</string>
     <string name="score_unsign">unsigned</string>
     <string name="score_update_address_error">set fail</string>
@@ -2281,6 +2284,7 @@ Appuyez longuement pour revenir"</string>
     <string name="tag_select_device">"S'il vous plaît sélectionnez votre appareil"</string>
     <string name="tag_string">Étiquette</string>
     <string name="third_login">"Plus d'options"</string>
+    <string name="toast_sort_succeed">Sort successful</string>
     <string name="thursday1">Jeudi</string>
     <string name="timer_last_month">Le mois dernier</string>
     <string name="timer_last_week">La semaine dernière</string>
@@ -2370,7 +2374,8 @@ Appuyez longuement pour revenir"</string>
     <string name="yunyi_virtual_camera_create_get_location_fail">Le défaut de recevoir des informations de localisation</string>
     <string name="yunyi_virtual_camera_create_success">"Ajouter Caméra intelligente des fourmis à miel avec succès "</string>
     <string name="zimi_power_name">ZMI puissance mobile intelligent</string>
-    <string name="accept">Accept</string>
+    <string name="accept">Accepter</string>
+    <string name="account_binding_confilict">绑定失败，该微信账号已经与其他小米账号绑定！</string>
     <string name="add_condition_error">5 conditions at most</string>  
     <string name="ble_connect_failed_message">connect fail, try again？</string>
     <string name="ble_connect_failed_tips">connect fail</string>
@@ -2480,7 +2485,8 @@ Appuyez longuement pour revenir"</string>
     <string name="hello_world">Traduit par Angyann et Fays</string>
     <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
     <string name="miio_setting_forum">Forum</string>
-    <string name="miot_store_app_name">MiotStore</string>
+    <string name="location_disable_hint">手机定位权限关闭，无法发现设备</string>
     <string name="developer_plugin_info">Informations du plug-in développeur</string>
+    <string name="wifi_disable_hint">手机wifi权限关闭，无法发现设备</string>
     <string name="dialog_button_create_yeelight_group">Créer lampes</string>
 </resources>
