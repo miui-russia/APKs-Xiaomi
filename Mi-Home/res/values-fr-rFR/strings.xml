@@ -22,18 +22,18 @@
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="catalyst_debugjs">Debug JS</string>
     <string name="catalyst_element_inspector">Inspecter l\'élément</string>
-    <string name="catalyst_jsload_error">"Unable to download JS bundle from the dev server.
+    <string name="catalyst_jsload_error">"Impossible de télécharger JS bundle depuis les serveurs de développement.
 
-Try the following to fix the issue:
-• Ensure that the packager server is running
-• Ensure that your device/emulator is connected to your machine and has USB debugging enabled - run 'adb devices' to see a list of connected devices
-• If you're on a physical device connected to the same machine, run 'adb reverse tcp:8081 tcp:8081' to forward requests from your device
-• If your device is on the same Wi-Fi network, set 'Debug server host &amp; port for device' in 'Dev settings' to your machine's IP address and the port of the local dev server - e.g. 10.0.1.1:8081"</string>
-    <string name="catalyst_jsload_message">Fetching JS bundle</string>
+Essayez ce qui suit pour résoudre le problème:
+• Assurez-vous que le serveur est en marche
+• Assurez-vous que votre appareil/émulateur est connecté à votre machine et a autorisé le débogage USB - Lancez un 'adb devices' pour afficher la liste des appareils connectés
+• Si vous êtes sur un périphérique physique connecté à la même machine, Lancez un 'adb reverse tcp:8081 tcp:8081' pour transmettre les requêtes à votre appareil
+• Si votre appareil est sur le même réseau Wifi, configurez 'Debug server host &amp; port for device' dans les 'paramètres Développeur' à l'adresse IP de votre machine et le port de votre serveur local de développementof - e.g. 10.0.1.1:8081"</string>
+    <string name="catalyst_jsload_message">Comparaison JS bundle</string>
     <string name="catalyst_jsload_title">Veuillez patienter...</string>
-    <string name="catalyst_reloadjs">Reload JS</string>
-    <string name="catalyst_settings">Dev Settings</string>
-    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
+    <string name="catalyst_reloadjs">Chargement à nouveau de JS</string>
+    <string name="catalyst_settings">Paramètres Développeur</string>
+    <string name="catalyst_settings_title">Paramètres de Catalyst Développeur</string>
     <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
     <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
     <string name="about_check_update">Vérifiez les mises à jour</string>
@@ -53,17 +53,17 @@ Try the following to fix the issue:
     <string name="about_region">Sélectionnez la région</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
     <string name="about_test">"Passez à l'environnement de test"</string>
-    <string name="account_basic_data">Basic Info</string>
-    <string name="account_binding">Account Binding</string>
-    <string name="account_binding_waiting">请稍等...</string>
-    <string name="account_bound">bound</string>
+    <string name="account_basic_data">Informations de base</string>
+    <string name="account_binding">Appairer Compte</string>
+    <string name="account_binding_waiting">Veuillez patienter...</string>
+    <string name="account_bound">Appairé</string>
     <string name="account_login">Connexion</string>
-    <string name="account_security">Privacy</string>
-    <string name="account_unbind_alert_msg">you need re-login after unbind, sure？</string>
-    <string name="account_unbind_alert_title">confirm unbind</string>
-    <string name="account_unbind_alert_unbind">unbind</string>
-    <string name="account_unbind_failed">解除绑定失败</string>
-    <string name="account_unbound">unbound</string>
+    <string name="account_security">Privé</string>
+    <string name="account_unbind_alert_msg">"Vous devez vous reconnectez après l'appairage, vous reconnectez ？"</string>
+    <string name="account_unbind_alert_title">"Confirmer la suppression de l'appairage"</string>
+    <string name="account_unbind_alert_unbind">"Suppression de de l'appairage"</string>
+    <string name="account_unbind_failed">Suppression échouée</string>
+    <string name="account_unbound">Suppression réussie</string>
     <string name="account_vip_achievement">Grade</string>
     <string name="account_wechat">WeChat</string>
     <string name="activity_title_upgrade">Mise à jour</string>
@@ -126,7 +126,7 @@ Try the following to fix the issue:
     <string name="bought_device_go">Plus</string>
     <string name="bought_device_remote">Commande intelligente</string>
     <string name="bought_device_switch">Prise intelligente Mi</string>
-    <string name="bt_device_not_support_launcher">蓝牙设备不支持添加快捷方式</string>
+    <string name="bt_device_not_support_launcher">"Périphérique Bluetooth ne supporte pas l'ajout de raccourcis"</string>
     <string name="button_bind">Connexion</string>
     <string name="button_bind_failed">Connexion échouée, veuillez réessayer</string>
     <string name="button_bind_failed_info">Connexion échouée, veuillez vérifier que le périphérique et le téléphone utilisent le même routeur</string>
@@ -242,7 +242,7 @@ Try the following to fix the issue:
     <string name="complete">OK</string>
     <string name="condition_come_home">Rentrer au domicile</string>
     <string name="condition_leave_home">Quitter le domicile</string>
-    <string name="conditions_control">多条件控制</string>
+    <string name="conditions_control">Contrôle</string>
     <string name="confirm_button">OK</string>
     <string name="confirm_delete_family">Êtes-vous sûr de vouloir supprimer cette personne ?</string>
     <string name="confirm_quit">Quitter</string>
@@ -1153,7 +1153,7 @@ Try the following to fix the issue:
     <string name="scene_add_condition_empty">Aucune condition</string>
     <string name="scene_add_task">Étape 2: Ajouter des instructions</string>
     <string name="scene_add_task_empty">Aucune instruction</string>
-    <string name="scene_confirm_delete">确认删除场景？</string>
+    <string name="scene_confirm_delete">Confirmez-vous la suppression ？</string>
     <string name="scene_conflict_tip">"%1$d. Cette prise de vue est en conflit avec \"%2$s\" (si elle doit être créé, supprimez ou désactivez les prises de vue en contradiction)
 "</string>
     <string name="scene_default_keyname_1">Protégez votre maison de façon intelligente</string>
@@ -1170,11 +1170,11 @@ Try the following to fix the issue:
     <string name="scene_default_name_5">Mode Bonne Nuit</string>
     <string name="scene_doorring_repeat_tip">Cette emplacement multiplie \"Sonnerie\"</string>
     <string name="scene_enable">Activé</string>
-    <string name="scene_enable_to_change">此场景不符合规范，建议删除后重建</string>
-    <string name="scene_error_0">执行成功</string>
-    <string name="scene_error_2">设备离线</string>
-    <string name="scene_error_3">执行超时</string>
-    <string name="scene_error_other">异常错误</string>
+    <string name="scene_enable_to_change">Ce scénario ne répond pas aux spécifications, il est recommandé de supprimer la reconstruction</string>
+    <string name="scene_error_0">Mise en œuvre réussie</string>
+    <string name="scene_error_2">Périphériques hors-ligne</string>
+    <string name="scene_error_3">Mise en pause</string>
+    <string name="scene_error_other">"Erreur d'exception"</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
     <string name="scene_manage">Scène</string>
@@ -1186,8 +1186,8 @@ Try the following to fix the issue:
     <string name="scene_save1">Sauvegarder</string>
     <string name="scene_then">Ensuite</string>
     <string name="scene_then_extra">Ajouter des instructions</string>
-    <string name="scene_unclickable_toast_1">无法同时满足所选条件</string>
-    <string name="scene_unclickable_toast_2">无法与已选条件/动作创建有效场景</string>
+    <string name="scene_unclickable_toast_1">Impossible de répondre aux critères sélectionnés</string>
+    <string name="scene_unclickable_toast_2">Impossible de créer un scénario valide et la condition/action sélectionnée</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
     <string name="select_from_camera">Prendre un Photo</string>
     <string name="select_local_picture">Choisir depuis la Galerie</string>
@@ -1236,10 +1236,10 @@ Try the following to fix the issue:
     <string name="share_device_title_text">Trouver les périphériques partagés</string>
     <string name="share_no_device">Aucun périphérique partagé</string>
     <string name="share_no_user">"Périphérique non partagé avec d'autres utilsateurs"</string>
-    <string name="share_permission_can_control">Control permission</string>
-    <string name="share_permission_can_control_info">Can view and control device</string>
-    <string name="share_permission_cannot_control">Only view permission</string>
-    <string name="share_permission_cannot_control_info">Can only view cannot control device</string>
+    <string name="share_permission_can_control">Autorisation de contrôle</string>
+    <string name="share_permission_can_control_info">Peut afficher et contrôler le dispositif</string>
+    <string name="share_permission_cannot_control">Seulement afficher la permission</string>
+    <string name="share_permission_cannot_control_info">Peut seulement afficher</string>
     <string name="share_score_action_scores">"Indice d'activité: %1$d"</string>
     <string name="share_score_all_socres">"Votre indice d'intelligence %1$d"</string>
     <string name="share_score_safe_scores">Indice de sécurité: %1$d</string>
@@ -1248,9 +1248,9 @@ Try the following to fix the issue:
     <string name="share_score_score_info">Partager mes indices de sécurité Mi Home</string>
     <string name="share_score_share_no_install">Ne supporte pas le partage</string>
     <string name="share_score_win">Devant %1$d%% utilisateurs</string>
-    <string name="share_select_permission">Choose share permission</string>
-    <string name="share_to_mi_account">Share to xiaomi account</string>
-    <string name="share_to_wx_friend">Share to weixin</string>
+    <string name="share_select_permission">Choisir les autorisations de partage</string>
+    <string name="share_to_mi_account">Partager avec le compte Xiaomi</string>
+    <string name="share_to_wx_friend">Partager avec weixin</string>
     <string name="shop_click_refresh"><u>Actualiser</u></string>
     <string name="single_click">Simple Clic</string>
     <string name="smart_bulb">Ampoule Yee</string>
@@ -1308,9 +1308,9 @@ Try the following to fix the issue:
     <string name="smarthome_device_launcher">Ajouter un raccourci sur le lanceur</string>
     <string name="smarthome_device_mibox1">Mi-Box 1</string>
     <string name="smarthome_device_mibox1s">Mi-Box 1S</string>
-    <string name="smarthome_device_mijia">Add Xiaomi Home</string>
-    <string name="smarthome_device_mijia_add_success">Add Success</string>
-    <string name="smarthome_device_mijia_cant_delete">You can not delete device at Xiaomi Home</string>
+    <string name="smarthome_device_mijia">Ajouter Mi-Home</string>
+    <string name="smarthome_device_mijia_add_success">Ajout réussi</string>
+    <string name="smarthome_device_mijia_cant_delete">"Vous ne pouvez pas supprimer l'appareil à Mi-Home"</string>
     <string name="smarthome_device_mitv">Mi-TV</string>
     <string name="smarthome_device_remove">Supprimer le périphérique</string>
     <string name="smarthome_device_remove_error">Impossible de supprimer le périphérique</string>
@@ -1888,39 +1888,39 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="mikey_take_photo">Prendre une photo</string>
     <string name="mitv_clean_system_info">Accélération immédiate</string>
     <string name="please_install_plug_first">Installer %s plug-in</string>
-    <string name="score_consume">use</string>
-    <string name="score_doing">done</string>
-    <string name="score_get">get</string>
-    <string name="score_get_task">get task</string>
-    <string name="score_get_task_err">fetch task fail</string>
-    <string name="score_get_task_ok">fetch task success</string>
-    <string name="score_goto">go</string>
-    <string name="score_history_page_title">history</string>
-    <string name="score_look_history_title">show history</string>
-    <string name="score_may_got_score_fmt">complete order to get %d score</string>
-    <string name="score_more_consume_item">consume</string>
+    <string name="score_consume">Consommé</string>
+    <string name="score_doing">Réalisée</string>
+    <string name="score_get">Obtenir</string>
+    <string name="score_get_task">Chercher une tâche</string>
+    <string name="score_get_task_err">Recherche échouée</string>
+    <string name="score_get_task_ok">Recherche réussie</string>
+    <string name="score_goto">Aller à</string>
+    <string name="score_history_page_title">Historique</string>
+    <string name="score_look_history_title">"Afficher l'historique"</string>
+    <string name="score_may_got_score_fmt">complètez la commande pour obtenir %d score</string>
+    <string name="score_more_consume_item">Consommé</string>
     <string name="score_more_score">Score</string>
-    <string name="score_more_score_item">how to get more score</string>
-    <string name="score_no_detail_msg">can not fetch task</string>
+    <string name="score_more_score_item">Comment obtenir un meilleur score</string>
+    <string name="score_no_detail_msg">Impossible de chercher une tâche</string>
     <string name="score_page_title">Mon score</string>
-    <string name="score_sign">sign</string>
-    <string name="score_sign_error1">sign fail</string>
-    <string name="score_sign_error2">sign fail</string>
-    <string name="score_sign_today_signed">already signed today</string>
-    <string name="score_signed">signed</string>
-    <string name="score_task_detail_title">task detail</string>
+    <string name="score_sign">Connexion</string>
+    <string name="score_sign_error1">Connexion échouée</string>
+    <string name="score_sign_error2">Connexion échouée</string>
+    <string name="score_sign_today_signed">"Déjà connecté aujourd'hui"</string>
+    <string name="score_signed">Connecté</string>
+    <string name="score_task_detail_title">Détails de la tâche</string>
     <string name="score_time_desc_fmt">dd/MM/yy HH:mm:ss</string>
     <string name="score_totoal_score">Score</string>
     <string name="select_camera">Sélectionnez les paramètres de caméra intelligente pour les alertes</string>
     <string name="smarthome_device_" />
-    <string name="server_change_server_failure">Change failure</string>
-    <string name="server_change_server_message">Change server need re-login, sure?</string>
-    <string name="server_change_server_title">Change server to %s</string>
-    <string name="server_location_incompatible_cancel">Cancel</string>
-    <string name="server_location_incompatible_confirm">Confirm</string>
-    <string name="server_location_incompatible_content">Change server to %s ?</string>
-    <string name="server_location_incompatible_ignore">Ignore</string>
-    <string name="server_location_incompatible_title">Change Server</string>
+    <string name="server_change_server_failure">Changement de serveur échoué</string>
+    <string name="server_change_server_message">Changer de serveur demande de se reconnecter, êtes-vous sûre?</string>
+    <string name="server_change_server_title">Changer de serveur pour %s</string>
+    <string name="server_location_incompatible_cancel">Annuler</string>
+    <string name="server_location_incompatible_confirm">Confirmer</string>
+    <string name="server_location_incompatible_content">Changer de serveur pour %s ?</string>
+    <string name="server_location_incompatible_ignore">Ignorer</string>
+    <string name="server_location_incompatible_title">Changer de serveur</string>
     <string name="smarthome_device_virtual_delete">Supprimer un groupe</string>
     <string name="toast_create_group_failed">Impossible de créer le groupe</string>
     <string name="toast_create_group_success">Groupe créé</string>
@@ -1946,7 +1946,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="all_sleep_time">%1$d %2$d m</string>
     <string name="all_sleep_time_text">Heures de couchage</string>
     <string name="area_air_quality">"Qualité de l'air"</string>
-    <string name="area_not_located">not located</string>
+    <string name="area_not_located">Non localisé</string>
     <string name="area_auto_locate">"Indiquez l'emplacement du"</string>
     <string name="area_auto_locate_failed">Malheureusement, je ne pouvais pas trouver</string>
     <string name="area_center_dot">;</string>
@@ -1957,10 +1957,10 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="balance_car">Segway</string>
     <string name="ble_device_connected">Déjà connecté %1$s</string>
     <string name="ble_device_offline">Périphérique Bluetooth est %1$s</string>
-    <string name="bluetooth_open_tips">please open your bluetooth</string>
+    <string name="bluetooth_open_tips">Veuillez activer le bluetooth</string>
     <string name="buildin_ir_name">Télécommande Xiaomi</string>
     <string name="change_at_once">Change</string>
-    <string name="change_fail">Fail changing</string>
+    <string name="change_fail">Changement échoué</string>
     <string name="check_account_retry">"S'il vous plaît aller au compte Xiaomi MiHome"</string>
     <string name="check_network_retry">Vérifiez votre réseau et réessayer</string>
     <string name="choose_ir_plugin">Télécommande</string>
