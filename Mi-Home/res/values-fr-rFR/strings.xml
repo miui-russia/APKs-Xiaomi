@@ -2160,7 +2160,7 @@ Appuyez longuement pour revenir"</string>
     <string name="scan_device">Scan des périphériques</string>
     <string name="scene_condition_miband_awake">"Lors de la détection d'un utilisateur dans le sillage"</string>
     <string name="scene_condition_miband_sleep">"Lorsque l'utilisateur est détectée comme endormi"</string>
-    <string name="score_about_desc">Quel score faire, comment l'obtenir</string>
+    <string name="score_about_desc">Quel score faire, comment l\'obtenir</string>
     <string name="score_about_title">Á propos du score</string>
     <string name="score_account_title">Compte</string>
     <string name="score_address_is_read">adresse remplie</string>
@@ -2176,9 +2176,9 @@ Appuyez longuement pour revenir"</string>
     <string name="score_raffle_title">Résultat tirage au sort</string>
     <string name="score_sign_btn_text_fmt">Aujourd\'hui +%1$d</string>
     <string name="score_sign_btn_title">Se connecter</string>
-    <string name="score_sign_btn_tomorrow_text_fmt">Demain+%1$d</string>
+    <string name="score_sign_btn_tomorrow_text_fmt">Demain +%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
-    <string name="score_sign_get_score_fmt">obtenirscore %1$d</string>
+    <string name="score_sign_get_score_fmt">obtenir score %1$d</string>
     <string name="score_sign_got_score_fmt">"connecté aujourd'hui, impossible d'obtenir un meilleur score"</string>
     <string name="score_sign_month_view_fmt">%1$d mois</string>
     <string name="score_sign_tomorrow_desc">connecté pour %1$d demain，total %2$d</string>
@@ -2377,7 +2377,7 @@ Appuyez longuement pour revenir"</string>
     <string name="accept">Accepter</string>
     <string name="account_binding_confilict">Appairage compte échoué, le compte a été lié avec un autre compte Mi!</string>
     <string name="add_condition_error">5 conditions au moins</string>  
-    <string name="ble_connect_failed_message">Connexion échouée, réessayer？</string>
+    <string name="ble_connect_failed_message">Connexion échouée, réessayer ？</string>
     <string name="ble_connect_failed_tips">Connexion échouée</string>
     <string name="ble_connect_success_toast">Connexion réussie</string>
     <string name="ble_connecting">Connexion ble</string>
@@ -2401,8 +2401,8 @@ Appuyez longuement pour revenir"</string>
     <string name="feedback_more_problem">Plus de commentaires</string>
     <string name="feedback_my_device">Mes périphériques</string>
     <string name="feedback_other">Autre</string>
-    <string name="feedback_problem">problèmes de commentaires</string>
-    <string name="feedback_title">Aide & Commentaires</string>
+    <string name="feedback_problem">Problèmes de commentaires</string>
+    <string name="feedback_title">Aide et Commentaires</string>
     <string name="feedback_waitting">Veuillez patienter, en attente de réponse</string>
     <string name="footer_error_text">Aucun périphérique trouvé ou incapable de se connecter à un périphérique</string>
     <string name="i_know">Je sais</string>
@@ -2412,7 +2412,7 @@ Appuyez longuement pour revenir"</string>
     <string name="mi_band_not_exist_nearby">Aucun Mi-Fit à proximité</string>
     <string name="mi_camera">Caméra Yi</string>
     <string name="mi_camera_change">Changer de caméra</string>
-    <string name="mi_camera_no_change">Pas de changement de caméra<</string>
+    <string name="mi_camera_no_change">Pas de changement de caméra</string>
     <string name="mi_router">Routeur Mi</string>
     <string name="mi_router_connect_device">Routeur détecté</string>
     <string name="mi_router_disconnect_device">Le routeur détecté est hors-ligne</string>
@@ -2455,7 +2455,7 @@ Appuyez longuement pour revenir"</string>
     <string name="smarthome_scene_delay_detal_min_sec">%1$d minutes %2$d secondes</string>
     <string name="smarthome_scene_delay_detal_sec">%d secondes</string>
     <string name="tag_ellipsis">...</string>
-    <string name="wx_login_cancel">annuler</string>
+    <string name="wx_login_cancel">Annuler</string>
     <string name="etc">etc</string>
     <string name="scene_user_license">Précautions concernant la licence</string>
     <string name="scene_user_license_content">"Lors de l'utilisation les cas suivants, ce produit ne porte aucune responsabilité juridique
@@ -2466,7 +2466,7 @@ Appuyez longuement pour revenir"</string>
 
 "</string>
     <string name="scene_user_license_title">Instructions</string>
-    <string name="scene_user_license_title_1">J'ai lu les "Précautions et conditions d'utilisation"</string>
+    <string name="scene_user_license_title_1">J\'ai lu les "Précautions et conditions d\'utilisation"</string>
     <string name="scene_warrning_text">"Note d'information: Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
     <string name="share_pic_not_extern_storage">Stockage insuffisant</string>
     <string name="action_settings">Paramètres</string>
@@ -2476,7 +2476,7 @@ Appuyez longuement pour revenir"</string>
     <string name="catalyst_hot_module_replacement_off">Désactiver Remplacement du module Hot</string>
     <string name="catalyst_live_reload">Activer le rechargement Live</string>
     <string name="catalyst_live_reload_off">Désactiver le rechargement Live</string>
-    <string name="catalyst_perf_monitor">Activer l'écran des performances</string>
+    <string name="catalyst_perf_monitor">Activer l\'écran des performances</string>
     <string name="catalyst_perf_monitor_off">Disable Perf Monitor</string>
     <string name="catalyst_remotedbg_error">Impossible de se connecter avec le débogueur à distance</string>
     <string name="catalyst_remotedbg_message">Connecter avec le débogueur à distance</string>
