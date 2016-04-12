@@ -288,7 +288,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="measuring">Mesure…</string>
     <string name="message_title_care">Message</string>
     <string name="message_title_friend">Message</string>
-    <string name="mi_band">Mi-Fit</string>
+    <string name="mi_band">"Mi-Fit "</string>
     <string name="miid_not_support">Compte Mi inconnu</string>
     <string name="modify_gender">Sexe</string>
     <string name="modify_height">Taille</string>
@@ -485,8 +485,8 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="running_pause">Pause</string>
     <string name="running_pound">lbs</string>
     <string name="running_prepare_map">Chargement des données…</string>
-    <string name="running_prompt_come_on">Continuer comme ça!</string>
-    <string name="running_prompt_great">Super!</string>
+    <string name="running_prompt_come_on">Continuer comme ça !</string>
+    <string name="running_prompt_great">Super !</string>
     <string name="running_prompt_per_kilometer" formatted="false">Vous avez déjà couru %sKm. Durée : s%s. Dernier km : s%s.</string>
     <string name="running_real_time_mile_pace">Rythme (min/mi)</string>
     <string name="running_real_time_pace">Rythme (min/km)</string>
@@ -927,7 +927,7 @@ Essayez la synchronisation sur la page de démarrage."</string>
     <string name="hr_no_bind_sub_title">Appairer le Mi-Fit Pulse pour surveiller votre fréquence cardiaque</string>
     <string name="hr_no_bind_title">Appairer le Mi-Fit Pulse</string>
     <string name="hr_sport">En activité</string>
-    <string name="hr_stop">Stop</string>
+    <string name="hr_stop">Arrêter</string>
     <string name="id_broadcast">Identifiable</string>
     <string name="id_broadcast_not_bound">Appairer le Mi-Fit pour activer le mode découverte</string>
     <string name="idbroadcast_logo_tips">Activer pour être visible pour les appareils à proximité</string>
@@ -1008,7 +1008,7 @@ plage de mesure (%s)"</string>
     <string name="mili_setting_find_bracelet">Recherche</string>
     <string name="mili_setting_finding">Rechercher Mi-Fit…</string>
     <string name="mili_setting_fw_version">Version Firmware</string>
-    <string name="mili_setting_hr_fw_version">Version capteur cardiaque</string>
+    <string name="mili_setting_hr_fw_version">Version Capteur Cardiaque</string>
     <string name="mili_setting_last_charge">Chargé il y a  %s jours</string>
     <string name="mili_setting_last_charge_pro">%sd depuis la dernière charge</string>
     <string name="mili_setting_last_charge_today">Chargé aujourd\'hui</string>
@@ -1023,8 +1023,8 @@ plage de mesure (%s)"</string>
     <string name="mili_setting_set_wear">Poignet</string>
     <string name="mili_setting_set_wear_left">Gauche</string>
     <string name="mili_setting_sleep_assist">Assistant sommeil</string>
-    <string name="mili_setting_sleep_assist_close_failed">"Impossible de désactiver"</string>
-    <string name="mili_setting_sleep_assist_open_failed">"Impossible d'activer</string>
+    <string name="mili_setting_sleep_assist_close_failed">Impossible de désactiver</string>
+    <string name="mili_setting_sleep_assist_open_failed">Impossible d\'activer</string>
     <string name="mili_setting_sleep_assist_tips">Aide à obtenir des données de sommeil plus précis (consomme de la batterie)</string>
     <string name="mili_setting_unbind">Désappairer</string>
     <string name="mili_setting_vibrate_notify">Notifications Mi-Fit</string>
@@ -1109,7 +1109,7 @@ plage de mesure (%s)"</string>
     <string name="pull_to_refresh_complete">Rafraîchir</string>
     <string name="pull_to_refresh_loading">Actualisation…</string>
     <string name="pull_to_refresh_tip">Tirer vers le bas pour rafraîchir</string>
-    <string name="query_weixin_btn_text">Voir les top de WeChat</string>
+    <string name="query_weixin_btn_text">Afficher les top de WeChat</string>
     <string name="quite_heart_rate">Au repos</string>
     <string name="quite_heart_rate_tip">La fréquence cardiaque en état de repos varie habituellement entre 60 et 100 BPM</string>
     <string name="radio_day">J</string>
@@ -1130,7 +1130,7 @@ plage de mesure (%s)"</string>
     <string name="repeat">Répéter</string>
     <string name="restore">Restaurer</string>
     <string name="restore_unlock_screen_tips">"Vous devez configurer le déverrouillage via Bluetooth à nouveau une fois que vous avez remplacé le dispositif"</string>
-    <string name="restore_unlock_screen_title">Restaurer déverrouillage de l'écran via Bluetooth</string>
+    <string name="restore_unlock_screen_title">Restaurer déverrouillage de l\'écran via Bluetooth</string>
     <string name="saturday">Samedi</string>
     <string name="save">Sauvegarder</string>
     <string name="saving_family_failure_title">"Impossible d'ajouter un nouveau membre, vérifier le réseau et essayez à nouveau"</string>
@@ -1271,7 +1271,7 @@ Vous pouvez changer l'unité de mesure manuellement dans le compartiment des pil
     <string name="sleep_week_light_time">Moy. sommeil léger</string>
     <string name="sm_alert">Messages entrants</string>
     <string name="sm_alert_not_bound">Appairer le Mi-Fit pour recevoir les notifications concernants les SMS</string>
-    <string name="smart_lock_low_version">Votre version d'Android est trop ancienne, mettre à jour en version 5.0 ou plus</string>
+    <string name="smart_lock_low_version">Votre version d\'Android est trop ancienne, mettre à jour en version 5.0 ou plus</string>
     <string name="smart_play_google_fit">Google Fit</string>
     <string name="smart_play_qq">QQ</string>
     <string name="smart_play_wechat">WeChat</string>
@@ -1406,7 +1406,7 @@ avant de descendre de la balance."</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="data_not_supported">--</string>
-    <string name="running_hour">%dh</string>
+    <string name="running_hour">%d h</string>
     <string name="running_hour_min" formatted="false">%d h %d min</string>
     <string name="running_hour_min_sec" formatted="false">%d h %d min %d s</string>
     <string name="running_hour_sec" formatted="false">%d h %d s</string>
