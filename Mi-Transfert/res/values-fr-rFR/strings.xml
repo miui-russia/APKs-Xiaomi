@@ -588,12 +588,12 @@
     <string name="settings_summary">Réglages du téléphone et de la messagerie</string>
     <string name="wifi_title">Paramétres Wi-Fi</string>
     <string name="feature_title_account">Compte</string>
-    <string name="account_summary">Sauvegarde du compte Google, du compte MI, et autres données de l'utilisateur</string>
+    <string name="account_summary">Sauvegarde du compte Google, du compte MI, et autres données de l\'utilisateur</string>
     <string name="local_select_sysdata">Système</string>
-    <string name="system_backup_info">Paramètres système et  mise en page de l'écran d'accueil</string>
+    <string name="system_backup_info">Paramètres système et  mise en page de l\'écran d\'accueil</string>
     <string name="local_select_userapp">Apps</string>
     <string name="software_backup_info">App data</string>
-    <string name="local_select_account_contact">Compte &amp; contacts</string>
+    <string name="local_select_account_contact">Compte et contacts</string>
     <string name="account_contact_backup_info">Compte Google, compte MI, et données de contact</string>
     <string name="local_select_files">Carte SD</string>
     <string name="local_select_image">Images</string>
@@ -665,13 +665,13 @@ Temps écoulé %s"</string>
     <string name="trans_connect_failed_toast">Impossible de se connecter</string>
     <string name="trans_device_mi1">Téléphone Mi1</string>
     <string name="trans_device_mi1s">Téléphone Mi1s</string>
-    <string name="trans_device_mi2">Téléphone Mi2</string>2</string>
+    <string name="trans_device_mi2">Téléphone Mi2</string>
     <string name="trans_device_mi2a">Téléphone Mi2a</string>
     <string name="trans_device_mi3">Téléphone Mi3</string>
     <string name="trans_device_mi4">Téléphone Mi4</string>
     <string name="trans_device_minote">MiNote</string>
     <string name="trans_device_minotepro">MiNote pro</string>
-    <string name="trans_no_permission">Autoriser l'accès à% s pour sauvegarder les fichiers</string>
+    <string name="trans_no_permission">Autoriser l\'accès à %s pour sauvegarder les fichiers</string>
     <string name="trans_entrance_tips">"Déplacer les contacts, les messages, les applications,
 et des fichiers sur votre téléphone Mi"</string>
     <string name="trans_generate_qr_code_failed">"Impossible de créer le QR code"</string>
