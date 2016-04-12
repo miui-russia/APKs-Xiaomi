@@ -6,7 +6,7 @@
     <string name="ac_mode_dry">Déshumidifier</string>
     <string name="ac_mode_fan">Ventilateur</string>
     <string name="ac_mode_hot">Chaud</string>
-    <string name="activity_stb_list_title">Choisissez le décodeur</string>
+    <string name="activity_stb_list_title">Sélectionnez le décodeur</string>
     <string name="actor_intro_title_text">Caster</string>
     <string name="add">Ajouter</string>
     <string name="add_control">Ajouter une télecommande</string>
@@ -774,13 +774,13 @@ Ensuite, répondre à la question"</string>
     <string name="epg_unbook_all">Annuler tout</string>
     <string name="epg_user_my_booked_events">Mes plannifications</string>
     <string name="epg_user_my_favorite_channel">Mes chaînes favorites</string>
-    <string name="extra_keys">扩展键</string>
+    <string name="extra_keys">Extra</string>
     <string name="fix_keys">Bouton réparer</string>
     <string name="fix_keys_success">Réparation succès！</string>
     <string name="fix_keys_tips">Si certaines touches sont difficiles à utiliser, vous pouvez essayer de les réparer</string>
     <string name="get_backup_failed">Restauration échouée, veuillez essayer à nouveau</string>
     <string name="get_backup_succeed">Restauration réussie，de %1$d, déjà présente %2$d，%3$d récupérées，</string>
-    <string name="help">"Utilisation de l'aide"</string>
+    <string name="help">Aide</string>
     <string name="last_bak_time">Dernière sauvegarde %1$s</string>
     <string name="login">Se connecter</string>
     <string name="login_directly">Se connecter directement</string>
@@ -809,7 +809,7 @@ Ensuite, répondre à la question"</string>
     <string name="program_booking_book_filter_book_status">Etat des réservations</string>
     <string name="program_booking_book_filter_not_booked">Non réservé</string>
     <string name="program_booking_channel_filter_all_channels">Toutes les chaînes</string>
-    <string name="program_booking_date_filter_day_0">Aujourd'hui"</string>
+    <string name="program_booking_date_filter_day_0">Aujourd\'hui"</string>
     <string name="program_booking_date_filter_day_1">Demain</string>
     <string name="program_booking_date_filter_day_2">Aprés-demain</string>
     <string name="program_booking_date_filter_friday">Vendredi</string>
