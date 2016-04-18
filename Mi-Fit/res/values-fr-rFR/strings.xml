@@ -760,7 +760,7 @@ la plage de mesure (%s)"</string>
     <string name="one">Lun</string>
     <string name="only_once">Une fois</string>
     <string name="open_avoid_disturb_tips">Activer Ne pas déranger</string>
-    <string name="open_weight_settings_merge_title">Merge duplicate weigh in records</string>
+    <string name="open_weight_settings_merge_title">Fusionner les entrées de poids</string>
     <string name="orange">Orange</string>
     <string name="over_max_range_weight">Poids maximal dépassé (%s)</string>
     <string name="over_max_range_weight_text">Poids maximum : %s</string>
@@ -1431,8 +1431,8 @@ avant de monter sur la balance."</string>
     <string name="weight_setting_fw_version">Version du Firmware</string>
     <string name="weight_setting_help">En savoir plus</string>
     <string name="weight_setting_weight">Mi-Balance</string>
-    <string name="weight_settings_merge_tips">Merge weigh-ins that are recorded less than 30 seconds apart</string>
-    <string name="weight_settings_merge_title">Merge duplicate weigh-ins</string>
+    <string name="weight_settings_merge_tips">Fusionner les valeurs enregistrées à moins de 30 secondes d'intervalle</string>
+    <string name="weight_settings_merge_title">Fusionner les valeurs de poids</string>
     <string name="weight_settting_mac_address">Adresse MAC de la Balance Mi</string>
     <string name="weight_sync_time">%s synchronisé</string>
     <string name="weight_syncing">Synchronisation des données…</string>
