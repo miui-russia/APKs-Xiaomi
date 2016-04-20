@@ -422,7 +422,7 @@ Continurer quand même ?"</string>
     <string name="hint_input_remark_name">Entrez le titre du message</string>
     <string name="hint_input_xiaomi_uid">Entrez votre ID du Compte Mi</string>
     <string name="hold_baby_weight">Se peser avec un nourrisson</string>
-    <string name="home_deep_sleep">Sommeil profond</string>
+    <string name="home_deep_sleep">"Sommeil profond "</string>
     <string name="home_sleep">"Sommeil "</string>
     <string name="home_total_sleep">Sommeil total</string>
     <string name="homepage_item_discover">Découvrir</string>
@@ -1192,8 +1192,8 @@ Vous pouvez changer l'unité de mesure manuellement dans le compartiment des pil
     <string name="sleep_awake_time">Réveillé(e) à</string>
     <string name="sleep_bind_band">Appairer le Mi-Fit pour mieux comprendre votre sommeil</string>
     <string name="sleep_chart_no_data">Aucune donnée de sommeil</string>
-    <string name="sleep_deep">Sommeil profond</string>
-    <string name="sleep_deep_time">Sommeil profond</string>
+    <string name="sleep_deep">"Sommeil profond "</string>
+    <string name="sleep_deep_time">"Sommeil profond "</string>
     <string name="sleep_go_sleep_time">Couché(e) à</string>
     <string name="sleep_light">Sommeil léger</string>
     <string name="sleep_light_time">Sommeil léger</string>
@@ -1431,7 +1431,7 @@ avant de monter sur la balance."</string>
     <string name="weight_setting_fw_version">Version du Firmware</string>
     <string name="weight_setting_help">En savoir plus</string>
     <string name="weight_setting_weight">Mi-Balance</string>
-    <string name="weight_settings_merge_tips">Fusionner les valeurs enregistrées à moins de 30 secondes d'intervalle</string>
+    <string name="weight_settings_merge_tips">Fusionner les valeurs enregistrées à moins de 30 secondes d\'intervalle</string>
     <string name="weight_settings_merge_title">Fusionner les valeurs de poids</string>
     <string name="weight_settting_mac_address">Adresse MAC de la Balance Mi</string>
     <string name="weight_sync_time">%s synchronisé</string>
