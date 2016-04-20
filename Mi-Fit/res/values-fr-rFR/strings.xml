@@ -318,13 +318,13 @@ Essayer de synchroniser sur la page de démarrage."</string>
     <string name="enable_id_broadcast_query">Activer le mode visibilité ?</string>
     <string name="enable_id_broadcast_query_msg">"Activer cette fonctionnalité pourrait réduire un peu l'autonomie de la batterie"</string>
     <string name="enable_id_broadcast_tips">Activer pour être visible par les appareils à proximité</string>
-    <string name="enable_incoming_call_alert">Activer les notifications pour les appels entrants</string>
+    <string name="enable_incoming_call_alert">Activer les notifications pour les appels</string>
     <string name="enable_incoming_call_alert_tips">Mi-Fit vibrera pendant les appels entrants</string>
     <string name="enable_long_sit_alert">Activer les alertes inactives</string>
     <string name="enable_long_sit_alert_tips">"Le bracelet vibre lorsqu'il détecte que vous vous êtes assis pendant trop longtemps"</string>
-    <string name="enable_phone_alarm">"Activer les notifications d'alarme"</string>
+    <string name="enable_phone_alarm">"Activer les notifications d'alarmes"</string>
     <string name="enable_phone_alarm_tips">"Lorsque l'alarme s'éteint sur le téléphone, le bracelet se mettra à vibrer"</string>
-    <string name="enable_sm_alert">Activer les notifications pour les SMS entrants</string>
+    <string name="enable_sm_alert">Activer les notifications pour les SMS</string>
     <string name="enable_sm_alert_tips">Le bracelet vibrera à la réception de SMS</string>
     <string name="enabled_alarms">%s alarmes sont activées</string>
     <string name="equal_last_time">Pareil que la dernière pesée</string>
@@ -428,7 +428,7 @@ Continurer quand même ?"</string>
     <string name="homepage_item_discover">Découvrir</string>
     <string name="homepage_item_mine">Profil</string>
     <string name="homepage_item_smartdevice">Options</string>
-    <string name="homepage_item_status">Acceuil</string>
+    <string name="homepage_item_status">Accueil</string>
     <string name="how_is_yestoday_sleep">Bien dormi la nuit dernière ?</string>
     <string name="hr_battery_low">Moins de 10 % de batterie restant dans votre bracelet</string>
     <string name="hr_delete_title">Supprimer cet enregistrement ?</string>
@@ -468,8 +468,8 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="incoming_call_alert">Appels entrants</string>
     <string name="incoming_call_alert_logo_tips">Gardez le bracelet connecté au téléphone via Bluetooth</string>
     <string name="incoming_call_alert_tips">"Notifier si je n'ai pas décroché après %ss"</string>
-    <string name="incoming_call_delay_alert_tips">Vibrer %ssec après la première sonnerie</string>
-    <string name="incoming_call_delay_dialog_alert_tips">Notifier en %ss après la première sonnerie</string>
+    <string name="incoming_call_delay_alert_tips">Vibrer après %s sec</string>
+    <string name="incoming_call_delay_dialog_alert_tips">Notifier après %s sec</string>
     <string name="incoming_call_not_bound">Associer Mi-Fit pour recevoir les notifications des appels entrants</string>
     <string name="incoming_call_whitelist_tips">"Si vous utilisez l'assistant téléphonique, 
 Ajoutez Mi Fit aux exceptions"</string>
