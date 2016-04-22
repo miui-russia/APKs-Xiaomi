@@ -3,8 +3,6 @@
     <string name="app_name">Roid-Mi</string>
     <string name="app_name_show">Transmetteur Bluetooth</string>
     <string name="app_version">Version app: %1$s</string>
-    <string name="btn_change">Changer de fréquence</string>
-    <string name="btn_bt">Paramètres Bluetooth</string>
     <string name="btn_ok">OK</string>
     <string name="btn_cannel">Annuler</string>
     <string name="btn_allow">Autoriser</string>
@@ -12,100 +10,99 @@
     <string name="btn_open">Activer</string>
     <string name="btn_close">Désactiver</string>
     <string name="btn_next">Étape suivante</string>
-    <string name="btn_exit">Quitter</string>
+    <string name="Data_fail">数据错误</string>
     <string name="delete">Supprimer</string>
-    <string name="delete_success">Supprimer!</string>
-    <string name="delete_fail">Erreur!</string>
-    <string name="default_music_app">Lecteur par défaut:</string>
-    <string name="fm_but">Transmetteur FM 1</string>
-    <string name="fm_bt_note">Non connecté</string>
-    <string name="fm_bt_lost">Connexion perdu !</string>
-    <string name="fm_title">FM</string>
+    <string name="delete_success">Supprimer !</string>
+    <string name="delete_fail">Delete error !</string>
+    <string name="bt_lost">蓝牙连接中断!</string>
     <string name="fm_mhz">MHz</string>
-    <string name="fm_note">Mettre la fréquence FM de votre autoradio à la valeur sélectionnée</string>
-    <string name="fm_set_note">Fréquence changée.</string>
-    <string name="welcome">Bonjour!</string>
-    <string name="No_Link_FM">Pas de connexion Bluetooth</string>
-    <string name="No_Data">Pas de données</string>
-    <string name="No_Create_File">"Je ne peux pas créer un fichier."</string>
-    <string name="Net_not_connected">Vérifier votre connexion internet!</string>
-    <string name="space_insufficient">Espace disque insuffisant!</string>
-    <string name="No_WIFI">Attention! votre opérateur peux vous facturer des frais de transmission. Clic OK pour continuer.</string>
+    <string name="fm_set_note">FM Sending Done!</string>
+    <string name="Must_Num_Char">Numbers and Letters Only</string>
+    <string name="No_Data">No Data</string>
+    <string name="No_Create_File">Unable to Create File</string>
+    <string name="Not_NULL">Not to be Null!</string>
+    <string name="Net_not_connected">Checking Network if Connected</string>
+    <string name="Net_time_out">request timeout, Checking Network if Connected</string>
+    <string name="No_WIFI">"Mobile Phone Traffic Alert: 
+Perhaps high cost data flow.
+Click OK to Continue!"</string>
+    <string name="recommend_1">（推荐）</string>
+    <string name="recommend_2">(推荐)</string>
+    <string name="space_insufficient">Espace disque insuffisant !</string>
+    <string name="unit_hour">%1$s heures</string>
+    <string name="unit_minute">%1$s minutes</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="dian">·</string>
     <string name="about">À propos...</string>
-    <string name="auto_title">Mode de démarrage</string>
-    <string name="auto_info">Choisissez Ouvrir dans votre lecteur</string>
-    <string name="auto_info_title">Mode de démarrage</string>
-    <string name="auto_state_default">Défaut</string>
-    <string name="auto_state_click">Appuyez sur ouvrir</string>
-    <string name="auto_state_play">Lecture automatique</string>
-    <string name="auto_state_click_info">Appuyez sur OK pour ouvrir votre lecteur</string>
-    <string name="auto_state_play_info">Ouverture automatique du lecteur et de la lecture</string>
-    <string name="auto_bt_disconnected">Après avoir connecté le BT</string>
-    <string name="auto_prompt_default">Définir par défaut.</string>
-    <string name="auto_prompt_click">Set as hold to open</string>
-    <string name="auto_prompt_play">Définir comme démarrage automatique. Redémarrer le BT</string>
-    <string name="bt_not_open">"Le Bluetooth n'est pas activé"</string>
-    <string name="bt_link_title">Bluetooth:</string>
-    <string name="bt_link_ok_info">La connexion Bluetooth est OK</string>
-    <string name="bt_link_ok">Appairé</string>
-    <string name="bt_link_fail">ERREUR</string>
-    <string name="channel_change">FM</string>
-    <string name="channel_set_title">Régler la Fréquence</string>
-    <string name="channel_send_title">Transmition Frequency FM: %1$sMHZ</string>
-    <string name="channel_send_current">Fréquence</string>
-    <string name="channel_prompt">Réglez votre autoradio</string>
-    <string name="channel_recommend">Fréquence recommandé</string>
-    <string name="download_fail_nofilename">Erreur de fichier（400）</string>
-    <string name="drive_title_today">"Enregistrement aujourd'hui"</string>
-    <string name="drive_title">Enregistrement de la conduite</string>
-    <string name="drive_title_drive">Voyage</string>
-    <string name="drive_title_drive_today">Conduite du jour:</string>
-    <string name="drive_title_hour">Heure</string>
-    <string name="drive_title_minute">Minute</string>
-    <string name="drive_near_info">%1$s Conduire %2$s</string>
-    <string name="drive_time_0">"Rui meters, surprises
-hurry to enjoy this belong to you the fun of it"</string>
-    <string name="drive_time_30_1">"恭喜你，在绿色行车的道路已做到了极致
--中国绿色出行的历史上将会留下你的一笔"</string>
-    <string name="drive_time_30_2">"祝贺你，已经是绿色行车达人了
-你在中国行车绿色榜中已经名列前茅"</string>
-    <string name="drive_time_30_3">"你越来越环保有爱了
-每天努力一点点，我们的目标就更近了"</string>
-    <string name="drive_time_60">"不错哦，让我们一起实现
-每天行车不超一小时的梦想吧"</string>
-    <string name="drive_time_120">恭喜你，在绿色出行的路上又向前迈进一步</string>
-    <string name="drive_time_300_1">"恭喜你，在智能驾驶的土豪榜上留下了您的足迹
-每天再使用多一点，你会体验到更多的乐趣哦"</string>
-    <string name="drive_time_300_2">"哇，每天行车超过2小时
-睿米土豪榜将会有你的一席之地"</string>
-    <string name="drive_time_300_more_1">"哇，你已经是中国行车土豪了
-去晒一下此刻的心情吧"</string>
-    <string name="drive_time_300_more_2">"哇，你已经位列中国土豪榜首了
-遥遥领先的心情是不是很爽啊！"</string>
-    <string name="firmware">Firmware</string>
-    <string name="firmware_name">RoidMi FM</string>
-    <string name="firmware_version">Version du firmware:</string>
-    <string name="firmware_update">Mise à jour firmware</string>
-    <string name="feed_back">Des questions ?</string>
-    <string name="defout_contact">Coordonnées (e-mail, mobile, QQ)</string>
-    <string name="defout_content">"Si il y a un soucis de traduction, merci d'envoyer un mail contenant une capture d'écran à mesilikas@gmail.com"</string>
-    <string name="fb_contact_empty">VIDE!</string>
-    <string name="fb_contact_error">ERREUR!</string>
-    <string name="fb_content_empty">VIDE!</string>
-    <string name="fb_send">Envoyer</string>
-    <string name="fb_sending">Envoi...</string>
-    <string name="fb_send_success">Succès!</string>
-    <string name="fb_send_fail">Erreur! Non envoyé!</string>
-    <string name="feed_back_list_null1">Problème de traduction ? Envoyer une capture d\'écran</string>
-    <string name="feed_back_list_null2">adresse mail: mesilikas@gmail.com</string>
-    <string name="guide">Guide</string>
-    <string name="guide_use">Recommencer...</string>
-    <string name="guide_title">"Je suis Roid-Mi"</string>
-    <string name="guide_login">Connexion</string>
-    <string name="guide_1">Se connecter, vous acceptez les termes et conditions.</string>
-    <string name="guide_2">et</string>
-    <string name="guide_protocol"><u>Licence</u></string>
-    <string name="guide_privacy_policyl"><u>Politique de confidentialité</u></string>
+    <string name="bt_link_ok">Bind</string>
+    <string name="bt_link_fail">unBind</string>
+    <string name="car_service">car service</string>
+    <string name="used_car">二手车</string>
+    <string name="car_maintenance">汽车保养</string>
+    <string name="channel_change">Change</string>
+    <string name="channel_change_power">Denoise off</string>
+    <string name="channel_change_power_tip">improve anti-interference ability and tone quality</string>
+    <string name="channel_set_title">Setting Frequency</string>
+    <string name="channel_curr">FM : %1$sMHz</string>
+    <string name="channel_send_current">Current Channel</string>
+    <string name="channel_prompt">Adjusting car FM</string>
+    <string name="channel_recommend">Recommended</string>
+    <string name="channel_find_empty">Searching the empty MHz, pls wait a moment</string>
+    <string name="download_fail_nofilename">Failure to download files（400）</string>
+    <string name="my_device">My device</string>
+    <string name="device_bc">Car charger with Bluetooth</string>
+    <string name="device_bu">USB with Bluetooth</string>
+    <string name="device_ty">TPMS</string>
+    <string name="device_bu_title">Roidmi USB with Bluetooth</string>
+    <string name="device_ty_title">Roidmi TPMS</string>
+    <string name="device_link">Connect Bluetooth</string>
+    <string name="device_version">Firmware version</string>
+    <string name="device_update_title">%1$s Firmware upgrading</string>
+    <string name="device_update_hint">Close to the mobile phone while upgrading</string>
+    <string name="device_update_num">Done already %1$s</string>
+    <string name="device_update_success">Successful Update</string>
+    <string name="device_update_fail">Failure to Update</string>
+    <string name="device_update_rstart">Restart</string>
+    <string name="device_updating">"hardware device is upgrading, pls don't quit"</string>
+    <string name="device_update_notify_title">device update notification</string>
+    <string name="device_update_notify_content">New version device，update it and have a try</string>
+    <string name="device_latest_version">The latest device version</string>
+    <string name="device_geting_version">obtaining the information of device, pls wait</string>
+    <string name="device_get_version_fail">Failing to obtain device information, pls check if the web is open or not</string>
+    <string name="device_get_version_unknow">Failing to obtain device information (wrongcode:103)</string>
+    <string name="bc_no_Link">pls connect Bluetooth car charger in advance</string>
+    <string name="bc_bt_lost">Bluetooth car charger unconnected</string>
+    <string name="drive_title_today">"Today's driving records"</string>
+    <string name="drive_title">Driving records</string>
+    <string name="drive_title_drive">Driving</string>
+    <string name="drive_title_drive_today">Driving today:</string>
+    <string name="drive_time_0">"Roidmi, infinite surprises!
+ Come and enjoy the fun of it"</string>
+    <string name="drive_time_30_1">"Congratulations on your great green driving behavior!
+The history of China's green driving will have your records"</string>
+    <string name="drive_time_30_2">"Congratulations, you're already popular in green driving.
+ You are among the best in China's green driving"</string>
+    <string name="drive_time_30_3">You are more and more environmentally friendly n Every day to work a little bit, our goal is even closer</string>
+    <string name="drive_time_60">"Oh, well, let's realize the dream of driving less than an hour a day"</string>
+    <string name="drive_time_120">Congratulations, you are on the way to the green driving</string>
+    <string name="drive_time_300_1">"Congratulations for your footprints in the intelligent driving of Beverly Hillbillies list
+ Use a little more every day, you will experience more fun oh"</string>
+    <string name="drive_time_300_2">Wow, if the daily driving for more than 2 hours, there will be records of you in the Roidmi Beverly Hillbillies list</string>
+    <string name="drive_time_300_more_1">"Wow, you're one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?"</string>
+    <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
+    <string name="feed_back">Feedback</string>
+    <string name="defout_contact">Your Contact Information(e-Mail, Mobile, QQ)</string>
+    <string name="defout_content">Thank you for your feedback, we will listen carefully to your comments and suggestions</string>
+    <string name="fb_content_empty">Please leave feedback!</string>
+    <string name="fb_send">Send</string>
+    <string name="fb_sending">Sending…</string>
+    <string name="fb_send_success">Successful Send</string>
+    <string name="fb_send_fail">Failure to Send</string>
+    <string name="feed_back_list_null1">We are look forward to hearing from you,</string>
+    <string name="feed_back_list_null2">Bring the best experience to you!</string>
+    <string name="feed_back_notify_title">Feedback Reply</string>
+    <string name="feed_back_notify_content">Feedback has reply, click to view the content</string>
+    <string name="guide_show">www.roidmi.com</string>
     <string name="guide_start_up">Commencez</string>
     <string name="guide_start_up_info1">Assurez vous du fonctionnement normal du programme</string>
     <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche Retour pour revenir sur cet écran"</string>
@@ -124,7 +121,6 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="send_voice">TEST</string>
     <string name="send_voice_fail">"Je n'entends pas. Changer de fréquence."</string>
     <string name="send_voice_success">"J'entends! Suivant."</string>
-    <string name="next">Suivant</string>
     <string name="defalut_player">Lecteur de musique par défaut</string>
     <string name="defalut_player_detail">vous pouvez le modifier dans les paramètres APP.</string>
     <string name="begin_use">commencer à utiliser RoidMi</string>
@@ -133,189 +129,293 @@ hurry to enjoy this belong to you the fun of it"</string>
     <string name="fm_setting_info">La recherche automatique va régler votre fréquence</string>
     <string name="go_to">Retour</string>
     <string name="help">Aide</string>
-    <string name="help_other">Aide</string>
-    <string name="help_title">"Vous n'entendez pas?"</string>
-    <string name="help_Q1">"1、Le roid-mi n'apparait pas dans la recherche BT”</string>
-    <string name="help_A1">"Astuce: Enlever le Roid-mi de l'allume cigare, attendre 10s, remettre le Roid-mi dans l'allume cigare puis cliquer sur recherche de nouveaux périphériques Bluetooth"</string>
-    <string name="help_Q2">"2、Le Roid-Mi n'est pas connecté en Bluetooth"</string>
-    <string name="help_A2">Astuce：enlevez le lecteur，cliquez sur recherche de nouveaux periphériques puis rebranchez le lecteur</string>
-    <string name="help_Q3">"3、Connection Bluetooth Ok mais pas de son dans l'autoradio"</string>
-    <string name="help_A3">操作提示：进入APP，点击首页的【FM发射频率】，设置一下播放器的发射频率，点击发射调频看到调频成功提示信息后，将车载FM调频调制所设的频率即可。</string>
-    <string name="help_Q4">4、Comment changer de lecteur par défaut?</string>
-    <string name="help_A4">Astuce: cliquez sur "Lecteur par défaut", puis choisissez votre APP</string>
-    <string name="help_Q5">5、Le lecteur ne s\'ouvre pas automatiquement</string>
-    <string name="help_A5">操作提示：请在手机的系统设置中将车载蓝牙FM应用程序设置为受保护的后台应用。参考：进入手机【设置】，点击【受保护的后台应用】，点击车载蓝牙FM应用后面的开关。</string>
-    <string name="help_Q6">6、Aucun changement sur certaine option</string>
-    <string name="help_A6">Astuce: Pour activer certaine option, vous devez déconnecter puis reconnecter votre BT</string>
-    <string name="help_Q7">7、Je veux désactiver la lecture automatique</string>
-    <string name="help_A7">Astuce: Cliquez sur "Lecteur par défaut" puis décocher "démarrage automatique"。</string>
-    <string name="help_Q8">8、Je veux désactiver les messages vocaux (messages en chinois)</string>
-    <string name="help_A8">Astuce: Cliquez sur les trois petits points en haut à droite, ensuite allez dans paramètres puis désactiver "Messages vocaux"</string>
-    <string name="help_Q9">9、Comment changer la couleur de la LED？</string>
-    <string name="help_A9">Astuce: Cliquez sur les trois petits points en haut à droite, ensuite allez dans "Couleur de la LED" puis choisissez。</string>
-    <string name="help_Q10">10、Le lecteur ne peut pas être utilisé en mode automatique ？</string>
-    <string name="help_A10">操作提示：请确认该播放器是否进行了更新操作，如果为更新后的软件，请及时将播放器的引导页点击关闭掉。</string>
-    <string name="help_Q11">"11、Votre lecteur n'est pas reconnu？"</string>
-    <string name="help_A11">"Astuce: Votre lecteur ne fait pas parti des lecteurs reconnu par notre logiciel, nous vous recommandons d'utiliser le lecteur par défaut ou le logiciel musique QQ"</string>
-    <string name="help_CC_Q1">播放器是否在手机附近？</string>
-    <string name="help_CC_A1">播放器通过蓝牙与手机连接，播放器和手机的距离越近，越有利于播放器和手机连接。</string>
-    <string name="help_CC_Q2">播放器是否还有供电？</string>
-    <string name="help_CC_A2">"Si le Roid-mi et le téléphone est très proches et qu'il ne le trouve pas, s'il vous plaît vérifier l'état d'alimentation du Roid-mi, si la LED du Roid-mi clignote, vous pouvez le  retirer et l'insérer de nouveau dans l'allume-cigare.。"</string>
-    <string name="help_CC_Q3">Comment redémarrer le BT？</string>
-    <string name="help_CC_A3">"Si le roid-mi est bien alimenté et que le téléphone ne le trouve pas, couper l'application Roid-mi, désactiver le Bt sur votre téléphone, puis réactiver le, attendre quelques secondes, puis réessayer。"</string>
-    <string name="help_CC_Q4">Utiliser un autre téléphone？</string>
-    <string name="help_CC_A4">"Si votre téléphone habituel est à proximité, il faut désactiver le BT de ce denier, puis activer le BT de l'autre téléphone, faite une recherche et lancer Roid-mi。"</string>
-    <string name="help_CC_Q5">Roid-mi ne reconnait toujours pas le téléphone？</string>
-    <string name="help_CC_A5">Redemarrez votre téléphone, puis réessayez。</string>
-    <string name="help_CC_Q6">Le Roid-mi fonctionne mal？</string>
-    <string name="help_CC_A6">Faite attention au dépot de tabac ou poussière dans votre allume cigare, insérer le Roid-mi aprés nettoyage</string>
-    <string name="help_CC_Q7">Vous ne pouvez pas changer manuellement la fréquence de votre autoradio？</string>
-    <string name="help_CC_A7">"Mettre la fréquence de votre autoradio sur l'application"</string>
-    <string name="help_CC_Q8">"Pourquoi est il recommandé d'utiliser une fréquence vide？"</string>
-    <string name="help_CC_A8">"Si vous choisissez une fréquence déjà utilisé, il risque d'y avoir des interférence voir même l'impossibilitée d'entendre votre musique"</string>
-    <string name="help_CC_Q9">Comment trouver une fréquence optimae？</string>
-    <string name="help_CC_A9">"Les fréquences recommandées ne sont pas forcément les meilleurs dans votre ville, vous pouvez essayer d'augmenter ou diminuer de 0.1MHz (sur l'application et l'autoradio), une fois que vous avez la meilleur qualitée vous pouvez nous envoyer le nom de votre ville et sa fréquence optimale, cela nous permettra d'ajuster les fréquences recommandées。"</string>
+    <string name="help_Q1">"1.Mobile phone Bluetooth can't find Roidmi Music Blue C"</string>
+    <string name="help_A1">Tips: First unplug the player from the car lighter hole, insert it again. Open the mobile Bluetooth after closing it around 10 seconds. Click to search the player again.</string>
+    <string name="help_Q2">2.Unable to Connect the Bluetooth</string>
+    <string name="help_A2">Tips: Insert the player into the car lighter hole again after power off. Click to search and connect it again.</string>
+    <string name="help_Q3">"3.The car audio doesn't work even if the Bluetooth being connected."</string>
+    <string name="help_A3">Tips: Click Car charger with Bluetooth on the APP homepage; Click FM Sending Frequency. Set up the sending frequency of player. Adjust the car FM to the set frequency</string>
+    <string name="help_Q4">4.Not the Default Music Player</string>
+    <string name="help_A4">Tips: Open the APP. Select the player you like.</string>
+    <string name="help_Q5">5.After setting up the auto play mode, the music player can not be opened automatically.</string>
+    <string name="help_A5">Tips: Set the Roidmi Driver APP in the mobile system as protected background application. For your reference, enter mobile settings; click protected background applications; select Roidmi Driver APP.</string>
+    <string name="help_Q6">6.Disliking Auto Play Mode</string>
+    <string name="help_A6">Tips: Click Car charger with Bluetooth on the APP homepage; Close the Automatically play while starting the car.</string>
+    <string name="help_Q7">7.No Need for Voice Prompts</string>
+    <string name="help_A7">Tips: Click the icon on the upper right corner of the homepage; Click the settings and close the Voice Prompt.</string>
+    <string name="help_Q8">8.How to switch the players light color?</string>
+    <string name="help_A8">Tips: Click Car charger with Bluetooth on the APP homepage; Click the Setting Indicator and select corresponding color.</string>
+    <string name="help_Q9">9.Unable to use the preferred audio player in the auto-play mode？</string>
+    <string name="help_A9">"Tips: Make sure the audio player being re-connected; Close the guide page of the audio player if it's the updated software."</string>
+    <string name="help_Q10">10.Unable to Use Some Music Software？</string>
+    <string name="help_A10">Tips: Our hardware control protocol does not support the software. We recommend you to use such audio players as KuGoo, TTPOD, KUWO, QQ Music etc.</string>
+    <string name="help_Q11">11.How to open voice recognition? What does voice recognition contains?</string>
+    <string name="help_A11">"operation ways：1. Entering homepage of music Bluetooth car charger, click the icon of voice recognition 2. When APP it working, shake your phone to enter into voice recognition. After the prompt tone, you can speak directly, like tell a joke, what's the weather today  system will automatically tell you the result after analysis."</string>
+    <string name="help_Q12">12.How to exchange music？</string>
+    <string name="help_A12">Tips：App offers shaking function(exchange music, voice recognition),exchanging music acquiescently. Shaking your phone when music playing, it will play next music after prompt tone kaka</string>
+    <string name="help_Q13">13.Try to re-start Bluetooth?</string>
+    <string name="help_A13">"Tips: Try to re-open the Bluetooth of the mobile phone and search the audio player after a while if the Roidmi Music Blue C can't be found but powered on already."</string>
+    <string name="help_Q14">14.Has the audio player been bounded with other mobile phone?</string>
+    <string name="help_A14">Tips: Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
+    <string name="help_Q15">15.Try to re-connect the mobile phone?</string>
+    <string name="help_A15">Tips: Re-boot the mobile phone and open the Roidmi Driver APP.</string>
+    <string name="help_Q16">16.Does the device have a bad contact?</string>
+    <string name="help_A16">Tips: Clean the ash from the car lighter hole if any.</string>
+    <string name="help_Q17">17.How to deal with the car FM unable to adjust the frequency manually?</string>
+    <string name="help_A17">Tips: Adjust the frequency of APP to the same one of the car FM.</string>
+    <string name="help_Q18">18.Why to recommend using unoccupied frequency?</string>
+    <string name="help_A18">Tips: Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
+    <string name="help_Q19">19.How to find the best requency?</string>
+    <string name="help_A19">"Tips: Perhaps it's not the best choice of frequency we recommend you in your city. You'd better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software."</string>
+    <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
+    <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为“开启”状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报“今天您的车牌限行”。用户可根据实际使用情况，选择“关闭”限行提示。</string>
     <string name="info_center">Centre d\'information</string>
+    <string name="nomessage">您暂无消息</string>
     <string name="login">Se connecter</string>
+    <string name="logining">Logining…</string>
     <string name="login_fail">Echec!</string>
     <string name="login_out">Se déconnecter</string>
-    <string name="login_out_info">Etes-vous sûr?</string>
-    <string name="LED">Couleur de la LED</string>
+    <string name="login_out_info">Etes-vous sûr ?</string>
+    <string name="login_out_btn">Sign out</string>
     <string name="LED_title">Définir la couleur de la LED</string>
-    <string name="LED_prompt">Choisir la couleur</string>
-    <string name="LED_toast">LED de couleur actuelle: %1$s</string>
+    <string name="LED_close">Quitter</string>
     <string name="LED_red">Rouge</string>
     <string name="LED_green">Vert</string>
     <string name="LED_blue">Bleu foncé</string>
-    <string name="LED_orange">Orange</string>
     <string name="LED_qing">Bleu</string>
-    <string name="LED_close">Eteindre LED</string>
-    <string name="MI_Key_proofread">Pair button</string>
-    <string name="MI_Key_swap">This action will switch up and down keys to control direction</string>
-    <string name="music">Lecteur par défaut</string>
-    <string name="music_title">Lecteur</string>
-    <string name="music_not_install">APP non intallé!</string>
-    <string name="music_main_title">Tap pour les options du lecteur:</string>
-    <string name="music_main_default_title">Set your start APP!</string>
+    <string name="MIC">Microphone</string>
+    <string name="MIC_switch">Microphone Switch</string>
+    <string name="MIC_open_title">Confirm to open the hands-free calls function?</string>
+    <string name="MIC_open_tip">"It's not safety to have a call on driving, pls use this function on low speed or stop!"</string>
+    <string name="music_title1">Music Mood</string>
+    <string name="music_title2">Popularity list</string>
+    <string name="music_title3">Hot Radio station</string>
+    <string name="music_default">Default</string>
+    <string name="music_download">Recommend</string>
+    <string name="music_recommend">Recommend</string>
+    <string name="music_not_install">APP non intallé !</string>
     <string name="music_mode">Lecture automatique</string>
-    <string name="music_chose_app">Choisir APP:</string>
-    <string name="music_info">米键可以直接操作该播放器</string>
-    <string name="music_chose">Choisir le lecteur par défaut</string>
-    <string name="music_open">Ouvrir</string>
+    <string name="music_choose">Choose Player</string>
+    <string name="more_player">More App</string>
+    <string name="music_chose_app">Choisir APP</string>
     <string name="music_set_title">Choisissez votre lecteur</string>
     <string name="music_set_bt_note">Enregistré!</string>
-    <string name="music_set_click">播放器设置成功，退出当前播放器后长按可打开新播放器。</string>
-    <string name="music_set_play">La configuration du lecteur est réussi, redémarrer le Bluetooth ,aprés avoir quitté le lecteur, pour que les changements prennent effets。</string>
+    <string name="music_set_play">Re-boot the Bluetooth while exiting current audio player after successfully setting it</string>
     <string name="protocol">Conditions d\'utilisation</string>
-    <string name="protocol_check_cont">Lire et accepter.</string>
-    <string name="protocol_ok">OK</string>
-    <string name="protocol_mi_protocol">"Accord de l'utilisateur"</string>
-    <string name="protocol_mi_privacy_policyl">Politique de confidentialité</string>
-    <string name="protocol_load_fail">Impossible de charger les conditions！</string>
     <string name="protocol_title_1">I. Dispositions générales</string>
     <string name="protocol_content_1">"
-1、Les utilisateurs acceptent les termes de l'accord et acceptent de suivre les instructions sur la page pour accomplir toutes les procédures d'enregistrement. L'utilisateur, au cours du processus d'inscription, clique sur le bouton "Accepter", cela signifie que l'utilisateur et le Wuxi Rui Information Technology Co., Ltd ont conclu un accord: accepter tous les termes du présent Accord.
-2、Enregistrement de l'utilisateur est réussie, Wuxi Rui Information Technology Co., donnera à chaque utilisateur un nom d'utilisateur et le mot de passe correspondant, l'ID utilisateur et le mot de passe de l'utilisateur sont sous votre responsabilité, les utilisateurs sont responsable juridiquement de toutes les activités et événements de leur compte.
-3、用户可以使用车载蓝牙FM各个频道单项服务，当用户使用车载蓝牙FM各单项服务时，用户的使用行为视为其对该单项服务的服务条款以及车载蓝牙FM在该单项服务中发出的各类公告的同意。 
+1.Users agree to the terms of this Agreement and follow the prompts on the page to complete all the registration procedures. Whenever the users in the process of registration procedures, click the agree button, it represents that the users have reached an agreement with Wuxi Roidmi Information Technology Co., Ltd. and fully accept all the terms of this agreement. 
 
-4、Contrat de service et diverses annonces faites par les Conditions d'utilisation et Information par Technology Co., Ltd Wuxi Rui, peuvent être mises à jour et révisées sans préavis. Lorsque vous utilisez les services connexes, Mi-FM doit être informé par la présente et doit se conformer aux termes qu'ils utilisent.
+2.After successfully registered, Wuxi Romi Information Technology Co., Ltd will give each user an account and the corresponding pass word which shall be kept properly by the users themselves. Users should be responsible for all the activities and events while using their user accounts. 
 
-Avant d'utiliser Bluetooth FM pour fournir les services, vous devez lire attentivement cet accord. Si vous n'êtes pas d'accord avec la modification du Service , vous pouvez prendre l'initiative d'annuler le service fourni par Bluetooth FM, une fois que vous utilisez le service Bluetooth FM est réputé avoir compris et entièrement d'accord avec le contenu du contrat de service , y compris les modifications Wuxi Rui information Technology Co., Ltd a fait à tout moment de l'entente de service, et de devenir des utilisateurs Bluetooth FM. "</string>    
-<string name="protocol_title_2">"Deuxièmement, les informations d'enregistrement et de protection de la vie privée"</string>
+3.The users may use the single service of each channel in the Roidmi Driver. When the users do this, their behavior is regarded as agreement to the provision of the individual service and the consent of the all kinds of announcements in the service of the Roidmi Driver. 
 
+4.Wuxi Roidmi Information Technology Co., Ltd., reserves the right to update and revise the service agreement of Roidmi Driver and various other services terms and announcements at any time without further notice. It is your responsibility to check the update and revision of the Roidmi Driver periodically and comply with the relevant provisions of its use. 
+
+Before you use the services provided by the Bluetooth FM, you should carefully read the service agreement. If you disagree with this service agreement and / or its modification at any time, you can take the initiative to cancel the service provided by the Bluetooth FM. Once you use the Roidmi Driver service, it is regarded as you have understood and fully agree with the content of the service agreement, including the modifications by Wuxi Roidmi Information Technology Co., Ltd. to the service agreement at any time, and become a user of the Roidmi Driver."</string>
+    <string name="protocol_title_2">Ⅱ.Registration information and privacy protection</string>
     <string name="protocol_content_2">"
-1、Compte Bluetooth FM (ie Bluetooth FM ID utilisateur) appartenant à Wuxi Rui Information Technology Co., Ltd, l'utilisateur a terminé les procédures d'enregistrement, ce qui rend l'accès au compte Bluetooth FM. Les utilisateurs doivent fournir des renseignements personnels en temps opportun, précis et détaillé et les informations d'enregistrement doivent être mise à jour, avec des exigences , détaillées et précises, tout le d'information sera utilisée pour les informations d'enregistrement. Si le problème est dû à une mauvaise information d'enregistrement, et a causé des problèmes, Wuxi Rui Information Technology Co. décline toute responsabilité.。 
+1.Wuxi Roidmi Information Technology Co., ltd. has the ownership of the Roidmi Driver account i.e. the Roidmi Driver user ID. After the users complete the registration procedures, they can obtain the right to use the Roidmi Driver accounts. Wuxi Roidmi Information Technology Co., Ltd., is not responsible for any problems and consequences caused by untrue registration information since the users have to provide detailed and accurate personal information timely, and constantly update the registration information. Meanwhile all the original information inputted will be kept as the registration information. 
 
-2、Votre compte utilisateur ne doit pas être vendu ou prêté à d'autre.si Wuxi Rui Information Technology Co., a découver que le compte d'utilisateur n'a pas lui-même enregistré, Wuxi Rui mètres IT Ltd se réserve le droit d'interrompre le service. Si les utilisateurs trouvent que leur compte a été utilisé illégalement par d'autres, vous devez en informer immédiatement Wuxi Rui Information Technology Co. Si un piratage ou une violation de cet accord conduisent à votre compte, mot de passe: utilisation illégale par d'autres,.. vous en êtes responsable juridiquement, Wuxi Rui Information Technology Co., ne porte aucune responsabilité.
+2.Wuxi ROIDMI Information Technology Co., Ltd. has the right to stop continuing services if we find that the user is not the account registered person. If users should immediately notify Wuxi Roidmi Information Technology Co., ltd. if they find the accounts were illegally used by others. The users, rather than Wuxi Roidmi Information Technology Co., Ltd., shall bear the loss and other legal responsibilities due to the illegal use of accounts No. and passwords by others being caused by hacking or violation of the provisions of the Agreement. 
 
-3、Wuxi Rui Information Technology Co., Mi est pas ouvert au public ou de fournir une information d'enregistrement d'utilisateur unique à des tiers, sauf si: 
-(1) autorisation préalable de l'utilisateur;
-(2) ne divulguer vos renseignements personnels pour vous fournir des produits et services demandés;
-(3) conformément aux exigences légales et réglementaires;
-(4) en conformité avec les exigences des ministères concernés;
-(5) Pour sauvegarder les droits et intérêts légitimes de Wuxi Rui Information Technology Co., Ltd 。 
+3.Wuxi Roidmi Information Technology Co., Ltd. won't publish or provide the individual registration information to 3rd parties, unless 
+（1）obtaining the clear user authorization in advance; 
+（2）only disclosure of your personal information so as to provide you with the products and services; 
+（3）in accordance with relevant laws and regulations; 
+（4）as required by the relevant governmental departments; 
+（5）to maintain the legitimate rights and interests of Wuxi Roidmi Information Technology Co., Ltd. 
 
-4、在用户注册车载蓝牙FM帐户，使用其他车载蓝牙FM产品或服务，访问车载蓝牙FM网页，或参加促销和有奖游戏时，车载蓝牙FM会收集用户的个人身份识别资料。无锡睿米信息技术有限公司不会向任何第三方提供、出售、出租，分享和交易用户的个人身份识别资料。但是，用户同意无锡睿米信息技术有限公司将用户的个人身份识别资料用于改进提供的服务及网页内容。 
+4.The Roidmi Driver APP will collect the users personal identification information when the users have registered in the Roidmi Driver account, or used other Roidmi Driver products or services, or browsed on Roidmi Driver web pages, or participated in promotions and prize game. In terms of the users personal identification information, Wuxi Roidmi Information Technology Co., Ltd. will not provide, sell, lease, share and exchange to any third parties. However, the users agree that their personal identification information can be used to improve the services and the contents of the web pages by Wuxi Roidmi Information Technology Co., Ltd.. 
 
-5、在用户使用车载蓝牙FM的产品和服务时，车载蓝牙FM会主动或被动的收集和获取用户的使用行为所产生的各种数据和信息；包括但不限于位置信息、IP地址、设备信息、cookies等；用户在此不可撤销的同意无锡睿米信息技术有限公司对上述数据和信息享有使用权，并且为了提升车载蓝牙FM产品，改进车载蓝牙FM服务等目的，将该数据和信息提供给第三方使用。 
+5.When the users use the Roidmi Driver, it will take the initiative or passively collect and access to the various data and information generated by the users, including but not limited to the location information, IP address, device information, cookies, etc. The users agree in no regrets that the Wuxi Roidmi Information Technology Co., Ltd. has the right to use the above data and information. Meanwhile in order to improve the Roidmi Driver product and its services, etc., we might provide the data and information to 3rd parties as well. 
 
-6、在用户使用车载蓝牙FM的产品和服务时，为了给用户提供更好的服务，车载蓝牙FM可能通过您的手机使用各种定位技术，用户在此不可撤销的同意车载蓝牙FM使用此技术为用户服务，并同意车载蓝牙FM授权第三方使用上述技术为用户提供服务。"</string>
-    <string name="protocol_title_3">Les règles</string>
+6.In order to give the users a better service during their use of the products, Roidmi Driver may, via your mobile phone, apply a variety of positioning technology, which the users agree with Roidmi in no regrets to use such technologies or authorize 3rd parties to use them to provide service."</string>
+    <string name="protocol_title_3">Ⅲ.Rules for Use</string>
     <string name="protocol_content_3">"
-1、Les utilisateurs du service Bluetooth FM, vous devez vous conformer aux dispositions des lois et règlements de la République populaire de Chine, l'utilisateur doit accepter de ne pas utiliser le Service pour toute activité illégale ou inappropriée, y compris, mais sans s'y limiter les actes suivants:: 
-·Téléchargé, affiché, transmettre ou autre； 
-·Les principes fondamentaux de la Constitution contre la détermination； 
-·Mise en danger de la sécurité nationale, divulgation de secrets d'Etat, subversion du pouvoir de l'Etat, atteinte à l'unité nationale； 
-·honneur et les intérêts nationaux； 
-·Incitation à la haine ethnique, la discrimination ethnique, porter atteinte à l'unité nationale； 
-·Violer les politiques de la religion d'Etat ou de propager le culte et la superstition féodale； 
-·Répandre des rumeurs, perturbe l'ordre social ou porte atteinte à la stabilité sociale； 
-·Obscénité, la pornographie, le jeu, la violence, l'homicide, la terreur ou susciter des crimes； 
-·Insult ou d'autres calomnies, empiètent sur les droits légitimes； 
-·Contenir des faux, nuisible, menaçant, porte atteinte à la vie privée, harcelement, torture, diffamatoire, vulgaire, obscène, ou toute autre cause contre le sens moral； 
-·Contenant les lois chinoises et la façon de réglementer la validité juridique, d'avoir une autorisation restreinte ou prohibée par d'autres contenus； 
-·Pour des fins illégales et l'utilisation du système de services de réseau； 
-·Ne pas utiliser le service Bluetooth FM ； 
-·Sans la permission d'entrer dans le réseau d'information de l'ordinateur ou utiliser les ressources du réseau d'information de l'ordinateur； 
-·Sans l'autorisation des fonctions de réseau d'information de l'ordinateur pour supprimer, modifier....； 
-·Sans permission, d'entrer dans le réseau d'information de l'ordinateur, le stockage, le traitement ou la transmission des données et des applications, supprimer, modifier...； 
-·Propagation Intentionnellement de virus informatiques et autres programmes destructeurs； 
-·D'autres actes qui mettent en danger la sécurité du réseau d'information de l'ordinateur； 
+1.: Users must comply with the relevant laws and regulations of the Peoples Republic of china in the use of Bluetooth FM services. Such improper behaviors or illegal activities shall not be conducted by the users, including but not limited to as followings: 
+·To upload, display, post, transmit, or otherwise send a letter containing one of the following; 
+·Against the basic principles of the Constitution 
+·Endangering national security, leaking state secrets, subverting state power, destructing national unity 
+·Damage to national honor and interests 
+·Incitement to ethnic hatred and ethnic discrimination, undermining national unity 
+·Destruction of national religious policy, promoting the cult and the feudal superstition 
+·Spreading rumors, disturbing social order, breaking the social stability 
+·Spreading obscene, pornographic, gambling, violence, murder, terror or to commit crimes 
+·Insulting or slandering others; infringement upon the legal rights of others 
+·Containing false, harmful, threatening, against the others privacy, harassing, defamatory, vulgar, obscene, or other morally objectionable contents 
+·Contents that are restricted or prohibited by the laws, regulations, rules and other standards 
+·Do not using network service system for illegal purposes. 
+·Do not use the Roidmi Driver services engaged in the following activities. 
+·Access to computer information network or use computer information network resources without permission 
+·To do delete, modification or adding in the computer information network without permission, 
+·To enter the computer information network, and to do deleting, modifying and adding on the data and application program stored, processed, and transmitted without permission 
+·Intentionally making, spreading computer virus, and other destructive program 
+·Other acts endangering the safety of computer information network 
 
-2、用户违反本协议或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，您同意赔偿无锡睿米信息技术有限公司与合作公司、关联公司，并使之免受损害。对此，无锡睿米信息技术有限公司有权视用户的行为性质，采取包括但不限于删除用户发布信息内容、暂停使用许可、终止服务、限制使用、回收车载蓝牙FM帐号、追究法律责任等措施。对恶意注册车载蓝牙FM帐号或利用车载蓝牙FM帐号进行违法活动、捣乱、骚扰、欺骗、其他用户以及其他违反本协议的行为，无锡睿米信息技术有限公司有权回收其帐号。同时，无锡睿米信息技术有限公司会视司法部门的要求，协助调查。 
+2.The users agree to compensate Wuxi Roidmi Information Technology Co., Ltd., and its associated companies, any claims by 3rd parties or losses, including reasonable attorney fees due to violation against the provisions of this agreement or the relevant provisions of the terms of service. In this regard, Wuxi Roidmi Information Technology Co., Ltd. has the right, including but not limited, to delete the information contents published by the users, suspend the use, terminate the services, limit the use of the FM account number, withdraw the car Bluetooth account, hold the users' legal responsibility etc. according to the behaviors of the users. Wuxi Roidmi Information Technology Co., Ltd. has the right to withdraw the account for the maliciously registered Roidmi Driver account or the using of Roidmi Driver account for illegal activities, making trouble, harassment, deception, and other behaviors to violation of the agreement. At the same time, Wuxi Roidmi Information Technology Co., Ltd. will assist the judicial department to investigate it to the circumstances. 
 
-3、Les utilisateurs ne peuvent pas utiliser le service ou une partie du Service ou obtenir, copier,, vendre, revendre ou exploiter à des fins commerciales。 
+3.Users may not copy, sell or re-sell any part of the services or the use and obtaining of the services for the commercial purposes. 
 
-4、用户须对自己在使用车载蓝牙FM服务过程中的行为承担法律责任。用户承担法律责任的形式包括但不限于：对受到侵害者进行赔偿，以及在无锡睿米信息技术有限公司首先承担了因用户行为导致的行政处罚或侵权损害赔偿责任后，用户应给予无锡睿米信息技术有限公司等额的赔偿。"</string>
-    <string name="protocol_title_4">四、服务内容</string>
+4.Users are required to take legal responsibility for their own behavior in the use of the Roidmi Driver services, including but not limited to: compensate for infringement, and give remedy in equal value to Wuxi Roidmi Information Technology Co., Ltd. after they bear in advance the administrative penalty or compensation for the infringement damage caused by the activities of the users."</string>
+    <string name="protocol_title_4">Ⅳ.Service Content</string>
     <string name="protocol_content_4">"
-1、车载蓝牙FM网络服务的具体内容由无锡睿米信息技术有限公司根据实际情况提供。 
+1.The specific content of the Roidmi Driver service is provided by Wuxi Roidmi Information technology Co., Ltd. according to the actual situation. 
 
-2、除非本服务协议另有其它明示规定，无锡睿米信息技术有限公司所推出的新产品、新功能、新服务、均受到本服务协议之规范。 
+2.The new products, new features, new services provided by Wuxi Roidmi Information Technology Co., Ltd. are subject to the regulations of this service agreement, unless otherwise stipulated. 
 
-3、为使用本服务，您必须能够自行经有法律资格对您提供互联网接入服务的第三方，进入国际互联网，并应自行支付相关服务费用。此外，您必须自行配备及负责与国际联网连线所需之一切必要装备，包括计算机、数据机或其它存取装置； 
+3.In order to use this service, you have to access to the Internet via the legitimate 3rd party able to provide internet services, and pay the relevant service fees by yourselves. In addition, you need to be equipped with all necessary equipment, including computer, data machine or other access devices to connect to the Internet. 
 
-4、鉴于网络服务的特殊性，用户同意无锡睿米信息技术有限公司有权不经事先通知，随时变更、中断或终止部分或全部的网络服务。无锡睿米信息技术有限公司不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作担保。 
+4.In view of the special nature of the network service, the users agree that Wuxi Roidmi Information Technology Co., Ltd. has the right to change, interrupt or terminate part or all of the network services at any time without prior notice. Wuxi Roidmi Information Technology Co., Ltd. doesn't guarantee that the network services will not be interrupted, nor do they guarantee the timeliness, security, and accuracy of network services. 
 
-5、无锡睿米信息技术有限公司需要定期或不定期地对提供网络服务的平台或相关的设备进行检修或者维护，如因此类情况而造成网络服务（包括收费服务）在合理时间内的中断，无锡睿米信息技术有限公司无需为此承担任何责任。无锡睿米信息技术有限公司保留不经事先通知为维修保养、升级或其它目的暂停本服务任何部分的权利。 
+5.Wuxi Roidmi Information Technology Co., Ltd. need to regularly or irregularly do maintenance for the network services platform or the related equipment. Therefore, they don't need to take any responsibility for such case of network interruption in reasonable time, even during the paid service period of time. Wuxi Roidmi Information Technology Co., Ltd. reserves the right to suspend any part of the service without prior notice due to maintenance, upgrading or other purposes. 
 
-6、本服务或第三方可提供与其它国际互联网上之网站或资源之链接。由于无锡睿米信息技术有限公司无法控制这些网站及资源，您了解并同意，此类网站或资源是否可供利用，无锡睿米信息技术有限公司不予负责，存在或源于此类网站或资源之任何内容、广告、产品或其它资料，无锡睿米信息技术有限公司亦不予保证或负责。因使用或依赖任何此类网站或资源发布的或经由此类网站或资源获得的任何内容、商品或服务所产生的任何损害或损失，无锡睿米信息技术有限公司不承担任何责任。 
+6.Both this service and other 3rd party may provide links to websites or resources, which is without the control of Wuxi Roidmi Information Technology Co., Ltd. Users, rather than Roidmi know if these websites or resources are available to use. Wuxi Roidmi Information Technology Co., Ltd. is not responsible for the existence of any content, advertising, products or other information from such websites or resources, nor is Roidmi responsible for any damage or loss arising from the use or reliance on any such websites or resources, or any contents, products or services. 
 
-7、用户明确同意其使用车载蓝牙FM网络服务所存在的风险将完全其自己承担。用户理解并接受下载或通过车载蓝牙FM服务取得的任何信息资料取决于用户自己，并由其承担系统受损、资料丢失以及其它任何风险。无锡睿米信息技术有限公司对在服务网上得到的任何商品购物服务、交易进程、招聘信息，都不作担保。 
+7.Users clearly agree that the risk of its use of the Roidmi Driver services will be entirely undertaken by themselves. Users understand and accept that any information obtained by downloading or using the Bluetooth FM services is determined by the users themselves, and they will assume the system damage, data loss, and any other risk. Wuxi Roidmi Information Technology Co., Ltd. doesn't guarantee any shopping services, transaction process, and recruitment information on the internet. 
 
-8、6个月未登陆的帐号，无锡睿米信息技术有限公司保留关闭的权利。 
+8.Wuxi Roidmi Information Technology Co., Ltd. reserves the right to close the account without a login for 6 months. 
 
-9、无锡睿米信息技术有限公司有权于任何时间暂时或永久修改或终止车载蓝牙FM服务（或其任何部分），而无论其通知与否，无锡睿米信息技术有限公司对用户和任何第三人均无需承担任何责任。 
+9.Regardless of any notification in advance, Wuxi Roidmi Information Technology Co., Ltd. has the right to temporarily or permanently modify or terminate the Roidmi Driver services (or any part thereof) at any time without being held for any responsibility. 
 
-10、终止服务 
-您同意车载蓝牙FM的基于其自行之考虑，因任何理由，包含但不限于长时间未使用，或车载蓝牙FM认为您已经违反本服务协议的文字及精神，终止您的密码、帐号或本服务之使用，并将您在本服务内任何内容加以移除并删除。您同意依本服务协议任何规定提供本服务，无需进行事先通知即可中断或终止，您承认并同意，车载蓝牙FM可立即关闭或删除您的帐号及您帐号中所有相关信息及文件。此外，您同意本服务之使用被中断或终止或您的帐号及相关信息和文件被关闭或删除，车载蓝牙FM对您或任何第三人均不承担任何责任。"</string>
-    <string name="protocol_title_5">五、其 他</string>
+10.Termination of Service 
+. You agree that the Roidmi Driver, based on its own consideration, for any reason, including but not limited to long time not used, or violation of the text and spirit of the service agreement by yourself, terminates your password, account number or the service, and removes any contents during the service period. You agree that the services provided in accordance with the provisions of this service agreement can be interrupted or terminated without prior notice. You acknowledge and agree that the Roidmi Driver can immediately close or delete your account and all relevant information and documents in your account. In addition, you agree that the Roidmi Driver does not assume any responsibility to you or any 3rd party due to the interruption or termination of your account and closing or deleting of the related information and documents."</string>
+    <string name="protocol_title_5">Ⅴ.Others</string>
     <string name="protocol_content_5">"
-1、本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。 
+1.The conclusion, execution and interpretation of this agreement shall apply to the laws of the Peoples Republic of China. 
 
-2、如双方就本协议内容或其执行发生任何争议，双方应尽量友好协商解决；协商不成时，任何一方均可向无锡睿米信息技术有限公司所在地的人民法院提起诉讼。 
+2.If any disputes occur over the contents of the agreement or the execution thereof, they shall be settled through friendly negotiation. Each party can file a lawsuit against the other in the peoples Court of where Wuxi Roidmi Information Technology Co., Ltd. located if there is no settlement reached. 
 
-3、车载蓝牙FM未行使或执行本服务协议任何权利或规定，不构成对前述权利或权利之放弃。 
+3.Even if the Roidmi Driver does not exercise or perform any rights or provisions of the service agreement, nor does it constitute a waiver of the aforementioned rights. 
 
-4、如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍有效并且有约束力。 
+4.Even if any of the terms of this agreement, regardless of the reason for which the full or part of the agreement is invalid or does not have the execution, the remaining provisions of this agreement shall remain valid and binding. 
 
-请您在发现任何违反本服务协议以及其他任何单项服务的服务条款，请及时通知无锡睿米信息技术有限公司。 
+Please inform Wuxi Roidmi Information Technology Co., Ltd, of any violation against the service agreement and any other single service term. 
 
-本产品在行车过程中给您带来诸多便利，但为了您行车的安全，我们强烈建议您在行车过程中按规程正确使用本产品，在行车过程中由于使用不当造成的各类事故，无锡睿米信息技术有限公司概不负责。"</string>
-    <string name="phone_voice_title">Appels entrant</string>
-    <string name="push_activity">Active</string>
-    <string name="shake_song">Secouer le téléphone pour changer de chanson</string>
-    <string name="shake_song_tip">Astuce: Certain téléphone ne supporte pas la fonction "de la chanson de Shake"secouer pour changer"。</string>
-    <string name="setting">Paramètres</string>
-    <string name="update">Vérifier mise à jour !</string>
-    <string name="update_title">Mise à jour</string>
-    <string name="update_info">Recherche de mise à jour...</string>
-    <string name="update_state_no">Vérifier !</string>
-    <string name="update_state_yes">Mise à jour est disponible</string>
-    <string name="update_timeout">Temps libre!</string>
-    <string name="update_not_find_file">"APK non trouvé!"</string>
-    <string name="update_getInfo">Recherche de mise à jour...</string>
-    <string name="update_download_info">Téléchargement...%1$s</string>
+Although the product, in the process of driving will bring you a lot of convenience, we strongly recommend that you use this product properly for your driving safety. Wuxi Roidmi Information Technology Co., Ltd.is not responsible for all kinds of accidents caused by improper use of the product in the process of driving."</string>
+    <string name="personal_info_title">Personal Information</string>
+    <string name="personal_null">Unset</string>
+    <string name="personal_nick">nick</string>
+    <string name="personal_cartype">Car Type</string>
+    <string name="personal_car_model">Car Model</string>
+    <string name="personal_plate_number">License Plate Number</string>
+    <string name="personal_plate_number_def">The Rear Five Digits</string>
+    <string name="personal_chassis_number">Vehicle Chassis Number</string>
+    <string name="personal_chassis_number_def">请输入后%1$d位车架号</string>
+    <string name="personal_chassis_number_def2">请输入完整车架号</string>
+    <string name="personal_engine_number">Engine Number</string>
+    <string name="personal_engine_number_def">请输入后%1$d位发动机号</string>
+    <string name="personal_engine_number_def2">请输入完整发动机号</string>
+    <string name="personal_chassis_name">车主姓名</string>
+    <string name="personal_chassis_name_def">请输入车主姓名</string>
+    <string name="personal_chassis_shenfen">车主身份证</string>
+    <string name="personal_chassis_shenfen_def">请输入车主身份证</string>
+    <string name="personal_chassis_shenfenall_def">请输入完整身份证</string>
+    <string name="personal_chassis_guanju">车管所登记</string>
+    <string name="personal_chassis_guanju_def">请输入车管所登记手机号</string>
+    <string name="personal_chassis_zhenshu">证书编号</string>
+    <string name="personal_chassis_zhenshu_def">请输入登记证书编号</string>
+    <string name="car_number_must">car number must be 5-digit</string>
+    <string name="chassis_number_must">17 Digits for the Vehicle Chassis No. Only</string>
+    <string name="engine_number_must">8 Digits for the Engine No. Only</string>
+    <string name="charging">Phone is charging</string>
+    <string name="charging_tip1">Fully charged after %1$s</string>
+    <string name="charging_tip2">Charged %1$s</string>
+    <string name="charging_full_tip">Fully charged</string>
+    <string name="phone_voice_title">Mobile Phone Ring Projection</string>
+    <string name="push_activity">Activity</string>
+    <string name="push_main_title">%1$s article</string>
+    <string name="push_main_content">Newest activity unreading</string>
+    <string name="query_violation">Traffic Peccancy Quer</string>
+    <string name="violationdetail">Details of Traffic Peccancy</string>
+    <string name="violationall">违章总数</string>
+    <string name="ci">Times</string>
+    <string name="chossecity">Choose City</string>
+    <string name="ready_city">candidate city</string>
+    <string name="citychange">exchanging city</string>
+    <string name="addfen">Accumulated Points</string>
+    <string name="fen">Points</string>
+    <string name="yuan">Yuan</string>
+    <string name="fa">Fine</string>
+    <string name="kou">Deduct</string>
+    <string name="manney">Sum of Penalty</string>
+    <string name="query">Query</string>
+    <string name="carisafe">You have no record of violation</string>
+    <string name="usercity">You have added the city</string>
+    <string name="carnum" />
+    <string name="mycar">my car</string>
+    <string name="notdeai">violation</string>
+    <string name="fakuang">fine</string>
+    <string name="koufen">deduct marks</string>
+    <string name="choose_oneormore_city">请选择城市</string>
+    <string name="please_choose_city">请选择违章查询的城市</string>
+    <string name="please_put_carjia">请输入车架号</string>
+    <string name="please_put_fdj">请输入发动机号</string>
+    <string name="please_put_cartype">请输入车牌号</string>
+    <string name="search_near">"最近查询 "</string>
+    <string name="message_erro">输入信息错误</string>
+    <string name="restriction">restriction</string>
+    <string name="restriction_title">Traffic Restriction</string>
+    <string name="restriction_title2">根据您的车牌尾号提醒</string>
+    <string name="choossecity">City select</string>
+    <string name="restriction_tip_title">限行提示</string>
+    <string name="restriction_tip_info">News informing.voice broad casting</string>
+    <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
+    <string name="nowhavenotraffic">No data of the Restricted currently</string>
+    <string name="pleasechecknet">get the data failed, pls check the network</string>
+    <string name="nodate">Failed to get the data</string>
+    <string name="todaytraffic">Traffic Restriction Today</string>
+    <string name="torrowtraffic">Traffic Restriction Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="tormorow">Tomorrow</string>
+    <string name="notraffic">不限</string>
+    <string name="trafficwei">Tail Number of the Restricted Car</string>
+    <string name="notrafficwei">Tail Number of Non-Restriction Car</string>
+    <string name="holiday">Holidays</string>
+    <string name="noholiday">Normal Days</string>
+    <string name="city">City</string>
+    <string name="jin">Beijing</string>
+    <string name="tianjin">津</string>
+    <string name="ji">吉A</string>
+    <string name="chuan">川A</string>
+    <string name="gui">贵A</string>
+    <string name="zhe">浙A</string>
+    <string name="gan">甘A</string>
+    <string name="ganzhou">赣A</string>
+    <string name="ganzhou2">赣M</string>
+    <string name="beijing">北京</string>
+    <string name="tianjing">天津</string>
+    <string name="changchun">长春</string>
+    <string name="nanchang">南昌</string>
+    <string name="chengdu">成都</string>
+    <string name="guiyang">贵阳</string>
+    <string name="hangzhou">杭州</string>
+    <string name="lanzhou">兰州</string>
+    <string name="nanjing">南京</string>
+    <string name="shake">Shake a Shake</string>
+    <string name="shake_tip">"Some hardware devices don't support the shake a shake function"</string>
+    <string name="shake_type">Shake a Shake function</string>
+    <string name="shake_size">Intensity</string>
+    <string name="shake_type_title">Shake a Shake function</string>
+    <string name="shake_size_title">Intensity</string>
+    <string name="shake_type_tip">Speech recognition/Next song</string>
+    <string name="shake_type_tip_no_mic">Next song</string>
+    <string name="shake_size_tip">Gentle/Strong</string>
+    <string name="shake_open_tip">Pls open the shake a shake function firstly.</string>
+    <string name="shop_bc">Welcome to purchase Roidmi Music Bluetooth Car Charger</string>
+    <string name="shop_shake_bc">Go to buy music Bluetooth car charger</string>
+    <string name="shop_tip">Enjoy the intelligent and interesting drive!</string>
+    <string name="settings">Settings</string>
+    <string name="settings_url">Server Address</string>
+    <string name="sex_man">Male</string>
+    <string name="sex_woman">Female</string>
+    <string name="update_title">Check for Updates</string>
+    <string name="update_state_no">The latest version already</string>
+    <string name="update_state_yes">New version to update</string>
+    <string name="update_timeout">Request Timeout!</string>
+    <string name="update_not_find_file">APK file not found!</string>
+    <string name="update_getInfo">Check for Updates…</string>
+    <string name="update_download_info">Downloading the latest version for you…%1$s</string>
     <string name="update_download_progress">%1$s/%2$s</string>
     <string name="update_download_fail">Erreur! Réessayer!</string>
     <string name="update_download_again">Télécharger à nouveau</string>
@@ -327,22 +427,54 @@ Avant d'utiliser Bluetooth FM pour fournir les services, vous devez lire attenti
     <string name="update_dialog_title_force">"Nouvelle version. Pour continuer à utiliser l'application, vous devez installer la nouvelle version!"</string>
     <string name="update_dialog_not_update">Plus tard</string>
     <string name="update_dialog_update">Mettre à jour maintenant</string>
-    <string name="voice_title">Info vocale (en Chinois)</string>
-    <string name="voice_mode_close">Quitter</string>
-    <string name="voice_info">Rappel vocale à chaque fois que vous démarrez le lecteur de musique</string>
-    <string name="voice_info_title">Rappel vocale pour donner des instructions (la fatigue de conduite, allumer le lecteur, etc.)？</string>
-    <string name="key_pair_none">按键未配对</string>
-    <string name="key_pairing">Key pairing</string>
-    <string name="key_not_pair">Erreur !</string>
-    <string name="key_pair_success">Réussi !</string>
-    <string name="key_pair_fail">Échec !</string>
-    <string name="key_pair_tip1">请按下方操作配对</string>
-    <string name="key_pair_tip2">请同时按上、下键进行配对</string>
-    <string name="key_pair_tip3">Bonjour encore !</string>
-    <string name="key_pair_tip4">Appuyez pour appairer</string>
-    <string name="key_pair_change_direction">Commutation des touches gauche et droite pour contrôler</string>
-    <string name="key_pair_buy">Acheter</string>
-    <string name="key_pair_begin">"Commencer l'appairage"</string>
-    <string name="key_pair_title">Bouton</string>
-    <string name="key_pair_rebegin">Appairer à nouveau</string>
+    <string name="update_notify_title">Update Notification</string>
+    <string name="update_notify_content">Have a new version, click to check the update content</string>
+    <string name="voice_title">Voice Prompt</string>
+    <string name="voice_stick_title">Tip-Sticking Prompt</string>
+    <string name="listent_voice">请听到提示音后开始说话。</string>
+    <string name="you_can_speak">您可以这样说</string>
+    <string name="joke">给我讲个笑话</string>
+    <string name="beijing_weather">北京天气</string>
+    <string name="please_check_power">录音失败，请检查是否拒绝了录音权限</string>
+    <string name="valtage">Battery Voltage</string>
+    <string name="valtage_normal">The battery voltage is normal</string>
+    <string name="valtage_abnormal">Battery voltage is abnormal</string>
+    <string name="valtage_tip">current voltage %1$sV</string>
+    <string name="valtage_abnormal_tip">Please check ASAP!</string>
+    <string name="valtage_switch_title">abnormal voltage alarm</string>
+    <string name="valtage_switch_tip">Used to control of prompt tone of indicator light</string>
+    <string name="valtage_result_tip">battery voltage reference table</string>
+    <string name="valtage_type_V12">small car</string>
+    <string name="valtage_type_V24">big car</string>
+    <string name="voltage_size">voltage</string>
+    <string name="voltage_sure">judgment</string>
+    <string name="voltage_detail">prompt</string>
+    <string name="voltage_V12size_1">"&lt;10.8V
+(before starting)"</string>
+    <string name="voltage_V12size_2">"10.8~12V
+(after starting)"</string>
+    <string name="voltage_V12size_3">"12~12.8V
+(before starting)"</string>
+    <string name="voltage_V12size_4">"12.8~13.2V
+(after starting)"</string>
+    <string name="voltage_V12size_5">"13.2~15V
+(after starting)"</string>
+    <string name="voltage_V12size_6">">15V
+(after starting)"</string>
+    <string name="voltage_V24size_1">&lt;20V</string>
+    <string name="voltage_V24size_2">20~24V</string>
+    <string name="voltage_V24size_3">24~29V</string>
+    <string name="voltage_V24size_6">>29V</string>
+    <string name="voltage_sure_low_too">too lower</string>
+    <string name="voltage_sure_low">lower</string>
+    <string name="voltage_sure_normal">normal</string>
+    <string name="voltage_sure_hight_too">too higher</string>
+    <string name="voltage_detail_normal">——</string>
+    <string name="voltage_detail_1">"can't start the car，you may need to exchange storage battery"</string>
+    <string name="voltage_detail_2">difficult to start, pls close other electrical device and start car charging</string>
+    <string name="voltage_detail_4">"It's likely not to charge battery, pls check engine or other power load"</string>
+    <string name="voltage_detail_6">"It's likely to damage storage batter, pls check the stabilizator of engine"</string>
+    <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
+    <string name="web_load_fail">page downloading failure</string>
+    <string name="please_opennet">request failure, pls check your web</string>
 </resources>
