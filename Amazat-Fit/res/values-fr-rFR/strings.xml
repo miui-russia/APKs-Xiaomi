@@ -343,9 +343,9 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="latest_sleep">Heure de coucher la plus tardive</string>
     <string name="light_sleep">Sommeil léger</string>
     <string name="loading_bind">Appairrage…</string>
-    <string name="local_app_failed">Vérification des mises à jour échouée, impossible d'obtenir les informations concernant la version installée.</string>
-    <string name="login_error_login_error">Connexion échouée, merci d'essayer ultérieurement.</string>
-    <string name="login_error_passport_id_auth_denied_error">"There're some problems and we're fixing them now. Please try again later."</string>
+    <string name="local_app_failed">"Vérification des mises à jour échouée, impossible d'obtenir les informations concernant la version installée."</string>
+    <string name="login_error_login_error">"Connexion échouée, merci d'essayer ultérieurement."</string>
+    <string name="login_error_passport_id_auth_denied_error">"Nous rencontrons quelques soucis et nous sommes en train d'y remédier. Merci d'essayer ultérieurement."</string>
     <string name="login_error_passport_id_token_invalid_error">Login expired，please log in again.</string>
     <string name="login_error_passport_no_login_error">Login expired，please log in again.</string>
     <string name="login_error_passport_parse_error">Login failed, please update Mi Dong and try again.</string>
