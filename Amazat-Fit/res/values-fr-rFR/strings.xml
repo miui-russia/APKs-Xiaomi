@@ -314,7 +314,7 @@ Cliquez pour réessayer."</string>
     <string name="guide_login_error_dialog_message">Login failed, please check your network connection.</string>
     <string name="guide_login_error_not_install_third_app">App Not Found</string>
     <string name="guide_login_error_not_install_weixin">Please install WeChat first.</string>
-    <string name="guide_login_loading">Logging in…</string>
+    <string name="guide_login_loading">En cours de connexion…</string>
     <string name="guide_logo_word">Salut</string>
     <string name="guide_prefer_goal_btn">Start Your Better Life</string>
     <string name="guide_prefer_goal_text_calorie">Daily goal: 1680 kcal</string>
@@ -326,10 +326,10 @@ Cliquez pour réessayer."</string>
     <string name="guide_prefer_goal_text_steps_name">Steps</string>
     <string name="guide_prefer_goal_title">Which goal are you concerned?</string>
     <string name="guide_prefer_goal_title_sub">Goals are great motivation to improve yourself.</string>
-    <string name="guide_welcome_button">Edit Profile</string>
+    <string name="guide_welcome_button">Modifier mon profil</string>
     <string name="guide_welcome_logo_word">Welcome</string>
-    <string name="guide_welcome_tips_1">Please enter your real personal information,</string>
-    <string name="guide_welcome_tips_2">so we can calculate your daily burn,distance and so on.</string>
+    <string name="guide_welcome_tips_1">Merci d'entrer vos informations personnelles,</string>
+    <string name="guide_welcome_tips_2">ainsi nous pourrons calculer vos calories brulées, les distances et plus.</string>
     <string name="hint_input_contact_info">Example: mail@example.com</string>
     <string name="hint_input_feedback">Please tell us what steps you took, what went wrong, and what you think should have happened.</string>
     <string name="hmid_signing_in">Logging in…</string>
@@ -375,13 +375,12 @@ Connect to your band to view your cadence"</string>
     <string name="mili_bound_found">Trouvé</string>
     <string name="mili_bound_found_sub">Tap your band to confirm pairing when it vibrates.</string>
     <string name="mili_bound_searching">Recherche</string>
-    <string name="mili_bound_searching_sub">Please keep your Amazfit close by.</string>
+    <string name="mili_bound_searching_sub">Merci de garder à proximité votre Amazfit.</string>
     <string name="mili_bound_success">Pairing successful</string>
     <string name="mili_has_bound">This Amazfit has been paired with someone else.</string>
     <string name="mili_has_bound_sub">Please try again after the original user unpairs it.</string>
     <string name="mili_no_device">Non trouvé</string>
-    <string name="mili_no_device_sub">"Please make sure your
-Amazfit has power and is close by."</string>
+    <string name="mili_no_device_sub">"Merci de vous assurer que votre Amazfit est chargé et qu'il est à proximité."</string>
     <string name="mili_not_bound">Pairing failed</string>
     <string name="mili_not_bound_now">Annuler</string>
     <string name="mili_not_bound_sub">When pairing, please keep your Amazfit close by.</string>
@@ -432,7 +431,7 @@ Amazfit has power and is close by."</string>
     <string name="pace_desc">Cadence is the number of steps you take in one minute when you’re running.</string>
     <string name="pace_frequency">Cadence</string>
     <string name="per_km">/km</string>
-    <string name="picker_menu_done">Terminé</string>
+    <string name="picker_menu_done">Terminer</string>
     <string name="please_install_wx">Please install WeChat and log in first.</string>
     <string name="pm">PM</string>
     <string name="press_to_download_app">Long press QR code to download Midong</string>
@@ -461,7 +460,7 @@ Amazfit has power and is close by."</string>
     <string name="profile_nickname_input_cancel">Annuler</string>
     <string name="profile_nickname_input_confirm">Confirmer</string>
     <string name="profile_nickname_not_null">"S'il vous plaît entrer votre surnom."</string>
-    <string name="profile_steps_goal">Step Goal</string>
+    <string name="profile_steps_goal">Objectif de pas</string>
     <string name="profile_title_finish">Terminé</string>
     <string name="profile_title_text">Profil</string>
     <string name="profile_weight">Poids</string>
@@ -488,7 +487,7 @@ Amazfit has power and is close by."</string>
     <string name="remind_call_help">Only effective when app is running</string>
     <string name="remind_call_subtitle">Give you call alerts by vibration.</string>
     <string name="remind_call_title">Notification d\'appel</string>
-    <string name="remind_open_ble">"S'il vous plaît activer Bluetooth"</string>
+    <string name="remind_open_ble">"Merci d'activer votre connexion Bluetooth"</string>
     <string name="remind_restart">Recommencer</string>
     <string name="remind_searching">Connexion à Amazfit…</string>
     <string name="remind_searching_failed_1">"Please make sure
