@@ -370,15 +370,15 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="mili_bound_found_sub">Tapoter votre band quand il vibre pour confirmer l'appairrage.</string>
     <string name="mili_bound_searching">Recherche</string>
     <string name="mili_bound_searching_sub">Merci de garder à proximité votre Amazfit.</string>
-    <string name="mili_bound_success">Pairing successful</string>
-    <string name="mili_has_bound">This Amazfit has been paired with someone else.</string>
-    <string name="mili_has_bound_sub">Please try again after the original user unpairs it.</string>
+    <string name="mili_bound_success">Appairré avec succès</string>
+    <string name="mili_has_bound">Cet Amazfit a été appairré avec quelqu'un d'autre.</string>
+    <string name="mili_has_bound_sub">"Veuillez essayer à nouveau après que l'utilisateur précédent ai procédé au désappairrage."</string>
     <string name="mili_no_device">Non trouvé</string>
     <string name="mili_no_device_sub">"Merci de vous assurer que votre Amazfit est chargé et qu'il est à proximité."</string>
-    <string name="mili_not_bound">Pairing failed</string>
+    <string name="mili_not_bound">Appairrage échoué</string>
     <string name="mili_not_bound_now">Annuler</string>
-    <string name="mili_not_bound_sub">When pairing, please keep your Amazfit close by.</string>
-    <string name="mili_not_knock">"Il n'a pas vibrer?"</string>
+    <string name="mili_not_bound_sub">"Lors de l'appairrage, veuillez garder votre Amazfit à proximité."</string>
+    <string name="mili_not_knock">"Il n'a pas vibrer ?"</string>
     <string name="min">%d min</string>
     <string name="min_sec" formatted="false">%d min%d sec</string>
     <string name="minute_long_need_number"> min</string>
@@ -388,12 +388,12 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="mut_exc_login_content">Votre compte a été enregistré sur un autre téléphone %1$s</string>
     <string name="mut_exc_login_format">dd/MM/yyyy HH:mm</string>
     <string name="mut_exc_login_logout">Se déconnecter</string>
-    <string name="mut_exc_login_relogin">Re-login</string>
-    <string name="mut_exc_login_title">Offline Notice</string>
+    <string name="mut_exc_login_relogin">Re-Connectern</string>
+    <string name="mut_exc_login_title">Notice hors ligne</string>
     <string name="mut_exc_relogin_failed">Échec de la connexion</string>
     <string name="my">Profil</string>
     <string name="my_item_my_about">À propos</string>
-    <string name="my_item_my_band">Mon Amazit</string>
+    <string name="my_item_my_band">Mon Amazfit</string>
     <string name="my_item_my_feedback">Retour d\'information</string>
     <string name="my_item_my_goal">Mon but</string>
     <string name="my_item_my_third">Connexion des tiers</string>
@@ -410,7 +410,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="night">PM</string>
     <string name="no_network_connection">Pas de connexion réseau</string>
     <string name="no_network_connection_retry">Cliquez pour recharger</string>
-    <string name="no_sleep_data_text">Pair with Amazfit to track sleep.</string>
+    <string name="no_sleep_data_text">Appairrer avec votre Amazfit pour suivre votre sommeil.</string>
     <string name="noon">PM</string>
     <string name="notice_for_tag_time">提示：符号X后的数字是你对该项目的标注次数</string>
     <string name="notification_bluetooth_call_close">Midong is killed and is unable to give you timely sleep quality analysis. Please start the app again if necessary.</string>
