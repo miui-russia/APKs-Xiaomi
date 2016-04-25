@@ -240,7 +240,7 @@ connected to the network."</string>
     <string name="device_connect_failed_try_restart_phone">"S'il vous plaît essayez de redémarrer le téléphone."</string>
     <string name="device_connection_status_searching">Recheche…</string>
     <string name="device_find_band">Trouver Amazit</string>
-    <string name="device_fw_version">Version Firmware</string>
+    <string name="device_fw_version">Version du Firmware</string>
     <string name="device_id_txt">ID appareil</string>
     <string name="device_mac_address">Adresse MAC</string>
     <string name="device_not_connection_tip">Recherche de votre Amazfit…</string>
@@ -295,11 +295,11 @@ Cliquez pour réessayer."</string>
     <string name="feedback_confirm_cancel_info">Quit the Feedback?</string>
     <string name="feedback_contact">Contact Information</string>
     <string name="feedback_contact_info">uid: %1$s, Contact Information: %2$s, Nickname: %3$s, System Version: %4$s, Mobile Model: %5$s, App Version: %6$s, Kernel Version: %7$s.</string>
-    <string name="feedback_content">Please describe the problem.</string>
-    <string name="feedback_empty">Please enter your feedback.</string>
+    <string name="feedback_content">Merci de décrire le problème.</string>
+    <string name="feedback_empty">Merci de saisir votre commentaire.</string>
     <string name="feedback_input_correct_contact_info">Please enter valid contact information.</string>
-    <string name="feedback_input_too_much">5000 characters maximum</string>
-    <string name="feedback_submit_failed">Failed, please check your network connection.</string>
+    <string name="feedback_input_too_much">5000 caractères maximum</string>
+    <string name="feedback_submit_failed">Erreur, merci de vérifier votre connexion réseau.</string>
     <string name="feedback_submit_success">Successful</string>
     <string name="fragment_setting_goal_cancel">Cancel</string>
     <string name="fragment_setting_goal_confirm">Confirm</string>
@@ -830,10 +830,10 @@ Settings-Lock Screen-Unlock with Bluetooth devices."</string>
     <string name="user_rank">Battus par %1$s%% utilisateurs</string>
     <string name="user_week">"%1$s's semaine
 "</string>
-    <string name="version_algo_text">"Version Kernel: %1$s
+    <string name="version_algo_text">"Version Kernel : %1$s
       
-Traduction: Miui-France"</string>
-    <string name="version_code_text">Version app: %1$s</string>
+Traduction : Miui-France"</string>
+    <string name="version_code_text">Version app : %1$s</string>
     <string name="walk_done">Vous avez marché </string>
     <string name="wee_hour">AM</string>
     <string name="week_distance">Distance hebdomadaire</string>
