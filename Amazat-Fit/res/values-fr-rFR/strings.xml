@@ -494,7 +494,6 @@ Amazfit has power and is close by."</string>
     <string name="remind_searching_failed_1">"Please make sure
 your Amazfit has power and is close by."</string>
     <string name="remind_searching_failed_2">"S'il vous plaît redémarrer Bluetooth sur votre téléphone et essayez à nouveau."</string>
-    <string name="remind_title">Notifications</string>
     <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible lorsque l\'appairrage et fait</string>
     <string name="run_tab">Courir</string>
     <string name="running_auto_pause">Pause auto</string>
@@ -590,6 +589,19 @@ Please run in the open air."</string>
     <string name="sat_sun">Weekend</string>
     <string name="scan_label">"Alignez le QR code à l'intérieur du cadre pour le scanner"</string>
     <string name="scan_to_download_app">Scannez le code QR pour télécharger Midong</string>
+    <string name="screen_lock_detail">Keep the phone unlocked with the band</string>
+    <string name="screen_lock_keep_bluetooth">Please keep the band and the phone connected to each other.</string>
+    <string name="screen_lock_low_android_version">System version is too low, Please upgrade to Android 5.0 or higher</string>
+    <string name="screen_lock_not_miui">"Step1. Go to Settings-Security.
+Step2. Set a screen lock and save.
+Step3. Tap SmartLock to set up"</string>
+    <string name="screen_lock_restore">"To revise please go to
+Settings-Lock Screen-Unlock with Bluetooth devices."</string>
+    <string name="screen_lock_set_already">Set Already</string>
+    <string name="screen_lock_set_mili_unlock">Turn On Screen Unlock</string>
+    <string name="screen_lock_set_phone_lock">Set Passcode</string>
+    <string name="screen_lock_set_success">Screen Unlock has been set up already.</string>
+    <string name="screen_lock_title">Déverrouillage de l\'écran</string>
     <string name="sdcard_error">"Pas de carte SD ou protégé en écriture"</string>
     <string name="sec">%d sec</string>
     <string name="select_from_camera">Prendre une photo</string>
@@ -597,6 +609,16 @@ Please run in the open air."</string>
     <string name="select_image">Modifier la photo de profil</string>
     <string name="service_unbind_wx">Supprimer la connexion WeChat?</string>
     <string name="service_unbind_wx_warning">Midong arrêtera les données de synchronisation avec WeChat.</string>
+    <string name="set_call_remind_ble_disable_tip">Failed to set band vibration Time, Please try again.</string>
+    <string name="set_call_remind_delay">Band Vibration Time</string>
+    <string name="set_call_remind_delay_time">%s s later</string>
+    <string name="set_call_remind_delay_time_unit"> s</string>
+    <string name="set_call_remind_dialog_title_delay_time">Delay the band vibration time for</string>
+    <string name="set_call_remind_knew">Ok</string>
+    <string name="set_call_remind_tip_one">"If you are using some security app.
+ please make sure that Midong is on the whitelist."</string>
+    <string name="set_call_remind_tip_three">Please keep the band and the phone connected to each other.</string>
+    <string name="set_call_remind_title">Call Notification</string>
     <string name="setting_goal_btn_save">Sauvegarder</string>
     <string name="setting_goal_calorie_goal">Burn</string>
     <string name="setting_goal_cancel">Annuler</string>
@@ -707,6 +729,7 @@ Please run in the open air."</string>
     <string name="sleep_unit"> min</string>
     <string name="sleep_wake_desc">"Éviter de trop boire de thé ou du café avant de dormir. Ceux-ci peuvent provoquer un besoin fréquent d'uriner et une excitation qui perturbent votre sommeil."</string>
     <string name="sleep_wake_title">Surveillez votre sommeil avant de dormir</string>
+    <string name="smart_device_title">Appareil</string>
     <string name="sports_info">Mes activités</string>
     <string name="start_download">Commencer à télécharger en arrière-plan…</string>
     <string name="stat_sleep_average">Sommeil quotidien moy.</string>
@@ -809,8 +832,9 @@ Please run in the open air."</string>
     <string name="user_week">"%1$s's semaine
 "</string>
     <string name="version_algo_text">"Version Kernel: %1$s
+      
 Traduction: Miui-France"</string>
-    <string name="version_code_text">Version: %1$s</string>
+    <string name="version_code_text">Version app: %1$s</string>
     <string name="walk_done">Vous avez marché </string>
     <string name="wee_hour">AM</string>
     <string name="week_distance">Distance hebdomadaire</string>
@@ -827,7 +851,7 @@ Traduction: Miui-France"</string>
     <string name="what_pace">Quelle est la cadence?</string>
     <string name="year">An</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="com.crashlytics.android.build_id">2484d348-dfd5-48ba-9398-b1055620394e</string>
+    <string name="com.crashlytics.android.build_id">918b5430-02bf-4402-8c69-8d907e84b8be</string>
     <string name="data_not_supported">--</string>
     <string name="facebook_app_id">125938537776820</string>
     <string name="guide_copyright">©2015 Huami Inc.</string>
