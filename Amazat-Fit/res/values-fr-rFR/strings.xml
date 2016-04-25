@@ -478,14 +478,14 @@ Connect to your band to view your cadence"</string>
     <string name="raise_pace">Focus on increasing cadence</string>
     <string name="raise_pace_desc">Most runners would naturally increase their cadence to increase running speed, but doing so would increase the risk of muscle injuries; experienced runners will choose to increase stride frequency in order to improve running speed.</string>
     <string name="reach_goal_days">Hit Goals for</string>
-    <string name="remind_alarm_item_sub_title">Wake you up by vibration.</string>
+    <string name="remind_alarm_item_sub_title">Vous réveille avec une vibration.</string>
     <string name="remind_alarm_item_title">Alarme</string>
     <string name="remind_alarm_no_alarms">"Pas d'alarmes"</string>
     <string name="remind_call_dialog_description_1">Please keep Midong running in the backstage.</string>
     <string name="remind_call_dialog_description_2">Please keep Bluetooth enabled on your phone.</string>
     <string name="remind_call_dialog_tips_title">Tips for Call Notification</string>
     <string name="remind_call_help">Only effective when app is running</string>
-    <string name="remind_call_subtitle">Give you call alerts by vibration.</string>
+    <string name="remind_call_subtitle">Vous notifie vos appels par une vibration.</string>
     <string name="remind_call_title">Notification d\'appel</string>
     <string name="remind_open_ble">"Merci d'activer votre connexion Bluetooth"</string>
     <string name="remind_restart">Recommencer</string>
@@ -493,7 +493,7 @@ Connect to your band to view your cadence"</string>
     <string name="remind_searching_failed_1">"Please make sure
 your Amazfit has power and is close by."</string>
     <string name="remind_searching_failed_2">"S'il vous plaît redémarrer Bluetooth sur votre téléphone et essayez à nouveau."</string>
-    <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible lorsque l\'appairrage et fait</string>
+    <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible lorsque l\'appairrage est fait</string>
     <string name="run_tab">Courir</string>
     <string name="running_auto_pause">Pause auto</string>
     <string name="running_average_speed">Moy vitesse</string>
