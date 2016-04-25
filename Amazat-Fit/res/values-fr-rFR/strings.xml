@@ -96,10 +96,10 @@
     <string name="afternoon">PM</string>
     <string name="agree">Accepter</string>
     <string name="agree_ux">Join user experience improvement plan</string>
-    <string name="agreement_and_privacy">Confidentialité et Conditions</string>
+    <string name="agreement_and_privacy">Termes et Conditions</string>
     <string name="agreement_fragment_btn_agree">"J'accepte"</string>
     <string name="agreement_fragment_first_text">Termes et Conditions</string>
-    <string name="agreement_fragment_second_test">Avant de vous connecter, merci d'accepter nos </string>
+    <string name="agreement_fragment_second_test">Avant de vous connecter, merci d\'accepter nos </string>
     <string name="agreement_fragment_third_text">Termes et Conditions</string>
     <string name="alarm_add">Ajouter une alarme</string>
     <string name="alarm_add_tips">Tips: Vibration will stop when you tap your band.</string>
@@ -328,7 +328,7 @@ Cliquez pour réessayer."</string>
     <string name="guide_prefer_goal_title_sub">Goals are great motivation to improve yourself.</string>
     <string name="guide_welcome_button">Modifier mon profil</string>
     <string name="guide_welcome_logo_word">Welcome</string>
-    <string name="guide_welcome_tips_1">Merci d'entrer vos informations personnelles,</string>
+    <string name="guide_welcome_tips_1">Merci d\'entrer vos informations personnelles,</string>
     <string name="guide_welcome_tips_2">ainsi nous pourrons calculer vos calories brulées, les distances et plus.</string>
     <string name="hint_input_contact_info">Example: mail@example.com</string>
     <string name="hint_input_feedback">Please tell us what steps you took, what went wrong, and what you think should have happened.</string>
@@ -467,7 +467,7 @@ Connect to your band to view your cadence"</string>
     <string name="profile_weight_text">%1$s jin</string>
     <string name="profile_weight_text_kg">%1$s kg</string>
     <string name="profile_weight_text_lb">%1$s lbs</string>
-    <string name="protocol">Confidentialité et Accord</string>
+    <string name="protocol">Termes et Conditions</string>
     <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Refreshing</string>
     <string name="pull_to_refresh_from_bottom_release_label">Relâcher pour rafraîchir</string>
@@ -823,7 +823,7 @@ Settings-Lock Screen-Unlock with Bluetooth devices."</string>
     <string name="upgrading_title">Mettre à jour le Firmware</string>
     <string name="upload_log_file">Journal de téléchargement</string>
     <string name="upload_log_file_prompt">(Aidez-nous à identifier le problème)</string>
-    <string name="user_agreement">Accord et Confidentialité</string>
+    <string name="user_agreement">Termes et Conditions</string>
     <string name="user_agreement_play">Privacy&amp;Agreement</string>
     <string name="user_agreement_prefix">Cliquez Accepter pour confirmer</string>
     <string name="user_agreement_ux">Join user experience improvement plan</string>
