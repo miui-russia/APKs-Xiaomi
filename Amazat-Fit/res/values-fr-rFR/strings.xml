@@ -367,7 +367,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="max_steps">Meilleur semaine</string>
     <string name="mi_run">Midong</string>
     <string name="mili_bound_found">Trouvé</string>
-    <string name="mili_bound_found_sub">Tap your band to confirm pairing when it vibrates.</string>
+    <string name="mili_bound_found_sub">Tapoter votre band quand il vibre pour confirmer l'appairrage.</string>
     <string name="mili_bound_searching">Recherche</string>
     <string name="mili_bound_searching_sub">Merci de garder à proximité votre Amazfit.</string>
     <string name="mili_bound_success">Pairing successful</string>
