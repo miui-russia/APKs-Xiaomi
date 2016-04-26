@@ -154,9 +154,9 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="help_Q12">12.Comment changer de musique ?</string>
     <string name="help_A12">Astuce ： App offers shaking function(exchange music, voice recognition),exchanging music acquiescently. Shaking your phone when music playing, it will play next music after prompt tone kaka</string>
     <string name="help_Q13">13.Essayer de redémarrer la fonction Bluetooth ?</string>
-    <string name="help_A13">"Astuce : Try to re-open the Bluetooth of the mobile phone and search the audio player after a while if the Roidmi Music Blue C can't be found but powered on already."</string>
+    <string name="help_A13">"Astuce : Après un moment, si le RoidMi est toujours introuvable alors qu'il est allumé, essayer de relancer la fonction Bluetooth sur votre téléphone et rechercher le lecteur audio."</string>
     <string name="help_Q14">14.Est-ce que le lecteur audio a été lié avec un autre mobile auparavant ?</string>
-    <string name="help_A14">Astuce : Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
+    <string name="help_A14">Astuce : Eteindre les connexions Bluetooth du téléphone avec lequel était précédemment lié le lecteur audio, et faite une nouvelle recherche avec le téléphone avec lequel vous voulez lier le RoidMi.</string>
     <string name="help_Q15">15.Essayer de reconnecter le téléphone mobile ?</string>
     <string name="help_A15">"Astuce : Redémarrer le téléphone et lancer l'APP de RoidMi."</string>
     <string name="help_Q16">16.Est-ce que le dispositif a un faux contact ?</string>
@@ -164,7 +164,7 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="help_Q17">"17.Comment faire avec un autoradio FM avec lequel il n'est pas possible d'ajuster la fréquence manuellement ?"</string>
     <string name="help_A17">"Astuce : Ajuster la fréquence de l'APP sur la même fréquence de l'autoradio."</string>
     <string name="help_Q18">"18.Pourquoi recommander d'utiliser la fréquence inoccupée ?"</string>
-    <string name="help_A18">Astuce : Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
+    <string name="help_A18">Astuce : Les grosses fréquences FM peuvent interférer avec les faibles fréquences, nous vous recommandons d'utiliser 3 fréquences inoccupées.</string>
     <string name="help_Q19">19.Comment trouver la meilleure fréquence ?</string>
     <string name="help_A19">"Astuce : Perhaps it's not the best choice of frequency we recommend you in your city. You'd better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software."</string>
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
