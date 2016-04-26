@@ -818,14 +818,14 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="user_agreement">Termes et Conditions</string>
     <string name="user_agreement_play">Privacy&amp;Agreement</string>
     <string name="user_agreement_prefix">Cliquez Accepter pour confirmer</string>
-    <string name="user_agreement_ux">Join user experience improvement plan</string>
+    <string name="user_agreement_ux">"Rejoindre le plan d'amélioration de l'éxpérience utilisateur"</string>
     <string name="user_rank">Battus par %1$s%% utilisateurs</string>
     <string name="user_week">"%1$s's semaine
 "</string>
-    <string name="version_algo_text">"Version Kernel : %1$s
+    <string name="version_algo_text">"Version du Kernel : %1$s
       
 Traduction : Miui-France"</string>
-    <string name="version_code_text">Version app : %1$s</string>
+    <string name="version_code_text">"Version de l'app : %1$s"</string>
     <string name="walk_done">Vous avez marché </string>
     <string name="wee_hour">AM</string>
     <string name="week_distance">Distance hebdomadaire</string>
@@ -839,7 +839,7 @@ Traduction : Miui-France"</string>
     <string name="welcome_item_bind_band">"Si vous avez déjà un band, merci de l'\appairer."</string>
     <string name="welcome_item_buy_band">"Vous avez besoin d'un Amazfit"</string>
     <string name="welcome_item_meet_better">Deviens meilleur.</string>
-    <string name="what_pace">Quelle est la cadence?</string>
+    <string name="what_pace">Quelle est la cadence ?</string>
     <string name="year">An</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="com.crashlytics.android.build_id">918b5430-02bf-4402-8c69-8d907e84b8be</string>
