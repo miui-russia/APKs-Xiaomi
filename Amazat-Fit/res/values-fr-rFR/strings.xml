@@ -537,17 +537,17 @@ Merci de courir dans un espace découvert."</string>
     <string name="running_main_avoid_use_indoor">"Évitez l'utilisation intérieure"</string>
     <string name="running_main_back_button_in_dialog">Retour</string>
     <string name="running_main_continue_button_in_dialog">Continue</string>
-    <string name="running_main_go_now">立即出发</string>
-    <string name="running_main_go_outdoor">走到开阔的场地使用</string>
-    <string name="running_main_gps_cannot_record">你的GPS可能无法记录轨迹</string>
+    <string name="running_main_go_now">Départ immédiat</string>
+    <string name="running_main_go_outdoor">Allez dans un lieu découvert</string>
+    <string name="running_main_gps_cannot_record">"Impossible d'enregistrer la trace GPS"</string>
     <string name="running_main_gps_info">GPS %1$s</string>
     <string name="running_main_gps_prefix">GPS</string>
-    <string name="running_main_startup_subtitle1">使用手机GPS定位服务和小米手环</string>
+    <string name="running_main_startup_subtitle1">Utilisation du GPS du téléphone avec Amazfit</string>
     <string name="running_main_startup_subtitle2">"Enregistrement précise d'une course"</string>
     <string name="running_main_startup_title1">Aller courir en plein air</string>
     <string name="running_max_speed">Plus grande vitesse</string>
     <string name="running_mile"> mi</string>
-    <string name="running_no_gps">Voulez-vous activer le GPS pour suivre votre course avec précision?</string>
+    <string name="running_no_gps">Voulez-vous activer le GPS pour suivre votre course avec précision ?</string>
     <string name="running_pace_detail">%s/km</string>
     <string name="running_real_time_pace">Rythme</string>
     <string name="running_set_dist">Rappel de distance</string>
@@ -558,38 +558,38 @@ Merci de courir dans un espace découvert."</string>
     <string name="running_settings">Paramètres</string>
     <string name="running_settings_title">Paramètres</string>
     <string name="running_share">Partager</string>
-    <string name="running_share_img_failed_to_create">"Impossible de partager, s'il vous plaît vérifier si vous avez assez de stockage."</string>
+    <string name="running_share_img_failed_to_create">"Impossible de partager, veuillez vérifier si vous avez assez de d'espace de stockage."</string>
     <string name="running_share_to_mypace">Mon rythme</string>
     <string name="running_share_to_sport_trace">Moi</string>
-    <string name="running_share_to_title">Du Amazit</string>
-    <string name="running_share_to_topic">\#Amazit#</string>
+    <string name="running_share_to_title">Du Amazfit</string>
+    <string name="running_share_to_topic">\#Amazfit#</string>
     <string name="running_share_to_watermark">Mon image Watermark</string>
     <string name="running_signal_strong">Fort</string>
     <string name="running_signal_weak">Faible</string>
-    <string name="running_speaker">Voice Report</string>
+    <string name="running_speaker">INformations vocales</string>
     <string name="running_speed">Vitesse</string>
     <string name="running_sport_state_sr_tips">Pause automatique, continuer automatiquement après avoir redémarré</string>
     <string name="running_step">Pas</string>
-    <string name="running_stop_sport_confirm">Confirmer la fin de la course?</string>
-    <string name="running_time_desc">Time</string>
+    <string name="running_stop_sport_confirm">Confirmer la fin de la course ?</string>
+    <string name="running_time_desc">Temps</string>
     <string name="running_unlogin_notice">你还未登录app，使用过程中的数据将无法为你同步到服务器，数据可能会在一些情况下丢失。现在去登录？</string>
     <string name="running_unsynchronous">Non synchronisé</string>
-    <string name="running_view_gallery">Gallerie</string>
-    <string name="running_watermark">caméra Watermark</string>
-    <string name="running_watermark_guide_tips">Faites glisser pour déplacer watermark</string>
-    <string name="running_watermark_title_text">Photo watermark</string>
+    <string name="running_view_gallery">Galerie</string>
+    <string name="running_watermark">Caméra Watermark</string>
+    <string name="running_watermark_guide_tips">Faites glisser pour déplacer Watermark</string>
+    <string name="running_watermark_title_text">Photo Watermark</string>
     <string name="sat_sun">Weekend</string>
     <string name="scan_label">"Alignez le QR code à l'intérieur du cadre pour le scanner"</string>
-    <string name="scan_to_download_app">Scannez le code QR pour télécharger Midong</string>
-    <string name="screen_lock_detail">Keep the phone unlocked with the band</string>
-    <string name="screen_lock_keep_bluetooth">Please keep the band and the phone connected to each other.</string>
-    <string name="screen_lock_low_android_version">System version is too low, Please upgrade to Android 5.0 or higher</string>
-    <string name="screen_lock_not_miui">"Step1. Go to Settings-Security.
-Step2. Set a screen lock and save.
-Step3. Tap SmartLock to set up"</string>
-    <string name="screen_lock_restore">"To revise please go to
-Settings-Lock Screen-Unlock with Bluetooth devices."</string>
-    <string name="screen_lock_set_already">Set Already</string>
+    <string name="scan_to_download_app">Scannez le QR code pour télécharger Midong</string>
+    <string name="screen_lock_detail">Garder le téléphone déverrouiller avec le band</string>
+    <string name="screen_lock_keep_bluetooth">Merci de garder le band et le téléphone connecté entre eux.</string>
+    <string name="screen_lock_low_android_version">La version du système est obsolète, Merci de mettre à jour Android avec la 5.0 ou supérieur</string>
+    <string name="screen_lock_not_miui">"Etape 1. Allez dans Paramètres-Sécurité.
+Etape 2. Ajouter un verrouillage de l'écran et sauvegarder.
+Etape 3. Tapoter SmartLock pour le valider"</string>
+    <string name="screen_lock_restore">"Pour paramétrer, merci de d'aller dans
+Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."</string>
+    <string name="screen_lock_set_already">Déjà paramétré</string>
     <string name="screen_lock_set_mili_unlock">Turn On Screen Unlock</string>
     <string name="screen_lock_set_phone_lock">Set Passcode</string>
     <string name="screen_lock_set_success">Screen Unlock has been set up already.</string>
