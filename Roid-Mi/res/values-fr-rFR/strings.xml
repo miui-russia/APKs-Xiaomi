@@ -465,16 +465,16 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="voltage_V24size_2">20~24V</string>
     <string name="voltage_V24size_3">24~29V</string>
     <string name="voltage_V24size_6">>29V</string>
-    <string name="voltage_sure_low_too">too lower</string>
-    <string name="voltage_sure_low">lower</string>
+    <string name="voltage_sure_low_too">trop faible</string>
+    <string name="voltage_sure_low">faible</string>
     <string name="voltage_sure_normal">normal</string>
-    <string name="voltage_sure_hight_too">too higher</string>
+    <string name="voltage_sure_hight_too">trop élevé</string>
     <string name="voltage_detail_normal">——</string>
-    <string name="voltage_detail_1">"can't start the car，you may need to exchange storage battery"</string>
-    <string name="voltage_detail_2">difficult to start, pls close other electrical device and start car charging</string>
-    <string name="voltage_detail_4">"It's likely not to charge battery, pls check engine or other power load"</string>
-    <string name="voltage_detail_6">"It's likely to damage storage batter, pls check the stabilizator of engine"</string>
-    <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
+    <string name="voltage_detail_1">"Impossible de démarrer le véhicule, Vous pourriez être amené à changer l'accumulateur"</string>
+    <string name="voltage_detail_2">Difficulté pour démarrer, merci de déconnecter tout autre dispositif électrique et commencer la recharge du véhicule</string>
+    <string name="voltage_detail_4">"Il semblerait que la batterie ne se charge pas, veuillez vérifier le moteur ou autre charge électrique"</string>
+    <string name="voltage_detail_6">"Il y a un risque d'endommager l'accumulateur, merci de vérifier le stabilisateur de moteur"</string>
+    <string name="voltage_size_tip">*Ce résultat de détection est donné à titre indicatif, des résultats de test technique effectué par un professionnel prévaudront</string>
     <string name="web_load_fail">Impossible de charger la page</string>
-    <string name="please_opennet">Echec de requête, merci de vérifier votre connection Internet</string>
+    <string name="please_opennet">Echec de la requête, merci de vérifier votre connection Internet</string>
 </resources>
