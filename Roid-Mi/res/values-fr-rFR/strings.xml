@@ -158,11 +158,11 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="help_Q14">14.Est-ce que le lecteur audio a été lié avec un autre mobile auparavant ?</string>
     <string name="help_A14">Astuce : Close the undesired Bluetooth of the mobile phone bounded to the audio player nearby, and start to search the audio player with the desired mobile phone.</string>
     <string name="help_Q15">15.Essayer de reconnecter le téléphone mobile ?</string>
-    <string name="help_A15">Astuce : Re-boot the mobile phone and open the Roidmi Driver APP.</string>
+    <string name="help_A15">"Astuce : Redémarrer le téléphone et lancer l'APP de RoidMi."</string>
     <string name="help_Q16">16.Est-ce que le dispositif a un faux contact ?</string>
-    <string name="help_A16">Astuce : Clean the ash from the car lighter hole if any.</string>
+    <string name="help_A16">"Astuce : Nettoyer les cendres présent dans la prise allume-cigare s'il y en a."</string>
     <string name="help_Q17">"17.Comment faire avec un autoradio FM avec lequel il n'est pas possible d'ajuster la fréquence manuellement ?"</string>
-    <string name="help_A17">Astuce : Adjust the frequency of APP to the same one of the car FM.</string>
+    <string name="help_A17">"Astuce : Ajuster la fréquence de l'APP sur la même fréquence de l'autoradio."</string>
     <string name="help_Q18">"18.Pourquoi recommander d'utiliser la fréquence inoccupée ?"</string>
     <string name="help_A18">Astuce : Since strong FM signal may interfere with weak one, we recommend you with three local unoccupied frequencies.</string>
     <string name="help_Q19">19.Comment trouver la meilleure fréquence ?</string>
