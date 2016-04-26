@@ -475,6 +475,6 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="voltage_detail_4">"It's likely not to charge battery, pls check engine or other power load"</string>
     <string name="voltage_detail_6">"It's likely to damage storage batter, pls check the stabilizator of engine"</string>
     <string name="voltage_size_tip">*This detecting result is for your reference only, actually professional technicians test results shall prevail</string>
-    <string name="web_load_fail">page downloading failure</string>
-    <string name="please_opennet">request failure, pls check your web</string>
+    <string name="web_load_fail">Impossible de charger la page</string>
+    <string name="please_opennet">Echec de requête, merci de vérifier votre connection Internet</string>
 </resources>
