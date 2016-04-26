@@ -98,13 +98,13 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="fb_sending">Envoi…</string>
     <string name="fb_send_success">Envoyé avec succès</string>
     <string name="fb_send_fail">Envoi impossible</string>
-    <string name="feed_back_list_null1">We are look forward to hearing from you,</string>
-    <string name="feed_back_list_null2">Bring the best experience to you!</string>
-    <string name="feed_back_notify_title">Feedback Reply</string>
-    <string name="feed_back_notify_content">Feedback has reply, click to view the content</string>
+    <string name="feed_back_list_null1">Au plaisir de vous lire,</string>
+    <string name="feed_back_list_null2">Vous apporter la meilleure des expériences !</string>
+    <string name="feed_back_notify_title">Réponse à vos commentaires</string>
+    <string name="feed_back_notify_content">Votre commentaire a eu une réponse, cliquer pour voir le contenu</string>
     <string name="guide_show">www.roidmi.com</string>
     <string name="guide_start_up">Commencez</string>
-    <string name="guide_start_up_info1">Assurez vous du fonctionnement normal du programme</string>
+    <string name="guide_start_up_info1">Assurez vous du bon fonctionnement du programme</string>
     <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche Retour pour revenir sur cet écran"</string>
     <string name="guide_start_up_setting">Commencer le paramètrage</string>
     <string name="guide_install">"C'est parti!"</string>
@@ -117,7 +117,7 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="guide_bt_success">Bluetooth OK</string>
     <string name="guide_bt_success_info">Votre téléphone est maintenant connecté!</string>
     <string name="voice_detection_title">Test de la voix</string>
-    <string name="voice_detection_tip">"Tap 'TEST' et verifiez que vous entendez bien votre voix"</string>
+    <string name="voice_detection_tip">"Tapoter 'TEST' et verifiez que vous entendez bien votre voix"</string>
     <string name="send_voice">TEST</string>
     <string name="send_voice_fail">"Je n'entends pas. Changer de fréquence."</string>
     <string name="send_voice_success">"J'entends! Suivant."</string>
