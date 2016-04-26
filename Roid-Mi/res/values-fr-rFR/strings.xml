@@ -82,22 +82,22 @@ Cliquer OK pour Continuer !"</string>
 Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="drive_time_30_2">"Félicitations, vous êtes déjà populaire en conduite responsable.
  Vous êtes désormais au sein des meilleurs conducteurs reponsable de Chine"</string>
-    <string name="drive_time_30_3">You are more and more environmentally friendly n Every day to work a little bit, our goal is even closer</string>
-    <string name="drive_time_60">"Oh, well, let's realize the dream of driving less than an hour a day"</string>
-    <string name="drive_time_120">Congratulations, you are on the way to the green driving</string>
-    <string name="drive_time_300_1">"Congratulations for your footprints in the intelligent driving of Beverly Hillbillies list
- Use a little more every day, you will experience more fun oh"</string>
-    <string name="drive_time_300_2">Wow, if the daily driving for more than 2 hours, there will be records of you in the Roidmi Beverly Hillbillies list</string>
-    <string name="drive_time_300_more_1">"Wow, you're one of the Chinese Beverly Hillbillies for driving. Why not air your mood at the moment?"</string>
-    <string name="drive_time_300_more_2">Wow, you have been ranked top of the Chinese Beverly Hillbillies list. Far ahead of others in the mood is not very cool ah!</string>
-    <string name="feed_back">Feedback</string>
-    <string name="defout_contact">Your Contact Information(e-Mail, Mobile, QQ)</string>
-    <string name="defout_content">Thank you for your feedback, we will listen carefully to your comments and suggestions</string>
-    <string name="fb_content_empty">Please leave feedback!</string>
-    <string name="fb_send">Send</string>
-    <string name="fb_sending">Sending…</string>
-    <string name="fb_send_success">Successful Send</string>
-    <string name="fb_send_fail">Failure to Send</string>
+    <string name="drive_time_30_3">"Vous êtes de plus en plus respectueux de l'environnement, et ce, un peu plus chaque jour, notre but est encore plus proche"</string>
+    <string name="drive_time_60">"Oh, eh bien, réalisons le rêve de conduite moins d'une heure par jour"</string>
+    <string name="drive_time_120">Félicitations, vous êtes en bonne voie vers une conduite responsable</string>
+    <string name="drive_time_300_1">"Félicitations, vous laissez votre empreinte dans la liste de Beverly Hillbillies
+ Utilisez le un peu plus chaque jour pour avoir plus de fun"</string>
+    <string name="drive_time_300_2">Waouh, Si votre temps de conduite quotidien est de plus de 2 heures, vous serez dans la liste Roidmi de Beverly Hillbillies</string>
+    <string name="drive_time_300_more_1">"Waouh, vous êtes l'un des chinois de Beverly Hillbillies pour votre conduite. Pensez à vous aérer l'esprit ?"</string>
+    <string name="drive_time_300_more_2">"Waouh, vous êtes dans le top de la liste des chinois de Beverly Hillbillies. Loin devant d'autres dans l'esprit, ce n'est pas si cool hein ?"</string>
+    <string name="feed_back">"Retour d'informations"</string>
+    <string name="defout_contact">Vos coordonnées (e-Mail, Mobile, QQ)</string>
+    <string name="defout_content">"Merci pour votre retour d'informations, nous allons prendre en considération avec la plus grande attention votre commentaire et vos suggestions"</string>
+    <string name="fb_content_empty">Merci de laisser vos suggestions !</string>
+    <string name="fb_send">Envoyer</string>
+    <string name="fb_sending">Envoi…</string>
+    <string name="fb_send_success">Envoyé avec succès</string>
+    <string name="fb_send_fail">Envoi impossible</string>
     <string name="feed_back_list_null1">We are look forward to hearing from you,</string>
     <string name="feed_back_list_null2">Bring the best experience to you!</string>
     <string name="feed_back_notify_title">Feedback Reply</string>
