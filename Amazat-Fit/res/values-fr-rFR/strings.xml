@@ -337,7 +337,7 @@ Cliquez pour réessayer."</string>
     <string name="isboundBle_alert">"Merci d'activer la fonction Bluetooth
 Connectez à votre band pour voir la cadence"</string>
     <string name="isbound_alert">Vous pouvez utiliser votre Amazfit pour détecter votre cadence en temps réel. Merci de visiter notre boutique en ligne.</string>
-    <string name="isconnect_alert">Chargement échoué. Merci de vérifier votre connexion réseaux.</string>
+    <string name="isconnect_alert">Chargement échoué. Merci de vérifier votre connexion réseau.</string>
     <string name="lab_factory_title">Laboratoire</string>
     <string name="label_continue_record">Continuer à enregistrer</string>
     <string name="latest_sleep">Heure de coucher la plus tardive</string>
