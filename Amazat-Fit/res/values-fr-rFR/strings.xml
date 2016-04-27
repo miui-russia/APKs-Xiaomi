@@ -52,7 +52,7 @@
     <string name="common_google_play_services_sign_in_failed_text">Erreur de connexion avec ce compte spécifique. Merci de choisir un autre compte.</string>
     <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
     <string name="common_google_play_services_unknown_issue">Problème inconnu avec les services Google Play.</string>
-    <string name="common_google_play_services_unsupported_text">Services Google Play, sur quoi sont basés plusieurs de vos applications, n'est pas supporté par votre appareil. Merci de contacter le constructeur pour obtenir une assistance.</string>
+    <string name="common_google_play_services_unsupported_text">Services Google Play, sur quoi sont basés plusieurs de vos applications, n\'est pas supporté par votre appareil. Merci de contacter le constructeur pour obtenir une assistance.</string>
     <string name="common_google_play_services_unsupported_title">Services Google Play</string>
     <string name="common_google_play_services_update_button">Mise à jour</string>
     <string name="common_google_play_services_update_text">"Cette application ne fonctionnera que si vous mettez à jour les services Google Play."</string>
@@ -179,7 +179,7 @@
     <string name="buy_a_band">Acheter un band</string>
     <string name="calorie_empty">Aucune calorie brûlée</string>
     <string name="calorie_lack_desc">"Ceci est l'énergie nécessaire pour le fonctionnement métabolique fondamental, comme la respiration, le transport du fer, la régénération normale des enzymes et des autres composants de l'organisme, etc."</string>
-    <string name="calorie_lack_title">Qu'est ce que BEE ?"</string>
+    <string name="calorie_lack_title">Qu\'est ce que BEE ?"</string>
     <string name="calorie_percent">Vous avez brûlé plus de gras que &lt;hl>%d%%&lt;/hl> des utilisateurs</string>
     <string name="calorie_unit"> cal</string>
     <string name="cancel">Annuler</string>
@@ -229,7 +229,7 @@
     <string name="device_battery_charging_tip">"Batterie faible. Merci de recharger rapidement."</string>
     <string name="device_battery_volume_reading">Obtenir le niveau de charge</string>
     <string name="device_battery_volume_unknown">Niveau de charge inconnu</string>
-    <string name="device_connect_failed_check_distance_and_battery">Assurez-vous que votre Amazfit soit chargé et qu'il soit à proximité.</string>
+    <string name="device_connect_failed_check_distance_and_battery">Assurez-vous que votre Amazfit soit chargé et qu\'il soit à proximité.</string>
     <string name="device_connect_failed_try_restart_bluetooth_and_app">Merci de redémarrer la connexion Bluetooth ou votre téléphone.</string>
     <string name="device_connect_failed_try_restart_phone">"Merci d'essayez de redémarrer le téléphone."</string>
     <string name="device_connection_status_searching">Recherche…</string>
@@ -288,7 +288,7 @@ Cliquez pour réessayer."</string>
     <string name="feedback_abandon">Quitter</string>
     <string name="feedback_confirm_cancel_info">Quitter les commentaires ?</string>
     <string name="feedback_contact">Information de contact</string>
-    <string name="feedback_contact_info">uid : %1$s, Information de contact : %2$s, Pseudo : %3$s, Version du système : %4$s, Modèle de téléphone : %5$s, Version de l'application : %6$s, Version du Kernel : %7$s.</string>
+    <string name="feedback_contact_info">"uid : %1$s, Information de contact : %2$s, Pseudo : %3$s, Version du système : %4$s, Modèle de téléphone : %5$s, Version de l'application : %6$s, Version du Kernel : %7$s."</string>
     <string name="feedback_content">Merci de décrire le problème.</string>
     <string name="feedback_empty">Merci de saisir votre commentaire.</string>
     <string name="feedback_input_correct_contact_info">Merci de saisir des informations de contact valides.</string>
@@ -301,7 +301,7 @@ Cliquez pour réessayer."</string>
     <string name="fw_upgrade_progress_text">Fait</string>
     <string name="get_image_file_fail">"Echec d'obtention de l'image"</string>
     <string name="got_it">OK</string>
-    <string name="guide_agreement_detail">Termes &amp; Conditions</string>
+    <string name="guide_agreement_detail">Termes et Conditions</string>
     <string name="guide_agreement_label">En vous connectant, vous acceptez nos </string>
     <string name="guide_button_weixin">Se connecter avec WeChat</string>
     <string name="guide_button_xiaomi">Se connecter avec votre compte Mi</string>
@@ -367,11 +367,11 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="max_steps">Meilleur semaine</string>
     <string name="mi_run">Midong</string>
     <string name="mili_bound_found">Trouvé</string>
-    <string name="mili_bound_found_sub">Tapoter votre band quand il vibre pour confirmer l'appairage.</string>
+    <string name="mili_bound_found_sub">Tapoter votre band quand il vibre pour confirmer l\'appairage.</string>
     <string name="mili_bound_searching">Recherche</string>
     <string name="mili_bound_searching_sub">Merci de garder à proximité votre Amazfit.</string>
     <string name="mili_bound_success">Appairé avec succès</string>
-    <string name="mili_has_bound">Cet Amazfit a été appairé avec quelqu\'un d'autre.</string>
+    <string name="mili_has_bound">Cet Amazfit a été appairé avec quelqu\'un d\'autre.</string>
     <string name="mili_has_bound_sub">"Veuillez essayer à nouveau après que l'utilisateur précédent ai procédé au désappairage."</string>
     <string name="mili_no_device">Non trouvé</string>
     <string name="mili_no_device_sub">"Merci de vous assurer que votre Amazfit soit chargé et qu'il soit à proximité."</string>
@@ -680,7 +680,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="share_uninstall_weibo">"Veuillez installer Weibo d'abord."</string>
     <string name="share_uninstall_weixin">"Veuillez installer WeChat d'abord."</string>
     <string name="share_week_sleep_ave_less_5_1">Pourquoi si peu de sommeil ? Trop excité ou trop fatigué ?</string>
-    <string name="share_week_sleep_ave_less_5_2">Est-ce quelqu'un à trouver mon sommeil ?</string>
+    <string name="share_week_sleep_ave_less_5_2">Est-ce quelqu\'un à trouver mon sommeil ?</string>
     <string name="share_week_sleep_ave_less_5_3">"Qui d'autre a dormi aussi peu que je l'ai fait ?"</string>
     <string name="share_week_sleep_ave_more_10_1">"J'aimerais pouvoir me faire de l'argent en dormant."</string>
     <string name="share_week_sleep_ave_more_10_2">Je pense que je me suis égaré dans mon rêve.</string>
