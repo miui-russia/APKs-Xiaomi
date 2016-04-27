@@ -14,7 +14,7 @@
     <string name="add_device">Ajouter un appareil</string>
     <string name="add_device_match_desc_bottom">    3. Choisissez %1$s pour vérifier la connexion</string>
     <string name="add_device_match_desc_center">    2. Appuyez sur le bouton</string>
-    <string name="add_device_match_desc_top">    1. pointez votre appareil Mi vers votre %1$s</string>
+    <string name="add_device_match_desc_top">    1. Pointez votre appareil Mi vers votre %1$s</string>
     <string name="add_device_remote">Ajoutez une télécommande %1$s</string>
     <string name="add_more">Ajouter plus de périphériques infrarouge</string>
     <string name="add_new_control">Ajouter une télecommande</string>
@@ -33,7 +33,7 @@
     <string name="app_detail_no_comments">Aucun avis.</string>
     <string name="app_detail_title_info">Résumé</string>
     <string name="app_detail_title_recomment">Applications liées</string>
-    <string name="app_exit_tip">Appuyer le bouton retour pour quitter</string>
+    <string name="app_exit_tip">Appuyer sur le bouton retour pour quitter</string>
     <string name="app_frequency_little">Rarement</string>
     <string name="app_frequency_more">Souvent</string>
     <string name="app_frequency_normal">Parfois</string>
@@ -113,11 +113,11 @@
     <string name="device_bluetoothi">Télécommande Bluetooth</string>
     <string name="device_brand">Marque</string>
     <string name="device_model">Modèle</string>
-    <string name="device_responsed">L\"appareil a réagi</string>
+    <string name="device_responsed">L\'appareil a réagi</string>
     <string name="device_type">Type</string>
     <string name="diagnose">Tester la télécommande</string>
     <string name="diagnosis_intro">Analyser le réseau pour les problèmes de connectivité</string>
-    <string name="dialog_install_assistant_content">Installer Mi Screen obtenir plus de votre téléviseur ou décodeur Mi</string>
+    <string name="dialog_install_assistant_content">Installer Mi Screen pour obtenir plus de votre téléviseur ou de votre décodeur Mi</string>
     <string name="dining_room">Salle à manger</string>
     <string name="download_assistant">Écran casté</string>
     <string name="download_path_fail">Echec du téléchargement. Vérifiez la carte SD ou le disque USB de votre appareil.</string>
@@ -136,7 +136,7 @@
     <string name="empty_name_tip">Donnez un nom à cette télécommande</string>
     <string name="epg_all_channels">Toutes les chaines</string>
     <string name="epg_bookable">Book</string>
-    <string name="epg_booked">Booked</string>
+    <string name="epg_booked">Réservé</string>
     <string name="epg_booked_str">Planifié</string>
     <string name="epg_bottom_subtitle_textview_str">Associer le décodeur pour voir plus de détails</string>
     <string name="epg_bottom_subtitle_textview_str2">Appuyer pour voir la télécommande</string>
@@ -146,13 +146,13 @@
     <string name="epg_detail_title_text">Desciption</string>
     <string name="epg_details_episode">Ep. %1$s</string>
     <string name="epg_episode_open">Tout afficher</string>
-    <string name="epg_fav_channels">Chaine favorites</string>
+    <string name="epg_fav_channels">Chaines favorites</string>
     <string name="epg_hot_channels">Chaines</string>
     <string name="epg_hot_programs">Afficher</string>
     <string name="epg_loading_hint">Utiliser votre téléphone pour changer de chaine</string>
     <string name="epg_name">Séries télévisées</string>
     <string name="epg_status_playing_text">Lecture…</string>
-    <string name="epg_status_playing_text_v5">Live</string>
+    <string name="epg_status_playing_text_v5">Direct</string>
     <string name="epg_unbooked_str">Non planifié</string>
     <string name="episode_intro_title_text">"Résumé de l'épisode"</string>
     <string name="episode_title">Épisode %1$d</string>
@@ -175,7 +175,7 @@
     <string name="feedback">Commentaire</string>
     <string name="feedback_error">Commentaire échoué</string>
     <string name="feedback_error_success_tip">Commentaire ajouté</string>
-    <string name="feedback_error_tips">Appuyuez ici si ce contrôleur ne fonctionne pas bien</string>
+    <string name="feedback_error_tips">Appuyez ici si ce contrôleur ne fonctionne pas bien</string>
     <string name="find_adb_frame">"%1$d d'appareils ADB détectés"</string>
     <string name="find_milink_frame">"%1$d d'appareils Mi détectés"</string>
     <string name="from_share">Shared by others</string>
@@ -183,18 +183,18 @@
     <string name="gamepad_rule">"Impossible d'utiliser l'orientation paysage en mode Gamepad"</string>
     <string name="gesture_pad_first_line_tips">Utilisez les boutons de Volume sur votre appareil pour régler le volume</string>
     <string name="gesture_pad_orietaion_tips">"Glisser pour bouger dans n'importe quelle direction. Appuyez pour confirmer."</string>
-    <string name="gesture_pad_sencond_line_tips">"· Appuyez sur et maintenez la zone centrale de l'écran pour afficher le menu. Glisser vers le haut ou vers le bas pour régler le volume."</string>
+    <string name="gesture_pad_sencond_line_tips">"· Appuyez et maintenez la zone centrale de l'écran pour afficher le menu. Glisser vers le haut ou vers le bas pour régler le volume."</string>
     <string name="gesture_pad_vol_tips">"Utilisez les boutons de volume du téléphone pour régler le volume sur l'appareil connecté"</string>
     <string name="get_data_fail_tips">"Impossible d'obtenir les données, réessayer"</string>
     <string name="get_info_failed">"Impossible d'obtenir des infos"</string>
     <string name="get_location_fail_tip">Impossible de définir votre localisation, choisissez une ville</string>
-    <string name="guid_one">· Se connecter au même réseau Wi-Fi comme le périphérique cible</string>
+    <string name="guid_one">· Se connecter au même réseau Wi-Fi que le périphérique cible</string>
     <string name="guid_three">· Certaines commandes ne seront pas disponibles si votre téléviseur ou votre décodeur ne supporte pas Android</string>
     <string name="guid_two">· Éteindre le routeur AP Isolation</string>
     <string name="guid_zero">. Votre appareil ne supporte pas les périphériques infrarouge.</string>
     <string name="guide">Guide</string>
     <string name="has_installed">Installé</string>
-    <string name="hd_channel_preferred">Prefer HD video</string>
+    <string name="hd_channel_preferred">Préférer les vidéos HD</string>
     <string name="history_none">"Vous n'avez regardé aucune vidéo."</string>
     <string name="history_title">Historique</string>
     <string name="home">Accueil</string>
@@ -262,7 +262,7 @@
     <string name="match_ac_intro_mode">Relâchez quand le climatiseur passe en mode refroidissement</string>
     <string name="match_ac_intro_power">"Relâchez quand le climatiseur s'éteint"</string>
     <string name="match_ac_name_mode">Refroidissement</string>
-    <string name="match_ac_name_power">Eteindre</string>
+    <string name="match_ac_name_power">Éteindre</string>
     <string name="match_ch_inc">Passer à la chaîne suivante？</string>
     <string name="match_chl_dec">Passer à la chaîne précédente？</string>
     <string name="match_count_frame">Associer %1$d%2$d télécommande</string>
@@ -272,7 +272,7 @@
 -Appuyez sur Retour pour continuer"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Utiliser les touches directionnelles ?</string>
-    <string name="match_dvd_intro_pause">Relâchez quand la lecture du DVD pause</string>
+    <string name="match_dvd_intro_pause">Relâchez quand la lecture du DVD est en pause</string>
     <string name="match_dvd_intro_play">Relâchez quand le DVD commence à jouer</string>
     <string name="match_dvd_intro_stop">"Relâchez quand la lecture du DVD s'arrête"</string>
     <string name="match_dvd_name_pause">Pause</string>
@@ -291,7 +291,7 @@
     <string name="match_mibox_sencond">    · Contrôler votre Mi TV avec cet appareil.</string>
     <string name="match_mibox_third">"    · Ajouter d'autres appareils Mi automatiquement"</string>
     <string name="match_name_power">Batterie</string>
-    <string name="match_number_default">Voulez-vous utiliser les clavier numérique ?</string>
+    <string name="match_number_default">Voulez-vous utiliser le clavier numérique ?</string>
     <string name="match_stb_intro_left">Relâchez quand le curseur se déplace à gauche</string>
     <string name="match_stb_intro_ok">"Relâchez lorsque le changement s'affiche à l'écran"</string>
     <string name="match_stb_intro_up">Relâchez quand le curseur se déplace vers le haut</string>
@@ -363,7 +363,7 @@
     <string name="no_save_brand_service">Rajouter cette télécommande</string>
     <string name="none">Vide</string>
     <string name="not_respond">Aucune réponse</string>
-    <string name="notification_found_shared_remote_text">"Pour contrôler essayer d'utiliser la télécommande"</string>
+    <string name="notification_found_shared_remote_text">"Pour contrôler essayez d'utiliser la télécommande"</string>
     <string name="notification_found_shared_remote_title">%1$s trouvé à proximité</string>
     <string name="notification_str1">\"</string>
     <string name="notification_str2">\"commencera dans 30 minutes.</string>
@@ -422,7 +422,7 @@
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">"Capture d'écran"</string>
     <string name="screenshot_failed">"Impossible de faire une capture d'écran"</string>
-    <string name="screenshot_failed_and_check_connection">"Impossible de faire une capture d'écran, vérifiez que vos appareils sont connecté"</string>
+    <string name="screenshot_failed_and_check_connection">"Impossible de faire une capture d'écran, vérifiez que vos appareils sont connectés"</string>
     <string name="screenshot_not_support_adb_devices">"La capture d'écran n'est pas supportée par cet appareil"</string>
     <string name="screenshot_not_support_video">"Capture d'écran non supportée"</string>
     <string name="screenshoting">Capture d\'écran...</string>
@@ -486,7 +486,7 @@
     <string name="share_rc_list_title">Télécommandes partagées à proximité</string>
     <string name="share_rc_not_found">Aucune télécommande partagée à proximité</string>
     <string name="share_rc_state_share">Partage...</string>
-    <string name="share_rc_title">Partagée la télécommande</string>
+    <string name="share_rc_title">Partager la télécommande</string>
     <string name="share_rc_type_desc">Qui peut voir ou utiliser les télécommandes que vous avez partagées?</string>
     <string name="share_switch">Partager une télécommande</string>
     <string name="share_tips">Partager la télécommande avec une personne connectée au même Wi-Fi</string>
@@ -552,7 +552,7 @@
     <string name="upgrade_title_frame">%1s</string>
     <string name="upgrading">Mise à jour…</string>
     <string name="use_tv_power_key">"Utiliser %1$s le bouton Power
-Pour changer, un appui longs ur le bouton Power de la TV"</string>
+Pour changer, un appui long sur le bouton Power de la TV"</string>
     <string name="vendor_kookong">Kookong</string>
     <string name="vendor_peel">Peel</string>
     <string name="vendor_yaokan">Yaokan</string>
@@ -611,7 +611,7 @@ Ensuite, répondre à la question"</string>
     <string name="passport_activing_account">Activation...</string>
     <string name="passport_area_code_hot">Fréquemment utilisé</string>
     <string name="passport_area_code_title">Code postal</string>
-    <string name="passport_bad_authentication">Nom utilisateur ou mot de passe invalide</string>
+    <string name="passport_bad_authentication">Nom d\'utilisateur ou mot de passe invalide</string>
     <string name="passport_btn_return">Retour</string>
     <string name="passport_button_cancel">Annuler</string>
     <string name="passport_change_account">Changer de compte</string>
@@ -635,10 +635,10 @@ Ensuite, répondre à la question"</string>
     <string name="passport_error_empty_email">Entrez votre adresse mail</string>
     <string name="passport_error_empty_phone_num">Entrez votre numéro de téléphone</string>
     <string name="passport_error_empty_pwd">Entrez votre mot de passe</string>
-    <string name="passport_error_empty_username">Entrez votre nom utilisateur</string>
+    <string name="passport_error_empty_username">Entrez votre nom d\'utilisateur</string>
     <string name="passport_error_empty_vcode">Entrez le code de vérification</string>
     <string name="passport_error_illegal_pwd">Mot de passe invalide</string>
-    <string name="passport_error_invalid_dev_id">Identifiant périphérique invalide</string>
+    <string name="passport_error_invalid_dev_id">Identifiant de périphérique invalide</string>
     <string name="passport_error_invalid_phone_num">Numéro de téléphone invalide</string>
     <string name="passport_error_login">Impossible de se connecter</string>
     <string name="passport_error_network">Impossible de se connecter au réseau</string>
@@ -654,7 +654,7 @@ Ensuite, répondre à la question"</string>
     <string name="passport_find_password_on_web_msg">Rendez-vous sur account.mi.com pour réinitialiser votre mot de passe.</string>
     <string name="passport_forget_password"><u>Mot de passe oublié</u></string>
     <string name="passport_forget_password_no_underline">Mot de passe oublié</string>
-    <string name="passport_get_back_pwd">Récupérer mot de passe du compte</string>
+    <string name="passport_get_back_pwd">Récupérer le mot de passe du compte</string>
     <string name="passport_get_verify_code">Obtenir un code</string>
     <string name="passport_getting_verify_code">Obtenir</string>
     <string name="passport_identitfication_expired">Code de vérification expiré, recommencer</string>
@@ -707,7 +707,7 @@ Ensuite, répondre à la question"</string>
     <string name="passport_register_account_verified_confirm">Vous avez déjà vérifié votre compte</string>
     <string name="passport_register_by_email"><u>Créer un compte en utilisant une adresse mail</u></string>
     <string name="passport_register_restricted">Trop de comptes sont associés avec ce numéro, essayez-en un différent</string>
-    <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéror"</string>
+    <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro"</string>
     <string name="passport_reject_recycle_account">Non</string>
     <string name="passport_relogin">Se reconnecter</string>
     <string name="passport_relogin_notice">Vous avez besoin de vous reconnecter</string>
@@ -738,18 +738,18 @@ Ensuite, répondre à la question"</string>
     <string name="passport_vcode_prompt_long">Entrez le code de vérification</string>
     <string name="passport_verification_failed">Authentification échouée</string>
     <string name="passport_verify">Vérifer</string>
-    <string name="passport_wait_for_sms_prompt">"Recommencer maintenant ? messages de vérification peuvent prendre 10 minutes pour être livré lorsque votre téléphone est à portée du réseau de votre opérateur."</string>    
+    <string name="passport_wait_for_sms_prompt">"Recommencer maintenant ? Les messages de vérification peuvent prendre 10 minutes pour être livré lorsque votre téléphone est à portée du réseau de votre opérateur."</string>    
     <string name="passport_wrong_captcha">Le code que vous avez entré est incorrecte</string>
-    <string name="passport_wrong_password">Mot de pas incorrecte</string>
+    <string name="passport_wrong_password">Mot de passe incorrect</string>
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone que vous avez entré est invalide</string>
-    <string name="passport_wrong_vcode">Le code que vous avez entré est incorrecte</string>
+    <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="passport_xiaomi_account_dspt">"Utilisez votre compte Mi pour vous connecter au Cloud Mi, à la boutique de thème MIUI et aux autres services Mi depuis n'importe où. "</string>
     <string name="passport_xiaomi_account_sec_dspt" />
     <string name="passport_xiaomi_account_sec_dspt2">"La connexion à votre compte Mi requiert une connexion internet. En outre, l'accès de l'emplacement, Mi-Cloud, et Mi VIP seront automatiquement activés."</string>
     <string name="passport_xiaomi_account_sec_dspt2_vip">"La connexion à votre compte Mi requiert une connexion internet. En outre, l'accès de l'emplacement, Mi Cloud, and Mi VIP seront automatiquement activés."</string>
     <string name="add_fav_channel">Ajouter aux Favoris</string>
     <string name="add_fav_channel_hint">Ajouter plus de chaînes favorites, vous permettant de trouver des programmes favoris</string>
-    <string name="append_ok_key_after_num">Appuyez sur Entrée avoir changer le chaîne</string>
+    <string name="append_ok_key_after_num">Appuyez sur Entrée après avoir changé le chaîne</string>
     <string name="backup">Sauvegarde vers le Cloud</string>
     <string name="backup_failed">Échec de la sauvegarde, veuillez essayer à nouveau</string>
     <string name="backup_succeed">Sauvegarde réussie</string>
@@ -763,9 +763,9 @@ Ensuite, répondre à la question"</string>
     <string name="create_shortcut">Créer raccourcis</string>
     <string name="epg_book_all">Toute réservation</string>
     <string name="epg_book_count">已预约%1$s集</string>
-    <string name="epg_edit_channel_name">Nom du cannal</string>
-    <string name="epg_edit_channel_number">Numéro de canal</string>
-    <string name="epg_edit_channel_title">Modifier le canal</string>
+    <string name="epg_edit_channel_name">Nom de la chaine</string>
+    <string name="epg_edit_channel_number">Numéro de la chaine</string>
+    <string name="epg_edit_channel_title">Modifier la chaine</string>
     <string name="epg_home_sliding_down">Dérouler vers le bas</string>
     <string name="epg_home_sliding_up">Dérouler vers le haut</string>
     <string name="epg_no_booking_data">Programme non prévu</string>
@@ -776,7 +776,7 @@ Ensuite, répondre à la question"</string>
     <string name="epg_user_my_favorite_channel">Mes chaînes favorites</string>
     <string name="extra_keys">Extra</string>
     <string name="fix_keys">Bouton réparer</string>
-    <string name="fix_keys_success">Réparation succès！</string>
+    <string name="fix_keys_success">Réparé avec succès！</string>
     <string name="fix_keys_tips">Si certaines touches sont difficiles à utiliser, vous pouvez essayer de les réparer</string>
     <string name="get_backup_failed">Restauration échouée, veuillez essayer à nouveau</string>
     <string name="get_backup_succeed">Restauration réussie，de %1$d, déjà présente %2$d，%3$d récupérées，</string>
@@ -787,7 +787,7 @@ Ensuite, répondre à la question"</string>
     <string name="login_failed_tips">Obtention des informations du compte échouée，vérifiez votre connexion.</string>
     <string name="login_thirdparty">Autre journal</string>
     <string name="login_wxfailed_tips">Obtention des informations du compte WeChat échouée，vérifiez votre connexion.</string>
-    <string name="logining">e connecter</string>
+    <string name="logining">Se connecter</string>
     <string name="logout">Déconnexion</string>
     <string name="logout_done">Déconnexion faite</string>
     <string name="match_failed">"Pus de données, s'il vous plaît essayer de nouveau ou retour"</string>
@@ -797,7 +797,7 @@ Ensuite, répondre à la question"</string>
     <string name="mi_account_name">Compte Mi</string>
     <string name="more_fav_channel">Plus de favoris</string>
     <string name="my_activity">Mes événements</string>
-    <string name="my_appointment">Mes palnnifications</string>
+    <string name="my_appointment">Mes plannifications</string>
     <string name="my_backup">Ma sauvegarde</string>
     <string name="my_favorite">Mes Favoris</string>
     <string name="my_setting">Mes paramétrages</string>
@@ -806,7 +806,7 @@ Ensuite, répondre à la question"</string>
     <string name="notification_str3">\" démarrera dans 5 minutes.</string>
     <string name="power_off">Éteindre</string>
     <string name="power_on">Allumer</string>
-    <string name="program_booking_book_filter_book_status">Etat des réservations</string>
+    <string name="program_booking_book_filter_book_status">État des réservations</string>
     <string name="program_booking_book_filter_not_booked">Non réservé</string>
     <string name="program_booking_channel_filter_all_channels">Toutes les chaînes</string>
     <string name="program_booking_date_filter_day_0">Aujourd\'hui"</string>
