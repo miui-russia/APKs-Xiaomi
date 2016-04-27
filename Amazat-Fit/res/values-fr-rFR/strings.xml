@@ -7,10 +7,10 @@
     <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_activity_chooser_view_see_all">Voir tout</string>
     <string name="abc_activitychooserview_choose_application">Choisir une app</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Critères de recherche</string>
+    <string name="abc_searchview_description_search">Recherche</string>
+    <string name="abc_searchview_description_submit">Soumettre la requête</string>
     <string name="abc_searchview_description_voice">Recherche vocale</string>
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
@@ -135,7 +135,7 @@
     <string name="attained_calories_summary_continuous_1">"Vous avez atteint votre objectif de calories brulées %s consécutif !"</string>
     <string name="attained_calories_summary_continuous_2">"Vous avez atteint votre objectif de calories brulées %s consécutif !"</string>
     <string name="attained_calories_title">Objectif quotidien de calories brulées atteint</string>
-    <string name="attained_steps_1">Ovjectif de pas atteint</string>
+    <string name="attained_steps_1">Objectif de pas atteint</string>
     <string name="attained_steps_summary">Continuez !</string>
     <string name="attained_steps_summary_continuous_0">"Vous avez atteint votre objectif de pas %s consécutif !"</string>
     <string name="attained_steps_summary_continuous_1">"Vous avez atteint votre objectif de pas %s consécutif !"</string>
@@ -152,7 +152,7 @@
     <string name="band_help_reboot_ble">Redémarrer le Bluetooth</string>
     <string name="band_help_reboot_ble_sub">"Si votre Amazfit est introuvable alors qu'il est chargé et qu'il est à proximité, merci de redémarrer votre connexion Bluetooth et de lancer à nouveau l'appairage."</string>
     <string name="band_help_reboot_phone">Redémarrez le téléphone</string>
-    <string name="band_help_reboot_phone_sub">"Si le redémarrage de votre connexion Bluetooth n'a résolu le problème, merci d'essayez de redémarrer le téléphone."</string>
+    <string name="band_help_reboot_phone_sub">"Si le redémarrage de votre connexion Bluetooth n'a pas résolu le problème, merci de redémarrer le téléphone."</string>
     <string name="base_calorie">BEE</string>
     <string name="bind_failed_connect_sub_title">"Merci de tenir éloigner tout autre band et essayer de nouveau."</string>
     <string name="bind_weixin_failed">"Merci de vérifier votre connexion réseau."</string>
@@ -179,7 +179,7 @@
     <string name="buy_a_band">Acheter un band</string>
     <string name="calorie_empty">Aucune calorie brûlée</string>
     <string name="calorie_lack_desc">"Ceci est l'énergie nécessaire pour le fonctionnement métabolique fondamental, comme la respiration, le transport du fer, la régénération normale des enzymes et des autres composants de l'organisme, etc."</string>
-    <string name="calorie_lack_title">"What is"Qu'est ce que BEE ?"</string>
+    <string name="calorie_lack_title">Qu'est ce que BEE ?"</string>
     <string name="calorie_percent">Vous avez brûlé plus de gras que &lt;hl>%d%%&lt;/hl> des utilisateurs</string>
     <string name="calorie_unit"> cal</string>
     <string name="cancel">Annuler</string>
@@ -229,10 +229,10 @@
     <string name="device_battery_charging_tip">"Batterie faible. Merci de recharger rapidement."</string>
     <string name="device_battery_volume_reading">Obtenir le niveau de charge</string>
     <string name="device_battery_volume_unknown">Niveau de charge inconnu</string>
-    <string name="device_connect_failed_check_distance_and_battery">Assurez-vous que votre Amazfit est chargé et qu'il est à proximité.</string>
+    <string name="device_connect_failed_check_distance_and_battery">Assurez-vous que votre Amazfit soit chargé et qu'il soit à proximité.</string>
     <string name="device_connect_failed_try_restart_bluetooth_and_app">Merci de redémarrer la connexion Bluetooth ou votre téléphone.</string>
     <string name="device_connect_failed_try_restart_phone">"Merci d'essayez de redémarrer le téléphone."</string>
-    <string name="device_connection_status_searching">Recheche…</string>
+    <string name="device_connection_status_searching">Recherche…</string>
     <string name="device_find_band">Trouver votre Amazfit</string>
     <string name="device_fw_version">Version du Firmware</string>
     <string name="device_id_txt">ID appareil</string>
@@ -288,7 +288,7 @@ Cliquez pour réessayer."</string>
     <string name="feedback_abandon">Quitter</string>
     <string name="feedback_confirm_cancel_info">Quitter les commentaires ?</string>
     <string name="feedback_contact">Information de contact</string>
-    <string name="feedback_contact_info">uid : %1$s, Information de contact : %2$s, Pseudo : %3$s, Versiondu système : %4$s, Modèle de téléphone : %5$s, Version de l'application : %6$s, Version du Kernel : %7$s.</string>
+    <string name="feedback_contact_info">uid : %1$s, Information de contact : %2$s, Pseudo : %3$s, Version du système : %4$s, Modèle de téléphone : %5$s, Version de l'application : %6$s, Version du Kernel : %7$s.</string>
     <string name="feedback_content">Merci de décrire le problème.</string>
     <string name="feedback_empty">Merci de saisir votre commentaire.</string>
     <string name="feedback_input_correct_contact_info">Merci de saisir des informations de contact valides.</string>
@@ -307,14 +307,14 @@ Cliquez pour réessayer."</string>
     <string name="guide_button_xiaomi">Se connecter avec votre compte Mi</string>
     <string name="guide_login_error_dialog_message">Connexion échouée, merci de vérifier votre connexion réseau.</string>
     <string name="guide_login_error_not_install_third_app">Application introuvable</string>
-    <string name="guide_login_error_not_install_weixin">Merci d'installer WeChat avant.</string>
+    <string name="guide_login_error_not_install_weixin">Merci d\'installer WeChat avant.</string>
     <string name="guide_login_loading">En cours de connexion…</string>
     <string name="guide_logo_word">Salut</string>
     <string name="guide_prefer_goal_btn">Commencer votre nouvelle vie</string>
     <string name="guide_prefer_goal_text_calorie">Objectif quotidien : 1680 kcal</string>
     <string name="guide_prefer_goal_text_calorie_description">pour ceux qui veulent perdre du poid</string>
     <string name="guide_prefer_goal_text_calorie_name">Brûlé</string>
-    <string name="guide_prefer_goal_text_info">Visit Me > My Goal to change your setting</string>
+    <string name="guide_prefer_goal_text_info">Visite Moi > Mon objectif pour changer vos paramètres</string>
     <string name="guide_prefer_goal_text_steps">Objectif quotidien : 8000 pas</string>
     <string name="guide_prefer_goal_text_steps_description">pour ceux qui veulent retrouver la forme</string>
     <string name="guide_prefer_goal_text_steps_name">Pas</string>
@@ -337,7 +337,7 @@ Cliquez pour réessayer."</string>
     <string name="isboundBle_alert">"Merci d'activer la fonction Bluetooth
 Connectez à votre band pour voir la cadence"</string>
     <string name="isbound_alert">Vous pouvez utiliser votre Amazfit pour détecter votre cadence en temps réel. Merci de visiter notre boutique en ligne.</string>
-    <string name="isconnect_alert">Chargement échoué. Merci de vérifier vos connexions réseaux.</string>
+    <string name="isconnect_alert">Chargement échoué. Merci de vérifier votre connexion réseaux.</string>
     <string name="lab_factory_title">Laboratoire</string>
     <string name="label_continue_record">Continuer à enregistrer</string>
     <string name="latest_sleep">Heure de coucher la plus tardive</string>
@@ -346,8 +346,8 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="local_app_failed">"Vérification des mises à jour échouée, impossible d'obtenir les informations concernant la version installée."</string>
     <string name="login_error_login_error">"Connexion échouée, merci d'essayer ultérieurement."</string>
     <string name="login_error_passport_id_auth_denied_error">"Nous rencontrons quelques soucis et nous sommes en train d'y remédier. Merci d'essayer ultérieurement."</string>
-    <string name="login_error_passport_id_token_invalid_error">Connection expirée，merci de vous connecter à nouveau.</string>
-    <string name="login_error_passport_no_login_error">Connection expirée，merci de vous connecter à nouveau.</string>
+    <string name="login_error_passport_id_token_invalid_error">Connexion expirée，merci de vous connecter à nouveau.</string>
+    <string name="login_error_passport_no_login_error">Connexion expirée，merci de vous connecter à nouveau.</string>
     <string name="login_error_passport_parse_error">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
     <string name="login_error_passport_server_error">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
     <string name="login_error_passport_timeout_error">"Nous rencontrons quelques soucis et nous sommes en train d'y remédier. Merci d'essayer ultérieurement."</string>
@@ -361,7 +361,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="low_battery">"%s%%  d'autonomie restante. Veuillez charger votre téléphone."</string>
     <string name="m_g_magic_def_calories">≈ burned &lt;hl>%s&lt;/hl> shrimp dumplings</string>
     <string name="m_g_magic_def_steps">≈ walking around Shanghai Bund for &lt;hl>%s&lt;/hl> times</string>
-    <string name="m_g_score_over">You defeated %d%% users!</string>
+    <string name="m_g_score_over">Vous avez battu %d%% d\'utilisateurs !</string>
     <string name="max_pace_speed">Plus haut rythme</string>
     <string name="max_sleep">Plus long sommeil</string>
     <string name="max_steps">Meilleur semaine</string>
@@ -371,14 +371,14 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="mili_bound_searching">Recherche</string>
     <string name="mili_bound_searching_sub">Merci de garder à proximité votre Amazfit.</string>
     <string name="mili_bound_success">Appairé avec succès</string>
-    <string name="mili_has_bound">Cet Amazfit a été appairé avec quelqu'un d'autre.</string>
+    <string name="mili_has_bound">Cet Amazfit a été appairé avec quelqu\'un d'autre.</string>
     <string name="mili_has_bound_sub">"Veuillez essayer à nouveau après que l'utilisateur précédent ai procédé au désappairage."</string>
     <string name="mili_no_device">Non trouvé</string>
-    <string name="mili_no_device_sub">"Merci de vous assurer que votre Amazfit est chargé et qu'il est à proximité."</string>
+    <string name="mili_no_device_sub">"Merci de vous assurer que votre Amazfit soit chargé et qu'il soit à proximité."</string>
     <string name="mili_not_bound">Appairage échoué</string>
     <string name="mili_not_bound_now">Annuler</string>
     <string name="mili_not_bound_sub">"Lors de l'appairage, veuillez garder votre Amazfit à proximité."</string>
-    <string name="mili_not_knock">"Il n'a pas vibrer ?"</string>
+    <string name="mili_not_knock">"Il n'a pas vibré ?"</string>
     <string name="min">%d min</string>
     <string name="min_sec" formatted="false">%d min%d sec</string>
     <string name="minute_long_need_number"> min</string>
@@ -395,7 +395,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="my_item_my_about">À propos</string>
     <string name="my_item_my_band">Mon Amazfit</string>
     <string name="my_item_my_feedback">Retour d\'information</string>
-    <string name="my_item_my_goal">Mon but</string>
+    <string name="my_item_my_goal">Mon objectif</string>
     <string name="my_item_my_third">Connexion des tiers</string>
     <string name="my_item_my_update">Mise à jour</string>
     <string name="my_title_ave_sleep">Sommeil quotidien moyen</string>
@@ -413,8 +413,8 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="no_sleep_data_text">Appairer avec votre Amazfit pour suivre votre sommeil.</string>
     <string name="noon">PM</string>
     <string name="notice_for_tag_time">提示：符号X后的数字是你对该项目的标注次数</string>
-    <string name="notification_bluetooth_call_close">"Midong s'est arrêté et ne peut vous faire une analyse de la qualité de votre sommeil. Veuillez redémarrer l'application de nouveau si nécessaire."</string>
-    <string name="notification_bluetooth_call_open">"La fonction Bluetooth est désactivée. Votre Amazfit ne peut vous faire part des notifications d'appels. Veuillez activer la fonction Bluetooth si nécessaire."</string>
+    <string name="notification_bluetooth_call_close">"Midong s'est arrêté et ne peut pas vous faire une analyse de la qualité de votre sommeil. Veuillez redémarrer l'application de nouveau si nécessaire."</string>
+    <string name="notification_bluetooth_call_open">"La fonction Bluetooth est désactivée. Votre Amazfit ne peut pas vous faire part des notifications d'appels. Veuillez activer la fonction Bluetooth si nécessaire."</string>
     <string name="notification_last_battery">"Batterie critique, veuillez recharger votre Amazfit rapidement."</string>
     <string name="notification_low_battery">"Batterie faible, veuillez recharger votre Amazfit rapidement."</string>
     <string name="notification_pace_summit">"Félicitations ! Vous avez atteint votre objectif quotidien de %1$s! Continuez !"</string>
@@ -471,20 +471,20 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="qr_decode_error">Erreur</string>
     <string name="raise_pace">"Se concentrer sur l'augmentation de la cadence"</string>
     <string name="raise_pace_desc">"La plupart des coureurs vont naturellement augmenter leur cadence pour hausser leur rythme de course, mais agir de la sorte vous expose à des risques de blessures musculaires ; les coureurs expérimentés choisiront d'augmenter la fréquence d'enjambée pour hausser leur rythme en course."</string>
-    <string name="reach_goal_days">Hit Goals for</string>
+    <string name="reach_goal_days">Appuyez sur objectif pour</string>
     <string name="remind_alarm_item_sub_title">Vous réveille avec une vibration.</string>
     <string name="remind_alarm_item_title">Alarme</string>
     <string name="remind_alarm_no_alarms">"Pas d'alarmes"</string>
     <string name="remind_call_dialog_description_1">Veuillez laisser Midong lancé en fond de tâche.</string>
     <string name="remind_call_dialog_description_2">Veuillez laisser la connexion Bluetooth active sur votre téléphone.</string>
-    <string name="remind_call_dialog_tips_title">Astuces pour les notifications d'appel</string>
+    <string name="remind_call_dialog_tips_title">Astuces pour les notifications d\'appel</string>
     <string name="remind_call_help">"Fonctionne uniquement lorsque l'application est lancée"</string>
     <string name="remind_call_subtitle">Vous notifie vos appels par une vibration.</string>
     <string name="remind_call_title">Notification d\'appel</string>
     <string name="remind_open_ble">"Veuillez activer votre connexion Bluetooth"</string>
     <string name="remind_restart">Recommencer</string>
     <string name="remind_searching">Connexion à Amazfit…</string>
-    <string name="remind_searching_failed_1">"Veuillez vous assurer que votre Amazfit est chargé et qu'il est à proximité."</string>
+    <string name="remind_searching_failed_1">"Veuillez vous assurer que votre Amazfit soit chargé et qu'il soit à proximité."</string>
     <string name="remind_searching_failed_2">"Veuillez redémarrer la fonction Bluetooth sur votre téléphone et essayez à nouveau."</string>
     <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible uniquement lorsque l\'appairage est fait</string>
     <string name="run_tab">Courir</string>
@@ -534,7 +534,7 @@ Merci de courir dans un espace découvert."</string>
     <string name="running_history_total_times">Total des courses</string>
     <string name="running_kilometer">km</string>
     <string name="running_kilometers"> km</string>
-    <string name="running_main_avoid_use_indoor">"Évitez l'utilisation intérieure"</string>
+    <string name="running_main_avoid_use_indoor">"Évitez l'utilisation en intérieure"</string>
     <string name="running_main_back_button_in_dialog">Retour</string>
     <string name="running_main_continue_button_in_dialog">Continue</string>
     <string name="running_main_go_now">Départ immédiat</string>
@@ -558,7 +558,7 @@ Merci de courir dans un espace découvert."</string>
     <string name="running_settings">Paramètres</string>
     <string name="running_settings_title">Paramètres</string>
     <string name="running_share">Partager</string>
-    <string name="running_share_img_failed_to_create">"Impossible de partager, veuillez vérifier si vous avez assez de d'espace de stockage."</string>
+    <string name="running_share_img_failed_to_create">"Impossible de partager, veuillez vérifier si vous avez assez d'espace de stockage."</string>
     <string name="running_share_to_mypace">Mon rythme</string>
     <string name="running_share_to_sport_trace">Moi</string>
     <string name="running_share_to_title">Du Amazfit</string>
@@ -566,7 +566,7 @@ Merci de courir dans un espace découvert."</string>
     <string name="running_share_to_watermark">Mon image Watermark</string>
     <string name="running_signal_strong">Fort</string>
     <string name="running_signal_weak">Faible</string>
-    <string name="running_speaker">INformations vocales</string>
+    <string name="running_speaker">Informations vocales</string>
     <string name="running_speed">Vitesse</string>
     <string name="running_sport_state_sr_tips">Pause automatique, continuer automatiquement après avoir redémarré</string>
     <string name="running_step">Pas</string>
@@ -581,7 +581,7 @@ Merci de courir dans un espace découvert."</string>
     <string name="sat_sun">Weekend</string>
     <string name="scan_label">"Alignez le QR code à l'intérieur du cadre pour le scanner"</string>
     <string name="scan_to_download_app">Scannez le QR code pour télécharger Midong</string>
-    <string name="screen_lock_detail">Garder le téléphone déverrouiller avec le band</string>
+    <string name="screen_lock_detail">Garder le téléphone déverrouillé avec le band</string>
     <string name="screen_lock_keep_bluetooth">Merci de garder le band et le téléphone connecté entre eux.</string>
     <string name="screen_lock_low_android_version">La version du système est obsolète, Merci de mettre à jour Android avec la 5.0 ou supérieur</string>
     <string name="screen_lock_not_miui">"Etape 1. Allez dans Paramètres-Sécurité.
@@ -590,7 +590,7 @@ Etape 3. Tapoter SmartLock pour le valider"</string>
     <string name="screen_lock_restore">"Pour paramétrer, merci de d'aller dans
 Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."</string>
     <string name="screen_lock_set_already">Déjà paramétré</string>
-    <string name="screen_lock_set_mili_unlock">Turn On Screen Unlock</string>
+    <string name="screen_lock_set_mili_unlock">Activer le déverrouillage de l\'écran</string>
     <string name="screen_lock_set_phone_lock">Saisir un code de verrouillage</string>
     <string name="screen_lock_set_success">"Le déverrouillage de l'écran a déjà été paramétré."</string>
     <string name="screen_lock_title">Déverrouillage de l\'écran</string>
@@ -692,7 +692,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="share_week_step_reach_0">"Agir permet d'en dire plus que les résultats."</string>
     <string name="share_week_step_reach_7_1">"Je suis trop fort. Pouce ne l'air pour moi."</string>
     <string name="share_week_step_reach_7_2">Ayez de bonnes habitudes et elles feront ce que vous êtes.</string>
-    <string name="share_week_step_reach_default">Faites toutes les étapes pour devenir un meilleur !</string>
+    <string name="share_week_step_reach_default">Faites toutes les étapes pour devenir meilleur !</string>
     <string name="share_weibo_label">Weibo</string>
     <string name="share_weixin_label">WeChat</string>
     <string name="simple_sleep_text">A dormi 64 min</string>
@@ -711,7 +711,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="sleep_level_perfect">Vous avez bien dormi</string>
     <string name="sleep_light">Lumière</string>
     <string name="sleep_no_data">Aucune donnée de sommeil</string>
-    <string name="sleep_over_desc">Trop dormir vous fatigue. Prenez l'habitude de vous réveiller dès que vous avez dormi suffisament, et de ne pas accumuler trop de sommeil.</string>
+    <string name="sleep_over_desc">Trop dormir vous fatigue. Prenez l\'habitude de vous réveiller dès que vous avez dormi suffisament, et de ne pas accumuler trop de sommeil.</string>
     <string name="sleep_over_title">"Trop de sommeil n'est pas bon pour vous"</string>
     <string name="sleep_percent">Vous avez mieux dormi que &lt;hl>%d%%&lt;/hl> utilisateurs</string>
     <string name="sleep_range">Couché de %1$s à %2$s</string>
@@ -751,7 +751,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="step_empty">Pas de données</string>
     <string name="step_percent">Vous avez fait plus de pas que &lt;hl>%d%%&lt;/hl> utilisateurs</string>
     <string name="step_title_unit">(pas)</string>
-    <string name="steps_lack_desc">"Quel type d'exercice est efficace ? Tout d'abord, l'intensité de l'entrainement doit être assez élevé (fréquence cardiaque atteint dans la zone de combustion des graisses). Deuxièmement, le temps d'entrainement doit être suffisamment longue (plus de 20 minutes d'exercice pour brûler les graisses)."</string>
+    <string name="steps_lack_desc">"Quel type d'exercice est efficace ? Tout d'abord, l'intensité de l'entrainement doit être assez élevé (fréquence cardiaque atteint dans la zone de combustion des graisses). Deuxièmement, le temps d'entrainement doit être suffisamment long (plus de 20 minutes d'exercice pour brûler les graisses)."</string>
     <string name="steps_lack_title">Faites des exercices efficaces</string>
     <string name="submit">Envoyer</string>
     <string name="submitting_feedback">Envoi…</string>
@@ -766,7 +766,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="tag_waiting">"Veuillez patienter…"</string>
     <string name="take_photo">Prendre une photo</string>
     <string name="target_frequency">Objectif de Cadence</string>
-    <string name="target_frequency_desc">Les meilleurs coureurs peuvent atteindre une cadence de 180 ppm, et nous vous suggérons d'adopter une fréquence de 180 enjambées/minute comme un objectif.</string>
+    <string name="target_frequency_desc">Les meilleurs coureurs peuvent atteindre une cadence de 180 ppm, et nous vous suggérons d\'adopter une fréquence de 180 enjambées/minute comme un objectif.</string>
     <string name="third_access">Connexion des tiers</string>
     <string name="third_bind_wx">Connexion à WeChat</string>
     <string name="third_binding_wx">Connexion à WeChat…</string>
@@ -782,10 +782,10 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="toast_disable_bluetooth_broadcast">Désactiver la diffusion Bluetooth</string>
     <string name="toast_enable_bluetooth_broadcast">Activer la diffusion Bluetooth</string>
     <string name="toast_refresh_fail">"La synchronisation a échoué, assurez-vous que votre Amazfit est à proximité."</string>
-    <string name="toast_url_parse_error">网页地址格式错误</string>
+    <string name="toast_url_parse_error">Adresse web non conforme</string>
     <string name="unbind_band">Aucun dispositif appairé</string>
-    <string name="unbind_dialog_connection_msg">"Le band n'est pas connecté au téléphone, le désappairer peut vous faire perdre toutes les données non synchronisées.Continuer ?</string>
-    <string name="unbind_dialog_sync_error_msg">"Le band n'est pas connecté au téléphone, le désappairer peut vous faire perdre toutes les données non synchronisées.Continuer ?</string>
+    <string name="unbind_dialog_connection_msg">"Le band n'est pas connecté au téléphone, le désappairer peut vous faire perdre toutes les données non synchronisées. Continuer ?</string>
+    <string name="unbind_dialog_sync_error_msg">"Le band n'est pas connecté au téléphone, le désappairer peut vous faire perdre toutes les données non synchronisées. Continuer ?</string>
     <string name="unbind_dialog_unbind_continue">Continuer</string>
     <string name="unbind_dialog_unbind_error">"Le désappairage a échoué, merci de vérifier votre connexion réseau."</string>
     <string name="unbind_loading_sync_data">Synchronisation…</string>
@@ -809,14 +809,14 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="upgrade_failed_sub_title">"Merci de garder votre band à proximité."</string>
     <string name="upgrade_failed_title">La mise à jour du firmware a échoué</string>
     <string name="upgrade_fw_success">Mise à jour du Firmware réussie</string>
-    <string name="upgrade_low_power_sub_title">"Mise à jour du firmware disponible, la mise à jour nécessite un niveau de batterie minimum de 5%.</string>
+    <string name="upgrade_low_power_sub_title">"Mise à jour du firmware disponible, la mise à jour nécessite un niveau de batterie minimum de 5%."</string>
     <string name="upgrade_low_power_title">"Merci de recharger votre Amazfit."</string>
     <string name="upgrading_sub_title">"Merci de garder votre Amazfit à proximité."</string>
     <string name="upgrading_title">Mettre à jour le Firmware</string>
     <string name="upload_log_file">Journal de téléchargement</string>
     <string name="upload_log_file_prompt">(Aidez-nous à identifier le problème)</string>
     <string name="user_agreement">Termes et Conditions</string>
-    <string name="user_agreement_play">Privacy&amp;Agreement</string>
+    <string name="user_agreement_play">Accord &amp; confidentialité</string>
     <string name="user_agreement_prefix">Cliquez Accepter pour confirmer</string>
     <string name="user_agreement_ux">"Rejoindre le plan d'amélioration de l'éxpérience utilisateur"</string>
     <string name="user_rank">Battus par %1$s%% utilisateurs</string>
