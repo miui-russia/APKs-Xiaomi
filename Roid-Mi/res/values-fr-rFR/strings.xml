@@ -166,7 +166,7 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="help_Q18">"18.Pourquoi recommander d'utiliser la fréquence inoccupée ?"</string>
     <string name="help_A18">Astuce : Les grosses fréquences FM peuvent interférer avec les faibles fréquences, nous vous recommandons d'utiliser 3 fréquences inoccupées.</string>
     <string name="help_Q19">19.Comment trouver la meilleure fréquence ?</string>
-    <string name="help_A19">"Astuce : Perhaps it's not the best choice of frequency we recommend you in your city. You'd better manually increase or decrease the frequency of 0.1MHz FM to a radio frequency without interference, meanwhile adjust the mobile phone APP to the same frequency. If it works well after a period of time, you are welcome to share the frequency of your city with us in the feedback of about menu. We will recommend to the people in the same city of yours while we update the software."</string>
+    <string name="help_A19">"Astuce : Peut-être qu'il n'y a pas une meilleure frequence qu'une d'autres dans votre région. Vous devriez ajuster manuellement votre frequence de 0.1MHz FM en + ou en - pour avoir une fréquence sans interférence, également ajuster l'APP sur votre téléphone mobile sur la même fréquence. Si cela fonctionne correctement et que votre fréquence est stable pendant une certaine période, n'hésitez pas à nous partager votre fréquence. Nous recommenderons cette fréquence à tous les autres utilisateurs qui habitent la même ville que vous lors de la prochaine mise à jour."</string>
     <string name="help_Q20">20.限行提示包括哪些城市？如何提示限行情况？</string>
     <string name="help_A20">操作提示：提供车牌号所在地的8个城市限行情况：北京、长春、成都、贵阳、杭州、兰州、南昌、天津。限行提示默认为“开启”状态，前一天晚上8：00准时推送提醒至用户手机，且第二天手机连上车充蓝牙后，自动播报“今天您的车牌限行”。用户可根据实际使用情况，选择“关闭”限行提示。</string>
     <string name="info_center">Centre d\'information</string>
@@ -359,11 +359,11 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="restriction_title2">根据您的车牌尾号提醒</string>
     <string name="choossecity">Choix de la ville</string>
     <string name="restriction_tip_title">限行提示</string>
-    <string name="restriction_tip_info">News informing.voice broad casting</string>
-    <string name="trafficlip">*The feature is only suitable for the non-business small vehicles with local license plate</string>
-    <string name="nowhavenotraffic">No data of the Restricted currently</string>
-    <string name="pleasechecknet">get the data failed, pls check the network</string>
-    <string name="nodate">Failed to get the data</string>
+    <string name="restriction_tip_info">Nouvelles informations via radio diffusion</string>
+    <string name="trafficlip">"*Cette caractéristique est appropriée uniquement pour les véhicules particuliers munis d'une plaque d'immatriculation locale"</string>
+    <string name="nowhavenotraffic">Aucune limite de données actuellement</string>
+    <string name="pleasechecknet">Récupération des données impossible, merci de vérifier vos connexions réseaux</string>
+    <string name="nodate">Impossible de récupérer les données</string>
     <string name="todaytraffic">Restriction du trafic d'aujourd'hui</string>
     <string name="torrowtraffic">Restriction du trafic de demain</string>
     <string name="today">Aujourd'hui</string>
@@ -442,7 +442,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="valtage_tip">Tension actuelle %1$sV</string>
     <string name="valtage_abnormal_tip">Merci de vérifier de suite !</string>
     <string name="valtage_switch_title">Alerte de tension anormale</string>
-    <string name="valtage_switch_tip">Utisié pour contrôler le guide des couleurs de la led de notification</string>
+    <string name="valtage_switch_tip">Utilisié pour contrôler le guide des couleurs de la led de notification</string>
     <string name="valtage_result_tip">Table de référence des tensions de batterie</string>
     <string name="valtage_type_V12">Petit véhicule</string>
     <string name="valtage_type_V24">Gros véhicule</string>
