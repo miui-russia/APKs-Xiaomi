@@ -204,9 +204,9 @@ Vous serez dans l'historique des conducteurs responsable de Chine"</string>
     <string name="protocol">Conditions d\'utilisation</string>
     <string name="protocol_title_1">I. Dispositions générales</string>
     <string name="protocol_content_1">"
-1.Users agree to the terms of this Agreement and follow the prompts on the page to complete all the registration procedures. Whenever the users in the process of registration procedures, click the agree button, it represents that the users have reached an agreement with Wuxi Roidmi Information Technology Co., Ltd. and fully accept all the terms of this agreement. 
+1.Les utilisateurs doit adhèreer aux Accords d'utilisations et sont d'accord à fournir toutes les informations nécessaires lors de la procédure de création de comptes. Lors de la procédure de création de comptes des utilisateurs, cliquer Valider, cela sous-entends que les utilisateurs ont pris connaissance des termes avec Wuxi Roidmi Information Technology Co., Ltd. et adhèrent sans réserve à l'entièreté des termes et conditions. 
 
-2.After successfully registered, Wuxi Romi Information Technology Co., Ltd will give each user an account and the corresponding pass word which shall be kept properly by the users themselves. Users should be responsible for all the activities and events while using their user accounts. 
+2.Après l'enregistrement, Wuxi Romi Information Technology Co., Ltd fournira à tous les utilisateurs un compte dédié ainsi que les identifiants, que l'utilisateur devant conserver en lieu sur et par ses propres moyens. Les utilisateurs sont responsables de toutes les activités connues sur leur compte. 
 
 3.The users may use the single service of each channel in the Roidmi Driver. When the users do this, their behavior is regarded as agreement to the provision of the individual service and the consent of the all kinds of announcements in the service of the Roidmi Driver. 
 
@@ -393,7 +393,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="lanzhou">兰州</string>
     <string name="nanjing">南京</string>
     <string name="shake">Secouer une secousse</string>
-    <string name="shake_tip">"Certains dispositifs ne supportent pas la fonction "Secouer""</string>
+    <string name="shake_tip">"Certains dispositifs ne supportent pas la fonction 'Secouer'</string>
     <string name="shake_type">Fonction Secouer</string>
     <string name="shake_size">Intensité</string>
     <string name="shake_type_title">Fonction Secouer</string>
@@ -447,7 +447,7 @@ Although the product, in the process of driving will bring you a lot of convenie
     <string name="valtage_type_V12">Petit véhicule</string>
     <string name="valtage_type_V24">Gros véhicule</string>
     <string name="voltage_size">Tension</string>
-    <string name="voltage_sure">judgment</string>
+    <string name="voltage_sure">Décider</string>
     <string name="voltage_detail">Guide</string>
     <string name="voltage_V12size_1">"&lt;10.8V
 (before starting)"</string>
