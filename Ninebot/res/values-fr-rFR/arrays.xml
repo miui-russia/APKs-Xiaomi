@@ -93,6 +93,31 @@
         <item>Erreur du capteur du moteur droite, veuillez vérifier le câble du moteur ou changer le moteur.</item>
         <item>Erreur de température de la batterie, veuillez vous assurer que la température est comprise entre -10℃~50℃.</item>
         <item>Erreur de voltage de la cellule de la batterie, veuillez contacter le service après-vente.</item>
+        <item>"The battery's serial number is illegal."</item>
+        <item>Undefined error code.</item>
+    </string-array>
+    <string-array name="error_code_content_mk2">
+        <item>Fault of motor sensor or motor is not connected.</item>
+        <item>Failure of motor A current.</item>
+        <item>Failure of motor B current.</item>
+        <item>Failure of motor C current.</item>
+        <item>Vehicle S/N is the initial S/N.</item>
+        <item>Battery #1: abnormal communication.</item>
+        <item>Battery #2: abnormal communication.</item>
+        <item>Failure of gyroscope initialization.</item>
+        <item>Failure of gyroscope calibration.</item>
+        <item>Battery #1: abnormal output.</item>
+        <item>Battery #2: abnormal output.</item>
+        <item>Battery #1: abnormal temperature.</item>
+        <item>Battery #2: abnormal temperature.</item>
+        <item>Error of general voltage.</item>
+        <item>Error of voltage upgrade</item>
+        <item>Error of system clock.</item>
+        <item>Error of current calibration.</item>
+        <item>Battery #1: abnormal power supply</item>
+        <item>Battery #2: abnormal power supply</item>
+        <item>Temperature sensor open circuit.</item>
+        <item>Temperature sensor is short circuit.</item>
         <item>Code erreur indéfini</item>
     </string-array>
     <string-array name="error_code_mini">
@@ -120,7 +145,32 @@
         <item>39~41</item>
         <item>51</item>
         <item>52</item>
+        <item>53</item>
         <item>Other</item>
+    </string-array>
+    <string-array name="error_code_mk2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>其他</item>
     </string-array>
     <string-array name="error_code_reason">
         <item>"1.Choc de l'ordinateur central
@@ -187,6 +237,7 @@
 "</item>
     </string-array>
     <array name="error_code_reason_mini" />
+    <array name="error_code_reason_mk2" />
     <string-array name="error_code_solution">
         <item>"Essayez de le redémarrer, si l\'erreur persiste, contactez votre revendeur ou le SAV Ninebot; vous pouvez être invité à fournir des photos de la panne à votre revendeur.
 
@@ -273,6 +324,7 @@ E-mail (Chinois / Anglais) : service@ninebot.com
 "</item>
     </string-array>
     <array name="error_code_solution_mini" />
+    <array name="error_code_solution_mk2" />
     <string-array name="setting_light_mode">
         <item>Fermer</item>
         <item>Normal</item>
