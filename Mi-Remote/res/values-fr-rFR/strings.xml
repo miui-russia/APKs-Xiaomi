@@ -762,7 +762,7 @@ Ensuite, répondre à la question"</string>
     <string name="controller_invalid">"La télécommande n'existe pas"</string>
     <string name="create_shortcut">Créer raccourcis</string>
     <string name="epg_book_all">Toute réservation</string>
-    <string name="epg_book_count">已预约%1$s集</string>
+    <string name="epg_book_count">Réservation %1$s plannifiée</string>
     <string name="epg_edit_channel_name">Nom de la chaine</string>
     <string name="epg_edit_channel_number">Numéro de la chaine</string>
     <string name="epg_edit_channel_title">Modifier la chaine</string>
@@ -827,7 +827,7 @@ Ensuite, répondre à la question"</string>
     <string name="program_booking_time_filter_whole_day">Jour</string>
     <string name="recover">Récupération à partir du lecteur</string>
     <string name="recovering">Reprise</string>
-    <string name="rematch">重新匹配</string>
+    <string name="rematch">Assortir</string>
     <string name="require_login">Connexion obligatoire</string>
     <string name="select_stb">Sélectionnez la Box</string>
     <string name="speed_up_channel_switch">Sur certaines Box la vitesse peut varier</string>
