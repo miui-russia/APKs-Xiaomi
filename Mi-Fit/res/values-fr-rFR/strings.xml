@@ -72,8 +72,8 @@ Il vibrera à nouveau dans 10 minutes."</string>
     <string name="alert_disable">Désactivé</string>
     <string name="alert_enable">Activé</string>
     <string name="alert_list_title">Notifications Mi-Fit</string>
-    <string name="alert_msg_unable_start_camera">"Allow Camera usage if you restricted it.
-If you didn't, restart the phone."</string>
+    <string name="alert_msg_unable_start_camera">"Autorisez l'utilisation de l'appareil photo.
+Si vous ne l'avez pas, redémarrez le téléphone."</string>
     <string name="alert_title_unable_start_camera">"Vous ne pouvez pas accéder à la caméra"</string>
     <string name="algo_version">"Algorithme: %s
 
@@ -461,7 +461,7 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="hr_unit">BPM</string>
     <string name="hr_unit_label">Fréquence cardiaque (BPM)</string>
     <string name="id_broadcast">Visibilité</string>
-    <string name="id_broadcast_not_bound">绑定手环后，即可开启蓝牙广播</string>
+    <string name="id_broadcast_not_bound">Mi-Fit non appairé, veuillez activer le Bluetooth</string>
     <string name="idbroadcast_logo_tips">Activer pour être visible par les appareils à proximité</string>
     <string name="identify">Visible</string>
     <string name="identify_broadcast">Visibilité</string>
@@ -1287,7 +1287,7 @@ Passez à Android 4.4 ou version plus récente"</string>
     <string name="title_activity_about">À propos</string>
     <string name="title_activity_heart_rate_detial">Détails de la fréquence cardiaque</string>
     <string name="title_activity_heart_rate_tip">À propos de la fréquence cardiaque</string>
-    <string name="title_activity_hrbuy">Buy activity</string>
+    <string name="title_activity_hrbuy">Acheter un activité</string>
     <string name="title_activity_instruction_weight">Activité de poids</string>
     <string name="title_activity_mark">"Comportement de l'étiquette"</string>
     <string name="title_activity_remark">Ajouter une remarque</string>
