@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="label">SDK MIUI</string>
+    <string name="label">Mi-Transfert</string>
     <string name="abc_action_bar_up_description">Naviguer vers le haut</string>
     <string name="abc_action_bar_home_description">"Aller à l'acceuil"</string>
     <string name="action_mode_select_all">Tout</string>
@@ -575,11 +575,11 @@
     <string name="country_name_kg">KG</string>
     <string name="country_name_uz">UZ</string>
     <string name="permlab_sendSmsNoConfirmation">Autoriser les SMS en arrière-plan</string>
-    <string name="permdesc_sendSmsNoConfirmation">App peuvent envoyer des SMS sans votre accord. Cela peut entraîner des frais de votre opérateur</string>
-    <string name="web_sso_login_message">Conexion…</string>
+    <string name="permdesc_sendSmsNoConfirmation">"L'application peut envoyer des SMS sans votre accord. Cela peut entraîner des frais selon votre opérateur"</string>
+    <string name="web_sso_login_message">Connexion…</string>
     <string name="web_sso_login_fail">Vous devez vous connecter à nouveau</string>
     <string name="app_label">Mi-Transfert</string>
-    <string name="data_item_desc">Data</string>
+    <string name="data_item_desc">Données</string>
     <string name="camera_summary">Paramètres caméra (photos non compris)</string>
     <string name="feature_title_call_log">Historique des appels</string>
     <string name="feature_title_sms">SMS</string>
@@ -591,8 +591,8 @@
     <string name="account_summary">Sauvegarde du compte Google, du compte MI, et autres données de l\'utilisateur</string>
     <string name="local_select_sysdata">Système</string>
     <string name="system_backup_info">Paramètres système et  mise en page de l\'écran d\'accueil</string>
-    <string name="local_select_userapp">Apps</string>
-    <string name="software_backup_info">App data</string>
+    <string name="local_select_userapp">Applications</string>
+    <string name="software_backup_info">Données des applications</string>
     <string name="local_select_account_contact">Compte et contacts</string>
     <string name="account_contact_backup_info">Compte Google, compte MI, et données de contact</string>
     <string name="local_select_files">Carte SD</string>
@@ -600,7 +600,7 @@
     <string name="local_select_audio">Audios</string>
     <string name="local_select_video">Vidéos</string>
     <string name="local_select_doc">Documents</string>
-    <string name="files_backup_info">"Tous les fichiers sur la carte SD (y compris des photos, les chansons, les vidéos, les données d'application, etc.)"</string>
+    <string name="files_backup_info">"Tous les fichiers sur la carte SD (y compris les photos, les chansons, les vidéos, les données d'application, etc.)"</string>
     <string name="err_low_storage">"Pas assez d'espace"</string>
     <string name="button_start">Démarrer</string>
     <string name="button_send">Envoyer</string>
@@ -612,9 +612,9 @@
     <string name="custom_progress">%d items</string>
     <string name="start_backup">Sauvegarder</string>
     <string name="unknown_hint">Inconnu</string>
-    <string name="select_backup_item">Choose items</string>
-    <string name="apps_and_data_item_desc">Apps and data</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+    <string name="select_backup_item">Choisissez les éléments</string>
+    <string name="apps_and_data_item_desc">Applications et données</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="notif_backup_complete_title">Sauvegardé avec succès</string>
     <string name="notif_backup_title">Sauvegarder les données</string>
     <string name="notif_backup_content">Sauvegarde des données utilisateur</string>
@@ -622,25 +622,25 @@
     <string name="notif_restore_content">Restauration des données utilisateur</string>
     <string name="trans_sender">Mi-Transfert</string>
     <string name="trans_receiver">Recevoir</string>
-    <string name="trans_main_tutor">"Déplacer les contacts, l'historique des appels, les messages, la page d'accueil, applications, paramètres, etc., pour un nouveau dispositif"</string>
-    <string name="trans_waiting_for_sender">"En attente de l'ancien appareil pour se connecter ..."</string>
-    <string name="trans_waiting_ensurance">"Assurez-vous que l'ancien appareil soit allumé
-et Mi Mover aussi"</string>
-    <string name="trans_select_device_send">Sélectionnez un appareil pour transférer des données.</string>
-    <string name="trans_sender_connectting">Confirmer le nouveau dispositif</string>
+    <string name="trans_main_tutor">"Déplacer les contacts, l'historique des appels, les messages, la page d'accueil, les applications, les paramètres, etc., pour un nouveau périphérique"</string>
+    <string name="trans_waiting_for_sender">"En attente de connexion de l'ancien périphérique..."</string>
+    <string name="trans_waiting_ensurance">"Assurez-vous que l'ancien périphérique soit allumé
+et Mi-Tranfert aussi"</string>
+    <string name="trans_select_device_send">Sélectionnez un périphérique pour transférer des données.</string>
+    <string name="trans_sender_connectting">Confirmer le nouveau périphérique</string>
     <string name="trans_select_device_receive">Sélectionnez un périphérique pour recevoir des données.</string>
-    <string name="trans_sender_searching">Recherche de nouveaux appareils</string>
-    <string name="trans_sender_searching_ensurance">"Assurez-vous que l'ancien appareil soit allumé
-En attente de l'ancien appareil pour se connecter ..."</string>
+    <string name="trans_sender_searching">Recherche de nouveaux périphériques</string>
+    <string name="trans_sender_searching_ensurance">"Assurez-vous que l'ancien périphérique soit allumé
+En attente de connexion de l'ancien périphérique..."</string>
     <string name="trans_backingup">Sauvegarde…</string>
     <string name="trans_backingup_no_items">Synchronisation…</string>
     <string name="trans_restoring">Restauration…</string>
-    <string name="trans_sender_time_remained">"%s Restant, gardez l'appareil en charge.
+    <string name="trans_sender_time_remained">%s Restant, gardez le périphérique en charge.
 Ne pas désactiver le Wi-Fi. 
-Gardez les 2 appareils à proximité."</string>
-    <string name="trans_receiver_time_remained">"%s Restant, gardez l'appareil en charge.
+Gardez les 2 périphériques à proximité.</string>
+    <string name="trans_receiver_time_remained">"%s Restant, gardez le périphérique en charge.
 Ne pas désactiver le point d'accès. 
-Gardez les 2 appareils à proximité."</string>
+Gardez les 2 périphériques à proximité.</string>
     <string name="trans_time_spent">"
 Temps écoulé %s"</string>
     <string name="trans_restoring_no_items">Synchronisation des éléments</string>
@@ -660,8 +660,8 @@ Temps écoulé %s"</string>
     <string name="trans_progress_subdescript_waiting">En attendant de reception %s</string>
     <string name="trans_cancel_confirm">Transfert en cours, arrêter maintenant?</string>
     <string name="trans_cancelling">Annulé…</string>
-    <string name="trans_device_disconnected">Dispositif déconnecté</string>
-    <string name="trans_connecting_toast">Connection…</string>
+    <string name="trans_device_disconnected">Périphérique déconnecté</string>
+    <string name="trans_connecting_toast">Connexion...</string>
     <string name="trans_connect_failed_toast">Impossible de se connecter</string>
     <string name="trans_device_mi1">Téléphone Mi1</string>
     <string name="trans_device_mi1s">Téléphone Mi1s</string>
@@ -670,29 +670,29 @@ Temps écoulé %s"</string>
     <string name="trans_device_mi3">Téléphone Mi3</string>
     <string name="trans_device_mi4">Téléphone Mi4</string>
     <string name="trans_device_minote">MiNote</string>
-    <string name="trans_device_minotepro">MiNote pro</string>
+    <string name="trans_device_minotepro">MiNote Pro</string>
     <string name="trans_no_permission">Autoriser l\'accès à %s pour sauvegarder les fichiers</string>
     <string name="trans_entrance_tips">"Déplacer les contacts, les messages, les applications,
 et des fichiers sur votre téléphone Mi"</string>
     <string name="trans_generate_qr_code_failed">"Impossible de créer le QR code"</string>
     <string name="trans_scan_invalid_qrcode">QR code non valide</string>
-    <string name="trans_scan_qr_code_tips">Scannez le QR code sur le nouveau appareil</string>
-    <string name="trans_show_qr_code_label">Connecter un ancien appareil</string>
-    <string name="trans_show_qr_code_tips">Scannez le QR code en utilisant un ancien appareil</string>
+    <string name="trans_scan_qr_code_tips">Scannez le QR code sur le nouveau périphérique</string>
+    <string name="trans_show_qr_code_label">Connecter un ancien périphériques</string>
+    <string name="trans_show_qr_code_tips">Scannez le QR code en utilisant un ancien périphériques</string>
     <string name="trans_operate_new_phone_tips">"Allez dans Paramètres> Paramètres supplémentaires> Mi-Transfert
 Allez sur Paramètres > Autres paramètres système > Transfert MI
  Appuyez sur [ Je suis un destinataire ] pour créer un code QR"</string>
     <string name="trans_operate_func_one">Méthode A</string>
     <string name="trans_operate_func_two">Méthode B</string>
-    <string name="trans_operate_old_phone_tips1">"1. Installez l'application Transfert Mi sur votre ancien appareil
+    <string name="trans_operate_old_phone_tips1">"1. Installez l'application Mi-Transfert sur votre ancien périphériques
 2. Ouvrez l'application et appuyer sur démarrer
-3. Scannez le code QR avec votre ancien appareil"</string>
-    <string name="trans_operate_old_phone_tips2">"Aller dans paramètres > Paramètres supplémentaires > Transfert Mi, Appuyer sur [Je suis un émetteur]"</string>
-    <string name="trans_wait_trans_data">"Connecté à l'ancien appareil.
+3. Scannez le code QR avec votre ancien périphériques"</string>
+    <string name="trans_operate_old_phone_tips2">"Aller dans paramètres > Paramètres supplémentaires > Mi-Transfert, Appuyer sur [Je suis un émetteur]"</string>
+    <string name="trans_wait_trans_data">"Connecté à l'ancien périphériques.
 En attente de transfert…"</string>
     <string name="trans_select_data">Choisir les données</string>
     <string name="trans_select_data_tips">"Sélectionner les fichiers à transférer
 Les fichiers similaires sur le nouveau appareil seront écrasés"</string>
-    <string name="trans_select_data_no_space">"Pas assez de places sur les nouveaux appareils
-Sélectionnez les fichiers à nouveau ou libérer %s stockage sur le nouveau dispositif"</string>
+    <string name="trans_select_data_no_space">"Pas assez de places sur les nouveaux périphériques
+Sélectionnez les fichiers à nouveau ou libérer %s stockage sur le nouveau périphérique"</string>
 </resources>
