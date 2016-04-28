@@ -46,8 +46,8 @@
     <string name="common_google_play_services_restricted_profile_title">Profil restreint</string>
     <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
     <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
-    <string name="common_google_play_services_unknown_issue">%1$s a des problèmes avec les services Google Play. Si le problème persiste, contacter le développeur pour l'assistance.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s repose sur les services de Google Play, qui ne sont pas pris en charge par votre appareil. Contactez le fabricant pour l'assistance.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s a des problèmes avec les services Google Play. Si le problème persiste, contacter le développeur pour l\'assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s repose sur les services de Google Play, qui ne sont pas pris en charge par votre appareil. Contactez le fabricant pour l\'assistance.</string>
     <string name="common_google_play_services_unsupported_title">Google Play services</string>
     <string name="common_google_play_services_update_button">Mettre à jour</string>
     <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas à moins que vous mettiez à jour les services Google Play."</string>
@@ -109,7 +109,14 @@
     <string name="activate_guide_5">Guide de conduite en toute sécurité-5</string>
     <string name="activate_guide_6">Guide de conduite en toute sécurité-6</string>
     <string name="activate_guide_7">Guide de conduite en toute sécurité-7</string>
+    <string name="activate_guide_mark2_tip1">Please finish the 5 minutes video about how to control the vehicle.</string>
+    <string name="activate_guide_mark2_tip2">Please finish the 5 minutes tutorial video about how to control the vehicle.</string>
+    <string name="activate_guide_mark2_video_title_1">Using Ninebot One</string>
+    <string name="activate_guide_mark2_video_title_2">Position Adjustment</string>
+    <string name="activate_guide_mark2_video_title_3">Vehicle-Control Practice</string>
+    <string name="activate_guide_mark2_video_title_4">Sliding Practice</string>
     <string name="activate_guide_warn">"Le véhicule est un véhicule inactivé, veuillez l'activer en vous référençant selon la page du guide, sinon le véhicule sera en mode limite de vitesse de sécurité"</string>
+    <string name="activate_guide_warn_mark2">Your Ninebot One S2 is a new vehicle, please initialize your vehicle according to the guideline page, or your vehicle cannnot be used.</string>
     <string name="activate_id_checking">Déjà vérifié</string>
     <string name="activate_insurance_agree">Accepter</string>
     <string name="activate_insurance_clause_content">"Veuillez lire les conditions suivantes d'assurance en cas d'accidents corporels:
@@ -126,12 +133,15 @@
     <string name="activate_item_user_id">"N° d'identifiant"</string>
     <string name="activate_item_user_name">Nom</string>
     <string name="activate_item_user_phone">Numéro de téléphone</string>
+    <string name="activate_mi_tip_only_used_in_china">Please note that this product can only be activated by mobile phone number of China Mainland, Hong Kong, Maco and Taiwan regions.</string>
+    <string name="activate_mi_whether_need_get_sms_verfication">Dear Users, server is busy now, please try later.</string>
     <string name="activate_not_student">"Vous avez déjà effectué l'activation et terminé le tutoriel. Le véhicule est en mode vitesse limitée mode avec une limite de distance de 1km, après l'avoir allégé."</string>
     <string name="activate_not_support">"L'activation n'est pas disponible dans la version actuelle. Vous devez mettre à jour avec la dernière version du Firmware. Mettre à jour le firmware ou pas ?"</string>
     <string name="activate_not_support_update_back">"Comme l'activation n'est pas disponible avec la version actuelle du firmware, vous serez renvoyé vers l'interface de recherche. Souhaitez-vous retourner vers l'interface de recherche ?"</string>
     <string name="activate_not_teach">Pour votre sécurité et celle des autres, veuillez finir le tutoriel.</string>
     <string name="activate_page_finish">Merci pour votre patience. Veuillez vous référer au Guide de conduite en toute sécurité. Nous vous souhaitons un excellent voyage.</string>
     <string name="activate_page_finish2">"Merci d'avoir lu le Guide pour la conduite sécuritaire! Vous devez lire le manuel de l'utilisateur et suivez le tutoriel New Rider dans cette App avant votre première sortie"</string>
+    <string name="activate_page_finish2_mark2">Please read the beginners turorial, it will guide you how to ride this vehicle and enjoy your safety riding.</string>
     <string name="activate_prompt">"Une fois le véhicule activé, Ninebot vous fournira une assurance individuelle accident d'un montant de 359 Yuan gratuitement, couvert par PICC. Veuillez compléter vos informations personnelles. Votre numéro de police d'assurance vous sera envoyé par sms dans les 24 heures de votre enregistrement. Remarque: toutes les informations privées sont seulement réservées pour la police d'assurance. Soyez rassuré en les renseignant."</string>
     <string name="activate_prompt2">"Êtes-vous sûr de ne pas accepter l'assurance contre les accidents personnels fournis par Ninebot? Une fois abandonner, vous devrez appeler le PICC et l'acheter pour une future utilisation. PICC Tel: 010-88119842 (9:00-17:00, du lundi au vendredi)"</string>
     <string name="activate_receive">"Accepter l'assurance"</string>
@@ -159,15 +169,20 @@
     <string name="activate_step_ble_disconnect">Bluetooth déconnecté, le tutoriel ne peut être repris.</string>
     <string name="activate_step_finish">"Félicitations vous avez terminé le tutoriel. Par souci pour votre sécurité, le véhicule sera limité à 10km/h avec une limite de distance de 1km, ensuite le Mode Vitesse Limitée sera désactivé. Les guides pour la conduite sécuritaire sont également disponibles pour votre référence. Veuillez prendre un moment pour les lire."</string>
     <string name="activate_step_finish2">"Apprentissage pour débutant terminé. Par souci pour votre sécurité, le véhicule sera limité à 10km/h, et cette limite de vitesse sera effacée après avoir parcourue 1km."</string>
+    <string name="activate_step_finish2_mark2">Beginner tutorial has been completed, and this vehicle will be limited to 10km/h before 1 km has been finished.</string>
     <string name="activate_step_finish_from_more">Félicitations pour avoir vous avez terminé le tutoriel.</string>
     <string name="activate_step_tip">Confirmez que vous voulez quitter le tutoriel</string>
     <string name="activate_step_title">Tutoriel</string>
     <string name="activate_successful_warn">"Activation réussie, veuillez continuer avec l'apprentissage pour débutant, sinon le véhicule gardera une vitesse limitée à 7km/h. Pour votre sécurité,lire attentivement le manuel.</string>
     <string name="activate_successful_warn2">"Activation réussie, veuillez continuer avec l'apprentissage pour débutant, sinon le véhicule gardera une vitesse limitée à 7km/h. Pour votre sécurité, veuillez faire l'apprentissage pour débutant. 
 -PS：Vos informations d'assurance du véhicule ont été délivrées, veuillez vous référer au message de confirmation envoyé à votre téléphone."</string>
+    <string name="activate_successful_warn_mark2">This vehicle has been initialized, please read user manual carefully, if not your vehicle will be in limited mode of 7km/h.</string>
+    <string name="activate_tip_mini_mi">Note, Ninebot-Mini of XiaoMi version need to be activated by text message with a PIN number.</string>
     <string name="activate_title">Activer</string>
     <string name="activate_video_skip">Passer</string>
     <string name="activate_video_title">Vidéo de conduite sécuritaire</string>
+    <string name="activate_warn_speed_no_activate">The vehicle has not been activated, the speed limit cannot be modified.Do you want to activate your vehicle?</string>
+    <string name="activate_warn_speed_no_teached">The beginner teaching has not completed at this vehicle , the speed limit cannot be modified.Do you want to complete?</string>
     <string name="activate_warn_train_no_activate">"Votre véhicule n'est pas activé, il doit être activée avant l'apprentissage débutant. Votre véhicule est-il activé ?"</string>
     <string name="advisory_insurance_if_call">Appeler ou nont ?</string>
     <string name="advisory_insurance_tel">Numéro de téléphone du Service des assurances：</string>
@@ -182,6 +197,17 @@
     <string name="back">Retour</string>
     <string name="baidutieba">Baidu Post Bar</string>
     <string name="baidutieba_client_inavailable">"Actuellement votre version de Baidu Post Bar est trop lente ou n'a pas été installée, vous devez installer Baidu Post Bar avant de l'utiliser."</string>
+    <string name="battery_update_prompt_content_a1">"Congratulations. Battery upgrade successful! After upgrade, 
+
+1) mileage will be 30km
+2) max speed will be 20km/h"</string>
+    <string name="battery_update_prompt_content_s2">"Dear client, one battery only is detected, and please note that: 
+
+1) mileage will be 10km
+2) max speed is 18km/h"</string>
+    <string name="battery_update_prompt_know">Well noted.</string>
+    <string name="battery_update_prompt_title_a1">Battery upgrade reminder</string>
+    <string name="battery_update_prompt_title_s2">Battery change reminder</string>
     <string name="black_box_activity_not_found_exception">Aucun logiciel dans le système ne peut ouvrir un tel fichier, veuillez installer WPS ou un autre outil Office et réessayez !</string>
     <string name="black_box_data_file">Fichiers</string>
     <string name="black_box_description_hint">Veuillez décrire le problème en moins de 500 caractères.</string>
@@ -286,8 +312,11 @@
     <string name="certification_verification">Code de vérification</string>
     <string name="certification_verify_tip">Le code de vérification vous a été envoyé par mail ou via votre téléphone, veuillez vérifier.</string>
     <string name="check">Vérifier</string>
+    <string name="check_device_bg">Switch of background run reminder</string>
+    <string name="check_device_bg_help">After switch turned off, if there are any abnormal ridding behaviors, app will not give a notice when app is run background.</string>
     <string name="commit">Soumettre</string>
     <string name="complete">Terminé</string>
+    <string name="congratulation">Congratulations</string>
     <string name="content">Contenu</string>
     <string name="date_day">Jour</string>
     <string name="date_month">Mois</string>
@@ -310,6 +339,7 @@
     <string name="errcode_deny">Envoi refusé !</string>
     <string name="errcode_success">Envoi réussi !</string>
     <string name="errcode_unknown">Envoi récupéré !</string>
+    <string name="error_code_unknown">Undefined error</string>
     <string name="error_new_register_10">Enregistrement échoué</string>
     <string name="error_new_register_4">"Le Nom Utilisateur ne doit pas contenir d'espace"</string>
     <string name="error_new_register_5">Le Nom Utilisateur ne doit pas dépasser 20 caractères</string>
@@ -365,7 +395,9 @@
     <string name="friend_cricle_clear_all_message">Videz tous les messages?</string>
     <string name="friend_cricle_clear_all_message_ok">Suppression de tous les messages OK</string>
     <string name="friend_cricle_clear_message">Êtes-vous sûr de vouloir effacer la liste des messages？</string>
+    <string name="friend_cricle_clear_message_one">Do you want to delete this message?</string>
     <string name="friend_cricle_clear_praise">Êtes-vous sûr de vouloir effacer la liste des Like?</string>
+    <string name="friend_cricle_clear_praise_one">Do you want to delete this direct message?</string>
     <string name="friend_cricle_clear_private">Êtes-vous sûr de vouloir effacer la liste des messages privés?</string>
     <string name="friend_cricle_comment_already_delete">Cette information a été supprimé !</string>
     <string name="friend_cricle_comment_fail">Commentaire échoué !</string>
@@ -394,8 +426,8 @@
     <string name="friend_cricle_praise_ok">Like réussi!</string>
     <string name="friend_cricle_publish">Nouveau</string>
     <string name="friend_cricle_publish_hint">Partagez vos moments</string>
-    <string name="friend_cricle_publish_ok">Publication réussie !</string>
-    <string name="friend_cricle_select_photo">Sélectionnez les photos</string>
+    <string name="friend_cricle_publish_ok">Published successfully!</string>
+    <string name="friend_cricle_select_photo">Sélectionnez les images</string>
     <string name="friend_cricle_text_administrator">Administrer</string>
     <string name="friend_cricle_text_administrator_item_delete">Effacer</string>
     <string name="friend_cricle_text_administrator_item_essence_no">Annulation recommandée</string>
@@ -408,7 +440,7 @@
     <string name="friend_cricle_text_comment">Commentaire</string>
     <string name="friend_cricle_text_complete">Terminé</string>
     <string name="friend_cricle_text_delete">Effacer</string>
-    <string name="friend_cricle_text_give_praise">J'aime"</string>
+    <string name="friend_cricle_text_give_praise">J\'aime</string>
     <string name="friend_cricle_text_hint_comment">Partagez vos moments</string>
     <string name="friend_cricle_text_praise">"J'aime"</string>
     <string name="friend_cricle_text_reply">Répondre</string>
@@ -420,11 +452,17 @@
     <string name="googleplus">Google+</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_world">Hello world!</string>
+    <string name="help_dashboard_mileage_content">Red dashed line indicates over-speed, please slow down when overpassed this line.</string>
+    <string name="help_dashboard_mileage_title">Dashboard reminder</string>
+    <string name="help_dashboard_warn_speed_content">Red dashed line indicates over-speed, please slow down when overpassed this line.</string>
+    <string name="help_dashboard_warn_speed_title">Dashboard reminder</string>
+    <string name="info_battery_mark2_battery1">Battery1</string>
+    <string name="info_battery_mark2_battery2">Battery2</string>
     <string name="info_device_base_bt_pin_code">"Code d'appairage Bluetooth"</string>
     <string name="info_device_base_error_code">"Code d'erreur"</string>
     <string name="info_device_base_fw_version">Version Firmware</string>
     <string name="info_device_base_handler_angle">Angle du guidon</string>
-    <string name="info_device_base_menon">Changement d'état du mode permanent</string>
+    <string name="info_device_base_menon">Changement d\'état du mode permanent</string>
     <string name="info_device_base_menon_no">Inoccupé</string>
     <string name="info_device_base_menon_yes">Occupé</string>
     <string name="info_device_base_sn">Véhicule n° de série</string>
@@ -506,7 +544,6 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="instagram">Instagram</string>
     <string name="instagram_client_inavailable">"Instagram est trop ancien ou n'a pas été installé, vous devez le mettre à jour ou l'installer avant de l'utiliser!"</string>
     <string name="instapager_email_or_password_incorrect">Adresse mail ou mot de passe erronné</string>
-    <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
     <string name="instapaper">Instapaper</string>
     <string name="instapaper_email">Email</string>
     <string name="instapaper_login">Se connecter</string>
@@ -523,7 +560,7 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="introduction_info5">5. Ajouter des fans pour accéder au partage en temps réel des dernières tendances</string>
     <string name="introduction_info5_1" />
     <string name="introduction_info6">6. Plus de services, il existe une multitude de moyens pour résoudre des problèmes divers</string>
-    <string name="introduction_info6_1">Ajout récent de fonctions de réparation du matériel, calculatrice kilométrage, réseau d'entretien</string>
+    <string name="introduction_info6_1">Ajout récent de fonctions de réparation du matériel, calculatrice kilométrage, réseau d\'entretien</string>
     <string name="item_device">Appareil</string>
     <string name="item_status">État du véhicule</string>
     <string name="item_user">Mon profil</string>
@@ -535,7 +572,8 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="laiwang">Laiwang</string>
     <string name="laiwang_client_inavailable">"Laiwang est trop ancien ou n'a pas été installé, vous devez le mettre à jour ou l'installer avant de l'utiliser!"</string>
     <string name="laiwangmoments">Laiwang tendances</string>
-    <string name="limitmode_tip">Speed Limit</string>
+    <string name="limit_mode_tip">Speed Limit</string>
+    <string name="limit_value">Max speed </string>
     <string name="line">Line</string>
     <string name="line_client_inavailable">"Line est trop ancien ou n'a pas été installé, vous devez le mettre à jour ou l'installer avant de l'utiliser!"</string>
     <string name="linkedin">Linkedin</string>
@@ -544,7 +582,7 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="list_friends">Amis sur %s</string>
     <string name="list_max_speed">Vitesse maximum (course actuelle)</string>
     <string name="list_remained_mileage">Km restants</string>
-    <string name="list_research_device">Rechercher l'appareil une nouvelle fois</string>
+    <string name="list_research_device">Rechercher l\'appareil une nouvelle fois</string>
     <string name="list_ride_mileage">Km (Total)</string>
     <string name="list_runtime_single_ride">Durée de la course actuelle</string>
     <string name="list_single_mileage">Km (course actuelle)</string>
@@ -576,6 +614,7 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="message_no_read_praise">Liké</string>
     <string name="message_no_read_private">Message</string>
     <string name="mileage">Km</string>
+    <string name="mileage2">Km</string>
     <string name="mileagecalculator">Calcul Km</string>
     <string name="mine_credit">Crédits</string>
     <string name="mine_credit_number">2360</string>
@@ -619,7 +658,7 @@ Une charge de la batterie durant plus de 1 minute est enregistrée dans les temp
     <string name="more_item_sub_setting_unit_title">Unités</string>
     <string name="more_item_title_device_info">"Informations de l'équipement"</string>
     <string name="more_item_title_settings_app">"Paramétrage de l'application"</string>
-    <string name="more_item_title_settings_device">Paramétrage de l'appareil"</string>
+    <string name="more_item_title_settings_device">Paramétrage de l\'appareil</string>
     <string name="more_speed_limit_max_speed">Limitation de la vitesse</string>
     <string name="more_speed_limit_max_text">"Cela représente la limite de vitesse une fois le Mode Vitesse limitée activé.
 Le véhicule va progressivement rouler en évitant une nouvelle accélération de la vitesse actuelle et se rapprocher de la vitesse maximale prédéterminée."</string>
@@ -651,6 +690,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="network_error_uid_null">UID is empty</string>
     <string name="network_exception">Abnormal network access, error code:</string>
     <string name="network_failed">Access to the network fails, error message:</string>
+    <string name="network_failure_too_time_tip">Dear user, now server gets busy ,please try again later</string>
     <string name="network_file_ddone">File downloaded has been completed</string>
     <string name="network_isdownlod">Télécharger la mise à jour ?</string>
     <string name="network_net_check">There is no available network</string>
@@ -662,6 +702,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="network_required_item_null">Required item is empty</string>
     <string name="network_upload_header">Uploading …</string>
     <string name="next">Next</string>
+    <string name="nfans_text_select_language">Please select the language</string>
     <string name="nineforum_title">Community</string>
     <string name="not_support_ble">The Device does not support bluetooth low energy technology (BLE)</string>
     <string name="notify_device_fault">Equipment failure</string>
@@ -672,7 +713,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="np_number_picker_decrement_button">Decrement</string>
     <string name="np_number_picker_increment_button">Increment</string>
     <string name="np_number_picker_increment_scroll_action">Slide up to increment and down to decrement.</string>
-    <string name="np_number_picker_increment_scroll_mode">%s tap and hold.</string>
+    <string name="np_number_picker_increment_scroll_mode"><g example="3" id="value">%s</g> tap and hold.</string>
     <string name="password_dialog_hint">Password should be 6 digits</string>
     <string name="password_dialog_tip_error">Wrong password</string>
     <string name="password_dialog_tip_error_confirm">Two different passwords been input two times！</string>
@@ -684,9 +725,10 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="path_of_save_drawing_board">/Grid.png</string>
     <string name="pinterest">Pinterest</string>
     <string name="pinterest_client_inavailable">Pinterest Version is too low or has not been installed, you need to upgrade or install Pinterest before using!</string>
-    <string name="play_time">00:00:00</string>
+    <string name="play_time">00:00</string>
     <string name="pocket">Pocket</string>
     <string name="position_not_support">Location information is closed. Please open the location information function.！</string>
+    <string name="previous">Previous</string>
     <string name="private_letter_clear_private">Are you sure to clear this chat message?</string>
     <string name="private_letter_clear_private_all">Are you sure to clear all chat messages?</string>
     <string name="private_letter_clear_private_send_again">Sending again</string>
@@ -730,6 +772,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="rank_userinfo_nickname">Name </string>
     <string name="rank_userinfo_signatrue">Personalized Signature</string>
     <string name="rank_userinfo_title">Personal Profile</string>
+    <string name="rated">Rated</string>
     <string name="reconnect">Reconnexion</string>
     <string name="refreshing">Refreshing…</string>
     <string name="register_account_hint">Please input your user name</string>
@@ -794,6 +837,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="research">Search again</string>
     <string name="reset_password_success">Reset successfully</string>
     <string name="reset_password_title">Reset Password</string>
+    <string name="safe_driving_read_tip">Congratulations! You have completed 1KM ridding and have released speed limit automatically. You need further read the “Safety Ridding Manual” again.</string>
     <string name="screenshot_tip_failed">screenshot not available.</string>
     <string name="screenshot_tip_get_front_ui_failed">Screenshot fails!</string>
     <string name="screenshot_tip_mkdir">Create directory</string>
@@ -806,6 +850,8 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="service_feedback_description">Content</string>
     <string name="service_feedback_type_not_null">Question categroy is empty,please request the network again.</string>
     <string name="service_feedback_uploadPicture">Upload</string>
+    <string name="setting_other_shutdown_when_pickup">Switch of Lift Mode</string>
+    <string name="setting_other_shutdown_when_pickup_tip">When lift Mode is on, wheel will not spin in a rapid speed. When lift mode is off,wheel will spin rapidly once vehicle is lifted up.</string>
     <string name="setting_other_sn_failed">Server error, verify code get failure!</string>
     <string name="setting_other_sn_failed_device_type_error">"This device's serial no. cannot be revised!"</string>
     <string name="setting_other_sn_failed_no_permission">No permission to revise serial no!</string>
@@ -825,6 +871,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="setting_other_sn_warnning_invalid_sn2">Illegal serial No.! Serial No. format is not correct!</string>
     <string name="setting_other_sn_warnning_successful">Modify successfully, reconnect before using!</string>
     <string name="setting_speed_limit_failed">Please try to set speed limit again!</string>
+    <string name="settings_calibration_handler">Handle bar setting</string>
     <string name="settings_light_brake">Brake Light</string>
     <string name="settings_light_close">Close Light</string>
     <string name="settings_light_color1">Color One</string>
@@ -871,6 +918,8 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="settings_other_shutdown_device_tip">Are you sure to turn off Ninebot?</string>
     <string name="settings_other_sn">Change Serial No.</string>
     <string name="settings_other_sn_check_code">Check Code</string>
+    <string name="settings_other_sn_confirm_target_sn">Confirm the target serial no</string>
+    <string name="settings_other_sn_confirm_target_sn_diff">The two target Serial no. is not consistent with each other, please input again</string>
     <string name="settings_other_sn_current_sn">Current Serial No.</string>
     <string name="settings_other_sn_extra_code">Additional Code</string>
     <string name="settings_other_sn_target_sn">Target   Serial No.</string>
@@ -881,12 +930,17 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="settings_sensor_ass_tips">If your vehicle is on asssistance mode and it moves autmatically, you can try to resolve this problem by adjusting the balance value.</string>
     <string name="settings_sensor_ass_title">Balance of Assistant Mode</string>
     <string name="settings_sensor_ass_value">Balance Value</string>
+    <string name="settings_sensor_calibration_handler_complete">Handle bar calibration completed.</string>
+    <string name="settings_sensor_calibration_handler_down">2/2 Please put your vehicle down before pressingSure, otherwise the lift function will not be working.</string>
+    <string name="settings_sensor_calibration_handler_up">1/2 Please lift your vehicle up before pressing Sure, otherwise the lift function will not be working.</string>
     <string name="settings_sensor_lock">Need to lock the vehicle for attitude sensor calibration, lock vehicle?</string>
+    <string name="settings_sensor_lock_calibration_handler">Vehilce should be locked before handle bar calibration, please confirm if it is ok to lock the vehicle.</string>
     <string name="settings_sensor_sensitivity_auto">Automatically Adjust Steering Sensitivity</string>
     <string name="settings_sensor_sensitivity_text">If vehicle starts moving when powered on, you can try to resolve this problem by calibrating attitude sensor.</string>
     <string name="settings_sensor_sensitivity_title">Steering Sensitivity</string>
     <string name="settings_sensor_sensitivity_value">Sensitivity</string>
     <string name="settings_sensor_sensor_calibration">Attitude Sensor Calibration</string>
+    <string name="settings_sensor_sensor_calibration_handler">Handle bar sensor calibration</string>
     <string name="settings_sensor_sensor_title">Attitude Sensor</string>
     <string name="settings_sensor_single_foot">Lower Steering Speed When with One Foot</string>
     <string name="settings_sensor_softness_auto">Automatically Adjust Softness</string>
@@ -1050,6 +1104,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="user_sign_ok">Sign in successfully</string>
     <string name="user_sign_over">Have been signed in today</string>
     <string name="user_title">Moi</string>
+    <string name="userfragment_xiaomi_setting_info">The app detects current applications does not open self-starting function , after opening the app could receive the message prompt accurately from Ninebot ,do you want to open the self-starting function?</string>
     <string name="userinfo_avatar">Avatar</string>
     <string name="userinfo_brithday">Anniversaire</string>
     <string name="userinfo_certification">Owner Certification</string>
