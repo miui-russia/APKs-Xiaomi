@@ -150,7 +150,7 @@
     <string name="block_blocked_devices_list">Liste de blocage</string>
     <string name="block_blocked_hitch_hiker_list">Liste de blocage</string>
     <string name="block_blocked_hitch_hiker_list_empty">Pas de liste de blocage</string>
-    <string name="block_cannot_block_lan_device">"Impossible de bloquer les périphériques connectés via un câble Ethernet."</string>
+    <string name="block_cannot_block_lan_device">Impossible de bloquer les périphériques connectés via un câble Ethernet.</string>
     <string name="block_device_add_to_white_list_by_manual">Ajouter des exceptions manuellement</string>
     <string name="block_device_add_to_white_list_by_manual_hint">Entrez l\'adresse MAC</string>
     <string name="block_device_add_to_white_list_by_manual_title">Ajouter des exceptions</string>
@@ -158,9 +158,9 @@
     <string name="block_device_add_to_white_list_tip1">Devices from exceptions are allowed to connect to router</string>
     <string name="block_device_add_to_white_list_tip2_multiple">Ajouter les périphériques aux exceptions ?</string>
     <string name="block_device_add_to_white_list_tip2_single">Ajouter un périphérique aux exceptions ?</string>
-    <string name="block_device_add_to_white_list_tip2_special_multiple">Wi-Fi connection may be interrupted to apply changes. Add devices to exceptions?</string>
-    <string name="block_device_add_to_white_list_tip2_special_single">Wi-Fi connection may be interrupted to apply changes. Add device to exceptions?</string>
-    <string name="block_device_black_list">Liste noir</string>
+    <string name="block_device_add_to_white_list_tip2_special_multiple">La connexion WiFi doit être interrompue pour appliquer les changements. Ajouter le périphérique aux exceptions ?</string>
+    <string name="block_device_add_to_white_list_tip2_special_single">La connexion WiFi doit être interrompue pour appliquer les changements. Ajouter le périphérique aux exceptions ?</string>
+    <string name="block_device_black_list">Liste noire</string>
     <string name="block_device_black_list_description">Empêcher les périphériques indésirables de se connecter au réseau</string>
     <string name="block_device_black_mode">Bloquer les périphériques sur la liste</string>
     <string name="block_device_black_mode_description">"Les périphériques dans la liste de blocage ne seront pas en mesure de se connecter au routeur"</string>
