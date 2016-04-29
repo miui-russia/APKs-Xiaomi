@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description">Aller à l\'accueil</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_bar_up_description">ALler en haut</string>
     <string name="abc_action_menu_overflow_description">Plus d\' options</string>
     <string name="abc_action_mode_done">Terminé</string>
-    <string name="abc_activity_chooser_view_see_all">Voir tout</string>
+    <string name="abc_activity_chooser_view_see_all">Tout voir</string>
     <string name="abc_activitychooserview_choose_application">Choisir une app</string>
     <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la demande</string>
@@ -18,7 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="ERROR_DATACENTER_DISK_TASK_HAS_START">The task has already started</string>
+    <string name="ERROR_DATACENTER_DISK_TASK_HAS_START">Cette tâche est déjà en cours d\'éxecution</string>
     <string name="ERROR_UNKNOWN_ERROR">Erreur inconnue</string>
     <string name="about_change_name_hint">Entrer le nom du routeur</string>
     <string name="about_change_router_location">Emplacement du routeur</string>
@@ -31,15 +31,15 @@
     <string name="about_router_dev_option_warn">Ce paramètre est destiné aux développeurs. L\'optimisation des pages Web sera désactivée.</string>
     <string name="about_router_get_dev_option_fail">"Couldn't get web page debugging info"</string>
     <string name="about_router_info">ROUTER INFO</string>
-    <string name="about_router_location">Location</string>
+    <string name="about_router_location">Emplacement</string>
     <string name="about_router_location_custom">Personnaliser</string>
-    <string name="about_router_location_custom1">Enter a custom location</string>
+    <string name="about_router_location_custom1">Entrer un emplacement personnalisé</string>
     <string name="about_router_name">Nom</string>
     <string name="about_router_rom_version">Version du système</string>
-    <string name="about_router_security_page_desc">Vous protéger contre la fraude et les virus, rendre votre expérience de navigation sécurisée</string>
+    <string name="about_router_security_page_desc">Protégez-vous de la fraude et les virus, rendez votre expérience de navigation sécurisée</string>
     <string name="about_router_security_page_title">Bloquer les sites Web malveillants</string>
-    <string name="about_router_shopping_bar_desc">Find cheaper products when you shop</string>
-    <string name="about_router_shopping_bar_title">Shopping assistant</string>
+    <string name="about_router_shopping_bar_desc">Trouvez des produits moins chers lors de vos achats</string>
+    <string name="about_router_shopping_bar_title">Assistant d\'achats</string>
     <string name="action_settings">Paramètres</string>
     <string name="admin_new_password">Nouveau</string>
     <string name="admin_new_password_confirm">Confirmer</string>
@@ -2422,7 +2422,7 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="superacc_setting_guide_step1_section4">\"</string>
     <string name="superacc_setting_guide_step2_section1">2. Cliquez pour aller à</string>
     <string name="superacc_setting_guide_step2_section2">\"百度卫士强效服务\"</string>
-    <string name="superacc_setting_guide_title">Première étape:</string>
+    <string name="superacc_setting_guide_title">Première étape :</string>
     <string name="superacc_short_name">一键加速</string>
     <string name="title_activity_main">XiaomiTest</string>
     <string name="uninstall_btn1">Désinstaller</string>
@@ -2430,10 +2430,10 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="uninstall_btn3">Désinstaller</string>
     <string name="ver_upgrade_nf_check_ticker">Rappel de mise à jour</string>
     <string name="ver_upgrade_nf_check_update">检测到CK需要升级</string>
-    <string name="ver_upgrade_nf_download_failed">安装包下载失败</string>
+    <string name="ver_upgrade_nf_download_failed">Téléchargement de la mise à jour échouée</string>
     <string name="ver_upgrade_nf_download_retry">Cliquez sur Recommencer</string>
     <string name="ver_upgrade_nf_download_start">Démarrer le téléchargement</string>
-    <string name="ver_upgrade_nf_download_succ">安装包下载成功</string>
+    <string name="ver_upgrade_nf_download_succ">Téléchargement de la mise à jour réussie</string>
     <string name="ver_upgrade_nf_downloading">Téléchargement de la mise à jour...</string>
     <string name="ver_upgrade_nf_install_click">Cliquez sur Installer</string>
     <string name="ver_upgrade_nf_update_click">Cliquez sur Mise à jour</string>
