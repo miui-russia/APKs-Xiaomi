@@ -283,7 +283,7 @@
     <string name="calculator_type_item2">Ninebot One</string>
     <string name="calculator_type_item3">Ninebot Mini</string>
     <string name="calculator_weight_unit">kg</string>
-    <string name="camera_not_permissions">"Ninedroid ne peut pas utiliser l'appareil photo, les autorisations de l'appareil photo peuvent être interdites !"</string>
+    <string name="camera_not_permissions">"Ninebot ne peut pas utiliser l'appareil photo, les autorisations de l'appareil photo peuvent être interdites !"</string>
     <string name="camera_not_support">"L'appareil ne prend pas en charge la fonction d'appareil photo!"</string>
     <string name="cancel">Annuler</string>
     <string name="certificaiton_eml">Email</string>
@@ -887,7 +887,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="settings_light_handler_title">Éclairage guidon</string>
     <string name="settings_light_konck">Frapper pour changer de Mode d'éclairage</string>
     <string name="settings_light_light_value">Niveau de la Luminosité</string>
-    <string name="settings_light_mini_firmware_not_support">Votre Roid-MI ne possède pas le réglage de l'éclairage. Veuillez confirmez la mise à jour pour la dernière version du firmware.</string>
+    <string name="settings_light_mini_firmware_not_support">Votre Ninebot ne possède pas le réglage de l'éclairage. Veuillez confirmez la mise à jour pour la dernière version du firmware.</string>
     <string name="settings_light_mini_front_light">Phares</string>
     <string name="settings_light_mode">Mode éclairage</string>
     <string name="settings_other_attention_battery">"Attention! Si le réglage est pas en conformité avec le type de batterie pour une utilisation réelle, il y aura une incidence sur la précision de détection de puissance du véhicule, et pourra même affecter votre sécurité! Confirmez-vous le changement du type de batterie ?"</string>
@@ -910,12 +910,12 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="settings_other_no_alarm_lock">Pas d'alarme si verrouillé</string>
     <string name="settings_other_password">Saisir le mot de passe</string>
     <string name="settings_other_poweroff_lock">Éteindre si verrouillé</string>
-    <string name="settings_other_reboot_device">Redémarrer le Roid-Mi</string>
-    <string name="settings_other_reboot_device_tip">Are you sure to restart Roid-Mi ?</string>
+    <string name="settings_other_reboot_device">Redémarrer le Ninebot</string>
+    <string name="settings_other_reboot_device_tip">Are you sure to restart Ninebot ?</string>
     <string name="settings_other_reset_device">"Restaurer les paramètres d'usine"</string>
     <string name="settings_other_reset_device_tip">"Êtes-vous sûr de vouloir restaurer les paramètres d'usine ?"</string>
     <string name="settings_other_shutdown_device">Éteindre le Ninebot</string>
-    <string name="settings_other_shutdown_device_tip">Êtes-vous sûr de vouloir éteindre le Roid-Mi ?</string>
+    <string name="settings_other_shutdown_device_tip">Êtes-vous sûr de vouloir éteindre le Ninebot ?</string>
     <string name="settings_other_sn">Changer le numéro de série</string>
     <string name="settings_other_sn_check_code">Code de vérification</string>
     <string name="settings_other_sn_confirm_target_sn">Confirmez le code de vérification cible</string>
@@ -923,7 +923,7 @@ Le véhicule va progressivement rouler en évitant une nouvelle accélération d
     <string name="settings_other_sn_current_sn">N° de série actuel</string>
     <string name="settings_other_sn_extra_code">Code additionnel </string>
     <string name="settings_other_sn_target_sn">N° de série cible</string>
-    <string name="settings_other_standby">Entrez en veille après être descendu du Roid-Mi</string>
+    <string name="settings_other_standby">Entrez en veille après être descendu du Ninebot</string>
     <string name="settings_other_tips_fw_not_support">Cette fonction n'est pas disponible avec la version du firmware actuel, vous voulez mettre à jour le firmware ?</string>
     <string name="settings_password_hint_confirm">Confirmez le nouveau mot de passe</string>
     <string name="settings_password_hint_password">Saisir le nouveau mot de passe</string>
