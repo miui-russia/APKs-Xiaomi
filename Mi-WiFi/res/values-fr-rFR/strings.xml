@@ -29,8 +29,8 @@
     <string name="about_location_other">Autre</string>
     <string name="about_router_dev_option">Page Web de débogage</string>
     <string name="about_router_dev_option_warn">Ce paramètre est destiné aux développeurs. L\'optimisation des pages Web sera désactivée.</string>
-    <string name="about_router_get_dev_option_fail">"Couldn't get web page debugging info"</string>
-    <string name="about_router_info">ROUTER INFO</string>
+    <string name="about_router_get_dev_option_fail">"Impossible d\'obtenir la page web de débogage"</string>
+    <string name="about_router_info">INFOS DU ROUTEUR</string>
     <string name="about_router_location">Emplacement</string>
     <string name="about_router_location_custom">Personnaliser</string>
     <string name="about_router_location_custom1">Entrer un emplacement personnalisé</string>
@@ -48,14 +48,14 @@
     <string name="admin_old_password">Actuel</string>
     <string name="admin_old_password_hint">Entrer le mot de passe actuel</string>
     <string name="all_videos">Toutes les vidéos</string>
-    <string name="application_feedback">Mi Router app</string>
+    <string name="application_feedback">App Mi Routeur</string>
     <string name="application_storage_low">Pas assez d\'espace de stockage. Certaines fonctionnalités peuvent ne pas être disponibles.</string>
     <string name="auto_switch_prompt">Changer pour %1$s automatiquement</string>
     <string name="back_name_less_limit_30">"Le nombre de caractères ne peut pas dépasser 30"</string>
     <string name="back_name_less_limit_not_null">Nom ne peut pas être vide</string>
     <string name="backup_auto_backup_this_device">Sauvegarder automatiquement ce périphérique</string>
     <string name="backup_auto_backup_when_router_wifi_connected">Sauvegarder lorsque vous êtes connecté au WiFi du Mi Router</string>
-    <string name="backup_auto_rebackup_for_router_directory_deleted">"Couldn't find existing Mi Router backup. New backup created."</string>
+    <string name="backup_auto_rebackup_for_router_directory_deleted">"Aucune sauvegarde du Mi Routeur n\'a été trouvée. Nouvelle sauvegarde créée."</string>
     <string name="backup_backing_up_x">Sauvegarde %s</string>
     <string name="backup_cancel_backup">" "<u>Annuler la sauvegarde</u>" "</string>
     <string name="backup_cancel_rebackup">Sauvegarde annulée</string>
