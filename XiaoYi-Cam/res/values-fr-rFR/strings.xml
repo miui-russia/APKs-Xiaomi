@@ -202,6 +202,8 @@ Réinitialiser la caméra"</string>
     <string name="camera_is_offline">Caméra éteinte</string>
     <string name="camera_motion_detect_des">"Enregistrer uniquement lorsqu'il y de l'activité dans le champs de la caméra，afin d'économiser de l'espace de stockage"</string>
     <string name="camera_name_cant_be_null">Le nom de la caméra ne peut pas être vide!</string>
+    <string name="camera_network_monitor_prompt1">刷新重连后还是连接失败？</string>
+    <string name="camera_network_monitor_prompt2">检测网络状况</string>
     <string name="camera_not_connection">"Votre appareil ne semble pas être connecté au réseau, vérifiez la connexion à l'alimentation ou au réseau."</string>
     <string name="camera_not_network">Réseau disponible, veuillez vérifier vos paramètres réseau</string>
     <string name="camera_password_exceed_max_retry">Mot de passe de la caméra incorrecte. Vous avez atteint le nombre maximale de tentatives.</string>
@@ -238,6 +240,19 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_beep_mode_fail">Réglages rapides vocaux échoué, réessayer à nouveau</string>
     <string name="camera_setting_beep_mode_title">Mise à jour firmware</string>
     <string name="camera_setting_camera_name">Nom de la caméra</string>
+    <string name="camera_setting_camera_network_monitor">网络检测</string>
+    <string name="camera_setting_camera_network_monitoring">检测中</string>
+    <string name="camera_setting_camera_network_monitoring_detail_report">详细报告 :</string>
+    <string name="camera_setting_camera_network_monitoring_detail_report_prompt">如果连接失败，请加qq群237683839，将以下内容发给小蚁坐馆，方便问题排查。</string>
+    <string name="camera_setting_camera_network_monitoring_excellet">优</string>
+    <string name="camera_setting_camera_network_monitoring_good">良</string>
+    <string name="camera_setting_camera_network_monitoring_middle">中</string>
+    <string name="camera_setting_camera_network_monitoring_poor">差</string>
+    <string name="camera_setting_camera_network_monitoring_received_packet">Received:%1$d</string>
+    <string name="camera_setting_camera_network_monitoring_sent_packet">Sent:%1$d</string>
+    <string name="camera_setting_camera_network_monitoring_state_prompt">正在检测您的网络状况</string>
+    <string name="camera_setting_camera_network_monitoring_state_prompt_current">您当前的网络状况</string>
+    <string name="camera_setting_camera_network_monitoring_title">网络监测报告</string>
     <string name="camera_setting_day_night_subtitle">Interrupteur manuel on/off de la lumière infrarouge manuellement</string>
     <string name="camera_setting_day_night_title">Paramètres vision nocturne</string>
     <string name="camera_setting_debug_title">DEBUG</string>
@@ -263,6 +278,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_mic_volume_des">The camera will not be able to collect the voice when shut off</string>
     <string name="camera_setting_motion_detect">Enregistrement lors de détection de mouvement</string>
     <string name="camera_setting_network_information">Informations réseau</string>
+    <string name="camera_setting_network_title">网络</string>
     <string name="camera_setting_person_alarm_subtitle">"Alerter uniquement lors de la détection de l'homme sur l'écran"</string>
     <string name="camera_setting_person_alarm_title">Activer la détection humaine</string>
     <string name="camera_setting_region_alarm_roi_subtitle">"Configuration de l'écran, envoyer uniquement des alertes lors de la détection des changements sur la zone d'écran que vous avez défini"</string>
@@ -279,6 +295,8 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_resolution_subtitle">Ajustement HD</string>
     <string name="camera_setting_resolution_title">Paramètres HD</string>
     <string name="camera_setting_reverse">"Retourner l'image"</string>
+    <string name="camera_setting_reverse_close_des">摄像机将在重启后关闭图像翻转</string>
+    <string name="camera_setting_reverse_open_des">摄像机将在重启后打开图像翻转</string>
     <string name="camera_setting_sensitivity_alarm_title">Niveau de sensibilité</string>
     <string name="camera_setting_smart_interaction">Smart Interaction</string>
     <string name="camera_setting_speaker_adjust_fail">Réglages de volume échoué, réessayer à nouveau</string>
@@ -335,7 +353,7 @@ Réinitialiser la caméra"</string>
     <string name="choose_config_type">Sélectionnez le type de configuration</string>
     <string name="click_bind">Appuyez pour vous connecter</string>
     <string name="click_show_log">Appuyez pour afficher le journal de mise à jour</string>
-    <string name="cloud">云存储</string>
+    <string name="cloud">Mi-Cloud</string>
     <string name="cloud_activate_storage_service">"激活服务 : "</string>
     <string name="cloud_activate_storage_sure">确认激活</string>
     <string name="cloud_activate_storage_title">激活云存储</string>
@@ -414,10 +432,12 @@ Réinitialiser la caméra"</string>
     <string name="cloud_people_statistics_help_title">人流量统计使用帮助</string>
     <string name="cloud_people_statistics_list_view_title_data">人数</string>
     <string name="cloud_people_statistics_list_view_title_time">时间</string>
-    <string name="cloud_people_statistics_monitor_area_prompt_lower">to a gate</string>
-    <string name="cloud_people_statistics_monitor_area_prompt_upper">Drag/Resize the red frame</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_lower">（最佳宽度1米）</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_middle">指定统计区域</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_upper">拖拽红色方框</string>
     <string name="cloud_people_statistics_monitor_area_set_failure">人流量统计区域设置失败</string>
     <string name="cloud_people_statistics_monitor_area_set_success">人流量统计区域设置成功</string>
+    <string name="cloud_people_statistics_no_data">当前还没有数据哦~</string>
     <string name="cloud_people_statistics_radio_day">日</string>
     <string name="cloud_people_statistics_radio_month">月</string>
     <string name="cloud_people_statistics_radio_week">周</string>
@@ -442,10 +462,10 @@ Réinitialiser la caméra"</string>
     <string name="cloud_service_choose_service_code_content">"您兑换的服务为: "</string>
     <string name="cloud_service_choose_service_code_fail">充值失败，请重试</string>
     <string name="cloud_service_choose_service_code_hint">在此输入</string>
-    <string name="cloud_service_choose_service_code_input">请输入服务码</string>
+    <string name="cloud_service_choose_service_code_input">请输入18位服务码密码</string>
     <string name="cloud_service_choose_service_code_password_empty">服务码不能为空</string>
     <string name="cloud_service_choose_service_code_success">充值成功</string>
-    <string name="cloud_service_choose_service_code_use">确定使用服务码？</string>
+    <string name="cloud_service_choose_service_code_use">确定使用服务 ?</string>
     <string name="cloud_service_choose_service_discount">立省%1$d元</string>
     <string name="cloud_service_choose_service_rmb">元</string>
     <string name="cloud_service_choose_service_time">"选择服务时长 : "</string>
@@ -477,11 +497,23 @@ Réinitialiser la caméra"</string>
     <string name="confirm_exit_camera_config">Quitter la Configuration de la caméra</string>
     <string name="connect_app_version_scan_content1">Centrez le QR code collé au dos de votre caméra dans la zone de scan</string>
     <string name="connect_app_version_scan_content2">"Ensuite, l'application va vérifier si elle convient à votre caméra"</string>
-    <string name="connect_app_version_scan_error_button">Télécharger</string>
-    <string name="connect_app_version_scan_error_content">Votre appareil photo est en version chinoise. Il est seulement utile en Chine avec la version chinoise. Le mettre à jour maintenant ?</string>
-    <string name="connect_app_version_scan_error_title">Application inappropriée</string>
-    <string name="connect_app_version_scan_ok_content">Cette application est la même version que celle de la caméra. Veuillez vérifier les autres paramètres</string>
-    <string name="connect_app_version_scan_ok_title">Application appropriée</string>
+    <string name="connect_app_version_scan_device_app_download">下载</string>
+    <string name="connect_app_version_scan_device_app_not_match_china_prompt">您的设备是国际版小蚁智能摄像机,请下载国际版小蚁摄像机App</string>
+    <string name="connect_app_version_scan_device_app_not_match_international_prompt">您的设备是大陆版小蚁智能摄像机,请下载大陆版小蚁摄像机App</string>
+    <string name="connect_app_version_scan_device_app_not_match_title">设备类型与App不匹配</string>
+    <string name="connect_app_version_scan_device_area_not_match_eu_prompt">您的设备是欧洲版小蚁智能摄像机,请选择欧洲地区登录</string>
+    <string name="connect_app_version_scan_device_area_not_match_isr_prompt">您的设备是以色列小蚁智能摄像机,请选择以色列地区登录</string>
+    <string name="connect_app_version_scan_device_area_not_match_kor_prompt">您的设备是韩国版小蚁智能摄像机,请选择韩国地区登录</string>
+    <string name="connect_app_version_scan_device_area_not_match_sea_prompt">您的设备是东南亚版小蚁智能摄像机,请选择东南亚地区登录</string>
+    <string name="connect_app_version_scan_device_area_not_match_twn_prompt">您的设备是台湾版小蚁智能摄像机,请选择台湾地区登录</string>
+    <string name="connect_app_version_scan_device_area_not_match_usa_prompt">您的设备是美国版小蚁智能摄像机,请选择美国地区登录</string>
+    <string name="connect_app_version_scan_device_choose_error_title">设备类型选择错误</string>
+    <string name="connect_app_version_scan_device_choose_h18_mi">您的设备是一代小蚁智能摄像机,请重新选择设备类型</string>
+    <string name="connect_app_version_scan_device_choose_h18_yi">您的设备是一代小蚁智能摄像机,请登录小米账号重新绑定</string>
+    <string name="connect_app_version_scan_device_choose_h21">您的设备是小蚁1080P智能摄像机2,请重新选择设备类型</string>
+    <string name="connect_app_version_scan_device_choose_success_international_prompt">您所选择的登录地区以及App版本与设备版本匹配,请检查是否为其它问题</string>
+    <string name="connect_app_version_scan_device_choose_success_prompt">您所选择的设备类型正确,请检查是否为其它问题</string>
+    <string name="connect_app_version_scan_device_choose_success_title">设备类型选择正确</string>
     <string name="connect_app_version_scan_title">Scannez le code QR pour vérifier</string>
     <string name="connect_distribute_server">Connexion au serveur de distribution</string>
     <string name="connect_error_app">Application et appareil photo discordants</string>
@@ -497,7 +529,8 @@ Réinitialiser la caméra"</string>
 Préparation de la configuration du Wi-Fi"</string>
     <string name="connected_wifi_handle_hint">"Le processus de connexion prend environ 1 à 2 minutes
 Dès que vous entendez une voix, cliquez sur le bouton ci-dessous."</string>
-    <string name="connection_choose_camera_type_name">小蚁智能摄像机</string>
+    <string name="connection_choose_camera_g1_type_name">YI Home Camera</string>
+    <string name="connection_choose_camera_g2_type_name">YI 1080P Home Camera</string>
     <string name="connection_choose_camera_type_prompt">请选择您想绑定的设备类型</string>
     <string name="connection_choose_camera_type_title">选择设备</string>
     <string name="connection_reset_camera">Configurer la caméra</string>
@@ -583,7 +616,9 @@ Copyright © 2014-2015 XiaoYi. Tous Droits Réservés."</string>
     <string name="feebback_shake">摇一摇反馈</string>
     <string name="feebback_title">Commentaires</string>
     <string name="feedback">Commentaires</string>
+    <string name="feedback_contact_title">您的联系方式</string>
     <string name="feedback_content">Nous vous remercions pour vos commentaires, nous allons écouter attentivement chaque conseil</string>
+    <string name="feedback_content_title">问题详情</string>
     <string name="feedback_require_advice">Veuillez entrer vos commentaires et suggestions !</string>
     <string name="feedback_require_contact">Veuillez entrez vos informations personnelles !</string>
     <string name="feedback_sent">Soumettre</string>
@@ -705,7 +740,10 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="pincode_not_sure">"Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !"</string>
     <string name="pincode_protect">Protection par mot de passe</string>
     <string name="pincode_protect_above">Sécurité</string>
+    <string name="pincode_protect_freeze_time">密码连续输错5次，请%1$d分钟后重新输入，或重置摄像机</string>
     <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
+    <string name="pincode_protect_input_times">密码输错%1$d次，还剩%2$d次</string>
+    <string name="pincode_protect_locked">当前设备已被锁定，请在%1$d分钟后重试，或重置摄像机</string>
     <string name="pincode_set">Protection par mot de passe</string>
     <string name="pincode_set_new">"Merci d'entrer un mot de passe, allumer la caméra"</string>
     <string name="pincode_set_new_again">"Merci d'entrer de nouveau votre mot de passe"</string>
@@ -726,7 +764,6 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="please_insert_sdcard">Veuillez insérer une Carte Micro SD !</string>
     <string name="pocket">Poche</string>
     <string name="privacy_policy">Politique de confidentialité</string>
-    <string name="product_description">Description du produit</string>
     <string name="prompt">Message</string>
     <string name="qq">QQ</string>
     <string name="qq_client_inavailable">Votre version QQ est trop ancienne ou non installée, vous devez installer pour pouvoir utiliser QQ！</string>
@@ -811,7 +848,7 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="sync_log">Synchronisation du journal</string>
     <string name="tab_camera">Caméra</string>
     <string name="tab_message">Message</string>
-    <string name="tab_my">我的</string>
+    <string name="tab_my">Profil</string>
     <string name="tab_photos">Galerie</string>
     <string name="tencentweibo">Weibo Tencent</string>
     <string name="terms_of_use">Terms of Use</string>
@@ -1108,6 +1145,7 @@ Please verify the code within 10 minutes"</string>
     <string name="cloud_people_statistics_month_description2">本月人最多时间</string>
     <string name="cloud_people_statistics_switch_open">开启人流量统计</string>
     <string name="cloud_people_statistics_switch_open_subtitle">开启后将暂停智能侦测报警</string>
+    <string name="cloud_people_statistics_switch_open_warning">开启后将自动关闭智能侦测报警</string>
     <string name="cloud_people_statistics_title">人流量统计</string>
     <string name="cloud_people_statistics_week_description1">最近一周累计人流量</string>
     <string name="cloud_people_statistics_week_description2">最近一周人最多的时间</string>
