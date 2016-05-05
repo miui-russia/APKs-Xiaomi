@@ -525,7 +525,7 @@ Batterie"</string>
     <string name="agreement">Vous devez lire et accepter nos <a href="http://www.xiaoyi.com/en/legal/action">"Condtions d'Utilisation"</a> et <a href="http://www.xiaoyi.com/en/home/privacy-policy/index.html">Politique de confidentialité</a>"avant d'utiliser le produit."</string>
     <string name="album">Album</string>
     <string name="app_name_ext">Yi-Caméra</string>
-    <string name="attention">Follow</string>
+    <string name="attention">Favori</string>
     <string name="burst_merge_fail">Burst photo process failed</string>
     <string name="burst_merge_save_fail">Save failed</string>
     <string name="burst_merge_save_success">Save successful</string>
@@ -563,7 +563,7 @@ Batterie"</string>
     <string name="encoding">Encoding.</string>
     <string name="encoding_error">Video process failed, please try again</string>
     <string name="facebook_login">Login with facebook</string>
-    <string name="fans">Follower</string>
+    <string name="fans">Fans</string>
     <string name="fullscreen">Plein écran</string>
     <string name="fullscreen_burst_hint">Cette vidéo ne prend pas en charge les apperçus</string>
     <string name="fullscreen_hint">Appuyez sur le bouton de volume pour prendre une photo</string>
@@ -575,13 +575,13 @@ Batterie"</string>
     <string name="input_comment_long">Input is too long</string>
     <string name="input_comment_short">Input is too short</string>
     <string name="input_invite_code">Enter the invitation code…</string>
-    <string name="like">Like</string>
+    <string name="like">J\'aime</string>
     <string name="load_image_failed">Failed to load image</string>
     <string name="login">Login</string>
     <string name="login_enjoy_and_share">Wherever you go, YI goes</string>
     <string name="login_tip">Your posts will show up here after login.</string>
     <string name="loop_record_duration">Duration</string>
-    <string name="me">Me</string>
+    <string name="me">Moi</string>
     <string name="media_detail_video_photo_stats">Video-Photo (%d items)</string>
     <string name="minutes_ago">minutes ago</string>
     <string name="months_ago">months ago</string>
@@ -659,7 +659,7 @@ Batterie"</string>
     <string name="share_warning_too_short">Video is too short, can not be shared.</string>
     <string name="sharing">Sharing…</string>
     <string name="sign_words">Signature</string>
-    <string name="sign_words_default">In the world, we have to change!</string>
+    <string name="sign_words_default">Dans ce monde, nous devons changer !</string>
     <string name="slow_motion">SLOWMOTION</string>
     <string name="slow_motion_rate">Slow Rate</string>
     <string name="smuggle_tip">The camera is only allowed to sell and use in mainland China. The application will switch to the Chinese interface shortly.</string>
@@ -784,8 +784,8 @@ Photo"</string>
     <string name="none_classify">None</string>
     <string name="please_input">Please fill in</string>
     <string name="please_select_gender">Choose your gender</string>
-    <string name="popular">POPULAR</string>
-    <string name="praise">like</string>
+    <string name="popular">POPULAIRE</string>
+    <string name="praise">J\'aime</string>
     <string name="publish">Publish</string>
     <string name="rb">R&amp;B</string>
     <string name="reconnect">Try again</string>
@@ -809,13 +809,13 @@ Photo"</string>
     <string name="switched_online_server">Switched online server</string>
     <string name="switched_test_server">Switched test server</string>
     <string name="switching_network_fail">Fail to switch network</string>
-    <string name="tab_album">ALBUM</string>
-    <string name="tab_discover">SQUARE</string>
-    <string name="tab_profile">PROFILE</string>
-    <string name="title_camera">CAMERA</string>
-    <string name="title_camera_album">CAMERA ALBUM</string>
-    <string name="title_local">PHONE</string>
-    <string name="title_local_album">LOCAL ALBUM</string>
+    <string name="tab_album">ALBUMS</string>
+    <string name="tab_discover">ACCUEIL</string>
+    <string name="tab_profile">PROFIL</string>
+    <string name="title_camera">CAMÉRA</string>
+    <string name="title_camera_album">ALBUM CAMÉRA</string>
+    <string name="title_local">TÉLÉPHONE</string>
+    <string name="title_local_album">ALBUM LOCAL</string>
     <string name="tools">Tools</string>
     <string name="trim">Trim</string>
     <string name="tutorial_SN_tip">"The SN is the 7 last numbers
