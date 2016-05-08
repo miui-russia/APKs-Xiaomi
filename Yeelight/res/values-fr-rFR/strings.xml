@@ -34,7 +34,7 @@
     <string name="Subscribe">"S'abonne"r</string>
     <string name="SubscribeTopic">Suivre le sujet</string>
     <string name="TakeOwnership">Lier</string>
-    <string name="UnsubEvent">Se désabonner de l'événement</string>
+    <string name="UnsubEvent">Se désabonner de l\'événement</string>
     <string name="Unsubscribe">Se désabonner</string>
     <string name="UnsubscribeTopic">Ne plus suivre le sujet</string>
     <string name="Upgrade">Améliorer</string>
@@ -61,11 +61,11 @@ Start your Focus Mode to get your star now!"</string>
     <string name="activity_scene_save_title">Mes scènes</string>
     <string name="activity_scene_unable_del_default">Les scènes prédéfinies ne peuvent pas être supprimé</string>
     <string name="activity_scene_unable_rename_default">"Les scènes prédéfinies ne peuvent pas être renommé</string>
-    <string name="activity_scene_unable_rename_no_change">Le nom na put être changé,s'il vous plaît réessayer</string>
+    <string name="activity_scene_unable_rename_no_change">Le nom na put être changé, s\'il vous plaît réessayer</string>
     <string name="activity_wifi_alarm_add">Ajouter un minuteur</string>
     <string name="activity_wifi_alarm_no_added_tips">Pas de minuteur encore ajouté</string>
     <string name="activity_wifi_alarm_repeat_all">Tous les jours</string>
-    <string name="activity_wifi_alarm_repeat_today">Aujourd'hui</string>
+    <string name="activity_wifi_alarm_repeat_today">Aujourd\'hui</string>
     <string name="alarm_action">Action</string>
     <string name="alarm_action_turn_off">Éteindre</string>
     <string name="alarm_action_turn_on">Allumer</string>
@@ -80,7 +80,7 @@ Start your Focus Mode to get your star now!"</string>
     <string name="application_build_date">160427</string>
     <string name="bind_failed">"L’appareillage a échoué"</string>
     <string name="bind_succeed">Appareiller</string>
-    <string name="ble_connect_authing">Vérifiez les permissions sur l'appareil</string>
+    <string name="ble_connect_authing">Vérifiez les permissions sur l\'appareil</string>
     <string name="ble_connect_connecting">Créer une connexion Bluetooth</string>
     <string name="ble_connect_firmware_upgrade">Vérifier la version du firmware</string>
     <string name="ble_connect_success">Connexion réussi</string>
@@ -128,8 +128,8 @@ Start your Focus Mode to get your star now!"</string>
     <string name="common_text_from">A partir de%1$s</string>
     <string name="common_text_group_switch_on_off">Changer</string>
     <string name="common_text_ignore">Ignorer</string>
-    <string name="common_text_login">S'identifier</string>
-    <string name="common_text_mi_band">Mi Band</string>
+    <string name="common_text_login">S\'identifier</string>
+    <string name="common_text_mi_band">Mi-Fit</string>
     <string name="common_text_more">Plus</string>
     <string name="common_text_next_step">Suivant</string>
     <string name="common_text_notice">Avis</string>
@@ -151,7 +151,7 @@ Start your Focus Mode to get your star now!"</string>
     <string name="common_text_repeat_5">Vendredi</string>
     <string name="common_text_repeat_6">Samedi</string>
     <string name="common_text_repeat_7">Dimanche</string>
-    <string name="common_text_repeat_custom"Personnalisé</string>
+    <string name="common_text_repeat_custom">Personnalisé</string>
     <string name="common_text_repeat_date">%1$d/%2$d</string>
     <string name="common_text_repeat_everyday">Tous les jours</string>
     <string name="common_text_repeat_once">Une seul fois</string>
@@ -191,7 +191,7 @@ Start your Focus Mode to get your star now!"</string>
     <string name="delay_light_time">La lumière va éteinte dans %1$d min</string>
     <string name="delay_light_time_detail">"Maintenez le bouton on/off arrêt sur la molette tactile jusqu'à ce que la lampe clignote pour activer la mise en veille, la lampe s'éteindra automatiquement après" %1$d min.</string>
     <string name="delay_light_time_text">Temporisation</string>
-    <string name="desc_shaking_to_get_share_device">Secouer votre téléphone pour obtenir dispositif d'action.</string>
+    <string name="desc_shaking_to_get_share_device">Secouer votre téléphone pour obtenir dispositif d\'action.</string>
     <string name="device_bulb_offline">Yeelight Hors ligne</string>
     <string name="device_bulb_offline_prompt_item1_down">Connecté</string>
     <string name="device_bulb_offline_prompt_item1_up">WI-FI</string>
@@ -210,7 +210,7 @@ Start your Focus Mode to get your star now!"</string>
     <string name="device_cherry_offline_prompt_item4_down">"Par d'autres"</string>
     <string name="device_cherry_offline_prompt_item4_up">Pas connecté</string>
     <string name="device_computer_scene">PC Mode</string>
-    <string name="device_how_to_reset"><u>Comment réinitialiser？</u></string>
+    <string name="device_how_to_reset">Comment réinitialiser ？</string>
     <string name="device_mango_offline">La lampe de bureau est non visible</string>
     <string name="device_name_yeelight_bed_common">Yeelight</string>
     <string name="device_name_yeelight_bed_lamp">Lampe Yeelight</string>
@@ -266,7 +266,7 @@ Start your Focus Mode to get your star now!"</string>
     <string name="feedback_sending">Envoie…</string>
     <string name="feedback_server_error">Le serveur est occupé, réessayer</string>
     <string name="fte_activate_your_device">Power on your device</string>
-    <string name="fte_add_your_device">Add devices</string>
+    <string name="fte_add_your_device">Ajouter un appareil</string>
     <string name="fte_get_yeelight_device">Get a Yeelight device</string>
     <string name="fte_login_your_account">Login your account</string>
     <string name="fte_start_yeelight_prompt">Start your Yeelight</string>
