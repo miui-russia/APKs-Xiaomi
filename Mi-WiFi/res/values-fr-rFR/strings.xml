@@ -302,35 +302,35 @@
     <string name="bootstrap_check_wan_mode_loading">En cours d'obtention du type de réseau</string>
     <string name="bootstrap_check_wan_mode_tip">Connexion en cours de vérification…</string>
     <string name="bootstrap_default_mode">Primary base station</string>
-    <string name="bootstrap_default_mode_tip">Set up an internet connection and wireless network</string>
-    <string name="bootstrap_dhcp_failed">"Couldn't connect to the internet"</string>
-    <string name="bootstrap_dhcp_loading">Establishing internet connection</string>
-    <string name="bootstrap_find">Import ISP settings and password from existing router</string>
-    <string name="bootstrap_find_pppoe_first_step">Step 1</string>
-    <string name="bootstrap_find_pppoe_first_tip">Turn on the old router</string>
-    <string name="bootstrap_find_pppoe_import">Connected, preparing to import</string>
-    <string name="bootstrap_find_pppoe_imported_failed">"Couldn't import, try again"</string>
-    <string name="bootstrap_find_pppoe_imported_success">Imported successfully</string>
-    <string name="bootstrap_find_pppoe_importing">Importing…</string>
-    <string name="bootstrap_find_pppoe_second_step">Step 2</string>
-    <string name="bootstrap_find_pppoe_second_tip">"Use network cable.
-Connect one end of the cable to the WAN port of the old router,
-and the other end to Mi Router."</string>
-    <string name="bootstrap_find_pppoe_title">Import ISP settings from existing router</string>
-    <string name="bootstrap_get_relay_wifi_failed">"Couldn't get network info"</string>
-    <string name="bootstrap_name_prompt">Enter name</string>
-    <string name="bootstrap_name_tip">This name will be visible to other devices nearby.</string>
-    <string name="bootstrap_name_too_long">"Name can't be longer than %d characters"</string>
-    <string name="bootstrap_need_dial">" "<u>Dial-up access</u>" "</string>
-    <string name="bootstrap_need_not_dial">" "<u>Broadband</u>" "</string>
-    <string name="bootstrap_other_mode">" "<u>More options</u>" "</string>
-    <string name="bootstrap_place_home">Home</string>
-    <string name="bootstrap_place_office">Office</string>
-    <string name="bootstrap_place_other">Other</string>
-    <string name="bootstrap_place_select_prompt">Router location</string>
-    <string name="bootstrap_pppoe_account_hint">PPPoE account</string>
-    <string name="bootstrap_pppoe_account_prompt">PPPoE account</string>
-    <string name="bootstrap_pppoe_failed">"Couldn't dial"</string>
+    <string name="bootstrap_default_mode_tip">Paramétrer une connexion Internet et un réseau sans fil</string>
+    <string name="bootstrap_dhcp_failed">Impossible de se connecter à Internet</string>
+    <string name="bootstrap_dhcp_loading">En cours de connexion à Internet</string>
+    <string name="bootstrap_find">Importer les identifiants et mot de passe de votre FAI depuis le routeur existant</string>
+    <string name="bootstrap_find_pppoe_first_step">Etape 1</string>
+    <string name="bootstrap_find_pppoe_first_tip">"Activer l'ancien routeur"</string>
+    <string name="bootstrap_find_pppoe_import">Connecté, se prépare à importer</string>
+    <string name="bootstrap_find_pppoe_imported_failed">"Impossible d'importer, essayer à nouveau"</string>
+    <string name="bootstrap_find_pppoe_imported_success">Importé avec succès</string>
+    <string name="bootstrap_find_pppoe_importing">"En cours d'import…"</string>
+    <string name="bootstrap_find_pppoe_second_step">Etape 2</string>
+    <string name="bootstrap_find_pppoe_second_tip">"Utiliser un câble réseau.
+Connecter une extrémité du câble au port WAN de l'ancien router,
+et l'autre extrémité au Mi-Routeur."</string>
+    <string name="bootstrap_find_pppoe_title">Importer les réglages depuis le routeur existant</string>
+    <string name="bootstrap_get_relay_wifi_failed">"Impossible d'obtenir le statut du réseau"</string>
+    <string name="bootstrap_name_prompt">Saisir le nom</string>
+    <string name="bootstrap_name_tip">Ce nom sera visible des autres périphériques aux alentours.</string>
+    <string name="bootstrap_name_too_long">Le nom ne peut dépasser %d caractères</string>
+    <string name="bootstrap_need_dial">" "<u>Accès par réseau commuté</u>" "</string>
+    <string name="bootstrap_need_not_dial">" "<u>Haut débit</u>" "</string>
+    <string name="bootstrap_other_mode">" "<u>Plus options</u>" "</string>
+    <string name="bootstrap_place_home">Accueil</string>
+    <string name="bootstrap_place_office">Bureau</string>
+    <string name="bootstrap_place_other">Autres</string>
+    <string name="bootstrap_place_select_prompt">Emplacement du routeur</string>
+    <string name="bootstrap_pppoe_account_hint">Compte PPPoE</string>
+    <string name="bootstrap_pppoe_account_prompt">Compte PPPoE</string>
+    <string name="bootstrap_pppoe_failed">"Impossible de composer"</string>
     <string name="bootstrap_pppoe_failed_678">"Possible reasons for unsuccessful connection:
 
 Connection error. Try turning off all your network equipment, wait for a few minutes and connect again. If this doesn't work, you can clone MAC addresses, or adjust WAN protocols.
