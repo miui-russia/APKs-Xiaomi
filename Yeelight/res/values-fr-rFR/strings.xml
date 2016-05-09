@@ -45,7 +45,7 @@
     <string name="activity_color_flow_pickup">Choisir une couleur</string>
     <string name="activity_color_flow_picture">Couleur de la photo</string>
     <string name="activity_pdo_info" formatted="false">En fonctionnement pendant %d min, en veille pendant %d min</string>
-    <string name="activity_pdo_prompt_info">" Vous obtiendrez une étoile lorsque vous aurez fait un cycle entier de fonctionnement. 
+    <string name="activity_pdo_prompt_info">"Vous obtiendrez une étoile lorsque vous aurez fait un cycle entier de fonctionnement. 
     Concentrez-vous pour obtenir votre nouvelle étoile"</string>
     <string name="activity_pdo_star_info">"Vous avez %d d'étoiles"</string>
     <string name="activity_pdo_time_info" formatted="false">Vous avez travaillé pendant %d heures et %d minutes</string>
@@ -54,7 +54,7 @@
     <string name="activity_pdo_time_work">Régler le temps</string>
     <string name="activity_pdo_tittle">Mode de mise au point</string>
     <string name="activity_pdo_tittle_prompt">À la fin du temps écoulé, le Mi Band se met à clignoter pour vous le rappelez</string>
-    <string name="activity_save_default_alarm_info">Appuyer \"Enregistrer par défaut la Luminosité \"vous pouvez l’\enregistrer par défaut,elle s’\appliquera lors de la prochaine Yeelight mise sous tension de  votre Yeelight.</string>
+    <string name="activity_save_default_alarm_info">Appuyer \"Enregistrer par défaut la Luminosité \"vous pouvez l\'enregistrer par défaut,elle s\'appliquera lors de la prochaine Yeelight mise sous tension de  votre Yeelight.</string>
     <string name="activity_save_default_btn_text">Enregistrer par défaut la Luminosité</string>
     <string name="activity_save_default_fail">Échec de la sauvegarde</string>
     <string name="activity_save_default_success">Enregistrer avec succès</string>
@@ -172,9 +172,9 @@
     <string name="common_text_status_offline">Hors ligne</string>
     <string name="common_text_status_on">On</string>
     <string name="common_text_status_online">En ligne</string>
-    <string name="common_text_status_some_off"> Off</string>
-    <string name="common_text_status_some_offline"> Hors ligne</string>
-    <string name="common_text_status_some_on"> On</string>
+    <string name="common_text_status_some_off">Off</string>
+    <string name="common_text_status_some_offline">Hors ligne</string>
+    <string name="common_text_status_some_on">On</string>
     <string name="common_text_status_upgrade">Mise à niveau</string>
     <string name="common_text_stop">Stop</string>
     <string name="common_text_sunshine">Blanc</string>
@@ -339,9 +339,9 @@
     <string name="mi_band_add_failed">Appairage échoué !</string>
     <string name="mi_band_bind_autoclose">Extinction automatique</string>
     <string name="mi_band_bind_bindtext">Mi-Fit connecté</string>
-    <string name="mi_band_bind_connect_failed_retry">Connection échouée ! Réessayer</string>
+    <string name="mi_band_bind_connect_failed_retry">Connexion échouée ! Réessayer</string>
     <string name="mi_band_bind_control_set">Réglages</string>
-    <string name="mi_band_bind_failed">Connection échouée !</string>
+    <string name="mi_band_bind_failed">Connexion échouée !</string>
     <string name="mi_band_bind_shake">Le Mi-Fit vibre ?</string>
     <string name="mi_band_bind_sub_text_bind">Arrêt automatique lors du sommeil</string>
     <string name="mi_band_bind_sub_text_unbind">Connectez votre Mi-Band pour éteindre la lampe automatique lors du sommeil</string>
@@ -383,7 +383,7 @@
     <string name="picker_minite">Min</string>
     <string name="picker_minute">Min</string>
     <string name="picker_month">Mois</string>
-    <string name="picker_year">Year</string>
+    <string name="picker_year">Année</string>
     <string name="pull_to_scan">Pull to scan</string>
     <string name="recovery_info">All the data will be erased from your device, are you sure to do that?</string>
     <string name="refreshing">Refreshing…</string>
