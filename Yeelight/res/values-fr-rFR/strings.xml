@@ -233,7 +233,7 @@
     <string name="feature_awake">Réveil en lumière</string>
     <string name="feature_call_alarm">Notification Alarme</string>
     <string name="feature_delay">Veilleuse</string>
-    <string name="feature_delay_info">La lumière s'éteindra dans %1$d min</string>
+    <string name="feature_delay_info">La lumière s\'éteindra dans %1$d min</string>
     <string name="feature_delay_not_available">\"Veilleuse\"ne peut pas être activée lorsque l\'application est fermée.</string>
     <string name="feature_disconnect_bt">Détacher</string>
     <string name="feature_feedback">"Retour d'utilisateurs"</string>
