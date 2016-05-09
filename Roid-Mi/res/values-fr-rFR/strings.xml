@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Roid-Mi</string>
+    <string name="app_name">Mi-Roid</string>
     <string name="app_name_show">Transmetteur Bluetooth</string>
     <string name="app_version">Version app: %1$s</string>
     <string name="btn_ok">OK</string>
@@ -37,8 +37,6 @@ Appuyez sur OK pour Continuer !"</string>
     <string name="bt_link_ok">Lié</string>
     <string name="bt_link_fail">Non lié</string>
     <string name="car_service">SAV automobile</string>
-    <string name="used_car">"Voiture d'occasion"</string>
-    <string name="car_maintenance">Maintenance automobile</string>
     <string name="channel_change">Changer</string>
     <string name="channel_change_power">Débruitage éteint</string>
     <string name="channel_change_power_tip">"Améliorer l'anti-parasitage et la qualité de la tonalité"</string>
@@ -129,44 +127,6 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="fm_setting_info">La recherche automatique va régler votre fréquence</string>
     <string name="go_to">Retour</string>
     <string name="help">Aide</string>
-    <string name="help_Q1">"1.Le RoidMi est introuvable via Bluetooth"</string>
-    <string name="help_A1">Astuce : Premièrement, retirez le RoidMi de la prise allume-cigare, et réinsérez le. Désactivez le Bluetooth de votre téléphone pendant 10 secondes et réactivez-le. Recherchez à nouveau le Roid-Mi.</string>
-    <string name="help_Q2">2.Impossible de connecter le RoidMi via Bluetooth</string>
-    <string name="help_A2">"Astuce : Après l'avoir éteint et retiré, insérez le Roid-Mi dans la prise allume-cigare à nouveau. Faites une nouvelle recherche et reconnectez-le."</string>
-    <string name="help_Q3">"3.L'audio ne fonctionne pas, même si le Roid-Mi est connecté via Bluetooth"</string>
-    <string name="help_A3">"Astuce : Allez sur la page d'accueil de l'application Roid-Mi; Appuyez sur Fréquence FM. Réglez la fréquence d'envoi du lecteur. Ajustez la fréquence FM de l'autoradio sur la même fréquence"</string>
-    <string name="help_Q4">4.Pas le bon lecteur de musique par défaut</string>
-    <string name="help_A4">"Astuce : Allez dans l'application  Roid-Mi. Sélectionnez le lecteur que vous préférez.</string>
-    <string name="help_Q5">"5.Après avoir paramétrer le mode Lecture Automatique, le lecteur de musique ne s'ouvre pas automatiquement."</string>
-    <string name="help_A5">"Astuce : Ajouter l'application  Roid-Mi qui gère le Roid-Mi comme une application protégée et autorisée à fonctionner en fond de tâche."</string>
-    <string name="help_Q6">6.Désactivez le mode Lecture Automatique</string>
-    <string name="help_A6">"Astuce : Allez sur la page d'accueil de l'application Roid-Mi; Arrêtez la lecture automatique quand vous démarrer votre véhicule."</string>
-    <string name="help_Q7">"7.Pas besoin d'assistance vocale"</string>
-    <string name="help_A7">"Astuce : Appuyez l'icône en haut à droite de l'accueil ; Appuyez sur Paramètres et désactivez l'assistance vocale."</string>
-    <string name="help_Q8">8.Comment changer la couleur de la lumière du Roid-Mi ?</string>
-    <string name="help_A8">"Astuce : Allez sur la page d'accueil de l'application Roid-Mi; Appuyez sur Paramètres LED et sélectionnez la couleur qui vous correspond."</string>
-    <string name="help_Q9">"9.Impossible d'utiliser votre lecteur audio préféré avec le mode Lecture Automatique ?"</string>
-    <string name="help_A9">"Astuce : Assurez-vous que le lecteur audio s'est reconnecté ; Fermer le guide du lecteur audio si vous avez la version à jour."</string>
-    <string name="help_Q10">"10.Impossible d'utiliser une quelconque application de musique ?"</string>
-    <string name="help_A10">"Astuce : Votre Roid-Mi n'est pas compatible avec cette application. Nous vous recommandons d'utiliser des lecteurs audio comme KuGoo, TTPOD, KUWO, QQ Music etc."</string>
-    <string name="help_Q11">11.Comment lancer la reconnaissance vocale ? Que comprends la reconnaissance vocale ?</string>
-    <string name="help_A11">"Astuce：1. Allez sur la page d'accueil de l'application Roid-Mi, Appuyez sur l'icône Reconnaissance Vocale. 2. Quand l'application est en fonctionnement, secouez votre téléphone pour passer en reconnaissance vocale. Après la courte intonation, vous pourrez parler librement, comme raconter une blague, parler du temps qu'il fait aujourd'hui. Le système vous donnera automatiquement le résultat après l'analyse."</string>
-    <string name="help_Q12">12.Comment changer de musique ?</string>
-    <string name="help_A12">"Astuce ： L'application offre les fonctions en secouant le téléphone (échange de musique, reconnaissance vocale...). Secouer votre téléphone pendant la lecture d'une chanson, il jouera la chanson suivante."</string>
-    <string name="help_Q13">13.Roid-Mi non détecté.</string>
-    <string name="help_A13">"Astuce : Après un moment, si le Roid-Mi est toujours introuvable alors qu'il est allumé, essayer de relancer la fonction Bluetooth sur votre téléphone et recherchez le Roid-Mi."</string>
-    <string name="help_Q14">14.Si le Roid-Mi était appairé avec un autre téléphone auparavant ?</string>
-    <string name="help_A14">Astuce : Éteindre la connexion Bluetooth du téléphone avec lequel il était précédemment précédemment, et faite une nouvelle recherche avec le téléphone avec lequel vous voulez appairer le Roid-Mi.</string>
-    <string name="help_Q15">"15.Si le téléphone s'est déconnecté."</string>
-    <string name="help_A15">"Astuce : Redémarrez le téléphone et lancer l'application de Roid-Mi."</string>
-    <string name="help_Q16">16.Si le Roid-Mi a un faux contact.</string>
-    <string name="help_A16">"Astuce : Nettoyez les cendres présentes dans la prise allume-cigare s'il y en a."</string>
-    <string name="help_Q17">"17.Comment faire avec un autoradio FM avec lequel il n'est pas possible d'ajuster la fréquence manuellement ?"</string>
-    <string name="help_A17">"Astuce : Ajustez la fréquence de l'application sur la même fréquence que l'autoradio."</string>
-    <string name="help_Q18">"18.Pourquoi préférer une fréquence inoccupée ?"</string>
-    <string name="help_A18">"Astuce : Les grosses fréquences FM peuvent interférer avec les faibles fréquences, nous vous recommandons d'utiliser 3 fréquences inoccupées."</string>
-    <string name="help_Q19">19.Comment trouver la meilleure fréquence ?</string>
-    <string name="help_A19">"Astuce : S'il n'y a pas de meilleure fréquence qu'une autre dans votre région. Vous devriez ajuster manuellement votre frequence de 0.1MHz FM en + ou en - pour avoir une fréquence sans interférence, également ajuster l'application sur votre téléphone mobile sur la même fréquence. Si cela fonctionne correctement et que votre fréquence est stable pendant une certaine période, n'hésitez pas à nous partager votre fréquence. Nous recommanderons cette fréquence à tous les autres utilisateurs qui habitent la même ville que vous lors de la prochaine mise à jour."</string>
     <string name="info_center">Centre d\'information</string>
     <string name="nomessage">"Vous n'avez aucun Message"</string>
     <string name="login">Se connecter</string>
@@ -207,8 +167,6 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
 2.Après l'enregistrement, Wuxi Romi Information Technology Co., Ltd fournira à tous les utilisateurs un compte dédié ainsi que les identifiants, que l'utilisateur devra conserver en lieu sûr et par ses propres moyens. Les utilisateurs sont responsables de toutes les activités connues sur leur compte. 
 
 3.Les utilisateurs peuvent uniquement utiliser les services proposés avec les canaux fournis par RoidMi. Lorsque l'utilisateur l'utilise ainsi, leur comportement est considéré comme un accord pour l'utilisation du service et le consentement des toutes sortes d'annonces dans le service du firmware Roidmi. 
-
-4.Wuxi Roidmi Information Technology Co., Ltd., se réserve le droit de mettre à jour et de réviser les conditions d'utilisation de Roid-Mi  et les termes d'autres services ainsi que les annonces à tout moment sans préavis. Il est de votre responsabilité de vérifier la mise à jour du firmware Roidmi périodiquement et de vous conformer aux dispositions pertinentes de son utilisation.
 
 Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivement le contrat de service. Si vous êtes en désaccord avec cet accord de service et/ou sa modification à tout moment, vous pouvez prendre l'initiative d'annuler le service fourni par le Roid-Mi. Une fois que vous utilisez le service du firmware Roidmi, il est considéré que vous avez compris et êtes entièrement d'accord avec le contenu de l'accord de service, y compris les modifications de Wuxi Roidmi Information Technology Co., Ltd à l'entente de service à tout moment, et de devenir un utilisateur du pilote Roidmi."</string>
     <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée</string>
@@ -300,19 +258,8 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="personal_plate_number_def">Les 5 numéros au dos</string>
     <string name="personal_chassis_number">Numéro du chassis du véhicule</string>
     <string name="personal_chassis_number_def">Veuillez entrer le dernier numéro du chassis %1$d </string>
-    <string name="personal_chassis_number_def2">Veuillez entrer le numéro complet de châssis</string>
     <string name="personal_engine_number">Numéro du moteur</string>
     <string name="personal_engine_number_def">Veuillez entrer le dernier numéro du moteur %1$d</string>
-    <string name="personal_engine_number_def2">Veuillez entrer le numéro complet du moteur</string>
-    <string name="personal_chassis_name">Nom du propriétaire</string>
-    <string name="personal_chassis_name_def">Veuillez entrer le nom du propriétaire</string>
-    <string name="personal_chassis_shenfen">Identité du propriétaire</string>
-    <string name="personal_chassis_shenfen_def">"Veuillez entrer l'identité du propriétaire"</string>
-    <string name="personal_chassis_shenfenall_def">"Entrez l'identité complète"</string>
-    <string name="personal_chassis_guanju">"Enregistrement de l'administration du véhicule"</string>
-    <string name="personal_chassis_guanju_def">"Veuillez entrer le numéro de plaque d'immatriculation"</string>
-    <string name="personal_chassis_zhenshu">Numéro de certificat</string>
-    <string name="personal_chassis_zhenshu_def">"Veuillez entrer un numéro de certificat d'enregistrement"</string>
     <string name="car_number_must">Le numéro doit comprendre 5 chiffres</string>
     <string name="chassis_number_must">Le numéro de chassis du véhicule doit comprendre 17 chiffres</string>
     <string name="engine_number_must">Le numéro du moteur doit comprendre 8 chiffres</string>
@@ -354,7 +301,6 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="message_erro">"Erreur d'entrée"</string>
     <string name="restriction">Restriction</string>
     <string name="restriction_title">Restriction du trafic</string>
-    <string name="restriction_title2">En fonction du trafic</string>
     <string name="choossecity">Choix de la ville</string>
     <string name="restriction_tip_title">Réduisez votre vitesse</string>
     <string name="restriction_tip_info">Nouvelles informations via radio diffusion</string>
@@ -366,21 +312,12 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="torrowtraffic">Trafic de demain</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="tormorow">Demain</string>
-    <string name="notraffic">Fluide</string>
     <string name="trafficwei">Numéro de fin des voitures interdites</string>
     <string name="notrafficwei">Numéro de fin des voitures autorisées</string>
     <string name="holiday">Vacances</string>
     <string name="noholiday">Jour normal</string>
     <string name="city">Ville</string>
     <string name="jin">Beijing</string>
-    <string name="tianjin">Tianjin</string>
-    <string name="ji">Ji</string>
-    <string name="chuan">Chuan</string>
-    <string name="gui">Gui</string>
-    <string name="zhe">Zhe</string>
-    <string name="gan">Gan</string>
-    <string name="ganzhou">Ganzhou</string>
-    <string name="ganzhou2">Ganzhou M</string>
     <string name="beijing">Pékin</string>
     <string name="tianjing">Tianjing</string>
     <string name="changchun">Changchun</string>
@@ -389,7 +326,6 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="guiyang">Guiyang</string>
     <string name="hangzhou">Hangzhou</string>
     <string name="lanzhou">Lanzhou</string>
-    <string name="nanjing">Nanjing</string>
     <string name="shake">Secouer</string>
     <string name="shake_tip">Certains téléphones ne supportent pas la fonction Secouer</string>
     <string name="shake_type">Fonction Secouer</string>
@@ -429,11 +365,6 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="update_notify_content">Une nouvelle version ? Appuyez pour vérifier</string>
     <string name="voice_title">Assistance vocale</string>
     <string name="voice_stick_title">Guide des astuces</string>
-    <string name="listent_voice">Veuillez parler après le bip sonore</string>
-    <string name="you_can_speak">Vous pouvez le dire ainsi.</string>
-    <string name="joke">Vous plaisantez ?</string>
-    <string name="beijing_weather">Météo de Pékin"</string>
-    <string name="please_check_power">"Échec de l'enregistrement, veuillez vérifier si les enregistrements sont permis"</string>
     <string name="valtage">Tension de la batterie</string>
     <string name="valtage_normal">La tension de la batterie est normale</string>
     <string name="valtage_abnormal">La tension de la batterie est anormale</string>
