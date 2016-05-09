@@ -122,9 +122,9 @@ Apprendre comment faire cela sur http://www.xiaoyi.com/update/sports"</string>
     <string name="date">Date</string>
     <string name="date_and_time">Date/Heure</string>
     <string name="day">j</string>
-    <string name="deepquit">B et W</string>
+    <string name="deepquit">N et B</string>
     <string name="descr_image">Image</string>
-    <string name="disconnect_from_camera">Débranchez la caméra maintenant ?</string>
+    <string name="disconnect_from_camera">Débrancher la caméra maintenant ?</string>
     <string name="documentary">Documentaire</string>
     <string name="download_at_once">Télécharger</string>
     <string name="download_firmware_log">"Télécharger l'historique de la mise à jour ?"</string>
@@ -760,48 +760,47 @@ Batterie"</string>
     <string name="guide_step1_content2">and</string>
     <string name="guide_step1_content3">share button</string>
     <string name="guide_step1_content4">hidden inside~</string>
-    <string name="guide_step2_content_center">"Go to
-Video"</string>
-    <string name="guide_step2_content_left">"Share to
+    <string name="guide_step2_content_center">"Aller aux
+Vidéos"</string>
+    <string name="guide_step2_content_left">"Partager avec
  YI"</string>
-    <string name="guide_step2_content_right">"Go to
-Photo"</string>
-    <string name="guide_step3_content">Click to enter</string>
-    <string name="hot_tag">Hot Tags</string>
+    <string name="guide_step2_content_right">"Allez aux
+Photos"</string>
+    <string name="guide_step3_content">Cliquer pour entrer</string>
+    <string name="hot_tag">Mots clés chauds</string>
     <string name="image">Image</string>
     <string name="jazzy">Jazzy</string>
-    <string name="last_used_mode">LAST USED MODE</string>
-    <string name="login_type">Select login mode</string>
+    <string name="last_used_mode">Dernier mode utilisé</string>
+    <string name="login_type">Selectionner le mode de connexion</string>
     <string name="male">male</string>
-    <string name="music">MUSIC</string>
-    <string name="newest">Explore posts</string>
-    <string name="no_fans">"No fans
- Hurry up sharing stories with YI"</string>
-    <string name="no_follow">No follows</string>
-    <string name="no_like">“like” the share if you enjoy it</string>
-    <string name="no_share">"Click to open the album
- create your first share"</string>
-    <string name="none_classify">None</string>
-    <string name="please_input">Please fill in</string>
-    <string name="please_select_gender">Choose your gender</string>
+    <string name="music">MUSIQUE</string>
+    <string name="newest">Explorer les posts</string>
+    <string name="no_fans">"Aucun fan.
+ Dépêchez-vous de partager vos exploits avec YI"</string>
+    <string name="no_follow">Aucun suivi</string>
+    <string name="no_like">"“Aimer” ce partage si vous l'avez aimé"</string>
+    <string name="no_share">"Cliquer pour ouvrir l'album
+ Créer votre premier partage"</string>
+    <string name="none_classify">Aucun</string>
+    <string name="please_input">Veuillez remplir</string>
+    <string name="please_select_gender">Choisir votre genre</string>
     <string name="popular">POPULAIRE</string>
     <string name="praise">J\'aime</string>
-    <string name="publish">Publish</string>
+    <string name="publish">Publier</string>
     <string name="rb">R&amp;B</string>
-    <string name="reconnect">Try again</string>
-    <string name="refer_to">MENTIONED</string>
-    <string name="region">region</string>
-    <string name="remain_length">%s characters left</string>
-    <string name="reply">reply</string>
+    <string name="reconnect">Essayer à nouveau</string>
+    <string name="refer_to">MENTIONNE</string>
+    <string name="region">Région</string>
+    <string name="remain_length">%s caractères restants</string>
+    <string name="reply">Répondre</string>
     <string name="rock">Rock</string>
-    <string name="save_image">Save pictures</string>
-    <string name="sdcard_remove_reminder">"recommended to use 32-128GB 
- UHS-I 3 micro SD card"</string>
-    <string name="search">SEARCH</string>
+    <string name="save_image">Sauvegarder la photo</string>
+    <string name="sdcard_remove_reminder">"Il est recommendé d'utiliser des cartes microSD UHS-I 3 de 32 à 128 go"</string>
+    <string name="search">RECHERCHER</string>
     <string name="share_to">Share oo</string>
-    <string name="share_type">Please select share type</string>
+    <string name="share_type">Choisir le mode de partage</string>
     <string name="skip_login">Ignorer</string>
-    <string name="slow_rate">Rate</string>
+    <string name="slow_rate">Taux</string>
     <string name="sport">Sport</string>
     <string name="stickers">STICKERS</string>
     <string name="stop_scan">Arrêter le scan</string>
