@@ -379,17 +379,17 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="voltage_sure">Décider</string>
     <string name="voltage_detail">Guide</string>
     <string name="voltage_V12size_1">"&lt;10.8V
-(before starting)"</string>
+(avant de démarrer)"</string>
     <string name="voltage_V12size_2">"10.8~12V
-(after starting)"</string>
+(après le démarrage)"</string>
     <string name="voltage_V12size_3">"12~12.8V
-(before starting)"</string>
+(avant de démarrer)"</string>
     <string name="voltage_V12size_4">"12.8~13.2V
-(after starting)"</string>
+(après le démarrage)"</string>
     <string name="voltage_V12size_5">"13.2~15V
-(after starting)"</string>
+(après le démarrage)"</string>
     <string name="voltage_V12size_6">">15V
-(after starting)"</string>
+(après le démarrage)"</string>
     <string name="voltage_V24size_1">&lt;20V</string>
     <string name="voltage_V24size_2">20~24V</string>
     <string name="voltage_V24size_3">24~29V</string>
