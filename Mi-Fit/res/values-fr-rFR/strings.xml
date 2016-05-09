@@ -1191,7 +1191,7 @@ Vous pouvez changer l'unité de mesure manuellement dans le compartiment des pil
     <string name="six">6</string>
     <string name="sleep_all_time">Sommeil total</string>
     <string name="sleep_awake">Éveillé</string>
-    <string name="sleep_awake_duration">Temps éveillée</string>
+    <string name="sleep_awake_duration">Temps éveillé</string>
     <string name="sleep_awake_time">Réveillé(e) à</string>
     <string name="sleep_bind_band">Appairer le Mi-Fit pour mieux comprendre votre sommeil</string>
     <string name="sleep_chart_no_data">Aucune donnée de sommeil</string>
