@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>"Interference isn't affecting your connection speed."</item>
+        <item>Interference is affecting your connection speed.</item>
+        <item>Interference is slowing down your connection speed.</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>System Default</item>
+        <item>Chinese - Simplified</item>
+        <item>English</item>
+        <item>Chinese - Hong Kong</item>
+        <item>Chinese - Taiwan</item>
+        <item>Korea</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+        <item>ko</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <array name="gc_app_list_child_name" />
+    <string-array name="gc_app_list_grand_name">
+        <item>@string/cleanacc_system_cache_name</item>
+    </string-array>
+    <string-array name="gc_file_list_child_name">
+        <item>@string/cleanacc_system_trash_name</item>
+    </string-array>
+    <array name="gc_list_group_icon">
+        <item>@drawable/cleanacc_ico_cache_list_36</item>
+        <item>@drawable/cleanacc_ico_residue_list_36</item>
+        <item>@drawable/cleanacc_ico_junk_list_36</item>
+        <item>@drawable/cleanacc_ico_process_list_36</item>
+    </array>
+    <string-array name="gc_list_group_name">
+        <item>@string/cleanacc_app_cache_name</item>
+        <item>@string/cleanacc_uninstall_trash_name</item>
+        <item>@string/cleanacc_trash_files_name</item>
+        <item>@string/cleanacc_back_processes_name</item>
+    </string-array>
+    <string-array name="gc_list_group_suggest">
+        <item>@string/cleanacc_app_cache_suggest</item>
+        <item>@string/cleanacc_uninstall_trash_suggest</item>
+        <item>@string/cleanacc_trash_files_suggest</item>
+        <item>@string/cleanacc_back_processes_suggest</item>
+    </string-array>
+    <array name="gc_progress_list_child_name" />
+    <string-array name="gc_uninstall_list_child_name">
+        <item>@string/cleanacc_nouse_apk_name</item>
+    </string-array>
+</resources>
