@@ -509,7 +509,7 @@ Ajoutez Mi Fit aux exceptions"</string>
     <string name="invalid_name">"Le nom contient un caractère non conforme, s'il vous plaît entrer de nouveau"</string>
     <string name="label_accept_add_friend_by_him">Demande acceptée</string>
     <string name="label_accepted">Accepté</string>
-    <string name="label_activity">"Nombre de pas aujourd'hui"</string>
+    <string name="label_activity">Pas</string>
     <string name="label_activity_record">"%1$s/%2$s Historique d'activité"</string>
     <string name="label_calorie">Calorie (cal)</string>
     <string name="label_care_time_by_me">%s Coup de pouce</string>
@@ -575,6 +575,8 @@ Ajoutez Mi Fit aux exceptions"</string>
     <string name="light_color">Couleur des LEDs</string>
     <string name="light_color_title">"Couleur de l'indicateur de progression"</string>
     <string name="lighter_than_goal">"Plus léger que l'objectif %1$s"</string>
+    <string name="loaction_msg">请打开定位服务开关, 方便搜索与连接手环服务</string>
+    <string name="loaction_tips">Ouvrez les services de localisation</string>
     <string name="load_fail">Impossible de charger les données</string>
     <string name="load_failed">Connectez-vous à internet, puis réessayez</string>
     <string name="load_success">Ajouté avec succès</string>
@@ -651,6 +653,7 @@ la plage de mesure (%s)"</string>
     <string name="mili_setting_display_item_tips">Choisissez les éléments affichés sur le bracelet</string>
     <string name="mili_setting_find_bracelet">Rechercher le bracelet</string>
     <string name="mili_setting_finding">Recherche du bracelet…</string>
+    <string name="mili_setting_finding_tips">Une recherche fréquente peut réduire la vie de la batterie</string>
     <string name="mili_setting_fw_version">Version du Firmware</string>
     <string name="mili_setting_ges_screen">Soulever le poignet pour parcourir les infos</string>
     <string name="mili_setting_ges_screen_tips">Soulevez votre poignet pour afficher les infos du Mi band</string>
@@ -658,9 +661,9 @@ la plage de mesure (%s)"</string>
     <string name="mili_setting_last_charge">%s jour(s) depuis la dernière charge</string>
     <string name="mili_setting_last_charge_pro">%sd depuis la dernière charge</string>
     <string name="mili_setting_last_charge_today">"Chargé aujourd'hui"</string>
-    <string name="mili_setting_last_charge_today_pro">Aujourd\'hui, juste une charge complète</string>
+    <string name="mili_setting_last_charge_today_pro">Complètement chargée aujourd\'hui</string>
     <string name="mili_setting_last_charge_yestoday">Chargé hier</string>
-    <string name="mili_setting_last_charge_yestoday_pro">Hier entièrement chargée</string>
+    <string name="mili_setting_last_charge_yestoday_pro">Complètement chargée hier</string>
     <string name="mili_setting_low_battery">Charger la batterie</string>
     <string name="mili_setting_mac_address">Adresse MAC du bracelet</string>
     <string name="mili_setting_mili">Mi-Fit</string>
@@ -1448,4 +1451,57 @@ Ajoutez Mi Fit aux exceptions."</string>
     <string name="your_gender">Sexe</string>
     <string name="your_height">Taille</string>
     <string name="your_weight">"Poids "</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="avoid_disturb_not_bound_milipro">Pair Mi Band 2 to use Do not disturb mode</string>
+    <string name="avoid_disturb_off_time">Off time</string>
+    <string name="avoid_disturb_on_status_tips">DND Mode is On</string>
+    <string name="avoid_disturb_on_time">On time</string>
+    <string name="avoid_disturb_time_tips_am">AM</string>
+    <string name="avoid_disturb_time_tips_pm">PM</string>
+    <string name="install_qq_tips">请先安装QQ</string>
+    <string name="install_weibo_tips">请先安装微博</string>
+    <string name="long_sit_alert_start">开始时间</string>
+    <string name="long_sit_alert_stop">关闭时间</string>
+    <string name="long_sit_lt_hour">请至少设置一小时</string>
+    <string name="long_sit_start_gt_stop">开始时间不能晚于结束时间</string>
+    <string name="long_sit_stop_lt_start">结束时间不能早于开始时间</string>
+    <string name="mac">蓝牙地址:</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="permission_cam">获取手机拍照的权限</string>
+    <string name="permission_cam_reject">小米运动没有获取相机的权限, 该功能无法使用</string>
+    <string name="picker_menu_done">Done</string>
+    <string name="scan_label">Put the QRCode in the square to scan.</string>
+    <string name="select_mili_tips_1">请选择手环进行绑定</string>
+    <string name="select_mili_tips_2">如未找到合适的手环, 请远离其他手环后重试</string>
+    <string name="unbind_mili_support_sensorhub_tips">解绑后将使用手机计步, 手环会停止工作</string>
+    <string name="unit_date_day">日</string>
+    <string name="unit_tomorrow">次日</string>
+    <string name="unknown">未知</string>
+    <string name="use_phone_tips1">使用手机计步</string>
+    <string name="use_phone_tips2">未绑定手环时将使用手机记录运动数据</string>
+    <string name="cube_ptr_hours_ago"> hours ago</string>
+    <string name="cube_ptr_last_update">last update: </string>
+    <string name="cube_ptr_minutes_ago"> minutes ago</string>
+    <string name="cube_ptr_pull_down">Pull Down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="cube_ptr_refresh_complete">Updated.</string>
+    <string name="cube_ptr_refreshing">Updating...</string>
+    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+    <string name="cube_ptr_seconds_ago"> seconds ago</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="data_not_supported">--</string>
+    <string name="running_hour">%dh</string>
+    <string name="running_hour_min" formatted="false">%dh %dm</string>
+    <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
+    <string name="running_hour_sec" formatted="false">%dh %ds</string>
+    <string name="running_min">%dm</string>
+    <string name="running_min_sec" formatted="false">%dm %ds</string>
+    <string name="running_num_unknown">--</string>
+    <string name="running_percent_mark">%</string>
+    <string name="running_sec">%ds</string>
+    <string name="running_today_null" />
+    <string name="running_year_null" />
 </resources>
