@@ -27,7 +27,7 @@
     <string name="about_location_home">Accueil</string>
     <string name="about_location_office">Travail</string>
     <string name="about_location_other">Autre</string>
-    <string name="about_router_dev_option">Débogage des pages Web/string>
+    <string name="about_router_dev_option">Débogage des pages Web</string>
     <string name="about_router_dev_option_warn">Ce paramètre est destiné aux développeurs. L\'optimisation des pages Web sera désactivée.</string>
     <string name="about_router_get_dev_option_fail">"Impossible d'obtenir des informations de débogage des pages Web"</string>
     <string name="about_router_info">INFO ROUTEUR</string>
