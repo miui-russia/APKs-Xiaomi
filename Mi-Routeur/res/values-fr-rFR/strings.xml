@@ -204,8 +204,8 @@
     <string name="block_device_mode_setting_title">Block Mode Settings</string>
     <string name="block_device_offline">Hors ligne</string>
     <string name="block_device_protected">Protégé</string>
-    <string name="block_device_record">EnregistremeD
-    étails de la liste de blocage</string>
+    <string name="block_device_record">Enregistrement de la liste de blocage</string>
+    <string name="block_device_record_description">Détails de la liste de blocage</string>
     <string name="block_device_record_detail" formatted="false">%s | %s | %s</string>
     <string name="block_device_record_detail_merged" formatted="false">%s | %s</string>
     <string name="block_device_record_empty">No blocked devices</string>
