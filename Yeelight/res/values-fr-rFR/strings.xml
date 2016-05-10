@@ -210,7 +210,7 @@
     <string name="device_cherry_offline_prompt_item4_down">"Par d'autres"</string>
     <string name="device_cherry_offline_prompt_item4_up">Pas connectée</string>
     <string name="device_computer_scene">PC Mode</string>
-    <string name="device_how_to_reset">Comment réinitialiser ？</string>
+    <string name="device_how_to_reset">Comment réinitialiser ?</string>
     <string name="device_mango_offline">La lampe de bureau est non visible</string>
     <string name="device_name_yeelight_bed_common">Yeelight</string>
     <string name="device_name_yeelight_bed_lamp">Lampe Yeelight</string>
@@ -426,14 +426,14 @@
     <string name="title_reset_device">Réinitialiser le périphérique</string>
     <string name="title_share_device_received">Fichier reçu</string>
     <string name="toast_share_device_success">Partage du périphérique avec succés</string>
-    <string name="up_level"Niveau supérieur</string>
+    <string name="up_level">Niveau supérieur</string>
     <string name="wake_up_retrieve_failed">Échec de récupération des informations du réveil en lumière</string>
     <string name="wake_up_sub_info">"La lampe s’allumera faiblement 30 minutes avant l'heure de réveil et s’Intensifiera lentement. Ce qui réveillera le corps doucement, prêt pour une matiné agréable"</string>
     <string name="wake_up_time">Heure du réveil %1$s:%2$s</string>
     <string name="wake_up_title">Réveil en lumière</string>
     <string name="wake_up_turn_off">Réveil en lumière</string>
     <string name="wake_up_turn_on">Réveil en lumière</string>
-    <string name="wechat_not_available"WeChat ne répond pas</string>
+    <string name="wechat_not_available">WeChat ne répond pas</string>
     <string name="wechat_progressing">Synchroniser …</string>
     <string name="welcome_guide_experience">Démarrer</string>
     <string name="wifi_alarm_delete">RAZ de la minuterie ?</string>
