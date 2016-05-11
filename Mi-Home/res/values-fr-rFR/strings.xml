@@ -37,7 +37,9 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
     <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
     <string name="about_check_update">Vérifiez les mises à jour</string>
+    <string name="about_columns">Catégorie</string>
     <string name="about_developer">Paramètres développeurs</string>
+    <string name="about_device">Appareil</string>
     <string name="about_faq">F.A.Q.</string>
     <string name="about_faq_content">"Vérifier si la connexion Wi-Fi est stable
  1.Véfiez si la connexion des périphériques intelligents au Wi-Fi est correcte
@@ -50,13 +52,16 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="about_faq_link">(Voir le F.A.Q.)</string>
     <string name="about_hight_light">Nouveautés</string>
     <string name="about_normal">"Passez à l'environnement normal"</string>
+    <string name="about_region">Région</string>
+    <string name="about_region_language">Locale</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
+    <string name="about_tag">Tag</string>
     <string name="about_test">"Passez à l'environnement de test"</string>
+    <string name="about_update">Mise à jour</string>
     <string name="account_basic_data">Informations de base</string>
     <string name="account_binding">Appairer Compte</string>
     <string name="account_binding_waiting">Veuillez patienter...</string>
     <string name="account_bound">Appairé</string>
-    <string name="account_login">Connexion</string>
     <string name="account_security">Privé</string>
     <string name="account_unbind_alert_msg">"Vous devez vous reconnectez après l'appairage, vous reconnectez ？"</string>
     <string name="account_unbind_alert_title">"Confirmer la suppression de l'appairage"</string>
@@ -297,7 +302,11 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="device_more_activity_unbind">Supprimer le périphérique</string>
     <string name="device_nickname">Nom</string>
     <string name="device_offline">Les périphériques sont déconnectés</string>
-    <string name="device_offline_check">"Veuillez vérifier： 1. Si le périphérique est connecté à l'alimentation électrique; 2. Si la connexion Wi-Fi est normale ; 3. Essayez de réinitialiser le périphérique; lors d'un contrôle, veuillez actualiser la liste"</string>
+    <string name="device_offline_check">"Veuillez vérifier： 
+1. Si le périphérique est connecté à l'alimentation électrique; 
+2. Si la connexion Wi-Fi est normale ; 
+3. Essayez de réinitialiser le périphérique; 
+lors d'un contrôle, veuillez actualiser la liste"</string>
     <string name="device_offline_text">Vérifier:1.Que le périphérique soit connecté et allumé；2.Que le Wi-Fi soit activé et fonctionne correctement；3.Essayez de réinitialiser le périphérique. Après vérification, rafraîchir et essayez à nouveau.</string>
     <string name="device_offline_title">Périphérique déconnecté</string>
     <string name="device_open">Connecté</string>
@@ -418,6 +427,7 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="feedbacking">Envoyez vos commentaires</string>
     <string name="find_mikey">Mi-Clé trouvée</string>
     <string name="find_user_info_error">Utilisateur non trouvé !</string>
+    <string name="footer_error_text">no device found or unable to connect device</string>
     <string name="found_new_unbind_mitvdevice">"Nouvelle TV trouvée, ppuyer pour l'ajouter"</string>
     <string name="found_new_unbind_routerdevice">"Nouveau routeur trouvé, ppuyer pour l'ajouter"</string>
     <string name="friday">Vendredi</string>
@@ -842,8 +852,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="login_dynamic_token_title">"Jeton d'authentification Mi"</string>
     <string name="login_dynamic_token_trust">Vous ne serez pas invité à vérifier à nouveau lors de la connexion à ce périphérique</string>
     <string name="login_forget_password">Mot de passe oublié</string>
-    <string name="login_local_admin_account_login">Connectez-vous au compte administrateur</string>
-    <string name="login_new_user_register"><u>Connexion</u></string>
+    <string name="login_new_user_register">Connexion</string>
     <string name="login_passport_input_fail">"Le nom d'utilisateur ou le mot de passe entré est incorrect"</string>
     <string name="login_passport_login_fail">Vous ne pouvez pas vous connecter à votre compte Mi</string>
     <string name="login_passport_login_waiting">Connexion...</string>
@@ -851,14 +860,11 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="login_password_hint">Mot de passe</string>
     <string name="login_pwd_digit_letter_only">Le mot de passe doit contenir entre 8 et16 caractères, pas que des chiffres ou des lettres</string>
     <string name="login_pwd_no_chinese">Mot de passe ne peut pas contenir de caractères chinois</string>
-    <string name="login_system_account_admin_password"><u>Connectez-vous au compte administrateur</u></string>
     <string name="login_system_login">Connexion</string>
     <string name="login_time_out">Délai de connexion dépassé. Attendez une minute ou deux et essayez à nouveau.</string>
     <string name="login_to_use_location_log">Veuillez vous connecter en utilisant le journal de bord</string>
     <string name="login_verify_code_fail">Le code de vérification que vous avez entré est incorrect</string>
     <string name="login_verify_code_hint">Code de vérification</string>
-    <string name="login_xiaomi_account_login">Connectez-vous à votre compte Mi</string>
-    <string name="login_xiaomi_account_login_link"><u>Connectez-vous à votre compte Mi</u></string>
     <string name="loing_helper_title">"Veuillez vous connecter pour utiliser l'application."</string>
     <string name="m_s">Mo/s</string>
     <string name="mac_address">Address MAC</string>
@@ -1063,22 +1069,6 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="other_device">Autres périphériques</string>
     <string name="other_feedback">Autre</string>
     <string name="parent_device"> Identifiant du périphérique Parent: </string>
-    <string name="passport_binding_account_input_hint">E-mail/Téléphone/Identifiant compte Mi</string>
-    <string name="passport_binding_account_input_prompt">Entrez votre identifiant de compte Mi</string>
-    <string name="passport_binding_account_name">%1$s (%2$s)</string>
-    <string name="passport_binding_advantage_title">Les choses que vous pourrez faire si vous ajouter votre compte Mi:</string>
-    <string name="passport_binding_bind_new_account">Se connecter et ajouter</string>
-    <string name="passport_binding_bind_new_account_link">Ajouter un autre compte Mi</string>
-    <string name="passport_binding_bind_system_account">Ajouter un compte</string>
-    <string name="passport_binding_found_system_account">Compte Mi Trouvé utilisé dans MIUI:</string>
-    <string name="passport_binding_loading">Ajout du compte Mi...</string>
-    <string name="passport_binding_no_empty_tip">Ce champ ne peut être vide</string>
-    <string name="passport_binding_password_input_hint">Mot de passe</string>
-    <string name="passport_binding_title">Ajouter un compte Mi</string>
-    <string name="passport_login_retry_other_passport"><u>Utilisez un autre compte Mi</u></string>
-    <string name="passport_login_retry_prompt">Continuez à utiliser ce compte Mi?</string>
-    <string name="passport_manager">Compte Mi</string>
-    <string name="passport_prompt_login_fail">Vous ne pouvez pas vous connecter à votre compte Mi</string>
     <string name="password_incorrect">Le mot de passe que vous avez entré est incorrect</string>
     <string name="password_invalid">Mot de passe incorrecte</string>
     <string name="password_must_not_empty">Entrez votre mot de passe</string>
@@ -1166,6 +1156,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="plugin_not_installed_hint">Cliquez sur Installer</string>
     <string name="plugin_update_failure">Impossible de mettre à jour</string>
     <string name="plugin_update_immediately">Mettre à jour maintenant</string>
+    <string name="plugin_update_only_one_desc">%s plugin has update</string>
     <string name="plugin_update_success">Mis à jour avec succès</string>
     <string name="preparing_card">Préparation de la carte mémoire...</string>
     <string name="prev_button">Retour</string>
@@ -1981,6 +1972,11 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="write_review_exit_dialog_title_text">Annuler les changements ?</string>
     <string name="write_review_rating_text">"Nombre d'étoiles"</string>
     <string name="write_review_tag_text">Tag</string>
+    <string name="wx_errcode_cancel">Annulé</string>
+    <string name="wx_errcode_deny">Refusé</string>
+    <string name="wx_errcode_failure">Échec</string>
+    <string name="wx_errcode_success">Réussi</string>
+    <string name="wx_errcode_unknown">Erreur inconnue</string>
     <string name="xiaomi_router">Mi-Routeur</string>
     <string name="yeelight_beach">Plage</string>
     <string name="yeelight_bright_value">Luminosité：</string>
@@ -2248,7 +2244,7 @@ Appuyez longuement pour revenir"</string>
     <string name="kuailian_get_error_help_text0">1.Veuillezrafraîchir la liste déroulante dans la page de liste des périphériques</string>
     <string name="kuailian_reset_text">Réinitialisation réussie</string>
     <string name="learn_more_about_device">En savoir plus>></string>
-    <string name="list_item_plugin_only">Liste %d</string>
+    <string name="list_item_plugin_only">%d has update</string>
     <string name="load_done">Chargement achèvement</string>
     <string name="loading">Chargement...</string>
     <string name="loading_more_error">"Échec de la charge, s'il vous plaît cliquez sur Essayez à nouveau"</string>
@@ -2509,11 +2505,6 @@ Appuyez longuement pour revenir"</string>
     <string name="wifi_pwd_changed">Mise à jour automatique nouveau mot de passe du routeur</string>
     <string name="wifi_pwd_changed_fail">Mise à jour Erreur</string>
     <string name="wifi_pwd_changed_succ">Mis à jour avec succés</string>
-    <string name="wx_errcode_cancel">Annulé</string>
-    <string name="wx_errcode_deny">Refusé</string>
-    <string name="wx_errcode_failure">Échec</string>
-    <string name="wx_errcode_success">Réussi</string>
-    <string name="wx_errcode_unknown">Erreur inconnue</string>
     <string name="wx_login_fail">Échec</string>
     <string name="wx_login_success">Réussi</string>
     <string name="wx_not_installed">"Veuillez installer l'application wenxin"</string>
@@ -2525,11 +2516,6 @@ Appuyez longuement pour revenir"</string>
     <string name="yunyi_virtual_camera_create_get_location_fail">Le défaut de recevoir des informations de localisation</string>
     <string name="yunyi_virtual_camera_create_success">"Ajouter Caméra intelligente des fourmis à miel avec succès "</string>
     <string name="zimi_power_name">ZMI puissance mobile intelligent</string>
-    <string name="about_device">Appareil</string>
-    <string name="about_region">Région</string>
-    <string name="about_region_language">Région et langue</string>
-    <string name="about_tag">Gestion tag</string>
-    <string name="about_update">Mettre à jour</string>
     <string name="accept">Accepter</string>
     <string name="account_binding_confilict">Appairage compte échoué, le compte a été lié avec un autre compte Mi !</string>
     <string name="add_condition_error">5 conditions au moins</string>  
@@ -2538,18 +2524,40 @@ Appuyez longuement pour revenir"</string>
     <string name="ble_connect_success_toast">Connexion réussie</string>
     <string name="ble_connecting">Connexion ble</string>
     <string name="ble_connecting_tips">Ne pas garder le téléphone loin</string>
+    <string name="ble_device_offline_check">"1.请确认手机蓝牙是否开启
+2.请确认设备是否在附近;
+3.请检查设备是否上电;
+4.请确认设备未被他人占用
+检查完毕，请重新刷新列表"</string>
+    <string name="ble_rssi_match_failed_line1">配对超时</string>
+    <string name="ble_rssi_match_failed_line2">"请检查手机蓝牙是否正常开启，并确认设备在
+有效距离内已处于通电状态后重试"</string>
+    <string name="ble_rssi_match_line1">请将手机与设备尽量靠近</string>
+    <string name="ble_rssi_match_line2">完成蓝牙配对</string>
     <string name="body_sensor_motion">"Le détecteur de mouvements à détecté quelqu'un"</string>
     <string name="body_sensor_no_motion">Aucune détection</string>
     <string name="choose_body_sensor">Veuillez choisir le détecteur de mouvements</string>
     <string name="choose_home_router">Veuillez sélectionner les routeurs à domicile</string>
     <string name="choose_home_yi_camera">Veuillez sélectionner la caméra de la maison</string>
+    <string name="collapse">Collapse</string>
+    <string name="column_display">显示</string>
+    <string name="column_display_hint">当前栏目显示为空</string>
+    <string name="column_hidden">不显示</string>
+    <string name="column_hidden_hint">当前栏目不显示为空</string>
+    <string name="column_sort_hint">按住右侧拖动可排序</string>
     <string name="connect_wlan">Connexion Wi-Fi</string>
     <string name="connect_wlan_tips">Sélectionner un Wi-Fi disponible</string>
     <string name="device_connect_failed_tips">Assurez-vous que le mot de passe Wi-Fi est correct et le réseau disponible</string>
     <string name="device_connecting">Connexion</string>
     <string name="device_connecting_tips">Assurez-vous que le bluetooth soit activé</string>
+    <string name="device_group_settings">Group Settings</string>
+    <string name="device_group_title_bluetooth">Bluetooth Device</string>
+    <string name="device_group_title_others">Other Device</string>
+    <string name="device_group_title_virtualgroup">Virtual Device</string>
+    <string name="device_list_config_failed_title">smart config failed，click to see more information</string>
     <string name="device_more_activity_noti_quick_op">Notification Bar switch</string>
     <string name="dialog_title_save_sort">Sort operation not saved,sure to quit?</string>
+    <string name="expand">Expand</string>
     <string name="feedback_already_submit">Commentaire soumis. Merci pour votre participation.</string>
     <string name="feedback_app_experience">Applications Expérience</string>
     <string name="feedback_detail">Détails du commentaire</string>
@@ -2562,7 +2570,9 @@ Appuyez longuement pour revenir"</string>
     <string name="feedback_problem">Problèmes de commentaires</string>
     <string name="feedback_title">Aide et Commentaires</string>
     <string name="feedback_waitting">Veuillez patienter, en attente de réponse</string>
-    <string name="footer_error_text">Aucun périphérique trouvé ou incapable de se connecter à un périphérique</string>
+    <string name="go_to_mijia_store">进入米家商城</string>
+    <string name="go_to_mijia_store_tips">"还没有智能设备？
+点击直接购买　"</string>
     <string name="i_know">Je sais</string>
     <string name="kuailian_processing_hint">Assurez-vous que votre routeur, votre téléphone et votre périphérique soient proches les uns des autres</string>
     <string name="login_wx">WeChat</string>
@@ -2616,6 +2626,7 @@ Appuyez longuement pour revenir"</string>
     <string name="tag_ellipsis">...</string>
     <string name="wx_login_cancel">Annuler</string>
     <string name="etc">etc</string>
+    <string name="go_to_mijia_store_tips_international">"You don't have any devices"</string>
     <string name="scene_user_license">Précautions concernant la licence</string>
     <string name="scene_user_license_content">"Lors de l'utilisation les cas suivants, ce produit ne porte aucune responsabilité juridique
  1、Lors de la création d'une scène intelligente, vous êtes déclaré comme volontaire et acceptez cette déclaration.
@@ -2629,6 +2640,8 @@ Appuyez longuement pour revenir"</string>
     <string name="scene_warrning_text">"Note d'information: Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
     <string name="share_pic_not_extern_storage">Stockage insuffisant</string>
     <string name="action_settings">Paramètres</string>
+    <string name="app_kuwan">酷玩</string>
+    <string name="app_loading">加载中...</string>
     <string name="catalyst_debugjs_off">Arrêter Chrome Debugging</string>
     <string name="catalyst_element_inspector_off">Masquer inspecteur</string>
     <string name="catalyst_hot_module_replacement">Activer le Remplacement du module Hot</string>
@@ -2641,10 +2654,19 @@ Appuyez longuement pour revenir"</string>
     <string name="catalyst_remotedbg_message">Connecter avec le débogueur à distance</string>
     <string name="catalyst_start_profile">Lancer le profil</string>
     <string name="catalyst_stop_profile">Arrêtez le profil</string>
+    <string name="developer_shop_api_test">商城接口测试</string>
+    <string name="device_list_shop_virtual3d_desc">炫酷全景漫游 智能生活实况模拟体验</string>
+    <string name="device_list_shop_virtual3d_title">3D体验馆</string>
     <string name="hello_world">Traduit par Angyann et Fays</string>
+    <string name="local_scene_device_offline">设备离线，请上线后重试</string>
+    <string name="local_scene_failed">场景同步本地过程出现异常，建议重试</string>
+    <string name="local_sync_failed">场景同步失败，请更新插件之后再试</string>
     <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
     <string name="miio_setting_forum">Forum</string>
     <string name="location_disable_hint">Si vous refusez la localisation du téléphone, le périphérique ne peut pas être trouvé</string>
+    <string name="scene_execute_location">执行方式</string>
+    <string name="scene_locale_cloud">云端</string>
+    <string name="scene_locale_local">局域网</string>
     <string name="developer_plugin_info">Informations du plug-in développeur</string>
     <string name="wifi_disable_hint">Si vous désactivez le Wi-Fi, le périphérique ne peut pas être trouvé</string>
     <string name="dialog_button_create_yeelight_group">Créer lampes</string>
