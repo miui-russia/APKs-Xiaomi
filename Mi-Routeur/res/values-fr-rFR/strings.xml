@@ -2010,9 +2010,9 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="user_experience_improve_quit">Quitter</string>
     <string name="user_experience_improve_short_desc">Help Xiaomi improve this product by sending us data and usage statistics. [Learn more]</string>
     <string name="videos_group_name_x_num_x">%d items</string>
-    <string name="weixin_bind_app_not_installed">Insttallez WeChat en premier</string>
+    <string name="weixin_bind_app_not_installed">Installez WeChat en premier</string>
     <string name="weixin_confirm_link">Connexion</string>
-    <string name="weixin_qr_activity_title">Connectez au compte WeChat</string>
+    <string name="weixin_qr_activity_title">Connecter au compte WeChat</string>
     <string name="wps_connect_failed_tip">"Couldn't connect to any devices"</string>
     <string name="wps_connect_first_step">Setting up a WPS connection takes less than 2 minutes;</string>
     <string name="wps_connect_second_step">When a user presses the WPS button on a nearby device, it can connect to the network automatically;</string>
@@ -2220,8 +2220,8 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="acc_app_exit_end_btn">彻底退出</string>
     <string name="acc_app_exit_msg">&lt;font color=\"#666666\" >仍在运行，拖慢手机速度&lt;/font>&lt;font color=\"#4185f2\" >%1$d%%&lt;/font>&lt;font color=\"#666666\" >，减少待机时间&lt;/font>&lt;font color=\"#4185f2\" >%2$d分钟。&lt;/font></string>
     <string name="acc_app_exit_result">已彻底退出%1$s</string>
-    <string name="acc_game_item_action_acc_and_open">Démarrez l\'accélération des applications</string>
-    <string name="acc_game_item_action_open">Démarrez l\'application</string>
+    <string name="acc_game_item_action_acc_and_open">Démarrer l\'accélération des applications</string>
+    <string name="acc_game_item_action_open">Démarrer l\'application</string>
     <string name="acc_game_item_action_remove">Annuler l\'accélération</string>
     <string name="acc_percent_unit">%</string>
     <string name="acc_service_name">MG强效服务</string>
@@ -2405,7 +2405,7 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="superacc_game_acc_close_header">Cette fonctionnalité est désactivée, vous ne pouvez pas commencer à accélérer</string>
     <string name="superacc_game_acc_guide_tips">给喜欢的应用加速</string>
     <string name="superacc_game_acc_no_item_msg">未匹配到应用, 请手动添加</string>
-    <string name="superacc_game_acc_open">Activez l\'accélération</string>
+    <string name="superacc_game_acc_open">Activer l\'accélération</string>
     <string name="superacc_game_acc_open_header">Lorsque l\'application démarre, la vitesse automatique est de 50%</string>
     <string name="superacc_game_acc_title">Accélération des applications</string>
     <string name="superacc_low_power_monitor_msg">手机快没电啦！点此延长待机时间%1$d分钟</string>
@@ -2416,7 +2416,7 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="superacc_screen_unlock_entend_time">Verrouiller l\'économiseur d\'écran</string>
     <string name="superacc_screen_unlock_entend_time_hour">%1$d heure</string>
     <string name="superacc_screen_unlock_entend_time_min">%1$d minutes</string>
-    <string name="superacc_setting_guide_step1_section1">1. Localisez</string>
+    <string name="superacc_setting_guide_step1_section1">1. Localiser</string>
     <string name="superacc_setting_guide_step1_section2">\"services \" > \"</string>
     <string name="superacc_setting_guide_step1_section3">百度卫士强效服务</string>
     <string name="superacc_setting_guide_step1_section4">\"</string>
