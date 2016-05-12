@@ -1182,6 +1182,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="file_explorer_item_title4">Recherche par répertoire</string>
     <string name="file_explorer_title">Envoyer un fichier</string>
     <string name="file_format_not_supported">Le système ne prend pas en charge ce format</string>
+    <string name="file_is_will_expired">" [%s maturité]"</string>
     <string name="file_not_exist">"Le Fichier n'existe pas"</string>
     <string name="file_not_exist_toast">"La photo n'existe pas"</string>
     <string name="file_path">"Chemin d'accès:"</string>
@@ -2177,7 +2178,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="member_count_already_max_level">%1$s nombre de membres ont déjà max %2$d limite</string>
     <string name="member_count_limit_hint">Membre limité à %d personnes</string>
     <string name="member_count_next_level_hint">Mise à jour de %1$d members %2$s</string>
-    <string name="member_count_update_condition_hint">%1$s a %2$d membres peuvent mettre à jour</string>
+    <string name="member_count_update_condition_hint">%1$s à %2$d membres peuvent mettre à jour</string>
     <string name="member_list_sort">Trier</string>
     <string name="member_manager_no_member">Aucun membres</string>
     <string name="member_not_in_group">Ce membre a déjà quitté le groupe</string>
@@ -2185,6 +2186,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_view">Démarrer une discussion</string>
     <string name="message_detail">Détails du message</string>
+    <string name="message_item_share">Partager</string>
     <string name="message_record_audio_permission">"Enregistrement besoin d'autorisations appropriées, désormais fixés ?"</string>
     <string name="miID_uninitialized">Identifiant Mi pas encore confirmé</string>
     <string name="mi_nickname">Mi-Talk: %s</string>
@@ -3851,6 +3853,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="save_image_succeeded">Enregistré dans la galerie</string>
     <string name="save_muc_barcode">Enregistrer le QR code du groupe sur votre téléphone</string>
     <string name="save_multimedia">Enregistrer</string>
+    <string name="save_orgin_pic_failed">Cliquez pour agrandir ou attendre un moment et essayez à nouveau</string>
     <string name="save_video_succeeded">Sauvegardé dans la galerie</string>
     <string name="saving_image">Sauvegarde…</string>
     <string name="say_hello">Dites bonjour !</string>
