@@ -131,8 +131,8 @@
     <string name="bind_password_hint">Entrer le mot de passe</string>
     <string name="bind_password_prompt">Mot de passe</string>
     <string name="bind_search_error_1">Activez le WiFi maintenant.</string>
-    <string name="bind_search_error_2">Impossible d'obtenir d'informations du routeur"</string>
-    <string name="bind_search_error_3">"Impossible d'obtenir d'informations du routeur"</string>
+    <string name="bind_search_error_2">Impossible d\'obtenir des informations du routeur"</string>
+    <string name="bind_search_error_3">"Impossible d'obtenir des informations du routeur"</string>
     <string name="bind_search_error_4">Aucun routeurs détectés</string>
     <string name="bind_search_error_5">Aucun nouveau Mi-Routeur détecté</string>
     <string name="bind_search_error_6">Aucun nouveau Mi-Routeur détecté</string>
@@ -178,7 +178,7 @@
     <string name="block_device_crack_router_management_password_frequency_x">Trying to get router admin password %d times per minute</string>
     <string name="block_device_crack_wifi_password">Essayer d\'obtenir un mot de passe Wi-Fi</string>
     <string name="block_device_crack_wifi_password_frequency_x">Trying to get Wi-Fi password %d times per minute</string>
-    <string name="block_device_crack_xiaomi_router">Tentative d'\obtention du mot de passe du Mi-Routeur</string>
+    <string name="block_device_crack_xiaomi_router">Tentative d\'obtention du mot de passe du Mi-Routeur</string>
     <string name="block_device_crack_xiaomi_router_management_password">Tentative d\'obtention du mot de passe du routeur</string>
     <string name="block_device_crack_xiaomi_wifi_password">Tentative d\'obtention du mot de passe Wi-Fi</string>
     <string name="block_device_danger_level">Risque</string>
@@ -299,7 +299,7 @@
     <string name="bootstrap_admin_password_tip">Définir également en tant que mot de passe administrateur du routeur</string>
     <string name="bootstrap_check_dhcp_tip">Connexion Internet détectée</string>
     <string name="bootstrap_check_wan_mode_failed">"Impossible d'obtenir le type de réseau"</string>
-    <string name="bootstrap_check_wan_mode_loading">En cours d'obtention du type de réseau</string>
+    <string name="bootstrap_check_wan_mode_loading">En cours d\'obtention du type de réseau</string>
     <string name="bootstrap_check_wan_mode_tip">Connexion en cours de vérification…</string>
     <string name="bootstrap_default_mode">Primary base station</string>
     <string name="bootstrap_default_mode_tip">Paramétrer une connexion Internet et un réseau sans fil</string>
@@ -418,7 +418,7 @@ Le matériel de réseautage de votre FAI ne fonctionne pas correctement. Contact
     <string name="clean_cache_cleaning">Vidage…</string>
     <string name="clean_cache_do_clean">Vider le cache</string>
     <string name="clean_cache_fail">Impossible de vider cache</string>
-    <string name="clean_cache_hint">Beaucoup trop d'information est stockée en cache sur votre périphérique.
+    <string name="clean_cache_hint">"Beaucoup trop d'information est stockée en cache sur votre périphérique.
 Cela peut nuire aux performances de votre routeur, essayer de vider le cache."</string>
     <string name="clean_cache_item_desc">"Les fichiers de sauvegarde et de téléchargement ne seront pas supprimés"</string>
     <string name="clean_cache_one_click_clean">Vider le cache</string>
@@ -516,7 +516,7 @@ Cela peut nuire aux performances de votre routeur, essayer de vider le cache."</
     <string name="client_download_smarthome_apk_under_wifi">Tirer le meilleur de vos périphériques Mi en utilisant l\'application officielle Mi-Home.</string>
     <string name="client_fail_to_call_smarthome_for_offline">Le périphérique est hors ligne. Rafraichir et essayer à nouveau.</string>
     <string name="client_failed_to_call_for_obsolete_smarthome_app">Mettre à jour Mi-Home et essayer à nouveau</string>
-    <string name="client_failed_to_call_smarthome">Impossible d\'accéder à l'\application Mi-Home</string>
+    <string name="client_failed_to_call_smarthome">Impossible d\'accéder à l\'application Mi-Home</string>
     <string name="client_list_delete_offline_device">Supprimer l\historique hors ligne de ce périphérique ?</string>
     <string name="client_list_empty_prompt">Aucun périphérique connecté</string>
     <string name="client_list_high_speed_mode">Priorité haute</string>
@@ -566,7 +566,7 @@ Vous pouvez gérer la bande passante manuellement dans Outils</string>
     <string name="client_qos_speed_mode_off">Réglages</string>
     <string name="client_qos_speed_mode_unknown">Aucune limite définie</string>
     <string name="client_qos_test_band_width">Like %dMbps LAN</string>
-    <string name="client_qos_test_speed_prompt_1">Cette option néccesite un test de débit d'\abord</string>
+    <string name="client_qos_test_speed_prompt_1">Cette option néccesite un test de débit d\'abord</string>
     <string name="client_qos_test_speed_prompt_2">Test de débit en cours…</string>
     <string name="client_qos_unlimited_download_band">Ne pas limiter la bande passante pour les téléchargements"</string>
     <string name="client_qos_unlimited_upload_band">Ne pas limiter la bande passante pour les débits sortants</string>
