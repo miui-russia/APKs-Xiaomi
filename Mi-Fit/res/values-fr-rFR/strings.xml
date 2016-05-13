@@ -400,8 +400,8 @@ Continurer quand même ?"</string>
     <string name="goal_rank">%1$s, devant %2$d%% de personnes</string>
     <string name="goal_weight_for_figure">Objectif de Poids : %s</string>
     <string name="googlefit">Google Fit</string>
-    <string name="got_it">"C'est compris"</string>
-    <string name="gotit">"C'est compris"</string>
+    <string name="got_it">OK</string>
+    <string name="gotit">OK</string>
     <string name="green">Vert</string>
     <string name="has_close">Désactivé</string>
     <string name="heart_rate_times">Fréquence cardiaque %1$d BPM</string>
@@ -478,13 +478,21 @@ Ajoutez Mi-Fit aux exceptions"</string>
     <string name="input_precise_user_info">"S'il vous plaît entrer des informations personnelles précises afin d'analyser avec précision les données de santé"</string>
     <string name="install_google_fit_tips">"Installer Google Fit d'abord"</string>
     <string name="install_weixin_tips">"Installer d'abord WeChat"</string>
-    <string name="instruction_tip_1">"Jetez un coup d'oeil à votre progression"</string>
-    <string name="instruction_tip_2_1">"Moins d'1/3 de votre objectif"</string>
-    <string name="instruction_tip_2_2">"Plus d'1/3 de votre objectif"</string>
-    <string name="instruction_tip_2_3">Plus de 2/3 de votre objectif</string>
-    <string name="instruction_tip_2_4">Bravo ! Vous avez atteint votre objectif de la journée</string>
-    <string name="instruction_tip_2_5">Vous avez dépassé votre objectif</string>
-    <string name="instruction_tip_3">Merci de recharger le Mi-Fit</string>
+    <string name="instruction_tip_1">"Jetez un coup d'oeil 
+à votre 
+progression"</string>
+    <string name="instruction_tip_2_1">"Moins d'1/3 
+de votre objectif"</string>
+    <string name="instruction_tip_2_2">"Plus d'1/3 
+de votre objectif"</string>
+    <string name="instruction_tip_2_3">Plus de 2/3 
+de votre objectif</string>
+    <string name="instruction_tip_2_4">Bravo ! 
+Vous avez atteint votre objectif de la journée</string>
+    <string name="instruction_tip_2_5">Vous avez dépassé 
+votre objectif</string>
+    <string name="instruction_tip_3">Merci de recharger 
+le Mi-Fit</string>
     <string name="instruction_title">Mieux utiliser son Mi-Fit</string>
     <string name="instruction_weight_page6_t1">Portez des vêtements légers</string>
     <string name="instruction_weight_page6_t2">Placez les deux pieds fermement sur le centre de la balance</string>
@@ -507,6 +515,7 @@ Ajoutez Mi-Fit aux exceptions"</string>
     <string name="instruction_weight_title_6">en cours de pesage</string>
     <string name="invalid_name">"Le nom contient un caractère non conforme, s'il vous plaît entrer de nouveau"</string>
     <string name="label_accept_add_friend_by_him">Demande acceptée</string>
+    <string name="kilo_cal">" cal"</string>
     <string name="label_accepted">Accepté</string>
     <string name="label_activity">Pas</string>
     <string name="label_activity_record">"%1$s/%2$s Historique d'activité"</string>
@@ -560,7 +569,7 @@ Ajoutez Mi-Fit aux exceptions"</string>
     <string name="label_sleep_time_detail">" %1$s h %2$s min"</string>
     <string name="label_sport_data">"Données d'activité"</string>
     <string name="label_step">Pas</string>
-    <string name="label_step_with_unit">%s Pas</string>
+    <string name="label_step_with_unit">%s</string>
     <string name="label_uid">ID du Compte Mi: %1$s</string>
     <string name="label_update_time">Mis à jour le %s</string>
     <string name="label_weight">Poids actuel</string>
@@ -626,7 +635,7 @@ la plage de mesure (%s)"</string>
     <string name="mi_band_alarm">Alarme</string>
     <string name="mi_band_connect_failed">Impossible de se connecter, réessayez</string>
     <string name="mi_band_help">Aide</string>
-    <string name="miband_alarm_delay_tips_days">Vibrer dans %1$s j %2$s h %3$ smin</string>
+    <string name="miband_alarm_delay_tips_days">Vibrer dans %1$s j %2$s h %3$s min</string>
     <string name="miband_alarm_delay_tips_days_hour">Vibrer dans %1$s j %2$s h</string>
     <string name="miband_alarm_delay_tips_days_min">Vibrer dans %1$s j %2$s m</string>
     <string name="miband_alarm_delay_tips_days_only">Vibrer dans %1$s j</string>
