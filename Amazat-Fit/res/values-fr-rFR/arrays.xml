@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="band_searching_tips">
+        <item>Gardez votre Amazfit à proximité</item>
+        <item>"Please make sure your
+Amazfit has power and is nearby."</item>
+        <item>"Please try to keep
+other Bluetooth devices away."</item>
+        <item>"If this band was paired with another
+phone before, please turn Bluetooth off on that phone."</item>
+        <item>"If this band was paired with
+another account before, please unpair them first."</item>
+        <item>"A band can only be paired
+with one account at the same time."</item>
+    </string-array>
+    <string-array name="common_switch">
+        <item>Ouvrir</item>
+        <item>Quitter</item>
+        <item>Annuler</item>
+    </string-array>
     <string-array name="mode_week_start_from_monday">
-        <item>L</item>
-        <item>M</item>
-        <item>M</item>
-        <item>J</item>
-        <item>V</item>
-        <item>S</item>
-        <item>D</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
     </string-array>
     <string-array name="mode_week_start_from_sunday">
-        <item>D</item>
-        <item>L</item>
-        <item>M</item>
-        <item>M</item>
-        <item>J</item>
-        <item>V</item>
-        <item>S</item>
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
     </string-array>
     <string-array name="running_months">
         <item>Jan</item>
@@ -30,20 +48,7 @@
         <item>Sept</item>
         <item>Oct</item>
         <item>Nov</item>
-        <item>Déc</item>
-    </string-array>
-    <string-array name="searching_band_tips">
-        <item>Please keep your Amazfit close by.</item>
-        <item>"Please make sure your
-Amazfit has power and is nearby."</item>
-        <item>"Please try to keep
-other Bluetooth devices away."</item>
-        <item>"If this band was paired with another
-phone before, please turn Bluetooth off on that phone."</item>
-        <item>"If this band was paired with
-another account before, please unpair them first."</item>
-        <item>"A band can only be paired
-with one account at the same time."</item>
+        <item>Dec</item>
     </string-array>
     <string-array name="wear_way">
         <item>Poignet</item>
@@ -59,4 +64,16 @@ with one account at the same time."</item>
         <item>Sam</item>
         <item>Dim</item>
     </string-array>
+    <string-array name="btg_report_tag_priority_name">
+        <item>Banal</item>
+        <item>Mineur</item>
+        <item>Majeur</item>
+        <item>Blocker</item>
+    </string-array>
+    <array name="btg_tag_priority_res">
+        <item>@drawable/btg_icon_priority_0_full</item>
+        <item>@drawable/btg_icon_priority_1_full</item>
+        <item>@drawable/btg_icon_priority_2_full</item>
+        <item>@drawable/btg_icon_priority_3_full</item>
+    </array>
 </resources>
