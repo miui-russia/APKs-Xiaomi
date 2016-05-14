@@ -54,7 +54,7 @@
     <string name="back_name_less_limit_30">"Le nombre de caractères ne peut pas dépasser 30"</string>
     <string name="back_name_less_limit_not_null">"Le nom ne peut pas être vide"</string>
     <string name="backup_auto_backup_this_device">Sauvegarder automatique ce périphérique</string>
-    <string name="backup_auto_backup_when_router_wifi_connected">Sauvegarder lorsque vous êtes connecté au WiFi du Mi-Router</string>
+    <string name="backup_auto_backup_when_router_wifi_connected">Sauvegarder lorsque vous êtes connecté au WiFi du Mi-Routeur</string>
     <string name="backup_auto_rebackup_for_router_directory_deleted">"Aucune sauvegarde du Mi-Routeur n\'a été trouvée. Nouvelle sauvegarde créée."</string>
     <string name="backup_backing_up_x">Sauvegarde %s</string>
     <string name="backup_cancel_backup">" "<u>Annuler la sauvegarde</u>" "</string>
@@ -1029,9 +1029,9 @@ Size: %4$s"</string>
     <string name="file_movie_empty">No videos</string>
     <string name="file_movie_recently_play">Recently viewed</string>
     <string name="file_need_miwifi_description1">Remote viewing not supported</string>
-    <string name="file_need_miwifi_description2">You need to connect to Mi Router first</string>
+    <string name="file_need_miwifi_description2">You need to connect to Mi-Routeur first</string>
     <string name="file_no_disk_checked">No hard drive detected</string>
-    <string name="file_no_disk_checked_description">You need to connect an external hard drive before using Mi Router to back up or share files.</string>
+    <string name="file_no_disk_checked_description">You need to connect an external hard drive before using Mi-Routeur to back up or share files.</string>
     <string name="file_no_external_disk_checked">Connect external hard drive</string>
     <string name="file_no_external_disk_checked_description">"Connect to external hard drive to router's USB port."</string>
     <string name="file_open_add_to_download">"Add to router's downloads"</string>
@@ -1199,7 +1199,7 @@ View the files using Tools"</string>
     <string name="guest_wifi_setting_save_tip_2">To apply changes, router needs to switch to %s. Wi-Fi connection may be briefly interrupted.</string>
     <string name="guest_wifi_setting_title">Guest Wi-Fi settings</string>
     <string name="guest_wifi_setting_unbind_sns">Unpair WeChat</string>
-    <string name="guest_wifi_setting_unbind_sns_failed">"Couldn't unpair. Try again, or unfollow \"Mi Router\" WeChat account"</string>
+    <string name="guest_wifi_setting_unbind_sns_failed">"Couldn't unpair. Try again, or unfollow \"Mi-Routeur\" WeChat account"</string>
     <string name="guest_wifi_sns_bind">Paired devices</string>
     <string name="guest_wifi_sns_bind_tip">"After pairing, go back to the router's app
 to complete"</string>
@@ -1213,11 +1213,11 @@ to complete"</string>
     <string name="guest_wifi_tool_description">Establish a separate safe network for your friends</string>
     <string name="guest_wifi_tool_title">Guest Wi-Fi</string>
     <string name="guest_wifi_wx_connect_failed">"Couldn't reach WeChat services"</string>
-    <string name="guest_wifi_wx_connect_tip">Allow Mi Router access your WeChat services. After that, your WeChat friends will be able to connect to your Wi-Fi without a password.</string>
+    <string name="guest_wifi_wx_connect_tip">Allow Mi-Routeur access your WeChat services. After that, your WeChat friends will be able to connect to your Wi-Fi without a password.</string>
     <string name="guest_wifi_wx_connect_title">WeChat services</string>
     <string name="guest_wifi_wx_display_header_description">Show WeChat profile pic on the verification page</string>
     <string name="guest_wifi_wx_display_header_title">Show WeChat profile pic</string>
-    <string name="guest_wifi_wx_share_text">Mi Router allows to share Wi-Fi with WeChat friends without entering the password</string>
+    <string name="guest_wifi_wx_share_text">Mi-Routeur allows to share Wi-Fi with WeChat friends without entering the password</string>
     <string name="guest_wifi_wx_share_tip_button">Share to WeChat Moments</string>
     <string name="guest_wifi_wx_share_tip_message">Share info about this feature with friends!</string>
     <string name="guest_wifi_wx_share_tip_title">Done</string>
@@ -1248,8 +1248,8 @@ to complete"</string>
     <string name="invitation_empty_description">"Admin can view and change router's settings,
 but can't add other admin."</string>
     <string name="invitation_empty_message">Add admin</string>
-    <string name="invitation_exceed_limit">"Mi Router can't have more than 5 administrators"</string>
-    <string name="invitation_feed_message">%s invited you to share a Mi Router</string>
+    <string name="invitation_exceed_limit">"Mi-Routeur can't have more than 5 administrators"</string>
+    <string name="invitation_feed_message">%s invited you to share a Mi-Routeur</string>
     <string name="invitation_guest_forbidden">"You aren't permitted to perform this action"</string>
     <string name="invitation_guest_not_invite_permission">"Guests can't invite other guests"</string>
     <string name="invitation_lookup_failed">"Couldn't get Mi Account info"</string>
@@ -1257,14 +1257,14 @@ but can't add other admin."</string>
     <string name="invitation_phone_add">Add from contacts</string>
     <string name="invitation_phone_not_found">"Couldn't get contacts"</string>
     <string name="invitation_process_failed">"Couldn't send invitation"</string>
-    <string name="invitation_process_title">Mi Router shared</string>
+    <string name="invitation_process_title">Mi-Routeur shared</string>
     <string name="invitation_process_waiting">Un instant</string>
     <string name="invitation_refuse">" "<u>Reject</u>" "</string>
     <string name="invitation_send">Share</string>
-    <string name="invitation_send_description">This person needs to sign in using the Mi Router app to accept your invitation.</string>
+    <string name="invitation_send_description">This person needs to sign in using the Mi-Routeur app to accept your invitation.</string>
     <string name="invitation_send_failed">"Couldn't send invitation"</string>
     <string name="invitation_send_successful">"Invitation sent.
-Recipient should accept it in Mi Router app"</string>
+Recipient should accept it in Mi-Routeur app"</string>
     <string name="invitation_send_successful_tip_center">tap Mi Home app icon</string>
     <string name="invitation_send_successful_tip_prefix">Admin rights required, if you want to share the device</string>
     <string name="invitation_send_successful_tip_suffix">Working</string>
@@ -1322,11 +1322,11 @@ Recipient should accept it in Mi Router app"</string>
     <string name="main_auto_switch_after_bind">Added, switched to %s</string>
     <string name="main_auto_switch_after_demote_self">Admin removed. Switched to %s</string>
     <string name="main_auto_switch_after_unbind">Removed! Switched to %s.</string>
-    <string name="main_client">Mi Router</string>
+    <string name="main_client">Mi-Routeur</string>
     <string name="main_download">View videos</string>
     <string name="main_file">Storage</string>
     <string name="main_handle_account_exception">Sign in again</string>
-    <string name="main_invitation_text">%s shared a Mi Router</string>
+    <string name="main_invitation_text">%s shared a Mi-Routeur</string>
     <string name="main_invitation_view">View</string>
     <string name="main_personal_center">Mi Account</string>
     <string name="main_rom_incompatible">You need to update your router to use this feature.</string>
@@ -1535,7 +1535,7 @@ router's hard drive. You can't reverse this action!"</string>
     <string name="relay_bad_siginal_hint1">Current position and signal could be better</string>
     <string name="relay_bad_siginal_hint2">Relocate the device to the area with better signal</string>
     <string name="relay_check_upgrade">Refresh</string>
-    <string name="relay_connect_first_step">"Connect Mi Repeater to Mi Router's USB port;"</string>
+    <string name="relay_connect_first_step">"Connect Mi Repeater to Mi-Routeur's USB port;"</string>
     <string name="relay_connect_second_step">When the notification light turns blue, Mi Repeater has been paired successfully;</string>
     <string name="relay_connect_steps_prompt">Follow these steps to connect</string>
     <string name="relay_connect_third_step">Connect Mi Repeater to powered USB port</string>
@@ -1699,7 +1699,7 @@ Most features of the router app can't be used while the scan is in progress. You
     <string name="setting_wifi_signal_strength_mid">Normal</string>
     <string name="setting_wifi_signal_strength_min">Weak</string>
     <string name="setting_wifi_signal_strength_type">Signal strength</string>
-    <string name="setting_wifi_turnoff_local_used_promot">"Turning off Wi-Fi will interrupt your device's connection with Mi Router."</string>
+    <string name="setting_wifi_turnoff_local_used_promot">"Turning off Wi-Fi will interrupt your device's connection with Mi-Routeur."</string>
     <string name="setting_wifi_turnoff_prompt">All connected devices will temporarily lose connection to the router. Continue anyway?</string>
     <string name="setting_wifi_turnoff_prompt_guest_wifi">All connected devices will lose connection to the router. Continue anyway?</string>
     <string name="share">Share</string>
@@ -1721,7 +1721,7 @@ Most features of the router app can't be used while the scan is in progress. You
     <string name="state_fix_result_desc2_ok">No problems with file system found</string>
     <string name="statistics_storage">Storage</string>
     <string name="statistics_storage_extdisk">Removable storage</string>
-    <string name="statistics_storage_harddisk">Mi Router hard drive</string>
+    <string name="statistics_storage_harddisk">Mi-Routeur hard drive</string>
     <string name="statistics_storage_indexing_tip">Getting more info… (current stats may not be accurate)</string>
     <string name="statistics_storage_usage" formatted="false">%s GB available | %s GB total</string>
     <string name="statistics_storage_usage_camera">Phone videos</string>
@@ -1798,7 +1798,7 @@ Last updated: %3$s"</string>
     <string name="tool_market_updating">Updating…</string>
     <string name="tool_market_waiting">Waiting…</string>
     <string name="tool_miphone_backup">Mi Phone backup &amp; restore</string>
-    <string name="tool_miphone_backup_desc">Back up and restore data on your phone using Mi Router</string>
+    <string name="tool_miphone_backup_desc">Back up and restore data on your phone using Mi-Routeur</string>
     <string name="tool_miphone_backup_error">"Remote backups aren't supported"</string>
     <string name="tool_mpk_file_select">Choose plug-in</string>
     <string name="tool_mpk_open_error">"Couldn't open plug-in"</string>
@@ -1843,7 +1843,7 @@ usage"</string>
 usage"</string>
     <string name="tool_taskmanager_running">Working…</string>
     <string name="tool_taskmanager_status_unopen">Off</string>
-    <string name="tool_taskmanager_system_app_desc">"This is Mi Router's core system app, it can't be stopped."</string>
+    <string name="tool_taskmanager_system_app_desc">"This is Mi-Routeur's core system app, it can't be stopped."</string>
     <string name="tool_taskmanager_task">Tasks</string>
     <string name="tool_taskmanager_task_finishing">Ending %s…</string>
     <string name="tool_taskmanager_task_open_success">Task started successfully</string>
@@ -1961,10 +1961,10 @@ usage"</string>
     <string name="udriver_install_usb_error_init">"Couldn't initialize storage device"</string>
     <string name="udriver_install_usb_error_init_tips">Reboot router and try again.</string>
     <string name="udriver_install_usb_error_network">"Can't connect to network"</string>
-    <string name="udriver_install_usb_error_network_tips">Mi Router needs an internet connection to initialize USB removable storage.</string>
+    <string name="udriver_install_usb_error_network_tips">Mi-Routeur needs an internet connection to initialize USB removable storage.</string>
     <string name="udriver_install_usb_error_speed_low_protection">Operation timed out</string>
     <string name="udriver_install_usb_error_speed_low_protection_tips">Continue using this storage device?</string>
-    <string name="udriver_install_usb_error_tips">Update Mi Router or Mi Router app and try again.</string>
+    <string name="udriver_install_usb_error_tips">Update Mi-Routeur or Mi-Routeur app and try again.</string>
     <string name="udriver_install_usb_error_write_protection">"Can't write to removable storage"</string>
     <string name="udriver_install_usb_error_write_protection_tips">Make sure that permissions for this storage device are set to read/write.</string>
     <string name="udriver_please_insert_usb">Connect USB removable storage</string>
@@ -1982,25 +1982,25 @@ usage"</string>
     <string name="user_experience_improve_join">Joindre</string>
     <string name="user_experience_improve_joined_hint">"You're currently participating in our
 User Experience Program"</string>
-    <string name="user_experience_improve_license">"Mi Router App User Experience Program
+    <string name="user_experience_improve_license">"Mi-Routeur App User Experience Program
  
- Xiaomi Inc. (\"Xiaomi\") invite you to take part in our User Experience Program (\"the Program\"). If you choose participate, data and usage statistics for Mi Router app will be sent to Xiaomi so that we can better understand how this product is being used.
+ Xiaomi Inc. (\"Xiaomi\") invite you to take part in our User Experience Program (\"the Program\"). If you choose participate, data and usage statistics for Mi-Routeur app will be sent to Xiaomi so that we can better understand how this product is being used.
  
-We don't collect any personally identifiable information or user data (contacts, call history, etc.) as a part of the Program. We collect statistics about how (and how often) you use Mi Router's various features.
+We don't collect any personally identifiable information or user data (contacts, call history, etc.) as a part of the Program. We collect statistics about how (and how often) you use Mi-Routeur's various features.
  
  1. Opting in or out
  You can opt in or out of the Program anytime in Settings.
  
  2. Purpose of this Program
- We aggregate your data and usage statistics into anonymous statistics to help us learn more about how Mi Router is being used and improve overall stability and quality. More specifically, we use this info for the following:
+ We aggregate your data and usage statistics into anonymous statistics to help us learn more about how Mi-Routeur is being used and improve overall stability and quality. More specifically, we use this info for the following:
  1. Pushing new updates and repairing bugs as quickly as possible.
  2. Optimizing router performance for different types of connections (e.g. ADSL, Optical fiber).
- 3. Making sure the Mi Router is compatible with as many different types of devices as possible
+ 3. Making sure the Mi-Routeur is compatible with as many different types of devices as possible
  4. Improving connectivity and features for Mi devices.
- 5. Provide anonymous data usage statistics for plug-in developers for Mi Router.
+ 5. Provide anonymous data usage statistics for plug-in developers for Mi-Routeur.
  
  3. Updates to the Program
- We're always changing and improving our products, we may also make changes to the Program. If we do, we'll notify you via a notification in the Mi Router app.
+ We're always changing and improving our products, we may also make changes to the Program. If we do, we'll notify you via a notification in the Mi-Routeur app.
  
  Xiaomi Inc.
 "</string>
