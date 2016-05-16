@@ -82,15 +82,18 @@
     <string name="active_text_summary_0_run">Vous avez couru pendant</string>
     <string name="active_text_summary_0_walk">Vous avez marché pendant</string>
     <string name="active_text_summary_1_active">min, brûlée</string>
+    <string name="active_text_summary_1_active_child">min, </string>
     <string name="active_text_summary_1_run">%s, brûlée</string>
+    <string name="active_text_summary_1_run_child">%s, </string>
     <string name="active_text_summary_1_walk">pas, brûlée</string>
+    <string name="active_text_summary_1_walk_child">Pas, </string>
     <string name="activity_calorie">Activity Burn</string>
     <string name="adapter_deep_sleep">Sommeil profond</string>
     <string name="adapter_deep_sleep_short">Sommeil profond</string>
     <string name="adapter_shallow_sleep">Sommeil léger</string>
     <string name="adapter_shallow_sleep_short">Sommeil léger</string>
-    <string name="adapter_sleep_time">Time</string>
-    <string name="adapter_sleep_time_short">Time</string>
+    <string name="adapter_sleep_time">Temps</string>
+    <string name="adapter_sleep_time_short">Temps</string>
     <string name="add_family_member_add_failed_msg">Merci de vérifier le réseau et réessayez.</string>
     <string name="add_family_member_add_failed_title">Impossible d\'ajoutée.</string>
     <string name="add_family_member_add_succ">Ajoutée</string>
@@ -288,6 +291,7 @@ Track your body data such as weight, body fat, and provide analysis and advices 
     <string name="continue_update">Continuer</string>
     <string name="credit_text_summary_0">完成</string>
     <string name="credit_text_summary_1">任务，获得</string>
+    <string name="credit_text_summary_1_child">任务, </string>
     <string name="credits_daily_task">日常任务</string>
     <string name="credits_get_reward">领取奖励</string>
     <string name="credits_get_x_energy">可获得%1$s能量</string>
@@ -389,9 +393,11 @@ Experience more functions after adding them."</string>
     <string name="device_sync_time_more_than">%s ago</string>
     <string name="device_sync_time_more_than_hours">%s hours ago</string>
     <string name="device_sync_time_more_than_mins">%s mins ago</string>
+    <string name="device_sync_time_not_sync">no history</string>
     <string name="device_title_bind">%s(Connected)</string>
     <string name="device_title_binding">%s(Connecting)</string>
     <string name="device_title_not_bind">%s(Unconnected)</string>
+    <string name="device_unknown_title">Unknown Device</string>
     <string name="device_wear_way_hand">Poignet</string>
     <string name="device_wear_way_neck">Cou</string>
     <string name="dialog_btn_cancel">Annuler</string>
@@ -656,6 +662,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="remind_searching">Connexion à AmazFit…</string>
     <string name="remind_searching_failed_1">"Veuillez vous assurer que votre AmazFit soit chargé et qu'il soit à proximité."</string>
     <string name="remind_searching_failed_2">"Veuillez redémarrer la fonction Bluetooth sur votre téléphone et essayez à nouveau."</string>
+    <string name="remind_searching_failed_3">Please stand on the weight scale.</string>
     <string name="remind_title">Notifications</string>
     <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible uniquement lorsque l\'appairage est fait</string>
     <string name="run_tab">Courir</string>
@@ -790,6 +797,13 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
  Veuillez vous assurer que AmazFit est dans la liste blanche."</string>
     <string name="set_call_remind_tip_three">Merci de garder le band et le téléphone connecté entre eux.</string>
     <string name="set_call_remind_title">"Notification d'appel"</string>
+    <string name="set_wear_detail">"In this way, your Amazfit may slip easily
+ during your sleep, thus making sleep tracking relatively inaccurate."</string>
+    <string name="set_wear_finish">OK</string>
+    <string name="set_wear_hand">Wrist</string>
+    <string name="set_wear_info">To revise please go to ★ My Device-Amazfit Band.</string>
+    <string name="set_wear_neck">Neck</string>
+    <string name="set_wear_title">Where would you like to wear your Amazfit?</string>
     <string name="setting_goal_btn_save">Sauvegarder</string>
     <string name="setting_goal_calorie_goal">Brûlés</string>
     <string name="setting_goal_cancel">Annuler</string>
@@ -968,6 +982,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="unbind_toast_net_disconn">Pas de connexion réseau</string>
     <string name="unbind_toast_success">Désappairage réussie</string>
     <string name="unbind_txt_tip">AmazFit va cesser de fonctionner après appairage.</string>
+    <string name="unbind_unsupport_device">Binding unsupported devices, select remove</string>
     <string name="unbind_weixin_failed">"Échec, vérifier votre connexion réseau."</string>
     <string name="unbind_weixin_succ">Réussi</string>
     <string name="unbind_wx">Retirer</string>
@@ -1114,14 +1129,11 @@ Traduction : Miui-France"</string>
     <string name="choose_tag_item">你将标注什么项目？</string>
     <string name="confirm_abort_tag">你确定放弃本次标注吗？</string>
     <string name="confirm_complete_tag">你确定已经完成了本次标注吗？</string>
-    <string name="device_sync_time_not_sync">no history</string>
-    <string name="device_unknown_title">Unknown Device</string>
     <string name="family_member_num_is_full">You have reached the maximum number of 16 family members.</string>
     <string name="lab_factory_title">实验室</string>
     <string name="label_continue_record">继续标注</string>
     <string name="new_member">New Member</string>
     <string name="notice_for_tag_time">提示：符号X后的数字是你对该项目的标注次数</string>
-    <string name="remind_searching_failed_3">Please stand on the weight scale.</string>
     <string name="tag_action_tips">在%s的过程中，请确保手环和手机保持在5米的范围内，并且中间不要隔墙，以确保标注成功。</string>
     <string name="tag_connect">连接中</string>
     <string name="tag_connection">正在连接手环</string>
@@ -1136,11 +1148,10 @@ Traduction : Miui-France"</string>
     <string name="toast_disable_bluetooth_broadcast">Disable Bluetooth broadcast</string>
     <string name="toast_enable_bluetooth_broadcast">Enable Bluetooth broadcast</string>
     <string name="unbind_band">No device paired</string>
-    <string name="unbind_unsupport_device">Binding unsupported devices, select remove</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="beenz_trade_page_no_data">已无历史数据</string>
-    <string name="com.crashlytics.android.build_id">94de567a-7d37-400c-9835-4ee50fde5976</string>
+    <string name="com.crashlytics.android.build_id">63f6724e-6712-4fb9-aec9-8e23b03a5600</string>
     <string name="data_unknown">--</string>
     <string name="facebook_app_id">125938537776820</string>
     <string name="ga_trackingId">UA-76448473-2</string>
