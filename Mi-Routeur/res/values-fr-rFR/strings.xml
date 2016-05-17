@@ -680,7 +680,7 @@ Assurez-vous que le Wi-Fi 2.4G est activée et essayez de vous connecter à nouv
     <string name="common_menu_open">Ouvrir</string>
     <string name="common_menu_paste">Copier</string>
     <string name="common_menu_pause">Pause</string>
-    <string name="common_menu_Reprendre">Reprendre</string>
+    <string name="common_menu_resume">Reprendre</string>
     <string name="common_menu_retry">Réessayer</string>
     <string name="common_menu_save">Sauvegarder</string>
     <string name="common_menu_share">Partager</string>
@@ -826,7 +826,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_downloading">Téléchargement</string>
     <string name="download_downloading_item_menu_pause">Pause</string>
     <string name="download_downloading_item_menu_restart">Essayer à nouveau</string>
-    <string name="download_downloading_item_menu_Reprendre">Reprendre</string>
+    <string name="download_downloading_item_menu_resume">Reprendre</string>
     <string name="download_enable_accelerate">Booster</string>
     <string name="download_error_nospace">Espace de stockage insuffisant sur ce routeur</string>
     <string name="download_explore">Rechercher</string>
@@ -847,14 +847,14 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_manual">Saisir le lien de téléchargement</string>
     <string name="download_ongoing_empty_message">Vide</string>
     <string name="download_pause_task_error">Impossible de mettre en pause le téléchargement</string>
-    <string name="download_Reprendre_task_error">Impossible de continuer le téléchargement</string>
+    <string name="download_resume_task_error">Impossible de continuer le téléchargement</string>
     <string name="download_router_pick_back_to_mobile">Synchronier automatiquement les téléchargements terminés avec le téléphone</string>
     <string name="download_router_pick_back_to_mobile_desc">Synchronier automatiquement les vidéos terminées avec le téléphone</string>
     <string name="download_router_pick_title">Choisir le routeur</string>
     <string name="download_setting">Téléchargements</string>
     <string name="download_setting_hint">Commencés %1$s %2$s | En pause %3$s</string>
     <string name="download_setting_pause">Mettre en pause tous les téléchargements</string>
-    <string name="download_setting_Reprendre">Reprendre les téléchargements</string>
+    <string name="download_setting_resume">Reprendre les téléchargements</string>
     <string name="download_setting_schedule">Planifier les horaires de téléchargements</string>
     <string name="download_settting_change_path">Changer l\'emplacement des téléchargements</string>
     <string name="download_settting_path">Routerownloads</string>
@@ -928,7 +928,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="file_btn_add_file">Ajouter un fichier</string>
     <string name="file_btn_import">Importer</string>
     <string name="file_btn_pause_all">Tout mettre en pause</string>
-    <string name="file_btn_Reprendre_all">Tout reprendre</string>
+    <string name="file_btn_resume_all">Tout reprendre</string>
     <string name="file_btn_search_resource">Rechercher</string>
     <string name="file_btn_start_all">Tout démarrer</string>
     <string name="file_category_empty">Vide</string>
@@ -1859,7 +1859,7 @@ usage"</string>
     <string name="tool_time_setting_no_day_select">Select at least 1 day</string>
     <string name="tool_time_setting_pause_download">Pause</string>
     <string name="tool_time_setting_repeat">Repeat</string>
-    <string name="tool_time_setting_Reprendre_download">Start</string>
+    <string name="tool_time_setting_resume_download">Start</string>
     <string name="tool_time_setting_setting">Planifié</string>
     <string name="tool_time_setting_start">From</string>
     <string name="tool_time_setting_start_shutdown">Power off</string>
