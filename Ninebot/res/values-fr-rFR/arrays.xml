@@ -118,7 +118,13 @@
         <item>Battery #2: abnormal power supply</item>
         <item>Temperature sensor open circuit.</item>
         <item>Temperature sensor is short circuit.</item>
-        <item>Code erreur indéfini</item>
+        <item>Battery 1 password incorrect.</item>
+        <item>Battery 2 password incorrect.</item>
+        <item>Battery cell of battery 1 is in big differential pressure.</item>
+        <item>Battery cell of battery 2 is in big differential pressure.</item>
+        <item>Battery 1 comes into testing model.</item>
+        <item>Battey 2 comes into testing model.</item>
+        <item>Undefined error.</item>
     </string-array>
     <string-array name="error_code_mini">
         <item>5</item>
@@ -170,7 +176,13 @@
         <item>29</item>
         <item>30</item>
         <item>31</item>
-        <item>其他</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>Other</item>
     </string-array>
     <string-array name="error_code_reason">
         <item>"1.Choc de l'ordinateur central
@@ -388,5 +400,24 @@ E-mail (Chinois / Anglais) : service@ninebot.com
         <item>18 km/h</item>
         <item>19 km/h</item>
         <item>20 km/h</item>
+    </string-array>
+    <string-array name="warn_code_content_mini">
+        <item>Battery is too low. Please recharge it!</item>
+        <item>Vehicle body temperature is too high!</item>
+        <item>Vehicle body temperature is too low!</item>
+        <item>Battery temperature is too high!</item>
+        <item>Battery temperature is too low!</item>
+        <item>Reverse speed is too fast. Please drive carefully!</item>
+        <item>Motor is stalling. Please drive carefully!</item>
+        <item>Your vehicle is tumbling accidentally. Please drive carefully!</item>
+        <item>Your vehicle is in lock mode!</item>
+        <item>You have driven over the speed limit. Please drive carefully.</item>
+        <item>You have driven over the speed limit excessively. Please drive carefully.</item>
+        <item>The battery voltage is too high. Please don’t drive down a slope or slam the brakes on and avoid energy recycle that leads to over-charge of the battery!;</item>
+        <item>The motor is close to being overload. Please slow down immediately!</item>
+        <item>The output power of your vehicle is too high. Please slow down immediately!</item>
+        <item>The motor torque is too large. Please drive carefully!</item>
+        <item>You are speeding up too fast. Please drive carefully!</item>
+        <item>Undefined warning code.</item>
     </string-array>
 </resources>
