@@ -121,7 +121,7 @@
     <string name="bind_confirm">OK</string>
     <string name="bind_confirm_title">Appairer le routeur</string>
     <string name="bind_connect">Connecter</string>
-    <string name="bind_connect_failed">"Impossible de connecter au Wi-Fi"</string>
+    <string name="bind_connect_failed">Impossible de se connecter au Wi-Fi</string>
     <string name="bind_connect_password">Mot de passe</string>
     <string name="bind_connecting">Connexion au Wi-Fi…</string>
     <string name="bind_failed">Impossible d\'appairer le routeur</string>
@@ -142,7 +142,7 @@
     <string name="bind_select_Mi-Wi-Fi">Choisir un routeur</string>
     <string name="bind_start">Appairer le routeur</string>
     <string name="bind_waiting">Appairage…</string>
-    <string name="bind_wifi_encryption">Use %s encryption</string>
+    <string name="bind_wifi_encryption">Utiliser %s le chiffrage</string>
     <string name="binding_feedback">Ajout de comptes</string>
     <string name="block_added_to_blocked_devices_list">Ajouté à liste de blocage</string>
     <string name="block_ask_block_enable_hitch_hiker_mechanism">Activez le pare-feu d\'abord</string>
@@ -175,9 +175,9 @@
     <string name="block_device_blocked_by_router_auto">Bloqué automatiquement</string>
     <string name="block_device_caption">Liste de blocage</string>
     <string name="block_device_crack_router_management_password">"Essayer d\'obtenir le mot de passe du routeur"</string>
-    <string name="block_device_crack_router_management_password_frequency_x">Trying to get router admin password %d times per minute</string>
+    <string name="block_device_crack_router_management_password_frequency_x">Tentative d\'obtention le mot de passe administrateur du routeur %d fois par minute</string>
     <string name="block_device_crack_wifi_password">Essayer d\'obtenir un mot de passe Wi-Fi</string>
-    <string name="block_device_crack_wifi_password_frequency_x">Trying to get Wi-Fi password %d times per minute</string>
+    <string name="block_device_crack_wifi_password_frequency_x">Tentative d\'obtention le mot de passe Wi-Fi %d fois par minute</string>
     <string name="block_device_crack_xiaomi_router">Tentative d\'obtention du mot de passe du Mi-Routeur</string>
     <string name="block_device_crack_xiaomi_router_management_password">Tentative d\'obtention du mot de passe du routeur</string>
     <string name="block_device_crack_xiaomi_wifi_password">Tentative d\'obtention du mot de passe Wi-Fi</string>
