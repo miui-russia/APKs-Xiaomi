@@ -2036,10 +2036,10 @@ We don't collect any personally identifiable information or user data (contacts,
     <string name="yeelight_sun">Limière du soleil</string>
     <string name="yeelight_warf">Ondes</string>
     <string name="block_device_wifi_block_switch_title">防蹭网开关</string>
-    <string name="client_bsd_24G">只连2.4G</string>
-    <string name="client_bsd_5G">只连5G</string>
-    <string name="client_bsd_auto">自动切换</string>
-    <string name="client_detail_menu_bsd">WiFi漫游</string>
+    <string name="client_bsd_24G">Uniquement connecté en 2.4G</string>
+    <string name="client_bsd_5G">Uniquement connecté en 5G</string>
+    <string name="client_bsd_auto">Changer automatiquement</string>
+    <string name="client_detail_menu_bsd">Roaming WiFi</string>
     <string name="client_detail_menu_bsd_description">根据设定为设备选择信号源</string>
     <string name="client_list_parent_control_filter_black">网址黑名单</string>
     <string name="client_list_parent_control_filter_white">网址白名单</string>
