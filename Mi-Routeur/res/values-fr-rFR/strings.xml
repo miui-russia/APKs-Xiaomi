@@ -117,7 +117,7 @@
     <string name="barcodescanner_scan_barcode">Scannez le QR code</string>
     <string name="barcodescanner_scan_barcode_info">Placez le QR code dans le cadre</string>
     <string name="bind_bootstrap">Installer</string>
-    <string name="bind_Vérification">Récupération des informations…</string>
+    <string name="bind_checking">Récupération des informations…</string>
     <string name="bind_confirm">OK</string>
     <string name="bind_confirm_title">Appairer le routeur</string>
     <string name="bind_connect">Connecter</string>
@@ -877,10 +877,10 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_xunlei_binding_device">Ajout du routeur…</string>
     <string name="download_xunlei_bint_desc1">Booster vos téléchargements avec Xunlei Premium</string>
     <string name="download_xunlei_check_error">Impossible d\'obtenir des informations du compte Xunlei</string>
-    <string name="download_xunlei_Vérification_account_bind_status">Vérification du compte…</string>
-    <string name="download_xunlei_Vérification_month_left_accelerate_status">Obtention des informations…</string>
-    <string name="download_xunlei_Vérification_total_accelerate_status">Obtention des informations…</string>
-    <string name="download_xunlei_Vérification_vip_status">Obtention des informations…</string>
+    <string name="download_xunlei_checking_account_bind_status">Vérification du compte…</string>
+    <string name="download_xunlei_checking_month_left_accelerate_status">Obtention des informations…</string>
+    <string name="download_xunlei_checking_total_accelerate_status">Obtention des informations…</string>
+    <string name="download_xunlei_checking_vip_status">Obtention des informations…</string>
     <string name="download_xunlei_click_view_detail">Voir les détails</string>
     <string name="download_xunlei_device_init_fail">Impossible d\'initialiser le périphérique</string>
     <string name="download_xunlei_device_init_success">Réglage du compte Xunlei terminé</string>
@@ -1619,8 +1619,8 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="router_file_system_scaning_result_desc2_fail_status_7">Impossible de trouver à l\'espace de stockage, essayer à nouveau</string>
     <string name="router_file_system_scaning_result_desc2_fail_status_8">Erreur inconnue rencontrée, essayer à nouveau</string>
     <string name="router_file_system_scaning_result_desc2_ok">Aucun problème avec les fichiers système trouvé</string>
-    <string name="router_list_select_Vérification_external">Obtention des informations de l\'espace de stockage externe…</string>
-    <string name="router_list_select_Vérification_external_failed">Impossible d\'obtenir les informations de l\'espace de stockage externe, essayer à nouveau</string>
+    <string name="router_list_select_checking_external">Obtention des informations de l\'espace de stockage externe…</string>
+    <string name="router_list_select_checking_external_failed">Impossible d\'obtenir les informations de l\'espace de stockage externe, essayer à nouveau</string>
     <string name="router_list_select_failed">Impossible d\'obtenir les informations, essayer à nouveau</string>
     <string name="router_list_select_no_external_found">Espace de stockage externe non trouvé</string>
     <string name="router_reboot_error">Impossible de redémarrer le routeur, essayer à nouveau</string>
