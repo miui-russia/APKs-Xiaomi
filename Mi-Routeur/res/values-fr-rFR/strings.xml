@@ -916,7 +916,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="feedback_error">Impossible d\'envoyer votre retour d\'expérience</string>
     <string name="feedback_image_upload_error">Impossible d\'envoyer la copie d\'écran</string>
     <string name="feedback_input_contact">Saisir les informations de contact</string>
-    <string name="feedback_input_content">Saisir votre retour d'\'expérience</string>
+    <string name="feedback_input_content">Saisir votre retour d\'expérience</string>
     <string name="feedback_shotscreen">Copie d\'écran(Requis)</string>
     <string name="feedback_succ">Retour d\'expérience envoyé</string>
     <string name="feedbacking">Envoi du retour d\'espérience…</string>
@@ -1226,15 +1226,15 @@ pour completer</string>
     <string name="guideview_wechat_1_description1">Plusieurs mots de passe Wi-Fi peuvent fuir dû aux applications de partage Wi-Fi</string>
     <string name="guideview_wechat_1_title">Un invité demande un mot de passe, c\'est dangeureux</string>
     <string name="guideview_wechat_2_description1">Un réseau séparé est créé pour les amis WeChat vérifiés</string>
-    <string name="guideview_wechat_2_title">Vos amis WeChat n'ont pas besoin de mot de passe, c\'est sûr</string>
+    <string name="guideview_wechat_2_title">Vos amis WeChat n\'ont pas besoin de mot de passe, c\'est sûr</string>
     <string name="image_desc">Description : %s</string>
     <string name="img_info">Détails de l\'image</string>
     <string name="internet_feedback">Connectivité</string>
     <string name="invitation_accept">Accepter</string>
-    <string name="invitation_account_add">Entrer l'ID de votre compte Mi</string>
+    <string name="invitation_account_add">Entrer l\'ID de votre compte Mi</string>
     <string name="invitation_account_add_hint">Courriel, téléphone, ou ID du compte Mi</string>
     <string name="invitation_account_add_title">Entrer votre compte Mi</string>
-    <string name="invitation_account_not_found">Ce compte Mi n'éxiste pas</string>
+    <string name="invitation_account_not_found">Ce compte Mi n\'éxiste pas</string>
     <string name="invitation_add">Ajouter un utilisateur</string>
     <string name="invitation_already_admin">Cette personne est déjà administrateur sur ce routeur.</string>
     <string name="invitation_associate_account">Compte Mi : %s</string>
@@ -1313,7 +1313,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="login_system_login_prompt_prefix">ID du compte Mi : "</string>
     <string name="login_system_login_prompt_suffix">Se connecter</string>
     <string name="login_system_login_title">Se connecter à un compte existant</string>
-    <string name="login_username_input_fail">Ce compte Mi n'éxiste pas</string>
+    <string name="login_username_input_fail">Ce compte Mi n\'éxiste pas</string>
     <string name="login_waiting">Connexion…</string>
     <string name="m_s">MB/s</string>
     <string name="main_add_relay">Ajouter un Mi-Répéteur</string>
@@ -1357,7 +1357,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="network_optimize_download_no_tasks">Aucun</string>
     <string name="network_optimize_download_title">Statut de téléchargement</string>
     <string name="network_optimize_file_transfer_desc">Stopper les tâches de transfert pour augmenter la vitesse de 20%</string>
-    <string name="network_optimize_file_transfer_title">Statut d'envoi</string>
+    <string name="network_optimize_file_transfer_title">Statut d\'envoi</string>
     <string name="network_optimize_final_result">Vitesse boostée à %1$d%%</string>
     <string name="network_optimize_lan_speed">LAN</string>
     <string name="network_optimize_need_optimize_unit">éléments</string>
@@ -1400,13 +1400,13 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="network_optimize_siginal_strength_title">Force du signal</string>
     <string name="network_optimize_speed">Vitesse du réseau</string>
     <string name="network_optimize_speed_step1">Vérification du délai du réseau…</string>
-    <string name="network_optimize_speed_step10">Vérification de la vitesse d'envoi du LAN...</string>
-    <string name="network_optimize_speed_step11">Calcul de la vitesse moyen d'envoi Internet…</string>
+    <string name="network_optimize_speed_step10">Vérification de la vitesse d\'envoi du LAN...</string>
+    <string name="network_optimize_speed_step11">Calcul de la vitesse moyen d\'envoi Internet…</string>
     <string name="network_optimize_speed_step2">Vérification de la vitesse du LAN…</string>
     <string name="network_optimize_speed_step3">Vérification de la vitesse de téléchargement du LAN…</string>
     <string name="network_optimize_speed_step4">Calcul de la vitesse moyenne de téléchargement du LAN…</string>
-    <string name="network_optimize_speed_step5">Vérification de la vitesse d'envoi du LAN…</string>
-    <string name="network_optimize_speed_step6">Calcul de la vitesse moyenne d'envoi du LAN…</string>
+    <string name="network_optimize_speed_step5">Vérification de la vitesse d\'envoi du LAN…</string>
+    <string name="network_optimize_speed_step6">Calcul de la vitesse moyenne d\'envoi du LAN…</string>
     <string name="network_optimize_speed_step7">Vérification de la vitesse Internet…</string>
     <string name="network_optimize_speed_step8">Vérification de la vitesse de téléchargement Internet…</string>
     <string name="network_optimize_speed_step9">Calcul de la vitesse moyenne de téléchargement Internet…</string>
@@ -1422,7 +1422,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="network_optimize_wifi_channel_title">Qualité du Wi-Fi</string>
     <string name="network_optimize_wifi_optimize_step1">Detection du meilleur canal Wi-Fi…</string>
     <string name="network_optimize_wifi_optimize_step2">Changement du canal Wi-Fi…</string>
-    <string name="network_optimize_wifi_optimize_step3">La connexion Wi-Fi pourrait s'interrompre lors du changement</string>
+    <string name="network_optimize_wifi_optimize_step3">La connexion Wi-Fi pourrait s\'interrompre lors du changement</string>
     <string name="network_optimize_wifi_optimize_step4">Canal Wi-Fi changé</string>
     <string name="network_optimize_wifi_optimize_step5">Reconnexion…</string>
     <string name="network_optimize_wifi_scan_step1">Vérification du canal Wi-Fi…</string>
@@ -1504,14 +1504,14 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="pullrefresh_pull_up_loadmore">Glisser vers le haut pour voir plus</string>
     <string name="pullrefresh_refreshing">Un instant…</string>
     <string name="pullrefresh_refreshing_no_point">Un instant…</string>
-    <string name="pullrefresh_refreshing_retry">Impossible d'actualiser</string>
+    <string name="pullrefresh_refreshing_retry">Impossible d\'actualiser</string>
     <string name="pullrefresh_release_to_loadmore">Relâcher pour voir plus</string>
     <string name="pullrefresh_release_to_refresh">Relâcher pour actualiser</string>
     <string name="quit_application">Sortir de Mi-Wi-Fi</string>
     <string name="rating_dlg_accept">Taux</string>
     <string name="rating_dlg_deny">Non, merci</string>
-    <string name="rating_dlg_text_1">Aimez-vous notre application ??</string>
-    <string name="rating_dlg_text_2">Vous l'avez utilisé pendant un long moment, dites-nous ce que vous en pensez.</string>
+    <string name="rating_dlg_text_1">Aimez-vous notre application ?</string>
+    <string name="rating_dlg_text_2">Vous l\'avez utilisé pendant un long moment, dites-nous ce que vous en pensez.</string>
     <string name="reboot_desc">Lors du redémarrage du routeur, tous les appareils seront déconnectés. Vous aurez peut-être besoin de reconnecter manuellement certains appareils après le redémarrage complet.</string>
     <string name="reboot_now">Redémarrer maintenant</string>
     <string name="reboot_router_rebooting_message">Les appareils se reconnecteront automatiquement après le redémarrage complet.</string>
@@ -1655,7 +1655,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_prompt_wifi_ssid_conflict3">Les noms des réseaux Wi-Fi Invités et 5G ne peuvent être identiques</string>
     <string name="setting_pwd_error">Le mot de passe doit contenir au moins 8 chiffres et lettres</string>
     <string name="setting_reboot">Redémarrage</string>
-    <string name="setting_recovery">Réglages d'usine</string>
+    <string name="setting_recovery">Réglages d\'usine</string>
     <string name="setting_reset_admin_pwd">Rétablir le mot de passe administrateur</string>
     <string name="setting_reset_admin_pwd__min_length">Le mot de passe doit contenir au moins 8 caractères</string>
     <string name="setting_router_admin_password_confirm_hint">Saisir de nouveau</string>
@@ -1868,7 +1868,7 @@ mémoire</string>
     <string name="tool_timer_custom">Personnaliser</string>
     <string name="tool_timer_delete">Supprimer l\'heure planifiée</string>
     <string name="tool_timer_everyday">Tous les jours</string>
-    <string name="tool_timer_exceed_max">Vous pouvez planifier jusqu'à 9 timers</string>
+    <string name="tool_timer_exceed_max">Vous pouvez planifier jusqu\'à 9 timers</string>
     <string name="tool_timer_loading_config">Obtention des informations…</string>
     <string name="tool_timer_loading_config_fail">Impossible d\'obtenir les réglages</string>
     <string name="tool_timer_once">Une fois</string>
@@ -1917,9 +1917,9 @@ mémoire</string>
     <string name="tool_upgrade">Mise à jour</string>
     <string name="tool_uploading">Envoi de l\'installateur…</string>
     <string name="tool_week_usage_experience_improve_agree">Joindre</string>
-    <string name="tool_week_usage_experience_improve_enable">Vous devriez rejoindre le Programme d'Expérience utilisateur pour activer les stats hebdomadaires. Tandis que vous utilisez cette fonction, quelques données concernant la productivité seront récoltées anonymement. Ces informations ne sont pas liées à vos données personnelles.</string>
-    <string name="tool_week_usage_experience_improve_enable_fail">Impossible de rejoindre le Programme d'Expérience utilisateur</string>
-    <string name="tool_week_usage_experience_improve_enable_success">Le programme d'Expérience utilisateur rejoint, vérifier les statistiques la semaine prochaine</string>
+    <string name="tool_week_usage_experience_improve_enable">Vous devriez rejoindre le Programme d\'Expérience utilisateur pour activer les stats hebdomadaires. Tandis que vous utilisez cette fonction, quelques données concernant la productivité seront récoltées anonymement. Ces informations ne sont pas liées à vos données personnelles.</string>
+    <string name="tool_week_usage_experience_improve_enable_fail">Impossible de rejoindre le Programme d\'Expérience utilisateur</string>
+    <string name="tool_week_usage_experience_improve_enable_success">Le programme d\'Expérience utilisateur rejoint, vérifier les statistiques la semaine prochaine</string>
     <string name="tool_week_usage_experience_improve_enable_title">Termes et conditions</string>
     <string name="tool_week_usage_loading">Obtention des statistiques hebdomadaires…</string>
     <string name="tool_week_usage_miliao_not_installed">Mi-Talk n\'est pas installé</string>
@@ -1980,8 +1980,8 @@ mémoire</string>
     <string name="uploading_log_error">Impossible d\'envoyer les logs</string>
     <string name="user_experience_improve_agree">Accord</string>
     <string name="user_experience_improve_join">Joindre</string>
-    <string name="user_experience_improve_joined_hint">Vous participez actuellement au 
-Programme d'Expérience utilisateur</string>
+    <string name="user_experience_improve_joined_hint">"Vous participez actuellement au 
+Programme d'Expérience utilisateur"</string>
     <string name="user_experience_improve_license">"Programme d\'Expérience utilsateur de l\'application Mi-Routeur
  
  Xiaomi Inc. (\"Xiaomi\") invite you to take part in our User Experience Program (\"the Program\"). If you choose participate, data and usage statistics for Mi-Routeur app will be sent to Xiaomi so that we can better understand how this product is being used.
