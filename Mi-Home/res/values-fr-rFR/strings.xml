@@ -185,7 +185,7 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="checking">Vérification...</string>
     <string name="choose_detail_wifi">"Prêt à se connecter à %s
 "</string>
-    <string name="choose_device_title">Sélectionnez le périphérique auquel vous souhaitez vous connecter</string>
+    <string name="choose_device_title">Choisir le périphérique auquel vous souhaitez vous connecter</string>
     <string name="choose_home_wifi">Choisissez votre réseau Wi-Fi à votre domicile</string>
     <string name="choose_office_wifi">Choisissez votre réseau Wi-Fi à votre bureau</string>
     <string name="choose_question">Sélectionnez une question</string>
@@ -427,8 +427,8 @@ lors d'un contrôle, veuillez actualiser la liste"</string>
     <string name="feedbacking">Envoyez vos commentaires</string>
     <string name="find_mikey">Mi-Clé trouvée</string>
     <string name="find_user_info_error">Utilisateur non trouvé !</string>
-    <string name="footer_error_text">no device found or unable to connect device</string>
-    <string name="found_new_unbind_mitvdevice">"Nouvelle TV trouvée, ppuyer pour l'ajouter"</string>
+    <string name="footer_error_text">Aucun périphérique trouvé ou impossible de s\y connecter</string>
+    <string name="found_new_unbind_mitvdevice">"Nouvelle TV trouvée, appuyer pour l'ajouter"</string>
     <string name="found_new_unbind_routerdevice">"Nouveau routeur trouvé, ppuyer pour l'ajouter"</string>
     <string name="friday">Vendredi</string>
     <string name="g_s">Go/s</string>
@@ -2159,7 +2159,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="dialog_option_one_more">Une fois de plus</string>
     <string name="dialog_title_confirm_delete_device">Confirmer la suppression des %1$s périphériques sélectionnés？</string>
     <string name="dialog_title_more_operation">Plus de possibilités</string>
-    <string name="dialog_title_one_device_tip">"Vous avez un seul périphérique, vous n'avez pas besoin de mettre en place des groupes."</string>
+    <string name="dialog_title_one_device_tip">"Vous n'avez qu'un seul périphérique, vous n'avez pas besoin de créer un groupe."</string>
     <string name="dialog_title_phone_ir_settings">Paramétrage Infrarouge</string>
     <string name="do_it_later">Plus tard</string>
     <string name="do_it_right_now">Maintenant</string>
@@ -2304,7 +2304,7 @@ Appuyez longuement pour revenir"</string>
     <string name="retrieving_data">Mise à jour...</string>
     <string name="roidmi_car_bluetooth_player">Bluetooth Voiture</string>
     <string name="saturday1">Samedi</string>
-    <string name="scan_device">Scan des périphériques</string>
+    <string name="scan_device">Recherche des périphériques</string>
     <string name="scene_condition_miband_awake">"Lors de la détection d'un utilisateur dans le sillage"</string>
     <string name="scene_condition_miband_sleep">"Lorsque l'utilisateur est détectée comme endormi"</string>
     <string name="score_about_desc">Quel score faire, comment l\'obtenir</string>
@@ -2319,16 +2319,16 @@ Appuyez longuement pour revenir"</string>
     <string name="score_lottery_address_title">"Gestion de l'adresse"</string>
     <string name="score_lottery_load_error">Récupération des données échouée</string>
     <string name="score_phone_title">Téléphone: </string>
-    <string name="score_raffle_btn_title">Résultat tirage au sort</string>
+    <string name="score_raffle_btn_title">Résultat du tirage au sort</string>
     <string name="score_raffle_title">Résultat tirage au sort</string>
     <string name="score_sign_btn_text_fmt">Aujourd\'hui +%1$d</string>
     <string name="score_sign_btn_title">Se connecter</string>
     <string name="score_sign_btn_tomorrow_text_fmt">Demain +%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
     <string name="score_sign_get_score_fmt">obtenir score %1$d</string>
-    <string name="score_sign_got_score_fmt">"connecté aujourd'hui, impossible d'obtenir un meilleur score"</string>
+    <string name="score_sign_got_score_fmt">"Déjà onnecté aujourd'hui, impossible d'obtenir un meilleur score"</string>
     <string name="score_sign_month_view_fmt">%1$d mois</string>
-    <string name="score_sign_tomorrow_desc">connecté pour %1$d demain，total %2$d</string>
+    <string name="score_sign_tomorrow_desc">Revenez demain pour avoir %1$d points de +. Vous avez déjà %2$d points</string>
     <string name="score_today_text">Aujourd\'hui</string>
     <string name="score_total_score_fmt">%d</string>
     <string name="score_unsign">Déconnecté</string>
