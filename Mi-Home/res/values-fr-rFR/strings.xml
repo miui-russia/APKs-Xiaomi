@@ -889,7 +889,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="media_type_others">Autres</string>
     <string name="media_type_videos">Vidéos</string>
     <string name="media_upload_none_selected">"Vous n'avez pas sélectionné de fichier à télécharger !"</string>
-    <string name="menu_correct">Modifier emplacements</string>
+    <string name="menu_correct">Modifier l\'emplacement</string>
     <string name="message_clear_all">Effacer tous les messages ?</string>
     <string name="mi_key">Mi-Clé</string>
     <string name="mi_key_title">Mi-Clé du téléphone en bluetooth</string>
@@ -1915,7 +1915,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="wednesday">Mercredi</string>
     <string name="welcome_i_known">OK</string>
     <string name="wifi_available_title">Réseaux disponibles</string>
-    <string name="wifi_change_btn_text">Changer les paramètres du Wi-Fi</string>
+    <string name="wifi_change_btn_text">Changer les paramètres Wi-Fi</string>
     <string name="wifi_change_hint">Changer de connexion Wi-Fi</string>
     <string name="wifi_check_select">Appuyez pour sélectionner le Wi-Fi</string>
     <string name="wifi_connection_correct">1. Vérifiez que la connexion Wi-Fi (2.5GHz) soit stable</string>
@@ -2416,7 +2416,7 @@ Appuyez longuement pour revenir"</string>
     <string name="tag_capability_title">Opération</string>
     <string name="tag_category_title">Catégorie</string>
     <string name="tag_custom_title">Coutume</string>
-    <string name="tag_delete">Effacement</string>
+    <string name="tag_delete">Supprimer</string>
     <string name="tag_done">terminer</string>
     <string name="tag_edit_title">Modifier la note</string>
     <string name="tag_recommend">je recommande</string>
@@ -2428,7 +2428,7 @@ Appuyez longuement pour revenir"</string>
     <string name="tag_recommend_washroom">Salle de bain</string>
     <string name="tag_recommend_workplace">Bureau</string>
     <string name="tag_router_title">En se connectant au routeur</string>
-    <string name="tag_select_device">"S'il vous plaît sélectionnez votre appareil"</string>
+    <string name="tag_select_device">"Veuillez sélectionner votre appareil"</string>
     <string name="tag_string">Étiquette</string>
     <string name="third_login">"Plus d'options"</string>
     <string name="toast_sort_succeed">Tri réussi</string>
@@ -2540,11 +2540,11 @@ Appuyez longuement pour revenir"</string>
     <string name="choose_home_router">Veuillez sélectionner les routeurs à domicile</string>
     <string name="choose_home_yi_camera">Veuillez sélectionner la caméra de la maison</string>
     <string name="collapse">Collapse</string>
-    <string name="column_display">显示</string>
-    <string name="column_display_hint">当前栏目显示为空</string>
-    <string name="column_hidden">不显示</string>
-    <string name="column_hidden_hint">当前栏目不显示为空</string>
-    <string name="column_sort_hint">按住右侧拖动可排序</string>
+    <string name="column_display">Afficher</string>
+    <string name="column_display_hint">La colonne actuelle est vide</string>
+    <string name="column_hidden">Ne pas montrer</string>
+    <string name="column_hidden_hint">La colonne actuelle ne semble pas être vide</string>
+    <string name="column_sort_hint">Appuyez longuement et faites glisser pour réorganiser</string>
     <string name="connect_wlan">Connexion Wi-Fi</string>
     <string name="connect_wlan_tips">Sélectionner un Wi-Fi disponible</string>
     <string name="device_connect_failed_tips">Assurez-vous que le mot de passe Wi-Fi est correct et le réseau disponible</string>
@@ -2637,7 +2637,7 @@ Appuyez longuement pour revenir"</string>
 "</string>
     <string name="scene_user_license_title">Instructions</string>
     <string name="scene_user_license_title_1">J\'ai lu les "Précautions et conditions d\'utilisation"</string>
-    <string name="scene_warrning_text">"Note d'information: Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
+    <string name="scene_warrning_text">"Note d'information : Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
     <string name="share_pic_not_extern_storage">Stockage insuffisant</string>
     <string name="action_settings">Paramètres</string>
     <string name="app_kuwan">酷玩</string>
