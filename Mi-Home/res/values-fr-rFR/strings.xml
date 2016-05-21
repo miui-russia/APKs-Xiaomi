@@ -2425,8 +2425,8 @@ Appuyez longuement pour revenir"</string>
     <string name="tag_recommend_home">Accueil</string>
     <string name="tag_recommend_kitchen">Cuisine</string>
     <string name="tag_recommend_livingroom">Salon</string>
-    <string name="tag_recommend_washroom">La natation</string>
-    <string name="tag_recommend_workplace">entreprise</string>
+    <string name="tag_recommend_washroom">Salle de bain</string>
+    <string name="tag_recommend_workplace">Bureau</string>
     <string name="tag_router_title">En se connectant au routeur</string>
     <string name="tag_select_device">"S'il vous plaît sélectionnez votre appareil"</string>
     <string name="tag_string">Étiquette</string>
@@ -2552,7 +2552,7 @@ Appuyez longuement pour revenir"</string>
     <string name="device_connecting_tips">Assurez-vous que le bluetooth soit activé</string>
     <string name="device_group_settings">Group Settings</string>
     <string name="device_group_title_bluetooth">Bluetooth Device</string>
-    <string name="device_group_title_others">Other Device</string>
+    <string name="device_group_title_others">Autres périphériques</string>
     <string name="device_group_title_virtualgroup">Virtual Device</string>
     <string name="device_list_config_failed_title">smart config failed，click to see more information</string>
     <string name="device_more_activity_noti_quick_op">Notification Bar switch</string>
