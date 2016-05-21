@@ -2357,7 +2357,7 @@ Appuyez longuement pour revenir"</string>
     <string name="setting_discount_title">Coupon de réduction</string>
     <string name="setting_message_count_fmt">%1$d nouveaux messages</string>
     <string name="setting_my_family_count_fmt">%1$d amis</string>
-    <string name="setting_my_family_title">Amis</string>
+    <string name="setting_my_family_title">Mes amis</string>
     <string name="setting_my_shop">Ma Boutique</string>
     <string name="setting_sub_title">Compte Mi:%s</string>
     <string name="shallow_sleep_time_text">Durée sommeil léger</string>
