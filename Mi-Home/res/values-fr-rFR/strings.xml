@@ -2585,7 +2585,7 @@ Appuyez longuement pour revenir"</string>
     <string name="mi_router">Routeur Mi</string>
     <string name="mi_router_connect_device">Routeur détecté</string>
     <string name="mi_router_disconnect_device">Le routeur détecté est hors-ligne</string>
-    <string name="mi_smart_home_cs">Service MiHome</string>
+    <string name="mi_smart_home_cs">Service Mi-Home</string>
     <string name="mi_validate_relogin">Veuillez vous reconnecter</string>
     <string name="notification_quick_op_title">Notification</string>
     <string name="phone">Téléphone</string>
