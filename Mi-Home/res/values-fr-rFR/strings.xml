@@ -53,13 +53,13 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="about_hight_light">Nouveautés</string>
     <string name="about_normal">"Passez à l'environnement normal"</string>
     <string name="about_region">Région</string>
-    <string name="about_region_language">Locale</string>
+    <string name="about_region_language">Langue</string>
     <string name="about_smarthome_bbs">Forums Mi-Home</string>
     <string name="about_tag">Tag</string>
     <string name="about_test">"Passez à l'environnement de test"</string>
     <string name="about_update">Mise à jour</string>
     <string name="account_basic_data">Informations de base</string>
-    <string name="account_binding">Appairer Compte</string>
+    <string name="account_binding">Appairer votre compte</string>
     <string name="account_binding_waiting">Veuillez patienter...</string>
     <string name="account_bound">Appairé</string>
     <string name="account_security">Privé</string>
@@ -100,7 +100,7 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="air_serach_no_device_green_2">"L'appareil est occupé, veuillez le réinitialiser"</string>
     <string name="all_model_latest">Tous les appareils sont à jour</string>
     <string name="all_plugin_latest">Tous les plug-ins sont à jour</string>
-    <string name="app_curr_version">Version actuelle:</string>
+    <string name="app_curr_version">Version actuelle :</string>
     <string name="app_latest_version_installed">"Félicitations, l'application actuelle est à jour"</string>
     <string name="app_latest_version_installed_smarthome">Vous possédez la dernière version</string>
     <string name="app_name">Mi-Home</string>
@@ -1145,7 +1145,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="plug_usb_open">USB activé</string>
     <string name="plugin">Plug-in</string>
     <string name="plugin_auto_update">Mise à jour auto</string>
-    <string name="plugin_auto_update_detail">Télécharger automatiquement les nouveaux plugin</string>
+    <string name="plugin_auto_update_detail">Télécharger automatiquement les nouveaux plug-ins</string>
     <string name="plugin_download_fail">Échec du téléchargement</string>
     <string name="plugin_download_not_found">Plug-in pas encore disponible</string>
     <string name="plugin_download_success">Téléchargé</string>
@@ -1319,7 +1319,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="scene_error_other">"Erreur d'exception"</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
-    <string name="scene_manage">Scène</string>
+    <string name="scene_manage">Mes scénarios</string>
     <string name="scene_modify_name_error">Nom de la Prise de vue déjà existant, veuillez essayez à nouveau</string>
     <string name="scene_recommend">Prise de vue recommandée</string>
     <string name="scene_repeat_tip">"%1$d. Cette emplacement multiplie \"%2$s\"
@@ -1358,7 +1358,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="several_minutes_ago">il y a %d minutes</string>
     <string name="several_months_ago">il y a %d mois</string>
     <string name="several_years_ago">il y a %d années</string>
-    <string name="sex_female">Femme</string>
+    <string name="sex_female">ma femme</string>
     <string name="sex_male">Homme</string>
     <string name="sh_confirm">OK</string>
     <string name="sh_network_not_available">"La connexion réseau n'est pas disponible"</string>
@@ -1664,7 +1664,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="ths_feed">Vos commentaires sont la force motrice de nos progrès quotidiens !</string>
     <string name="thursday">Jeudi</string>
     <string name="timer_title">Liste des alarmes</string>
-    <string name="title_person_info">Info personnelle</string>
+    <string name="title_person_info">Informations personnelles</string>
     <string name="toast_lock_switch_failed">"Échec de l'opération, vérifiez le réseau"</string>
     <string name="try_barcode_connection">Utiliser le QR code</string>
     <string name="try_barcode_info">">Seul le modèle à vision nocturne prend en charge la lecture de QR code, d'autres modèles seront pris en charge dans les versions ultérieures."</string>
@@ -2075,7 +2075,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="toast_modify_group_failed">Échec de regroupement</string>
     <string name="visible_in_main_device_list_failed">Ajout échoué</string>
     <string name="visible_in_main_device_list_success">Ajout réussi</string>
-    <string name="about_check_update_new">Vérifiez les mises à jour</string>
+    <string name="about_check_update_new">Vérifier les mises à jour</string>
     <string name="action_back">Retour</string>
     <string name="add_bracelet_content">Souhaitez-vous ajouter le bracelet Mi-Fit à la liste Mes périphériques ?</string>
     <string name="add_bracelet_title">Ajouter bracelet Mi-Fit</string>
