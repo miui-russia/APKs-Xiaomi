@@ -2113,8 +2113,8 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="choose_ir_plugin">Télécommande</string>
     <string name="choose_ir_plugin_duokan">Télécommande Xiaomi Smart Home</string>
     <string name="choose_ir_plugin_tianjia">"Guide d'installation de la télécommande"</string>
-    <string name="comment_for_mihome_detail">"Si vous avez aimé SmatrHome, aller à notre magasin, et faire l'éloge. Merci de votre aide!"</string>
-    <string name="comment_for_mihome_title">Note MiHome Xiaomi</string>
+    <string name="comment_for_mihome_detail">"Si vous êtes impressionné par Mi-Home, allez dans le store, et faites-en l'éloge. Merci de votre aide !"</string>
+    <string name="comment_for_mihome_title">Noter l\'application Mi-Home de XiaoMi</string>
     <string name="comment_updown_commit_failed">"Impossible d'écrire un commentaire"</string>
     <string name="confirm">"D'accord"</string>
     <string name="connect_ignored">"Ne pas brancher l'appareil directement dans la prise murale"</string>
