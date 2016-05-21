@@ -470,7 +470,7 @@ lors d'un contrôle, veuillez actualiser la liste"</string>
     <string name="give_up_invite">"Abandonner l'invitation"</string>
     <string name="go_to_buy">Allez en acheter</string>
     <string name="handle_error">Échec du traitement</string>
-    <string name="header_content_home">Vous êtes de retour à la maison</string>
+    <string name="header_content_home">Vous êtes de retour à la maison depuis </string>
     <string name="header_content_office">Vous êtes au bureau</string>
     <string name="header_content_outside">Vous êtes sorti</string>
     <string name="header_leave_home">Départ du domicile</string>
