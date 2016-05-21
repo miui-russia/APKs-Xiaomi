@@ -37,7 +37,7 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
     <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
     <string name="about_check_update">Vérifiez les mises à jour</string>
-    <string name="about_columns">Catégorie</string>
+    <string name="about_columns">Catégories</string>
     <string name="about_developer">Paramètres développeurs</string>
     <string name="about_device">Appareil</string>
     <string name="about_faq">F.A.Q.</string>
@@ -2550,7 +2550,7 @@ Appuyez longuement pour revenir"</string>
     <string name="device_connect_failed_tips">Assurez-vous que le mot de passe Wi-Fi est correct et le réseau disponible</string>
     <string name="device_connecting">Connexion</string>
     <string name="device_connecting_tips">Assurez-vous que le bluetooth soit activé</string>
-    <string name="device_group_settings">Group Settings</string>
+    <string name="device_group_settings">Réglages des catégories</string>
     <string name="device_group_title_bluetooth">Bluetooth Device</string>
     <string name="device_group_title_others">Autres périphériques</string>
     <string name="device_group_title_virtualgroup">Virtual Device</string>
