@@ -2325,7 +2325,7 @@ Appuyez longuement pour revenir"</string>
     <string name="score_sign_btn_title">Se connecter</string>
     <string name="score_sign_btn_tomorrow_text_fmt">Demain +%1$d</string>
     <string name="score_sign_day_view_fmt">%1$02d</string>
-    <string name="score_sign_get_score_fmt">obtenir score %1$d</string>
+    <string name="score_sign_get_score_fmt">Vous avez obtenu %1$d points</string>
     <string name="score_sign_got_score_fmt">"Déjà onnecté aujourd'hui, impossible d'obtenir un meilleur score"</string>
     <string name="score_sign_month_view_fmt">%1$d mois</string>
     <string name="score_sign_tomorrow_desc">Revenez demain pour avoir %1$d points de +. Vous avez déjà %2$d points</string>
