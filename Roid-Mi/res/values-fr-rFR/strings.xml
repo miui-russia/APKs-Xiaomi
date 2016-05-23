@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi-Roid</string>
+    <string name="app_name">RoidMi</string>
     <string name="app_name_show">Transmetteur Bluetooth</string>
     <string name="app_version">Version app: %1$s</string>
     <string name="btn_ok">OK</string>
@@ -26,7 +26,7 @@
     <string name="No_WIFI">"Alerte de consommation de données mobile : 
 Peut engendrer des frais supplémentaires importants.
 Appuyez sur OK pour Continuer !"</string>
-    <string name="recommend_1">(Recommandé）</string>
+    <string name="recommend_1">(Recommandé)</string>
     <string name="recommend_2">(Recommandé)</string>
     <string name="space_insufficient">Espace disque insuffisant !</string>
     <string name="unit_hour">%1$s heures</string>
@@ -68,13 +68,13 @@ Appuyez sur OK pour Continuer !"</string>
     <string name="device_geting_version">Obtention des informations du périphérique, veuillez patienter</string>
     <string name="device_get_version_fail">"Impossible d'obtenir les informations du périphérique, merci de vérifier votre réseau Internet"</string>
     <string name="device_get_version_unknow">"Impossible d'obtenir les informations du périphérique (code d'erreur : 103)"</string>
-    <string name="bc_no_Link">"Merci de connecter le Roid-Mi"</string>
-    <string name="bc_bt_lost">Roid-Mi non connecté</string>
+    <string name="bc_no_Link">"Merci de connecter le RoidMi"</string>
+    <string name="bc_bt_lost">RoidMi non connecté</string>
     <string name="drive_title_today">"Les informations de conduite du jour"</string>
     <string name="drive_title">Informations de conduite</string>
     <string name="drive_title_drive">Conduite</string>
     <string name="drive_title_drive_today">"Conduite aujourd'hui :"</string>
-    <string name="drive_time_0">"Roid-Mi, des surprises infinies !
+    <string name="drive_time_0">"RoidMi, des surprises infinies !
  Conduisez et profitez"</string>
     <string name="drive_time_30_1">"Félicitations pour votre comportement et votre conduite responsable !
 Vous serez dans l'historique des conducteurs responsables de Chine"</string>
@@ -93,7 +93,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="defout_content">Merci, nous allons le prendre en considération avec la plus grande attention votre commentaire et vos suggestions</string>
     <string name="fb_content_empty">Merci de laisser vos suggestions !</string>
     <string name="fb_send">Envoyer</string>
-    <string name="fb_sending">Envoi…</string>
+    <string name="fb_sending">Envoi...</string>
     <string name="fb_send_success">Envoi réussi</string>
     <string name="fb_send_fail">Envoi échoué</string>
     <string name="feed_back_list_null1">Au plaisir de vous lire.</string>
@@ -106,7 +106,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche Retour pour revenir sur cet écran"</string>
     <string name="guide_start_up_setting">Commencer le paramètrage</string>
     <string name="guide_install">"C'est parti!"</string>
-    <string name="guide_install_info">Insérer le  Roid-Mi dans la prise allume cigare</string>
+    <string name="guide_install_info">Insérer le  RoidMi dans la prise allume cigare</string>
     <string name="guide_install_ok">OK, suivant!</string>
     <string name="guide_bt">Bluetooth</string>
     <string name="guide_bt_info">Entrez dans les paramètres du Bluetooth pour appairer votre appareil</string>
@@ -121,7 +121,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="send_voice_success">"J'entends! Suivant."</string>
     <string name="defalut_player">Lecteur de musique par défaut</string>
     <string name="defalut_player_detail">"Vous pouvez le modifier dans les paramètres de l'application."</string>
-    <string name="begin_use">Commencer à utiliser votre Roid-Mi</string>
+    <string name="begin_use">Commencer à utiliser votre RoidMi</string>
     <string name="fm_setting">Paramètres FM</string>
     <string name="fm_setting_detial">Réglez votre autoradio sur la fréquence:</string>
     <string name="fm_setting_info">La recherche automatique va régler votre fréquence</string>
@@ -130,8 +130,8 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="info_center">Centre d\'information</string>
     <string name="nomessage">"Vous n'avez aucun Message"</string>
     <string name="login">Se connecter</string>
-    <string name="logining">Connexion…</string>
-    <string name="login_fail">Échec de connexion!</string>
+    <string name="logining">Connexion...</string>
+    <string name="login_fail">Échec de connexion !</string>
     <string name="login_out">Se déconnecter</string>
     <string name="login_out_info">Êtes-vous sûr ?</string>
     <string name="login_out_btn">Se déconnecter</string>
@@ -169,7 +169,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
 3.Les utilisateurs peuvent uniquement utiliser les services proposés avec les canaux fournis par RoidMi. Lorsque l'utilisateur l'utilise ainsi, leur comportement est considéré comme un accord pour l'utilisation du service et le consentement des toutes sortes d'annonces dans le service du firmware Roidmi. 
 
 Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivement le contrat de service. Si vous êtes en désaccord avec cet accord de service et/ou sa modification à tout moment, vous pouvez prendre l'initiative d'annuler le service fourni par le Roid-Mi. Une fois que vous utilisez le service du firmware Roidmi, il est considéré que vous avez compris et êtes entièrement d'accord avec le contenu de l'accord de service, y compris les modifications de Wuxi Roidmi Information Technology Co., Ltd à l'entente de service à tout moment, et de devenir un utilisateur du pilote Roidmi."</string>
-    <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée</string>
+    <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée"<string>
     <string name="protocol_content_2">"
 1.Wuxi Roidmi Information Technology Co., ltd. est le propriétaire du compte Roid-Mi i.e. de l'utilisateur Roid-Mi et de son identifiant. Une fois que les utilisateurs ont complétés les procédures d'enregistrement, ils peuvent obtenir le droit d'utiliser leurs comptes Roid-Mi. Wuxi Roidmi Information Technology Co., Ltd., n'est ni responsable des problèmes et conséquences causées par de fausses informations lors de l'enregistrement puisque les utilisateurs doivent fournir des informations personnelles détaillées et précises, et les mettre à jour constamment. Cependant, toutes les informations entrées seront conservées en tant qu'informations d'enregistrement. 
 
@@ -304,7 +304,7 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="choossecity">Choix de la ville</string>
     <string name="restriction_tip_title">Réduisez votre vitesse</string>
     <string name="restriction_tip_info">Nouvelles informations via radio diffusion</string>
-    <string name="trafficlip">"*Cette caractéristique est appropriée uniquement pour les véhicules particuliers munis d'une plaque d'immatriculation locale"</string>
+    <string name="trafficlip">"Cette caractéristique est appropriée uniquement pour les véhicules particuliers munis d'une plaque d'immatriculation locale"</string>
     <string name="nowhavenotraffic">Aucun trafic actuellement</string>
     <string name="pleasechecknet">Récupération des données impossible, merci de vérifier vos connexions réseaux</string>
     <string name="nodate">Impossible de récupérer les données</string>
@@ -336,8 +336,8 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="shake_type_tip_no_mic">Chanson suivante</string>
     <string name="shake_size_tip">Doux/Fort</string>
     <string name="shake_open_tip">Veuillez activer la fonction Secouer.</string>
-    <string name="shop_bc">Boutique Roid-Mi </string>
-    <string name="shop_shake_bc">Acheter le Roid-Mi</string>
+    <string name="shop_bc">Boutique RoidMi </string>
+    <string name="shop_shake_bc">Acheter le RoidMi</string>
     <string name="shop_tip">Faites-vous plaisir avec une expérience de conduite intelligente et intéressante !</string>
     <string name="settings">Règlages</string>
     <string name="settings_url">Adresse du serveur</string>
@@ -393,7 +393,7 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="voltage_V24size_1">&lt;20V</string>
     <string name="voltage_V24size_2">20~24V</string>
     <string name="voltage_V24size_3">24~29V</string>
-    <string name="voltage_V24size_6">>29V</string>
+    <string name="voltage_V24size_6">Supérieur à 29V</string>
     <string name="voltage_sure_low_too">Trop faible</string>
     <string name="voltage_sure_low">Faible</string>
     <string name="voltage_sure_normal">Normal</string>
@@ -401,7 +401,7 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="voltage_detail_normal">——</string>
     <string name="voltage_detail_1">"Impossible de démarrer le véhicule, Vous pourriez être amené à changer l'accumulateur"</string>
     <string name="voltage_detail_2">Difficulté pour démarrer, merci de déconnecter tout autre dispositif électrique et commencer la recharge du véhicule</string>
-    <string name="voltage_detail_4">"Il semblerait que la batterie ne se charge pas, veuillez vérifier le moteur ou autre charge électrique"</string>
+    <string name="voltage_detail_4">Il semblerait que la batterie ne se charge pas, veuillez vérifier le moteur ou autre charge électrique</string>
     <string name="voltage_detail_6">"Il y a un risque d'endommager l'accumulateur, merci de vérifier le stabilisateur de moteur"</string>
     <string name="voltage_size_tip">Ce résultat de détection est donné à titre indicatif, des résultats de test technique effectué par un professionnel sont recommandées.</string>
     <string name="web_load_fail">Impossible de charger la page</string>
