@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="channel_select_score_tips">
-        <item>"Interference isn't affecting your connection speed."</item>
-        <item>Interference is affecting your connection speed.</item>
-        <item>Interference is slowing down your connection speed.</item>
+        <item>"Aucune interférence n'affecte votre vitesse de connexion."</item>
+        <item>Des interférences affectent votre vitesse de connexion.</item>
+        <item>Des interférences ralentissent votre vitesse de connexion.</item>
     </string-array>
     <string-array name="choose_language">
-        <item>System Default</item>
-        <item>Chinese - Simplified</item>
-        <item>English</item>
-        <item>Chinese - Hong Kong</item>
-        <item>Chinese - Taiwan</item>
-        <item>Korea</item>
+        <item>Défaut - Langue du système</item>
+        <item>Chinois - Simplifié</item>
+        <item>Anglais</item>
+        <item>Chinois - Hong Kong</item>
+        <item>Chinois - Taiwan</item>
+        <item>Coréen</item>
     </string-array>
     <string-array name="language_key">
         <item>auto</item>
@@ -22,13 +22,13 @@
         <item>ko</item>
     </string-array>
     <string-array name="weekday">
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
     </string-array>
     <array name="gc_app_list_child_name" />
     <string-array name="gc_app_list_grand_name">
