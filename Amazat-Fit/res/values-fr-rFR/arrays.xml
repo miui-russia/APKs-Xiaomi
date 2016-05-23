@@ -2,16 +2,11 @@
 <resources>
     <string-array name="band_searching_tips">
         <item>Gardez votre Amazfit à proximité</item>
-        <item>"Please make sure your
-Amazfit has power and is nearby."</item>
-        <item>"Please try to keep
-other Bluetooth devices away."</item>
-        <item>"If this band was paired with another
-phone before, please turn Bluetooth off on that phone."</item>
-        <item>"If this band was paired with
-another account before, please unpair them first."</item>
-        <item>"A band can only be paired
-with one account at the same time."</item>
+        <item>Assurez-vous que votre Amazfit soit allumé et à proximité.</item>
+        <item>Veuillez essayer de garder les autres périphériques Bluetooth à distance.</item>
+        <item>Si ce bracelet était avant appairé avec un autre téléphone, veuillez désactiver le Bluetooth de ce téléphone.</item>
+        <item>"Si ce bracelet était avant appairé avec un autre compte, veuillez d'abord le désappairé."</item>
+        <item>"Un bracelet ne peut être appairé qu'avec un seul compte à la fois."</item>
     </string-array>
     <string-array name="common_switch">
         <item>Ouvrir</item>
@@ -68,7 +63,7 @@ with one account at the same time."</item>
         <item>Banal</item>
         <item>Mineur</item>
         <item>Majeur</item>
-        <item>Blocker</item>
+        <item>Bloquer</item>
     </string-array>
     <array name="btg_tag_priority_res">
         <item>@drawable/btg_icon_priority_0_full</item>
