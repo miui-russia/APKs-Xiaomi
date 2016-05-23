@@ -2321,8 +2321,8 @@ Programme d'Expérience utilisateur"</string>
 
 确定要关闭吗？"</string>
     <string name="force_stop1">Forcer l\'arrêt</string>
-    <string name="force_stop2">强制停止</string>
-    <string name="force_stop3">结束运行</string>
+    <string name="force_stop2">Forcer l\'arrêt</string>
+    <string name="force_stop3">Fin de tâche</string>
     <string name="force_stop4">Arrêt forcé</string>
     <string name="force_stop5">Terminé</string>
     <string name="force_stop6">Forcer l\'arrêt</string>
@@ -2332,21 +2332,21 @@ Programme d'Expérience utilisateur"</string>
     <string name="install_btn3">INSTALLER</string>
     <string name="install_guide_btn1">Suivant</string>
     <string name="install_guide_btn2">SUIVANT</string>
-    <string name="low_power_alarm_button_clean">立即省电</string>
-    <string name="maybe_you_like">您可能感兴趣</string>
-    <string name="menu_action_accept1">确定</string>
+    <string name="low_power_alarm_button_clean">Prolonger la durée de vie de la batterie</string>
+    <string name="maybe_you_like">Ceci peut vous intéresser ?</string></string>
+    <string name="menu_action_accept1">Ok</string>
     <string name="menu_action_accept2">Déterminer</string>
     <string name="menu_action_accept3">OK</string>
     <string name="msg_center_activity_label">Messagerie</string>
     <string name="op_scan_clear_nf_click">Cliquez sur Nettoyage</string>
     <string name="op_scan_clear_nf_ticker">Rappel de nettoyage</string>
-    <string name="op_scan_clear_nf_title">清理扫描已完成</string>
+    <string name="op_scan_clear_nf_title">Le nettoyage des fichiers à été complété</string>
     <string name="op_scan_risk_nf_click">Cliquez sur traiter</string>
-    <string name="op_scan_risk_nf_ticker">风险提醒</string>
-    <string name="op_scan_risk_nf_title">检测到您有要处理的风险项</string>
-    <string name="pref_acc_column_function_setting">功能设置</string>
+    <string name="op_scan_risk_nf_ticker">Alerte des risques</string>
+    <string name="op_scan_risk_nf_title">Rechercher les fichiers à risque</string>
+    <string name="pref_acc_column_function_setting">Réglages des fonctions</string>
     <string name="pref_acc_column_lock_screen">Verrouiller l\'écran pour accélérer</string>
-    <string name="pref_app_prevent_wake_header_subtitle">手机加速后，应用在后台会被其他应用偷偷启动。</string>
+    <string name="pref_app_prevent_wake_header_subtitle">L\'accélération d\'application du téléphone se fera en arrière-plan.</string>
     <string name="pref_app_prevent_wake_header_title">阻断应用间相互唤醒</string>
     <string name="pref_auto_acc_by_lock_screen_subtitle">锁屏5分钟后，自动清理后台内存，减少耗电。</string>
     <string name="pref_auto_acc_by_lock_screen_title">锁屏清理内存</string>
