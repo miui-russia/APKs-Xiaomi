@@ -24,7 +24,7 @@
     <string name="catalyst_element_inspector">Inspecter l\'élément</string>
     <string name="catalyst_jsload_error">"Impossible de télécharger JS bundle depuis les serveurs de développement.
 
-Essayez ce qui suit pour résoudre le problème:
+Essayez ce qui suit pour résoudre le problème :
 • Assurez-vous que le serveur est en marche
 • Assurez-vous que votre appareil/émulateur est connecté à votre machine et a autorisé le débogage USB - Lancez un 'adb devices' pour afficher la liste des appareils connectés
 • Si vous êtes sur un périphérique physique connecté à la même machine, Lancez un 'adb reverse tcp:8081 tcp:8081' pour transmettre les requêtes à votre appareil
@@ -36,7 +36,7 @@ Essayez ce qui suit pour résoudre le problème:
     <string name="catalyst_settings_title">Paramètres de Catalyst Développeur</string>
     <string name="SDcard_tip_is_full_when_take_photo">Vous devez nettoyer la carte mémoire pour envoyer des photos :)</string>
     <string name="SDcard_tip_when_send_photo">Vous devez insérer une carte mémoire pour envoyer des photos :)</string>
-    <string name="about_check_update">Vérifiez les mises à jour</string>
+    <string name="about_check_update">Vérifier les mises à jour</string>
     <string name="about_columns">Catégories</string>
     <string name="about_developer">Paramètres développeurs</string>
     <string name="about_device">Appareil</string>
@@ -1699,7 +1699,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="use_barcode_heard">Écoutez les instructions vocales.</string>
     <string name="use_barcode_heard_connecting">Entendez-vous le son de confirmation de connexion, si non patientez ?</string>
     <string name="useable_space">Espace de stockage du routeur</string>
-    <string name="user_license">"Information Importante
+    <string name="user_license">"Information importante
  Avant d'utiliser les produits de la série Xiaomi Mi Home (ci-après dénommé \"produits\"), veuillez lire attentivement tous les droits et restrictions dans le contrat de licence de l'utilisateur (ci-après dénommé \"cet accord\")
  Xiaomi Communication Technology co., LTD. (ci-après dénommé \"Xiaomi\" ou \"nous\") respecte et de protége strictement les droits et les intérêts de nos utilisateurs légitimes en utilisant ce produit (y compris la vie privée de l'utilisateur, les données de l'utilisateur, etc.) et de les protéger contre toute atteinte.
  Ce produit inclut mais ne se limite pas au logiciel Xiaomi Mi Home et aux divers matériaux qui sont tous développés par des droits de propriété intellectuelle Xiaomi. Les matériaux (y compris les droits d'auteur, les droits de brevet et de droits de marque, etc.) dans ce produit appartiennent tous à Xiaomi.
@@ -1901,8 +1901,8 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
  Révision des politiques de confidentialité.
  Les politiques de confidentialité peuvent être révisées. Sans votre consentement explicite, nous ne serons pas abroger les droits que vous aimez conformément à cette politique de confidentialité, sauf si nous vous envoyons un avis par l'adresse e-mail que vous avez fourni à nous ou si nous avons fait une annonce publique sur notre site.
  "</string>
-    <string name="user_license_btn_text">"Conditions d'utilisation et Politique de Confidentialité"</string>
-    <string name="version_name_string">Version actuelle: %s</string>
+    <string name="user_license_btn_text">"Conditions d'utilisation et politique de confidentialité"</string>
+    <string name="version_name_string">Version actuelle : %s</string>
     <string name="videos_group_name_x_num_x" formatted="false">%s | %d fichiers</string>
     <string name="vip_achievement">achievement</string>
     <string name="vip_level">level</string>
@@ -2465,7 +2465,7 @@ Appuyez longuement pour revenir"</string>
     <string name="updating_installing">Redémarrer mise à niveau</string>
     <string name="use_barcode_wificonfig">En utilisant la configuration de code QR (recommandé)</string>
     <string name="use_normal_wificonfig">Utilisation de la configuration standard</string>
-    <string name="user_license_title">Xiaomi Smart Home produits - utilisation</string>
+    <string name="user_license_title">Utilisation des produits XiaoMi Smart Home</string>
     <string name="wake_time_text">Éveil</string>
     <string name="water_desc_title">Xiaomi TDS</string>
     <string name="water_tds_title">Avant / après le nettoyage (TDS)</string>
