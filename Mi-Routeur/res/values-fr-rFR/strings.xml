@@ -2382,10 +2382,10 @@ Programme d'Expérience utilisateur"</string>
     <string name="setting_pref_title_auto_upd_avdb">Mise à jour automatique de la base de données de virus</string>
     <string name="setting_pref_title_av_white_list">Base de données des virus en listes blanches</string>
     <string name="setting_pref_title_cleanacc_super_mode">Mode d\'accélération puissante</string>
-    <string name="setting_pref_title_cleanacc_white_list">清理加速白名单</string>
+    <string name="setting_pref_title_cleanacc_white_list">Accélérer les périphériques présents sur la liste blanche</string>
     <string name="setting_pref_title_manual_upd_avdb">Mettre à jour manuellement la base de données de virus</string>
     <string name="setting_pref_title_mc_notify">Notifications de message</string>
-    <string name="setting_pref_title_ue_plane">参与用户体验计划</string>
+    <string name="setting_pref_title_ue_plane">Participation au Programme d\'Expérience d\'utilisateur</string>
     <string name="setting_pref_title_ver_update">Vérifier les mises à jour</string>
     <string name="setting_title_copyright">Copyrigth@2016BaiduCompany</string>
     <string name="setting_title_product_name">Baidu CK</string>
