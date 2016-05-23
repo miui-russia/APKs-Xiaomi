@@ -2040,7 +2040,7 @@ Programme d'Expérience utilisateur"</string>
     <string name="client_bsd_5G">Uniquement connecté en 5G</string>
     <string name="client_bsd_auto">Changer automatiquement</string>
     <string name="client_detail_menu_bsd">Roaming WiFi</string>
-    <string name="client_detail_menu_bsd_description">根据设定为设备选择信号源</string>
+    <string name="client_detail_menu_bsd_description">Choisir votre périphérique</string>
     <string name="client_list_parent_control_filter_black">网址黑名单</string>
     <string name="client_list_parent_control_filter_white">网址白名单</string>
     <string name="common_cancel_waiting">正在取消,请稍候…</string>
