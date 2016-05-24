@@ -133,7 +133,7 @@
     <string name="common_text_more">Réglages</string>
     <string name="common_text_next_step">Suivant</string>
     <string name="common_text_notice">Attention</string>
-    <string name="common_text_ok">OK</string>
+    <string name="common_text_ok">Déconnecter</string>
     <string name="common_text_open">On/Off</string>
     <string name="common_text_please_check_bluetooth">Veuillez vérifier votre connexion Bluetooth</string>
     <string name="common_text_please_check_bluetooth_and_network">Veuillez vérifier votre connexion Bluetooth ou votre connexion réseau</string>
@@ -181,8 +181,8 @@
     <string name="common_text_sw_check">Mise à jour</string>
     <string name="common_text_switch_on_off">On/Off</string>
     <string name="common_text_to">À %1$s</string>
-    <string name="common_text_unbind">Déconnecter</string>
-    <string name="common_text_unbind_sure">Déconnecter</string>
+    <string name="common_text_unbind">Délier</string>
+    <string name="common_text_unbind_sure">Délier</string>
     <string name="common_text_unnamed">Anonyme</string>
     <string name="common_text_upgrade_firmware">Veuillez mettre à jour votre firmware</string>
     <string name="control_view_flow_setting">Réglages</string>
@@ -246,7 +246,7 @@
     <string name="feature_group_restore">Réinitialiser</string>
     <string name="feature_group_service">Service</string>
     <string name="feature_mi_band">Mi-Fit</string>
-    <string name="feature_night_light">Mode nuit</string>
+    <string name="feature_night_light">Mode veilleuse</string>
     <string name="feature_rename">Nom</string>
     <string name="feature_restore">Réinitialiser</string>
     <string name="feature_set_default">Luminosité par défaut</string>
@@ -345,7 +345,7 @@
     <string name="mi_band_bind_shake">Le Mi-Fit vibre ?</string>
     <string name="mi_band_bind_sub_text_bind">Arrêt automatique lors du sommeil</string>
     <string name="mi_band_bind_sub_text_unbind">Connectez votre Mi-Band afin d\'éteindre la lampe 
-    automatiquement lors de votre sommeil</string>
+    automatiquement en fonction de votre sommeil</string>
     <string name="mi_band_bind_unbind">Déconnecté</string>
     <string name="mi_band_bind_unbind_confirm_btn">Déconnecté</string>
     <string name="mi_band_bind_unbind_sub">"L'extinction automatique ne fonctionne que si votre Mi-Fit est connecté"</string>
@@ -368,7 +368,7 @@
     <string name="msg_not_enough_devices_selected">Vous devez choisir au moins 2 périphériques</string>
     <string name="msg_same_group_already_exist">Le groupe existe déjà, veuillez le sélectionner à nouveau</string>
     <string name="night_light_retrieve_failed">Échec de la fonction \"Veilleuse\" info</string>
-    <string name="night_light_sub_info">Vous pouvez glisser la molette tactile pour allumer votre lampe avec une luminosité agréable pour vos yeux</string>
+    <string name="night_light_sub_info">*Vous pouvez glisser la molette tactile de votre Yeelight pour ajuster la luminosité afin qu\'elle vous soit plus agréable</string>
     <string name="night_light_text">Mode nuit</string>
     <string name="night_light_text_off">Veilleuse5</string>
     <string name="night_light_text_on">Veilleuse6</string>
@@ -410,8 +410,8 @@
     <string name="scene_operate">Éditer</string>
     <string name="scene_share">Partager</string>
     <string name="scene_unable_use">Ce scénario n\'est pas compatible avec votre périphérique</string>
-    <string name="setting_disconnect_text_1">Êtes-vous sûr de vouloir déconnecter le périphérique ?</string>
-    <string name="setting_unbind_text_1">Vous ne serez pas en mesure de contrôler cet appareil si vous le désappairer</string>
+    <string name="setting_disconnect_text_1">Êtes-vous sûr de vouloir déconnecter ce périphérique ?</string>
+    <string name="setting_unbind_text_1">Vous ne serez pas en mesure de contrôler cet appareil si vous le désappairez</string>
     <string name="title_account">Compte Mi</string>
     <string name="title_activity_splash">Yeelight</string>
     <string name="title_add_ble_device">Connexion à la Yeelight</string>
@@ -428,7 +428,7 @@
     <string name="toast_share_device_success">Partage du périphérique avec succés</string>
     <string name="up_level">Niveau supérieur</string>
     <string name="wake_up_retrieve_failed">Échec de récupération des informations du réveil en lumière</string>
-    <string name="wake_up_sub_info">"La lampe s’allumera faiblement 30 minutes avant l'heure de réveil et s’intensifiera lentement. Ce qui réveillera le corps doucement, prêt pour une matinée agréable"</string>
+    <string name="wake_up_sub_info">"La lampe s’allumera faiblement 30 minutes avant l'heure de réveil et s’intensifiera lentement. Ce qui vous réveillera doucement et vous préparera pour une agréable matinée"</string>
     <string name="wake_up_time">Heure du réveil %1$s:%2$s</string>
     <string name="wake_up_title">Réveil en lumière</string>
     <string name="wake_up_turn_off">Réveil en lumière</string>
