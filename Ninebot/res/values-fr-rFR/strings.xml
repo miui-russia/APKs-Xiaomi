@@ -126,8 +126,7 @@
     <string name="activate_insurance_clause_recieve">"J'ai lu les termes ci-dessus"</string>
     <string name="activate_insurance_clause_title">Conditions de garantie d\'assurance</string>
     <string name="activate_insurance_id_tip">"La carte d'identité de l'utilisateur est nécessaire pour compléter les informations d'assurance. Veuillez vérifiez à ce que votre nom, numéro de téléphone et vos identifiants soient corrects. Les informations fournies à l'assurance ne peuvent être révisées ou resoumises."</string>
-    <string name="activate_insurance_prompt1">"Vous avez déjà l'assurance accidents personnels fournis par Ninebot, avec le n° d'assuré XXXX."</string>
-    <string name="activate_insurance_prompt2">Réémission non autorisée</string>
+    <string name="activate_insurance_prompt">You already receive the personal accident insurance provided by Ninobot, with insurance no. %1$s,repeated receiving is not allowed..</string>
     <string name="activate_ipc_invalid">Invalid international mobile no area code</string>
     <string name="activate_item_device_no">N° de série.</string>
     <string name="activate_item_user_email">E-mail</string>
@@ -386,12 +385,11 @@
     <string name="finish">Terminé</string>
     <string name="flickr">Flickr</string>
     <string name="forget_password_code_wrong">Le code de vérification est erroné. Merci de réessayer</string>
-    <string name="forget_password_email_tip">Le code de vérification est envoyé sur votre boite mail </string>
+    <string name="forget_password_email_tip">Verification code is texted to your email %1$s, please check it in time.</string>
     <string name="forget_password_no_username">"Le nom d'utilisateur n'existe pas"</string>
-    <string name="forget_password_phone_email_tip">et adresse mail </string>
+    <string name="forget_password_phone_email_tip">Verification code is texted to your mobile %1$s and email %2$s, please check it in time.</string>
     <string name="forget_password_phone_tip">Le code de vérification est envoyé en SMS sur votre mobile </string>
     <string name="forget_password_sending_code">Envoi du code de vérification</string>
-    <string name="forget_password_tip"> veuillez vérifier votre mot de passe</string>
     <string name="found_nearby_group_title">Un autre conducteur est à proximité</string>
     <string name="foursquare">FourSquare</string>
     <string name="friend_cricle_cannot_reply_yourself">Vous ne pouvez pas vous répondre à vous-même!</string>
@@ -440,7 +438,9 @@
     <string name="friend_cricle_text_administrator_item_essence_no">Annulation recommandée</string>
     <string name="friend_cricle_text_administrator_item_essence_yes">Définir comme recommandée</string>
     <string name="friend_cricle_text_administrator_item_talk_no">Ban from posting</string>
+    <string name="friend_cricle_text_administrator_item_talk_no_sure">是否要对 %1$s 禁言？</string>
     <string name="friend_cricle_text_administrator_item_talk_yes">Ban lifted</string>
+    <string name="friend_cricle_text_administrator_item_talk_yes_sure">是否要对 %1$s 解除禁言？</string>
     <string name="friend_cricle_text_administrator_item_top_no">Définir comme Top annulé</string>
     <string name="friend_cricle_text_administrator_item_top_yes">Top</string>
     <string name="friend_cricle_text_administrator_set_fail">Modification échouée！</string>
