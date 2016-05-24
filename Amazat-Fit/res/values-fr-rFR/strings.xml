@@ -19,7 +19,7 @@
     <string name="common_android_wear_notification_needs_update_text">"%1$s a besoin qu'Android Wear soit à jour."</string>
     <string name="common_android_wear_update_text">"%1$s ne fonctionnera que si vous mettez à jour l'application Android Wear."</string>
     <string name="common_android_wear_update_title">Mettre à jour Android Wear</string>
-    <string name="common_google_play_services_api_unavailable_text">%1$s Nécessite un ou plusieurs services Google Play qui sont actuellement indisponibles. Veuillez  contacter l'assistance développeur.</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s nécessite un ou plusieurs services Google Play qui sont actuellement indisponibles. Veuillez  contacter l\'assistance développeur.</string>
     <string name="common_google_play_services_enable_button">Activer les services Google Play</string>
     <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas à moins que vous activiez les services Google Play."</string>
     <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -77,7 +77,7 @@
     <string name="ac_weight_history_visceral_fat">Graisse viscérale</string>
     <string name="ac_weight_history_weight">Poids</string>
     <string name="account_not_network">Pas de connexion internet.</string>
-    <string name="action_loading">Chargement...</string>
+    <string name="action_loading">Chargement…</string>
     <string name="active_text_summary_0_active">Vous étiez actif</string>
     <string name="active_text_summary_0_run">Vous avez couru pendant</string>
     <string name="active_text_summary_0_walk">Vous avez marché pendant</string>
@@ -111,11 +111,11 @@
     <string name="agreement_fragment_second_test">Avant de vous connecter, merci d\'accepter nos </string>
     <string name="agreement_fragment_third_text">Termes et Conditions</string>
     <string name="alarm_add">Ajouter une alarme</string>
-    <string name="alarm_add_tips">"Astuces : Les vibrations s'arrêteront lorsque vous tapoterez votre bracelet."</string>
+    <string name="alarm_add_tips">"Astuces : Les vibrations s'arrêteront lorsque vous tapoterez votre AmazFit."</string>
     <string name="alarm_delete">"Supprimer l'alarme"</string>
     <string name="alarm_dialog_delete_confirm">Supprimer cette alarme ?</string>
-    <string name="alarm_dialog_deleting">Suppression...</string>
-    <string name="alarm_dialog_tips_title">"Les vibrations s'arrêteront lorsque vous tapoterez votre bracelet.</string>
+    <string name="alarm_dialog_deleting">Suppression…</string>
+    <string name="alarm_dialog_tips_title">"Les vibrations s'arrêteront lorsque vous tapoterez votre AmazFit.</string>
     <string name="alarm_max">"Vous ne pouvez ajouter que 10 alarmes au maximum."</string>
     <string name="alarm_title">Alarme</string>
     <string name="alarm_vibrate_cycle">Répéter</string>
@@ -177,7 +177,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="band_network_dialog_failed">"Échec de l'appairage, veuillez vérifier votre connexion réseau."</string>
     <string name="band_no_device">Non trouvé</string>
     <string name="band_no_device_sub">"Veuillez-vous assurer que votre AmazFit est alimenté et à proximité."</string>
-    <string name="band_not_bound">Échec de l'appairage</string>
+    <string name="band_not_bound">Échec de l\'appairage</string>
     <string name="band_not_bound_now">Annuler</string>
     <string name="band_not_bound_sub">"Lors de l'appairage, veuillez garder votre AmazFit à proximité."</string>
     <string name="band_not_knock">Il ne vibre pas</string>
@@ -196,7 +196,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="beenz_task_10_name">Dénivelé</string>
     <string name="beenz_task_11_detail">"Ma page"accès à la plate-forme tierce</string>
     <string name="beenz_task_11_name">Amazit</string>
-    <string name="beenz_task_1_detail">Aujourd'hui, le nombre de pas pour atteindre votre objectif de calories brulé</string>
+    <string name="beenz_task_1_detail">Aujourd\'hui, le nombre de pas pour atteindre votre objectif de calories brulé</string>
     <string name="beenz_task_1_name">Conseiller</string>
     <string name="beenz_task_2_detail">"Aujourd'hui, l'utilisation des fonctions en cours d'exécution et les parcours de plus d’1km"</string>
     <string name="beenz_task_2_name">Course</string>
@@ -204,7 +204,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="beenz_task_3_name">Sommeil profond</string>
     <string name="beenz_task_4_detail">Partager les résultats de votre séance sur les réseaux sociaux</string>
     <string name="beenz_task_4_name">Victoire</string>
-    <string name="beenz_task_5_detail">Le partage de page d'Icônes/sur les réseaux sociaux</string>
+    <string name="beenz_task_5_detail">Le partage de page d\'icônes/sur les réseaux sociaux</string>
     <string name="beenz_task_5_name">Voleur</string>
     <string name="beenz_task_6_detail">"Ma Page" AmazFit à bien êtes configurée</string>
     <string name="beenz_task_6_name">Apple</string>
@@ -228,8 +228,8 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="bind_failed_reset">Appuyez pour réessayer</string>
     <string name="bind_scanned_devices">%s scannés</string>
     <string name="bind_weixin_failed">"Merci de vérifier votre connexion réseau."</string>
-    <string name="ble_conn">Connectez votre bracelet pour évaluer votre cadence.</string>
-    <string name="ble_conn_desc">"Avant de courir, lancez la connexion Bluetooth et connectez votre bracelet ; gardez la connexion active lorsque vous courrez."</string>
+    <string name="ble_conn">Connectez votre AmazFit pour évaluer votre cadence.</string>
+    <string name="ble_conn_desc">"Avant de courir, lancez la connexion Bluetooth et connectez votre AmazFit ; gardez la connexion active lorsque vous courrez."</string>
     <string name="ble_continue_bind">Continuer</string>
     <string name="ble_cycle_txt_open_ble">Cliquez pour activer</string>
     <string name="ble_cycle_txt_reset">Cliquez pour recommencer</string>
@@ -398,6 +398,8 @@ Experience more functions after adding them."</string>
     <string name="device_unknown_title">Unknown Device</string>
     <string name="device_wear_way_hand">Poignet</string>
     <string name="device_wear_way_neck">Cou</string>
+    <string name="dialog_base_consumption_desc">"BEE(Basal Energy Expenditure) is the amount of energy required to maintain the body's normal metabolic activity, i.e. respiration, maintenance of body temperature etc. BEE can be estimate according to one's age, gender, height and weight. BEE can be increased by gaining more muscle through exercise."</string>
+    <string name="dialog_base_consumption_title">"What's BEE?"</string>
     <string name="dialog_btn_cancel">Annuler</string>
     <string name="dialog_btn_confirm">Confirmer</string>
     <string name="dialog_confirm">OK</string>
@@ -579,6 +581,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="new_version_available">Nouvelle mise à jour disponible</string>
     <string name="next_go">Suivant</string>
     <string name="night">PM</string>
+    <string name="no_band">No band paired</string>
     <string name="no_network_connection">Pas de connexion réseau</string>
     <string name="no_network_connection_retry">Cliquez pour recharger</string>
     <string name="no_sleep_data_text">Appairer avec votre AmazFit pour suivre votre sommeil.</string>
@@ -662,7 +665,7 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="remind_searching_failed_2">"Veuillez redémarrer la fonction Bluetooth sur votre téléphone et essayez à nouveau."</string>
     <string name="remind_searching_failed_3">Please stand on the weight scale.</string>
     <string name="remind_title">Notifications</string>
-    <string name="remind_unbound_bracelet">La fonctionnalité des notifications est disponible uniquement lorsque l\'appairage est fait</string>
+    <string name="remind_unbound_AmazFit">La fonctionnalité des notifications est disponible uniquement lorsque l\'appairage est fait</string>
     <string name="run_tab">Courir</string>
     <string name="running_auto_pause">Pause auto</string>
     <string name="running_average_speed">Vitesse moy</string>
@@ -966,8 +969,8 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="time_format_year_month">MMMM yyyy</string>
     <string name="tip_value"> %s</string>
     <string name="tips_found_only_weight">Seulement mesurer votre poids.</string>
-    <string name="tips_found_only_weight_summary">Gardez vos pieds nus et placer chacun des deux côtés de la balance</string>
-    <string name="title_tips_weighing">Veuillez de ne pas descendre de la balance, attendez que le poids soit stablilisé.</string>
+    <string name="tips_found_only_weight_summary">Gardez vos pieds nus et placer chacun des deux côtés de la Mi-Balance</string>
+    <string name="title_tips_weighing">Veuillez de ne pas descendre de la Mi-Balance, attendez que le poids soit stablilisé.</string>
     <string name="toast_refresh_fail">"La synchronisation a échoué, assurez-vous que votre AmazFit est à proximité."</string>
     <string name="toast_url_parse_error">Adresse web non conforme</string>
     <string name="unbind_dialog_connection_msg">"Le %s n'est pas connecté au téléphone, le désappairer peut vous faire perdre toutes les données non synchronisées. Continuer ?</string>
@@ -1031,14 +1034,14 @@ Traduction : Miui-France"</string>
     <string name="weekly_unit_point">:</string>
     <string name="weekly_walk">Activités hebdomadaires</string>
     <string name="weighing">Peser</string>
-    <string name="weight_bind_add_failed">Échec d'ajout</string>
+    <string name="weight_bind_add_failed">Échec d\'ajout</string>
     <string name="weight_bind_confirm_add">OK</string>
     <string name="weight_bind_keep_battery">Please make sure that the scale has power and the batteries are rightly installed.</string>
     <string name="weight_bind_research">Recherche</string>
     <string name="weight_bind_restart_ble">Veuillez redémarrer le réseau Bluetooth sur votre téléphone.</string>
-    <string name="weight_bind_result">Si les spectacles à grande échelle %s, confirmer l'ajout.</string>
+    <string name="weight_bind_result">Si les spectacles à grande échelle %s, confirmer l\'ajout.</string>
     <string name="weight_bind_search_failed">Échec de la recherche</string>
-    <string name="weight_bind_stand">S'il vous plaît restez sur la balance</string>
+    <string name="weight_bind_stand">S\'il vous plaît restez sur la Mi-Balance</string>
     <string name="weight_bind_title">Echelle Découverte</string>
     <string name="weight_bodyfat_name">Body Fat Scale</string>
     <string name="weight_data_invalid">useless data</string>
@@ -1127,6 +1130,8 @@ Traduction : Miui-France"</string>
     <string name="choose_tag_item">你将标注什么项目？</string>
     <string name="confirm_abort_tag">你确定放弃本次标注吗？</string>
     <string name="confirm_complete_tag">你确定已经完成了本次标注吗？</string>
+    <string name="discover_welfare">Welfare</string>
+    <string name="discover_welfare_detail">Exchange welfare get Prizes</string>
     <string name="family_member_num_is_full">You have reached the maximum number of 16 family members.</string>
     <string name="lab_factory_title">实验室</string>
     <string name="label_continue_record">继续标注</string>
@@ -1149,7 +1154,7 @@ Traduction : Miui-France"</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="beenz_trade_page_no_data">已无历史数据</string>
-    <string name="com.crashlytics.android.build_id">63f6724e-6712-4fb9-aec9-8e23b03a5600</string>
+    <string name="com.crashlytics.android.build_id">472b6de9-d5f0-42cb-8f8d-765e47d99cbb</string>
     <string name="data_unknown">--</string>
     <string name="facebook_app_id">125938537776820</string>
     <string name="ga_trackingId">UA-76448473-2</string>
