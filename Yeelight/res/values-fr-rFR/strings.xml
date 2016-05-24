@@ -66,9 +66,9 @@
     <string name="activity_wifi_alarm_no_added_tips">Pas de minuteur encore ajouté</string>
     <string name="activity_wifi_alarm_repeat_all">Tous les jours</string>
     <string name="activity_wifi_alarm_repeat_today">"Aujourd'hui"</string>
-    <string name="alarm_action">Action</string>
-    <string name="alarm_action_turn_off">Éteindre</string>
-    <string name="alarm_action_turn_on">Allumer</string>
+    <string name="alarm_action">Type d\'action</string>
+    <string name="alarm_action_turn_off">La Yeelight s\'éteint automatiquement</string>
+    <string name="alarm_action_turn_on">La Yeelight s\'allume automatiquement</string>
     <string name="alarm_def_1_min">1 min</string>
     <string name="alarm_disable">Désactivée</string>
     <string name="alarm_set_time">Détails de la programmation</string>
@@ -141,8 +141,8 @@
     <string name="common_text_pull_to_refresh">Tirer vers le bas pour rafraîchir</string>
     <string name="common_text_refresh">Rafraîchir</string>
     <string name="common_text_release_to_refresh">Relâcher pour rafraîchir</string>
-    <string name="common_text_rename">Renommer</string>
-    <string name="common_text_repeat">Répéter</string>
+    <string name="common_text_rename">Vous pouvez renommer votre Yeelight</string>
+    <string name="common_text_repeat">Répétition</string>
     <string name="common_text_repeat_1">Lundi</string>
     <string name="common_text_repeat_1_5">Du lundi au vendredi</string>
     <string name="common_text_repeat_2">Mardi</string>
@@ -187,7 +187,7 @@
     <string name="common_text_upgrade_firmware">Veuillez mettre à jour votre firmware</string>
     <string name="control_view_flow_setting">Réglages</string>
     <string name="current_version">Version actuelle :</string>
-    <string name="delay_light_introduce">"*Veuillez maintenir enfoncer le bouton On/Off de la Yeelight jusqu'au clignotement de la lampe pour activer le mode "Veilleuse2""</string>
+    <string name="delay_light_introduce">"*Veuillez maintenir enfoncer le bouton On/Off de la Yeelight jusqu'au clignotement de la lampe pour activer la mise en veille automatique</string>
     <string name="delay_light_time">"La Yeelight s'éteindra dans %1$d min"</string>
     <string name="delay_light_time_detail">"Veuillez maintenir le bouton on/off arrêt sur la molette tactile jusqu'à ce que la lampe clignote pour activer la mise en veille, la lampe s'éteindra automatiquement après %1$d min."</string>
     <string name="delay_light_time_text">Temporisation</string>
@@ -232,9 +232,9 @@
     <string name="feature_alarm">Programmation automatique</string>
     <string name="feature_awake">Réveil en lumière</string>
     <string name="feature_call_alarm">Notification Alarme</string>
-    <string name="feature_delay">Mode veilleuse</string>
+    <string name="feature_delay">Mise en veille automatique</string>
     <string name="feature_delay_info">La lumière s\'éteindra dans %1$d min</string>
-    <string name="feature_delay_not_available">\"Veilleuse\"ne peut pas être activée lorsque l\'application est fermée.</string>
+    <string name="feature_delay_not_available">\"La mise en veille automatique\"ne peut pas être activée lorsque la Yeelight est éteinte.</string>
     <string name="feature_disconnect_bt">Se déconnecter</string>
     <string name="feature_feedback">"Retour d'Expérience utilisateur"</string>
     <string name="feature_focus">Focus</string>
