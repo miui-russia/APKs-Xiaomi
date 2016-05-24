@@ -2551,7 +2551,7 @@ Appuyez longuement pour revenir"</string>
     <string name="device_connecting">Connexion</string>
     <string name="device_connecting_tips">Assurez-vous que le bluetooth soit activé</string>
     <string name="device_group_settings">Réglages des catégories</string>
-    <string name="device_group_title_bluetooth">Bluetooth Device</string>
+    <string name="device_group_title_bluetooth">Périphérique Bluetooth</string>
     <string name="device_group_title_others">Autres périphériques</string>
     <string name="device_group_title_virtualgroup">Virtual Device</string>
     <string name="device_list_config_failed_title">smart config failed，click to see more information</string>
