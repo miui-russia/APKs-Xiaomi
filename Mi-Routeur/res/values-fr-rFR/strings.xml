@@ -30,12 +30,12 @@
     <string name="about_router_dev_option">Page Web de débogage</string>
     <string name="about_router_dev_option_warn">Ce paramètre est destiné aux développeurs. L\'optimisation des pages Web sera désactivée.</string>
     <string name="about_router_get_dev_option_fail">Impossible d\'obtenir la page Web de débogage</string>
-    <string name="about_router_info">INFOS DU ROUTEUR</string>
+    <string name="about_router_info">INFORMATIONS CONCERNANT LE ROUTEUR</string>
     <string name="about_router_location">Emplacement</string>
     <string name="about_router_location_custom">Personnaliser</string>
     <string name="about_router_location_custom1">Définir un emplacement personnalisé</string>
-    <string name="about_router_name">Nom</string>
-    <string name="about_router_rom_version">Version du système</string>
+    <string name="about_router_name">Nom du routeur</string>
+    <string name="about_router_rom_version">Version du Firmware</string>
     <string name="about_router_security_page_desc">Protégez-vous de la fraude et des virus, rendez votre expérience de navigation plus sécurisée</string>
     <string name="about_router_security_page_title">Bloquer les sites Web malveillants</string>
     <string name="about_router_shopping_bar_desc">Trouver des articles moins chers lors de vos achats</string>
@@ -1277,8 +1277,8 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="invitation_title">Partager le routeur</string>
     <string name="k_s">KB/s</string>
     <string name="lcd_error">--</string>
-    <string name="led_off_tip">Après l\'extinction de la LED, vous ne serez plus en mesure de voir le statut du routeur. Eteindre la LED ?"</string>
-    <string name="led_text">LED</string>
+    <string name="led_off_tip">Si vous désactivez la LED, vous ne serez plus en mesure de voir le statut du routeur. Désactiver la LED ?"</string>
+    <string name="led_text">Activation/Désactivation de la LED</string>
     <string name="light_des">Luminosité</string>
     <string name="light_des_comma">Luminosité :</string>
     <string name="load_more_failed">Impossible de charger</string>
@@ -1521,14 +1521,13 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="reboot_router_success">Reconnexion au routeur avec succès</string>
     <string name="reboot_title">Redémarrer le routeur</string>
     <string name="recovery_fail_waiting">Impossible de rétablir les réglages d\'usine du routeur</string>
-    <string name="recovery_format_disk">Supprimer le disque dur du routeur</string>
-    <string name="recovery_format_disk_detail">Supprimer tous les fichiers (musiques, vidéos, photos, etc.) sur 
-le disque dur du routeur. Cette action est irréversible !</string>
+    <string name="recovery_format_disk">Formater l\'espace de stockage du routeur</string>
+    <string name="recovery_format_disk_detail">Le formatage supprimera tous les fichiers (musiques, vidéos, photos, etc.) du disque dur du routeur. Cette action est irréversible !</string>
     <string name="recovery_must_clean">RETABLIR LES REGLAGES D\'USINE</string>
     <string name="recovery_now">Rétablir maintenant</string>
-    <string name="recovery_optional_clean">EFFACER LE DISQUE DUR</string>
+    <string name="recovery_optional_clean">FORMATER L\'ESPACE DE STOCKAGE</string>
     <string name="recovery_personal_data">Effacer les données utilisateurs</string>
-    <string name="recovery_personal_data_detail">Effacer les informations du compte, les logs, et les réglages du routeur</string>
+    <string name="recovery_personal_data_detail">L\'ensemble des informations du compte, les logs, et les réglages du routeur seront supprimés</string>
     <string name="recovery_reset_activity_confirm_body">"Rétablir les réglages d\'usine du routeur ? Cette action est irréversible !</string>
     <string name="recovery_succ_waiting">Réglages d\'usine rétablis</string>
     <string name="recovery_title">Réglages d\'usine</string>
@@ -1666,7 +1665,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_title">Réglages du routeur</string>
     <string name="setting_unbind">Délier</string>
     <string name="setting_unbind_failed">Impossible de délier le routeur</string>
-    <string name="setting_unbind_message">Délier votre appareil de %s?</string>
+    <string name="setting_unbind_message">Délier votre appareil de %s ?</string>
     <string name="setting_unbind_waiting">Déliaison</string>
     <string name="setting_update">Mise à jour</string>
     <string name="setting_wifi_2_4_switch">Wi-Fi - Canal 2.4G</string>
@@ -1703,7 +1702,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_wifi_turnoff_prompt">Tous les appareils connectés perdront temporairement la connexion au routeur. Continuer tout de même ?</string>
     <string name="setting_wifi_turnoff_prompt_guest_wifi">Tous les appareils connectés perdront temporairement la connexion au routeur. Continuer tout de même ?</string>
     <string name="share">Partager</string>
-    <string name="shutdown_desc">Assurez-vous que le routeur est bien éteint avant de le déconnecter du secteur.</string>
+    <string name="shutdown_desc">Assurez-vous que le routeur est bien éteint avant de le débrancher du secteur.</string>
     <string name="shutdown_now">Annuler</string>
     <string name="shutdown_router_closing_message">Attendez l\'extinction de la LED de notification du routeur avant de le déconnecter du secteur."</string>
     <string name="shutdown_router_closing_title">En cours d\'extinction…</string>
@@ -1888,9 +1887,9 @@ mémoire</string>
     <string name="tool_update_app_downloading">Téléchargement %1$s%%…</string>
     <string name="tool_update_assistant">Mises à jour</string>
     <string name="tool_update_assistant_desc">Mettre à jour le routeur et les extensions</string>
-    <string name="tool_update_auto">Planifier la mise à jour</string>
-    <string name="tool_update_auto_hint">Planifier un horaire pour la mise à jour automatique</string>
-    <string name="tool_update_auto_time">Horaire de mise à jour planifié %1$s %2$d:00</string>
+    <string name="tool_update_auto">Planifier les mises à jour</string>
+    <string name="tool_update_auto_hint">Le routeur sera mis à jour automatiquement</string>
+    <string name="tool_update_auto_time">Les mises à jour sont planifiées à %1$s %2$d:00</string>
     <string name="tool_update_check_fail">Impossible d\'obtenir la version</string>
     <string name="tool_update_check_update">Vérifier les mises à jour</string>
     <string name="tool_update_conflict">Une mise à jour est disponible pour votre routeur.</string>
@@ -1911,7 +1910,7 @@ mémoire</string>
     <string name="tool_update_select_time">Choisir un horaire</string>
     <string name="tool_update_setting">Réglages des mises à jour</string>
     <string name="tool_update_success">Extension mise à jour</string>
-    <string name="tool_update_time_setting">Planifié</string>
+    <string name="tool_update_time_setting">Planification</string>
     <string name="tool_update_week_report">Statistiques hebdomadaire</string>
     <string name="tool_update_week_report_desc">Montrer les statistiques hebdomadaire du routeur chaque vendredi</string>
     <string name="tool_upgrade">Mise à jour</string>
@@ -1972,7 +1971,7 @@ mémoire</string>
     <string name="udriver_upgrade_ok">Mise à jour terminée</string>
     <string name="udriver_usb_can_use_dot">Vous devez connecter un stockage amovible d\'abord</string>
     <string name="upgrade_check">Vérification des mises à jour…</string>
-    <string name="upgrade_click_to_check">Vérification des mises à jour</string>
+    <string name="upgrade_click_to_check">Vérifier des mises à jour</string>
     <string name="upgrade_has_new">Mise à jour disponible</string>
     <string name="upgrade_has_update_title">Qu\'est ce qu\'il y a de neuf</string>
     <string name="upgrade_router_offline">Hors ligne</string>
