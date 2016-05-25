@@ -686,7 +686,7 @@ Assurez-vous que le Wi-Fi 2.4G est activée et essayez de vous connecter à nouv
     <string name="common_menu_share">Partager</string>
     <string name="common_menu_start">Démarrer</string>
     <string name="common_menu_stop">Stopper</string>
-    <string name="common_mins_ago">minute avant</string>
+    <string name="common_mins_ago">minute(s) avant</string>
     <string name="common_minutes">m</string>
     <string name="common_network_unavailable">Impossible de se connecter au réseau</string>
     <string name="common_next_step">Suivant</string>
@@ -873,7 +873,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_xunlei_bind_fail">Impossible d\'ajouter</string>
     <string name="download_xunlei_bind_success">Compte Xunlei ajouté</string>
     <string name="download_xunlei_bind_timeout">Temps de connexion échoué</string>
-    <string name="download_xunlei_bind_xiaomi_account">ID du compte Mi : %s</string>
+    <string name="download_xunlei_bind_xiaomi_account">ID du compte Mi : %s </string>
     <string name="download_xunlei_binding_device">Ajout du routeur…</string>
     <string name="download_xunlei_bint_desc1">Booster vos téléchargements avec Xunlei Premium</string>
     <string name="download_xunlei_check_error">Impossible d\'obtenir des informations du compte Xunlei</string>
@@ -1328,7 +1328,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="main_handle_account_exception">Se connecter à nouveau</string>
     <string name="main_invitation_text">%s partagé avec le Mi-Routeur</string>
     <string name="main_invitation_view">Voir</string>
-    <string name="main_personal_center">Compte Mi</string>
+    <string name="main_personal_center">Votre compte Mi</string>
     <string name="main_rom_incompatible">Vous devez mettre à jour votre routeur pour utiliser cette fonction.</string>
     <string name="main_router_offline">Hors ligne</string>
     <string name="main_router_setting">Réglages du routeur</string>
@@ -1468,8 +1468,8 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="personal_center_logout">Se déconnecter</string>
     <string name="personal_center_logout_message">Se déconnecter de votre compte ?</string>
     <string name="personal_center_notification">Notifications</string>
-    <string name="personal_center_title">Compte</string>
-    <string name="personal_center_version">Version de l\'application du routeur : %s</string>
+    <string name="personal_center_title">Votre compte Mi</string>
+    <string name="personal_center_version">Version de Mi-Routeur : %s</string>
     <string name="picker_am">AM</string>
     <string name="picker_day">jour</string>
     <string name="picker_hour">H</string>
@@ -1979,10 +1979,10 @@ mémoire</string>
     <string name="upgrade_update">Mise à jour</string>
     <string name="uploading_log_error">Impossible d\'envoyer les logs</string>
     <string name="user_experience_improve_agree">Accord</string>
-    <string name="user_experience_improve_join">Joindre</string>
+    <string name="user_experience_improve_join">Joindre le Programme</string>
     <string name="user_experience_improve_joined_hint">"Vous participez actuellement au 
 Programme d'Expérience utilisateur"</string>
-    <string name="user_experience_improve_license">"Programme d\'Expérience utilsateur de l\'application Mi-Routeur
+    <string name="user_experience_improve_license">"Programme d\'Expérience utilisateur de l\'application Mi-Routeur
  
  XiaoMi Inc. (\"XiaoMi\") vous invite à participer à notre Programme d\'Espérience utilisateur (\"le Programme\"). Si vous choisissez de participer, les données et les statistiques d\'utilisation de l\'application Mi-Routeur seront envoyées à XiaoMi pour que nous puissions mieux comprendre son utilisation.
  
@@ -2002,13 +2002,13 @@ Programme d'Expérience utilisateur"</string>
  3. Mises à jour du Programme
  Nous modifions et améliorons constamment nos solutions, nous pouvons aussi faire des modifications concernant les termes du Programme. Si nous en faisons, vous serez notifié de ces changements dans l\'application Mi-Routeur.
  
- Xiaomi Inc.
+ XiaoMi Inc.
 "</string>
     <string name="user_experience_improve_not_agree">Pas maintenant</string>
     <string name="user_experience_improve_plan">Programme d\'Expérience utilisateur</string>
-    <string name="user_experience_improve_plan_details_title">Voir les détails</string>
+    <string name="user_experience_improve_plan_details_title">Les détails du Programme d\'Expérience utilisateur</string>
     <string name="user_experience_improve_quit">Quitter</string>
-    <string name="user_experience_improve_short_desc">Aider Xiaomi a améliorer ce produit en nous envoyant vos données et statistiques d\'utilisation. [Apprendre plus]</string>
+    <string name="user_experience_improve_short_desc">Aider XiaoMi a améliorer ce produit en nous envoyant vos données et statistiques d\'utilisation. [En savoir plus]</string>
     <string name="videos_group_name_x_num_x">%d éléments</string>
     <string name="weixin_bind_app_not_installed">Installez WeChat en premier</string>
     <string name="weixin_confirm_link">Connexion</string>
