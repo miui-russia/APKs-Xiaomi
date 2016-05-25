@@ -997,12 +997,12 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="file_menu_cancel_share">Partager</string>
     <string name="file_menu_create_folder_default_name">Dossier non nommé</string>
     <string name="file_menu_create_folder_name_empty">Nom de dossier ne peut pas être vide</string>
-    <string name="file_menu_create_folder_name_too_long">Nom e dossier est trop long</string>
+    <string name="file_menu_create_folder_name_too_long">Nom de dossier est trop long</string>
     <string name="file_menu_create_new_folder">Créer un dossier</string>
     <string name="file_menu_detail">Voir les détails</string>
     <string name="file_menu_detail_msg">"Nom : %1$s
 Emplacement : %2$s
-Modifié : %3$s
+Modifié le : %3$s
 Taille : %4$s"</string>
     <string name="file_menu_edit">Editer</string>
     <string name="file_menu_rename">Renommer</string>
@@ -1051,7 +1051,7 @@ Taille : %4$s"</string>
     <string name="file_share_cancel_share_folder_loading">Départage…</string>
     <string name="file_share_cancel_share_folder_tip">Départager %s ?</string>
     <string name="file_share_set_share_folder_loading">Partage…</string>
-    <string name="file_share_set_share_folder_tip">Partager %s ?</string>
+    <string name="file_share_set_share_folder_tip">Souhaitez-vous partager %s ?</string>
     <string name="file_single_folder_operation_suffix">dossier</string>
     <string name="file_size">Taille : %s</string>
     <string name="file_size_count_fail">Impossible d\'obtenir la taille de fichier</string>
@@ -1094,7 +1094,7 @@ Taille : %4$s"</string>
     <string name="file_title_choose_to_delete">Choisir les éléments à supprimer</string>
     <string name="file_title_choose_to_download">Télécharger vers le téléphone</string>
     <string name="file_title_long_click_to_select_item">Appuyer et maintenir enfoncé pour sélectionner les éléments</string>
-    <string name="file_title_select_download_files">Choisir les éléments à télécharger</string>
+    <string name="file_title_select_download_files">Éléments à télécharger</string>
     <string name="file_title_select_upload_directory">Choisir le dossier</string>
     <string name="file_transfer">Transfert de fichiers</string>
     <string name="file_transfer_3G_network_tip">Vous utilisez les données mobiles. Celà peut générer des frais supplémentaires"You're using mobile data. It may generate additional data costs. Continue?"</string>
