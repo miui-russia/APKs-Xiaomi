@@ -488,8 +488,8 @@ Cela peut nuire aux performances de votre routeur, essayer de vider le cache."</
     <string name="client_detail_menu_forbid_wan_description">Ne pas autoriser ce périphérique à se connecter à Internet</string>
     <string name="client_detail_menu_onoffline_notification">Notification des périphériques connectés</string>
     <string name="client_detail_menu_onoffline_notification_description">Afficher une notification lorsque ce périphérique ce connecte au réseau</string>
-    <string name="client_detail_menu_remarks">Editer les commentaires</string>
-    <string name="client_detail_menu_router_disk_access">Accès au disque dur du routeur</string>
+    <string name="client_detail_menu_remarks">Renommer le périphérique</string>
+    <string name="client_detail_menu_router_disk_access">Accès à l\'espace de stockage du routeur</string>
     <string name="client_detail_menu_router_disk_access_description">Autoriser ce périphérique à accéder au disque dur du routeur</string>
     <string name="client_detail_net_flow">Bande passante</string>
     <string name="client_detail_net_speed">Débit</string>
