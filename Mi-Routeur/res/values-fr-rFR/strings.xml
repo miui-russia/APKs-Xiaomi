@@ -772,7 +772,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="diskbackup_get_root_folder_error">Impossible de trouver le fichier</string>
     <string name="diskbackup_get_target_error">Impossible de trouver des fichiers à savegarder</string>
     <string name="diskbackup_get_volume_error">Impossible d\'obtenir des informations du stockage amovible</string>
-    <string name="diskbackup_hour">H</string>
+    <string name="diskbackup_hour">h</string>
     <string name="diskbackup_last_back_time">Dernière sauvegarde :</string>
     <string name="diskbackup_minute">m</string>
     <string name="diskbackup_no_backuped">Non sauvegardé</string>
@@ -852,7 +852,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_router_pick_back_to_mobile_desc">Synchronier automatiquement les vidéos terminées avec le téléphone</string>
     <string name="download_router_pick_title">Choisir le routeur</string>
     <string name="download_setting">Téléchargements</string>
-    <string name="download_setting_hint">Commencés %1$s %2$s | En pause %3$s</string>
+    <string name="download_setting_hint">%1$s, Commence à %2$s | S\'arrête à %3$s</string>
     <string name="download_setting_pause">Mettre en pause tous les téléchargements</string>
     <string name="download_setting_resume">Reprendre les téléchargements</string>
     <string name="download_setting_schedule">Planifier les horaires de téléchargements</string>
@@ -1472,7 +1472,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="personal_center_version">Version de Mi-Routeur : %s</string>
     <string name="picker_am">AM</string>
     <string name="picker_day">jour</string>
-    <string name="picker_hour">H</string>
+    <string name="picker_hour">h</string>
     <string name="picker_minute">min</string>
     <string name="picker_month">mois</string>
     <string name="picker_pm">PM</string>
@@ -1669,11 +1669,11 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_unbind_message">Délier votre appareil de %s?</string>
     <string name="setting_unbind_waiting">Déliaison</string>
     <string name="setting_update">Mise à jour</string>
-    <string name="setting_wifi_2_4_switch">2.4G Wi-Fi</string>
-    <string name="setting_wifi_5_0_switch">5G Wi-Fi</string>
+    <string name="setting_wifi_2_4_switch">Wi-Fi - Canal 2.4G</string>
+    <string name="setting_wifi_5_0_switch">Wi-Fi - Canal 5G</string>
     <string name="setting_wifi_bsd_switch">Wi-Fi</string>
     <string name="setting_wifi_bsd_switch_off">Double-bande Wi-Fi non activée. Le réseau 5G utilise le même nom de réseau (exemple_5G) et le même mot de passe que le réseau 2.4. Vous pouvez changer ce réglage.</string>
-    <string name="setting_wifi_bsd_switch_on">Lorqu\'ils sont activés, les réseaux 2.4G et 5G auront le même nom (2.4G est la configuration par défaut). Le meilleur signal sera choisi pour vous connecter. La connexion Internet sera brièvement interrompue lors de l\'application des changements.</string>
+    <string name="setting_wifi_bsd_switch_on">Lorsqu\'ils sont activés, les canaux 2.4G et 5G auront le même nom (2.4G est la configuration Wi-Fi par défaut). Le meilleur signal sera choisi pour vous connecter. La connexion Internet sera brièvement interrompue lors de l\'application des changements.</string>
     <string name="setting_wifi_encyption_choose">Choisissez le chiffrage de réseau</string>
     <string name="setting_wifi_encyption_none">Aucun</string>
     <string name="setting_wifi_encyption_type">Chiffrage</string>
@@ -1683,12 +1683,12 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_wifi_fangke_wifi_2_4_turnoff_hint">Activer le réseau Wi-Fi 2.4G pour utiliser le réseau Invités</string>
     <string name="setting_wifi_fangke_wifi_hint">Les invités sont autorisés à se connecter au Wi-Fi, mais ne peuvent pas voir le contenu ou les réglages du routeur.</string>
     <string name="setting_wifi_fangke_wifi_prefix">Invités_</string>
-    <string name="setting_wifi_fusion_desc">Réseau et canaux 2.4G et 5G sont combinés afin de choisir le meilleur des deux automatiquement</string>
+    <string name="setting_wifi_fusion_desc">Les canaux 2.4G et 5G sont combinés afin d\'attribuer le meilleur des deux automatiquement</string>
     <string name="setting_wifi_fusion_title">Double-bande Wi-Fi</string>
     <string name="setting_wifi_hide_ssid">Masquer le réseau</string>
     <string name="setting_wifi_info_loading">Obtention des informations Wi-Fi…</string>
     <string name="setting_wifi_manage">Wi-Fi</string>
-    <string name="setting_wifi_name">Nom</string>
+    <string name="setting_wifi_name">Nom du réseau</string>
     <string name="setting_wifi_name_should_not_empty">Le nom du réseau Wi-Fi ne peut être vide</string>
     <string name="setting_wifi_name_special_character">Le nom du routeur contient des caractères spéciaux. Cela peut empêcher la bonne connexion au réseau.</string>
     <string name="setting_wifi_password">Mot de passe</string>
@@ -1738,11 +1738,11 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="statistics_storage_usage_xunlei_crystal">Xunlei</string>
     <string name="statistics_unknown_model">Inconnu</string>
     <string name="statistics_unknown_os">Inconnu</string>
-    <string name="storage_data_protect">Vérouiller le contenu du routeur</string>
+    <string name="storage_data_protect">Verrouiller le contenu du routeur</string>
     <string name="storage_data_protect_desc">Ne pas autoriser les utilisateurs à faire des changements au contenu 
 stocké sur le routeur</string>
     <string name="storage_feedback">Disque dur du routeur</string>
-    <string name="storage_format_disk">Formater le disque dur du routeur</string>
+    <string name="storage_format_disk">Formater l\'espace de stockage du routeur</string>
     <string name="storage_format_fail">Impossible de formater le disque dur du routeur</string>
     <string name="storage_format_succ">Disque dur du routeur formaté</string>
     <string name="storage_formatting">En cours de formatage du disque dur du routeur…</string>
@@ -1857,9 +1857,9 @@ mémoire</string>
     <string name="tool_time_setting_end_shutdown">Redémarrage</string>
     <string name="tool_time_setting_end_wifi">Activation du Wi-Fi</string>
     <string name="tool_time_setting_no_day_select">Choisir au moins 1 jour</string>
-    <string name="tool_time_setting_pause_download">Pause</string>
+    <string name="tool_time_setting_pause_download">Arrêt</string>
     <string name="tool_time_setting_repeat">Répétition</string>
-    <string name="tool_time_setting_resume_download">Démarrer</string>
+    <string name="tool_time_setting_resume_download">Démarrage</string>
     <string name="tool_time_setting_setting">Planification</string>
     <string name="tool_time_setting_start">À</string>
     <string name="tool_time_setting_start_shutdown">Eteindre</string>
