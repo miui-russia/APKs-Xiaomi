@@ -1311,7 +1311,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="login_switch_account">" "<u>Changer de compte</u>" "</string>
     <string name="login_system_login">Se connecter</string>
     <string name="login_system_login_prompt_prefix">ID du compte Mi : "</string>
-    <string name="login_system_login_prompt_suffix">Se connecter</string>
+    <string name="login_system_login_prompt_suffix"> s\'y connecter ?</string>
     <string name="login_system_login_title">Se connecter à un compte Mi existant</string>
     <string name="login_username_input_fail">Ce compte Mi n\'éxiste pas</string>
     <string name="login_waiting">Connexion…</string>
@@ -1547,7 +1547,7 @@ le disque dur du routeur. Cette action est irréversible !</string>
     <string name="relay_wifi_analytic">Diagnostique Wi-Fi</string>
     <string name="reminder_auto_switch_wifi_failed">Impossible de changer le Wi-Fi pour %s"</string>
     <string name="reminder_auto_switch_wifi_success">Wi-Fi changé pour %s</string>
-    <string name="reminder_disconnect">Le périphérique n\'a pas de connexion Internet</string>
+    <string name="reminder_disconnect">Votre périphérique n\'est pas connecté à Internet</string>
     <string name="reminder_offline">Impossible de se connecter au routeur</string>
     <string name="reminder_offline_reason_1_description">Assurez-vous que le routeur est bien sous tension. Si votre périphérique n\'est toujours pas en mesure de détecter le routeur, vous devriez le flasher et utiliser un stockage USB externe.</string>
     <string name="reminder_offline_reason_1_title">Verifier la source électrique</string>
@@ -1704,7 +1704,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_wifi_turnoff_prompt_guest_wifi">Tous les appareils connectés perdront temporairement la connexion au routeur. Continuer tout de même ?</string>
     <string name="share">Partager</string>
     <string name="shutdown_desc">Assurez-vous que le routeur est bien éteint avant de le déconnecter du secteur.</string>
-    <string name="shutdown_now">Eteindre</string>
+    <string name="shutdown_now">Annuler</string>
     <string name="shutdown_router_closing_message">Attendez l\'extinction de la LED de notification du routeur avant de le déconnecter du secteur."</string>
     <string name="shutdown_router_closing_title">En cours d\'extinction…</string>
     <string name="shutdown_router_confirm_message">Tous les appareils seront déconnectés lors de l\'extinction du routeur.</string>
