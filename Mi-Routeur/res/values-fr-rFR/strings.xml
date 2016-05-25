@@ -1193,7 +1193,7 @@ Voir les fichiers en utilisant l\'outils</string>
     <string name="guest_wifi_loading_data">Obtention des données…</string>
     <string name="guest_wifi_password_description">Mot de passe Wi-Fi requis pour se connecter</string>
     <string name="guest_wifi_password_tip">Actuellement tout périphérique peut se connecter sans mot de passe. Vous pouvez changer ce réglage.</string>
-    <string name="guest_wifi_password_title">Regular encryption</string>
+    <string name="guest_wifi_password_title">Chiffrage standard</string>
     <string name="guest_wifi_setting_save">Sauvegarder les réglages</string>
     <string name="guest_wifi_setting_save_tip_1">La connexion Wi-Fi sera interrompue pour appliquer les changements.</string>
     <string name="guest_wifi_setting_save_tip_2">Pour appliquer les changements, le routeur doit passer sous %s. La connexion Wi-Fi dera brièvement interrompue.</string>
@@ -1274,7 +1274,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="invitation_sms_prompt">Envoyer des notifications SMS</string>
     <string name="invitation_status_accept">Accepté</string>
     <string name="invitation_status_pending">En attente</string>
-    <string name="invitation_title">Partager le routeur</string>
+    <string name="invitation_title">Partage du routeur</string>
     <string name="k_s">KB/s</string>
     <string name="lcd_error">--</string>
     <string name="led_off_tip">Si vous désactivez la LED, vous ne serez plus en mesure de voir le statut du routeur. Désactiver la LED ?"</string>
@@ -1335,7 +1335,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="main_router_type_invitation">Partager</string>
     <string name="main_router_type_relay">Répéteur</string>
     <string name="main_tools">Extensions</string>
-    <string name="main_user_feedback">Retour d\'expérience</string>
+    <string name="main_user_feedback">Retour d\'Expérience utilisateur</string>
     <string name="main_wps_connect">Connecter les périphériques WPS</string>
     <string name="media_file_empty">Impossible de trouver les fichiers média</string>
     <string name="media_photo_empty">Impossible de trouver les photos</string>
@@ -1463,7 +1463,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="parent_control_time_title">Planifié</string>
     <string name="parent_control_timer_setting_title">Déconnexion planifiée</string>
     <string name="personal_center_experience">Programme d\'Expérience utilisateur</string>
-    <string name="personal_center_feedback">Retour d\'expérience</string>
+    <string name="personal_center_feedback">Retour d\'Expérience utilisateur</string>
     <string name="personal_center_language">Langues</string>
     <string name="personal_center_logout">Se déconnecter</string>
     <string name="personal_center_logout_message">Se déconnecter de votre compte ?</string>
@@ -1522,7 +1522,8 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="reboot_title">Redémarrer le routeur</string>
     <string name="recovery_fail_waiting">Impossible de rétablir les réglages d\'usine du routeur</string>
     <string name="recovery_format_disk">Formater l\'espace de stockage du routeur</string>
-    <string name="recovery_format_disk_detail">Le formatage supprimera tous les fichiers (musiques, vidéos, photos, etc.) du disque dur du routeur. Cette action est irréversible !</string>
+    <string name="recovery_format_disk_detail">Le formatage supprimera tous les fichiers (musiques, vidéos,
+photos, etc.) du disque dur du routeur. Cette action est irréversible !</string>
     <string name="recovery_must_clean">RETABLIR LES REGLAGES D\'USINE</string>
     <string name="recovery_now">Rétablir maintenant</string>
     <string name="recovery_optional_clean">FORMATER L\'ESPACE DE STOCKAGE</string>
@@ -1738,8 +1739,8 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="statistics_unknown_model">Inconnu</string>
     <string name="statistics_unknown_os">Inconnu</string>
     <string name="storage_data_protect">Verrouiller le contenu du routeur</string>
-    <string name="storage_data_protect_desc">Ne pas autoriser les utilisateurs à faire des changements au contenu 
-stocké sur le routeur</string>
+    <string name="storage_data_protect_desc">Ne pas autoriser les utilisateurs à faire des changements
+au contenu stocké sur le routeur</string>
     <string name="storage_feedback">Disque dur du routeur</string>
     <string name="storage_format_disk">Formater l\'espace de stockage du routeur</string>
     <string name="storage_format_fail">Impossible de formater le disque dur du routeur</string>
@@ -1760,7 +1761,7 @@ stocké sur le routeur</string>
     <string name="tool_close">Eteindre</string>
     <string name="tool_detail_install">Ajouter aux extensions</string>
     <string name="tool_detail_title">Détails</string>
-    <string name="tool_disk_statistics">Détails du stockage</string>
+    <string name="tool_disk_statistics">Détails de l\'espace de stockage</string>
     <string name="tool_disk_statistics_description">Vérifier l\'état de santé du disque dur et les statistiques d\'utilisation</string>
     <string name="tool_disk_statistics_remote_disabled">Impossible de scanner à distance. Connectez-vous au Wi-Fi du routeur d\'abord.</string>
     <string name="tool_download_barcoe">Scanner QR code</string>
@@ -1810,7 +1811,7 @@ Dernière mise à jour : %3$s"</string>
     <string name="tool_not_support_share">Les administrateurs ne peuvent utiliser cette fonction</string>
     <string name="tool_open_error">Impossible d\'ouvrir l\'outil</string>
     <string name="tool_opening_mpk">Ouverture…</string>
-    <string name="tool_qos">Gérer la bande passante</string>
+    <string name="tool_qos">Gestion de la bande passante</string>
     <string name="tool_qos_description">Limiter la quantité de bande passante consommée par les appareils connectés</string>
     <string name="tool_router_download_timer">Téléchargments planifiés</string>
     <string name="tool_router_feedback">FAQ</string>
@@ -1820,7 +1821,7 @@ Dernière mise à jour : %3$s"</string>
     <string name="tool_router_reboot_timer_switch_hint">Redémarrer le routeur à l\'heure planifiée</string>
     <string name="tool_router_setting">Paramètres</string>
     <string name="tool_router_setting_desc">Paramétrer le routeur</string>
-    <string name="tool_router_shutdown_timer">Planifier les extinctions</string>
+    <string name="tool_router_shutdown_timer">Planification des extinctions</string>
     <string name="tool_router_shutdown_timer_desc">Eteindre le routeur lorsque vous en avez pas besoin</string>
     <string name="tool_router_shutdown_timer_switch_hint">Eteindre le routeur à l\'heure planifiée</string>
     <string name="tool_taskmanager">Gestionnaire de tâches</string>
