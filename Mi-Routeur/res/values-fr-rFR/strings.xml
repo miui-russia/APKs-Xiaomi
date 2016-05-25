@@ -830,7 +830,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_enable_accelerate">Booster</string>
     <string name="download_error_nospace">Espace de stockage insuffisant sur ce routeur</string>
     <string name="download_explore">Rechercher</string>
-    <string name="download_explore_more_resource">Ajouter plus de ressources</string>
+    <string name="download_explore_more_resource">Ajouter plus de sources</string>
     <string name="download_explore_more_resource_new">Nouveau contenu disponible</string>
     <string name="download_feedback">Téléchargement à distance</string>
     <string name="download_get_list_error">Impossible de charger la liste de téléchargement</string>
@@ -886,8 +886,8 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_xunlei_device_init_success">Réglage du compte Xunlei terminé</string>
     <string name="download_xunlei_download">Booster avec Xunlei</string>
     <string name="download_xunlei_download_desc1">Augmenter la vitesse de téléchargement avec</string>
-    <string name="download_xunlei_download_desc2">Moteur de téléchargement Xunlei.</string>
-    <string name="download_xunlei_download_desc3">Vous ouvez essayer gratuitement le moteur de téléchargement de Xunlei</string>
+    <string name="download_xunlei_download_desc2">le moteur de téléchargement \"Xunlei\".</string>
+    <string name="download_xunlei_download_desc3">Vous pouvez essayer gratuitement le moteur de téléchargement de \"Xunlei\"</string>
     <string name="download_xunlei_download_desc4">10 fois tous les mois.</string>
     <string name="download_xunlei_download_title">Booster avec Xunlei</string>
     <string name="download_xunlei_expire_date_format">dd/MM/yyyy</string>
@@ -993,7 +993,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="file_load_fail_volume_not_exist">Ce stockage n\'existe pas ou a été retiré</string>
     <string name="file_media_select_items">Selectionner les éléments</string>
     <string name="file_media_select_x_items">%s séléctionné</string>
-    <string name="file_media_type_others">Fichiers et dossiers</string>
+    <string name="file_media_type_others">Dossiers</string>
     <string name="file_menu_cancel_share">Partager</string>
     <string name="file_menu_create_folder_default_name">Dossier non nommé</string>
     <string name="file_menu_create_folder_name_empty">Nom de dossier ne peut pas être vide</string>
@@ -1578,11 +1578,11 @@ le disque dur du routeur. Cette action est irréversible !</string>
     <string name="resourcesearch_batch_task_adding">Ajout de la tâche…</string>
     <string name="resourcesearch_detail_error">Impossible d\'obtenir des détails</string>
     <string name="resourcesearch_download">Télécharger</string>
-    <string name="resourcesearch_expolore_hint">Rechercher des sources de téléchargement</string>
+    <string name="resourcesearch_expolore_hint">Rechercher une vidéos</string>
     <string name="resourcesearch_failed">Impossible de rechercher</string>
     <string name="resourcesearch_file_size_unknow">Inconnu</string>
     <string name="resourcesearch_hint">Recherche</string>
-    <string name="resourcesearch_hot_key">Les gens cherchent</string>
+    <string name="resourcesearch_hot_key">Le TOP des recherches</string>
     <string name="resourcesearch_hot_key_error">Impossible d\'obtenir les recherches populaires</string>
     <string name="resourcesearch_key_not_empty">Saisir votre recherche</string>
     <string name="resourcesearch_loading_page">Un instant…</string>
@@ -1786,11 +1786,11 @@ Dernière mise à jour : %3$s"</string>
     <string name="tool_invitation_router">Partager le routeur</string>
     <string name="tool_invitation_router_desc">Autoriser les autres utilisateurs à voir et changer les réglages du routeur</string>
     <string name="tool_manual_install">Installer une extension manuellement</string>
-    <string name="tool_market_install">Aujouter</string>
-    <string name="tool_market_installed_title">INSTALLÉ</string>
+    <string name="tool_market_install">Ajouter</string>
+    <string name="tool_market_installed_title">DÉJÀ INSTALLÉ</string>
     <string name="tool_market_installing">Installation…</string>
     <string name="tool_market_not_installed_title">DISPONIBLE</string>
-    <string name="tool_market_title_resource">Resources</string>
+    <string name="tool_market_title_resource">Sources</string>
     <string name="tool_market_title_tool">Extensions</string>
     <string name="tool_market_uninstall">Retirer</string>
     <string name="tool_market_uninstalling">Désinstallation…</string>
