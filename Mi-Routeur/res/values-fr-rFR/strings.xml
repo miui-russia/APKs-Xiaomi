@@ -823,13 +823,13 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="download_downloaded_item_menu_install">Installer</string>
     <string name="download_downloaded_item_menu_open">Ouvrir</string>
     <string name="download_downloaded_item_menu_share_link">Partager le lien</string>
-    <string name="download_downloading">Téléchargement</string>
+    <string name="download_downloading">Téléchargé</string>
     <string name="download_downloading_item_menu_pause">Pause</string>
     <string name="download_downloading_item_menu_restart">Essayer à nouveau</string>
     <string name="download_downloading_item_menu_resume">Reprendre</string>
     <string name="download_enable_accelerate">Booster</string>
     <string name="download_error_nospace">Espace de stockage insuffisant sur ce routeur</string>
-    <string name="download_explore">Rechercher</string>
+    <string name="download_explore">Recherche</string>
     <string name="download_explore_more_resource">Ajouter plus de sources</string>
     <string name="download_explore_more_resource_new">Nouveau contenu disponible</string>
     <string name="download_feedback">Téléchargement à distance</string>
