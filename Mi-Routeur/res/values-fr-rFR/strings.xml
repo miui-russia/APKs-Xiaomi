@@ -995,7 +995,7 @@ Sauvegarder vos fichiers et remplacer le disque dur le plus rapidement possible"
     <string name="file_media_select_x_items">%s séléctionné</string>
     <string name="file_media_type_others">Dossiers</string>
     <string name="file_menu_cancel_share">Partager</string>
-    <string name="file_menu_create_folder_default_name">Dossier non nommé</string>
+    <string name="file_menu_create_folder_default_name">Nouveau dossier</string>
     <string name="file_menu_create_folder_name_empty">Nom de dossier ne peut pas être vide</string>
     <string name="file_menu_create_folder_name_too_long">Nom de dossier est trop long</string>
     <string name="file_menu_create_new_folder">Créer un dossier</string>
