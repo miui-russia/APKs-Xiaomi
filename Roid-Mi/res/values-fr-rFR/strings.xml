@@ -169,7 +169,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
 3.Les utilisateurs peuvent uniquement utiliser les services proposés avec les canaux fournis par RoidMi. Lorsque l'utilisateur l'utilise ainsi, leur comportement est considéré comme un accord pour l'utilisation du service et le consentement des toutes sortes d'annonces dans le service du firmware Roidmi. 
 
 Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivement le contrat de service. Si vous êtes en désaccord avec cet accord de service et/ou sa modification à tout moment, vous pouvez prendre l'initiative d'annuler le service fourni par le Roid-Mi. Une fois que vous utilisez le service du firmware Roidmi, il est considéré que vous avez compris et êtes entièrement d'accord avec le contenu de l'accord de service, y compris les modifications de Wuxi Roidmi Information Technology Co., Ltd à l'entente de service à tout moment, et de devenir un utilisateur du pilote Roidmi."</string>
-    <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée"<string>
+    <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée"</string>
     <string name="protocol_content_2">"
 1.Wuxi Roidmi Information Technology Co., ltd. est le propriétaire du compte Roid-Mi i.e. de l'utilisateur Roid-Mi et de son identifiant. Une fois que les utilisateurs ont complétés les procédures d'enregistrement, ils peuvent obtenir le droit d'utiliser leurs comptes Roid-Mi. Wuxi Roidmi Information Technology Co., Ltd., n'est ni responsable des problèmes et conséquences causées par de fausses informations lors de l'enregistrement puisque les utilisateurs doivent fournir des informations personnelles détaillées et précises, et les mettre à jour constamment. Cependant, toutes les informations entrées seront conservées en tant qu'informations d'enregistrement. 
 
@@ -248,7 +248,7 @@ Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivem
 
 Veuillez informer Wuxi Roidmi Information Technology Co., Ltd, de toute violation contre l'accord de service et tout autre terme de service unique.
 
-Bien que le produit, dans le processus de conduite vous apportera beaucoup de confort, nous vous recommandons fortement d'utiliser ce produit correctement pour votre sécurité de conduite. Wuxi Roidmi Information Technology Co., Ltd.is pas responsable de tous les types d'accidents causés par une mauvaise utilisation du produit dans le processus de conduite".</string>
+Bien que le produit, dans le processus de conduite vous apportera beaucoup de confort, nous vous recommandons fortement d'utiliser ce produit correctement pour votre sécurité de conduite. Wuxi Roidmi Information Technology Co., Ltd.is pas responsable de tous les types d'accidents causés par une mauvaise utilisation du produit dans le processus de conduite"</string>
     <string name="personal_info_title">Informations personnelles</string>
     <string name="personal_null">Non paramétré</string>
     <string name="personal_nick">Pseudo</string>
