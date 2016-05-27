@@ -24,7 +24,7 @@
     <string name="catalyst_element_inspector">Inspecter l\'élément</string>
     <string name="catalyst_jsload_error">"Impossible de télécharger JS bundle depuis les serveurs de développement.
 
-Essayez ce qui suit pour résoudre le problème :
+Essayez ce qui suit pour résoudre le problème:
 • Assurez-vous que le serveur est en marche
 • Assurez-vous que votre appareil/émulateur est connecté à votre machine et a autorisé le débogage USB - Lancez un 'adb devices' pour afficher la liste des appareils connectés
 • Si vous êtes sur un périphérique physique connecté à la même machine, Lancez un 'adb reverse tcp:8081 tcp:8081' pour transmettre les requêtes à votre appareil
@@ -100,7 +100,7 @@ Essayez ce qui suit pour résoudre le problème :
     <string name="air_serach_no_device_green_2">"L'appareil est occupé, veuillez le réinitialiser"</string>
     <string name="all_model_latest">Tous les appareils sont à jour</string>
     <string name="all_plugin_latest">Tous les plug-ins sont à jour</string>
-    <string name="app_curr_version">Version actuelle :</string>
+    <string name="app_curr_version">Version actuelle: </string>
     <string name="app_latest_version_installed">"Félicitations, l'application actuelle est à jour"</string>
     <string name="app_latest_version_installed_smarthome">Vous possédez la dernière version</string>
     <string name="app_name">Mi-Home</string>
@@ -1358,7 +1358,7 @@ que nous vous avons envoyé sur votre boîte mail."</string>
     <string name="several_minutes_ago">il y a %d minutes</string>
     <string name="several_months_ago">il y a %d mois</string>
     <string name="several_years_ago">il y a %d années</string>
-    <string name="sex_female">ma femme</string>
+    <string name="sex_female">Femme</string>
     <string name="sex_male">Homme</string>
     <string name="sh_confirm">OK</string>
     <string name="sh_network_not_available">"La connexion réseau n'est pas disponible"</string>
@@ -1902,7 +1902,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
  Les politiques de confidentialité peuvent être révisées. Sans votre consentement explicite, nous ne serons pas abroger les droits que vous aimez conformément à cette politique de confidentialité, sauf si nous vous envoyons un avis par l'adresse e-mail que vous avez fourni à nous ou si nous avons fait une annonce publique sur notre site.
  "</string>
     <string name="user_license_btn_text">"Conditions d'utilisation et politique de confidentialité"</string>
-    <string name="version_name_string">Version actuelle : %s</string>
+    <string name="version_name_string">Version actuelle: %s</string>
     <string name="videos_group_name_x_num_x" formatted="false">%s | %d fichiers</string>
     <string name="vip_achievement">achievement</string>
     <string name="vip_level">level</string>
@@ -1915,7 +1915,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="wednesday">Mercredi</string>
     <string name="welcome_i_known">OK</string>
     <string name="wifi_available_title">Réseaux disponibles</string>
-    <string name="wifi_change_btn_text">Changer les paramètres Wi-Fi</string>
+    <string name="wifi_change_btn_text">Changer les paramètres du Wi-Fi</string>
     <string name="wifi_change_hint">Changer de connexion Wi-Fi</string>
     <string name="wifi_check_select">Appuyez pour sélectionner le Wi-Fi</string>
     <string name="wifi_connection_correct">1. Vérifiez que la connexion Wi-Fi (2.5GHz) soit stable</string>
@@ -1993,6 +1993,7 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="yeelight_color_preset2">Jaune</string>
     <string name="yeelight_color_preset3">Passionné</string>
     <string name="yeelight_color_value">Valeurs de couleur：</string>
+    <string name="yeelight_default_group">Yeelight Group</string>
     <string name="yeelight_hint_enter_color_name">Veuillez entrer un nom personnalisé</string>
     <string name="yeelight_name">Lampe Yeelight</string>
     <string name="yeelight_passion">Passionné</string>
@@ -2075,14 +2076,15 @@ Vous êtes la seule personne en charge de votre contenu. Vous porterez le risque
     <string name="toast_modify_group_failed">Échec de regroupement</string>
     <string name="visible_in_main_device_list_failed">Ajout échoué</string>
     <string name="visible_in_main_device_list_success">Ajout réussi</string>
-    <string name="about_check_update_new">Vérifier les mises à jour</string>
+    <string name="about_check_update_new">Vérifiez les mises à jour</string>
     <string name="action_back">Retour</string>
     <string name="add_bracelet_content">Souhaitez-vous ajouter le bracelet Mi-Fit à la liste Mes périphériques ?</string>
     <string name="add_bracelet_title">Ajouter bracelet Mi-Fit</string>
     <string name="add_device_manual">Saisie manuelle</string>
     <string name="air_100">Bonne</string>
-    <string name="air_150">Moyenne</string>
+    <string name="air_150">Mauvaise</string>
     <string name="air_200">Mauvaise</string>
+    <string name="air_250">Mauvaise</string>
     <string name="air_300">Très mauvaise</string>
     <string name="air_50">Très bonne</string>
     <string name="air_desc_detail">Grâce à des données de %s</string>
@@ -2305,6 +2307,28 @@ Appuyez longuement pour revenir"</string>
     <string name="roidmi_car_bluetooth_player">Bluetooth Voiture</string>
     <string name="saturday1">Samedi</string>
     <string name="scan_device">Recherche des périphériques</string>
+    <string name="scene2_add_to_home">add to desktop</string>
+    <string name="scene2_add_to_lockscreen">add to lockscreen</string>
+    <string name="scene2_close">close</string>
+    <string name="scene2_custom">custom</string>
+    <string name="scene2_delete">delete</string>
+    <string name="scene2_execute_result">execute result</string>
+    <string name="scene2_execute_result_notify">execute reulst nofity</string>
+    <string name="scene2_executed">executed</string>
+    <string name="scene2_gohome">go home scene</string>
+    <string name="scene2_more">more</string>
+    <string name="scene2_no">scene empty</string>
+    <string name="scene2_open">open</string>
+    <string name="scene2_recommend">recommend</string>
+    <string name="scene2_rename">rename</string>
+    <string name="scene2_rename_scene">rename scene</string>
+    <string name="scene2_sleep">sleep scene</string>
+    <string name="scene2_title">Scene</string>
+    <string name="scene2_to_execute">click to execute</string>
+    <string name="scene2_trig_conidtion">触发条件（满足任一条件）</string>
+    <string name="scene2_view_more">more</string>
+    <string name="scene_all_condition_satified">meet all conditions</string>
+    <string name="scene_any_condition_satified">meet any conditions</string>
     <string name="scene_condition_miband_awake">"Lors de la détection d'un utilisateur dans le sillage"</string>
     <string name="scene_condition_miband_sleep">"Lorsque l'utilisateur est détectée comme endormi"</string>
     <string name="score_about_desc">Quel score faire, comment l\'obtenir</string>
@@ -2519,6 +2543,8 @@ Appuyez longuement pour revenir"</string>
     <string name="accept">Accepter</string>
     <string name="account_binding_confilict">Appairage compte échoué, le compte a été lié avec un autre compte Mi !</string>
     <string name="add_condition_error">5 conditions au moins</string>  
+    <string name="background_running">后台运行</string>
+    <string name="back_name_less_limit_10">less 10 characters</string>
     <string name="ble_connect_failed_message">Connexion échouée, réessayer ？</string>
     <string name="ble_connect_failed_tips">Connexion échouée</string>
     <string name="ble_connect_success_toast">Connexion réussie</string>
@@ -2555,6 +2581,7 @@ Appuyez longuement pour revenir"</string>
     <string name="device_group_title_others">Autres périphériques</string>
     <string name="device_group_title_virtualgroup">Virtual Device</string>
     <string name="device_list_config_failed_title">smart config failed，click to see more information</string>
+    <string name="device_list_config_finding_title">searching device</string>
     <string name="device_more_activity_noti_quick_op">Notification Bar switch</string>
     <string name="dialog_title_save_sort">Sort operation not saved,sure to quit?</string>
     <string name="expand">Expand</string>
@@ -2606,6 +2633,9 @@ Appuyez longuement pour revenir"</string>
     <string name="scene2_mute">Mettre en silence la TV et le téléphone</string>
     <string name="scene2_photograph">Licence</string>
     <string name="scene2_safety">Sécurité à la maison</string>
+    <string name="scene_execute_location">executive location</string>
+    <string name="scene_locale_cloud">Mi-Cloud</string>
+    <string name="scene_locale_local">Réseau local</string>
     <string name="set_timer_fail_delete">Dernère plannification échouée, réessayer ?</string>
     <string name="set_timer_fail_delete1">Suppression de la plannification échouée, réessayer ?</string>
     <string name="set_timer_fail_disable">Désactivation de la plannification échouée, réessayer ?</string>
@@ -2637,7 +2667,7 @@ Appuyez longuement pour revenir"</string>
 "</string>
     <string name="scene_user_license_title">Instructions</string>
     <string name="scene_user_license_title_1">J\'ai lu les "Précautions et conditions d\'utilisation"</string>
-    <string name="scene_warrning_text">"Note d'information : Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
+    <string name="scene_warrning_text">"Note d'information: Mi-Home peut engendrer des problèmes suite à des défaillances du réseau, l'appairage pourrait générer des risques concernant la sécurité des périphériques."</string>
     <string name="share_pic_not_extern_storage">Stockage insuffisant</string>
     <string name="action_settings">Paramètres</string>
     <string name="app_kuwan">酷玩</string>
@@ -2658,16 +2688,49 @@ Appuyez longuement pour revenir"</string>
     <string name="device_list_shop_virtual3d_desc">炫酷全景漫游 智能生活实况模拟体验</string>
     <string name="device_list_shop_virtual3d_title">3D体验馆</string>
     <string name="hello_world">Traduit par Angyann et Fays</string>
+    <string name="local_scene_delete_failed">请确保网关在线后再删除</string>
     <string name="local_scene_device_offline">Mettre sous tension le périphérique et éssayer à nouveau</string>
     <string name="local_scene_failed">场景同步本地过程出现异常，建议重试</string>
     <string name="local_sync_failed">场景同步失败，请更新插件之后再试</string>
     <string name="yeelink_light_scene_hint">Assurez-vous que la version du routeur est supérieure à 2.9.0</string>
     <string name="miio_setting_forum">Forum</string>
     <string name="location_disable_hint">Si vous refusez la localisation du téléphone, le périphérique ne peut pas être trouvé</string>
-    <string name="scene_execute_location">执行方式</string>
-    <string name="scene_locale_cloud">Cloud</string>
-    <string name="scene_locale_local">Réseau local</string>
+    <string name="scene_condition_phone_call">当来电话时（仅支持小米手机）</string>
+    <string name="scene_condition_sms">当来短信时（仅支持小米手机）</string>
     <string name="developer_plugin_info">Informations du plug-in développeur</string>
     <string name="wifi_disable_hint">Si vous désactivez le Wi-Fi, le périphérique ne peut pas être trouvé</string>
     <string name="dialog_button_create_yeelight_group">Créer un groupe de lampe Yeelight</string>
+    <string name="smart_config_ap_connect_sub_title">手机将暂时断开路由器并连接设备，请尽量使您的手机和设备相互靠近</string>
+    <string name="smart_config_blink_fast">快速闪烁</string>
+    <string name="smart_config_blink_slow">慢速闪烁</string>
+    <string name="smart_config_blue_light_blinking">蓝灯闪烁</string>
+    <string name="smart_config_blue_light_bright">蓝灯常亮</string>
+    <string name="smart_config_bright">指示灯常亮</string>
+    <string name="smart_config_completing">正在完成连接</string>
+    <string name="smart_config_connect_ap_error_sub_title">请检查您当前的手机网络连接，确保可以正常访问网络后重试</string>
+    <string name="smart_config_connect_ap_error_title">手机无法访问网络</string>
+    <string name="smart_config_connect_timeout">连接超时</string>
+    <string name="smart_config_connecting">正在连接新设备，稍后重试</string>
+    <string name="smart_config_connecting_sub_title">尽量使您的路由器，手机和设备相互靠近</string>
+    <string name="smart_config_current_wifi">当前WI-FI:%s</string>
+    <string name="smart_config_device_connecting">设备连接中，请稍后</string>
+    <string name="smart_config_downloading_failed">当前网络环境较差，请稍后手动下载插件</string>
+    <string name="smart_config_downloading_plugin">正在下载插件，请稍后</string>
+    <string name="smart_config_failed_connect_ap">无法连接设备热点</string>
+    <string name="smart_config_failed_connect_ap_solution">请检查设备指示灯是否为黄灯闪烁，并将手机靠近设备后重试</string>
+    <string name="smart_config_find_new_device_error">请确保当前网络环境良好并尝试重新扫描</string>
+    <string name="smart_config_hide_passwd">隐藏密码</string>
+    <string name="smart_config_manual_text">请将手机连接到%s后返回小米智能家庭APP</string>
+    <string name="smart_config_passwd_failed">连接中断</string>
+    <string name="smart_config_passwd_failed_final_sub_title">当前网络环境差或密码错误，请检查设备当前指示灯的状态，并按照提示操作</string>
+    <string name="smart_config_passwd_failed_sub_title">请尽量将手机靠近设备后重试</string>
+    <string name="smart_config_reinput">重新输入</string>
+    <string name="smart_config_reinput_wifi_passwd">重新输入密码有可能与系统保存的WLAN密码不同，是否确认重新输入？</string>
+    <string name="smart_config_set_wifi_btn">去设置WIFI</string>
+    <string name="smart_config_show_passwd">显示密码</string>
+    <string name="smart_config_toast_connect_failed">%s已连接超时</string>
+    <string name="smart_config_toast_connect_success">%s已连接成功</string>
+    <string name="smart_config_update_connection_state">正在更新连接状态，请稍后</string>
+    <string name="smart_config_yellow_light_blinking">黄灯闪烁</string>
+    <string name="switch_router_manually">一直无法连接设备？尝试手动连接</string>
 </resources>
