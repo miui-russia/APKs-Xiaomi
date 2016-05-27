@@ -446,6 +446,8 @@ Camera password will be changed to 1234567890."</string>
     <string name="pay_attention_to">+Follow</string>
     <string name="phone_album">Photos on device</string>
     <string name="pic_edit_clip">Cut</string>
+    <string name="pic_edit_decor">Beautify</string>
+    <string name="pic_edit_effect">Effects</string>
     <string name="pic_edit_failed">Save failed</string>
     <string name="pic_edit_filter">Filters</string>
     <string name="pic_edit_filter_black">Black White</string>
@@ -453,7 +455,7 @@ Camera password will be changed to 1234567890."</string>
     <string name="pic_edit_filter_inkwash">Watercolor</string>
     <string name="pic_edit_filter_literature">Literature</string>
     <string name="pic_edit_filter_load_sticker_failed">Download sticker failed!</string>
-    <string name="pic_edit_filter_onekeybeauty">onekeybeauty</string>
+    <string name="pic_edit_filter_onekeybeauty">Auto</string>
     <string name="pic_edit_filter_origin">None</string>
     <string name="pic_edit_filter_reminiscence">Reminiscence</string>
     <string name="pic_edit_filter_spin">Spiral Galaxy</string>
@@ -468,6 +470,7 @@ Camera password will be changed to 1234567890."</string>
     <string name="pic_edit_rotate">Rotate</string>
     <string name="pic_edit_save_share">Save/Share</string>
     <string name="pic_edit_saved">Saved to the gallery</string>
+    <string name="pic_edit_tool">Tools</string>
     <string name="pic_second">Photos per sec</string>
     <string name="pic_two_second">Photos every 2 sec</string>
     <string name="pic_two_six">Photos every 6 sec</string>
