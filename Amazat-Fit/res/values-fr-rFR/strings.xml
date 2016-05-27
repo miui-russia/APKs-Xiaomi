@@ -2,7 +2,7 @@
 <resources>
     <string name="com_facebook_image_download_unknown_error">"Erreur inattendue lors du téléchargement de l'image."</string>
     <string name="com_facebook_internet_permission_error_message">"La connexion a Webview nécessite l'autorisation internet"</string>
-    <string name="com_facebook_internet_permission_error_title">Erreur Android Manifest</string>
+    <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
     <string name="com_facebook_like_button_liked">"J'aime"</string>
     <string name="com_facebook_like_button_not_liked">"Je n'aime plus"</string>
     <string name="com_facebook_loading">Chargement...</string>
@@ -212,7 +212,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="beenz_task_7_name">Déconnecter</string>
     <string name="beenz_task_8_detail">Rappel intelligent de la fonction réveil</string>
     <string name="beenz_task_8_name">blockbuster</string>
-    <string name="beenz_task_9_detail">"Utiliser l'Amazfit lord d’une course sur un tapis roulant"</string>
+    <string name="beenz_task_9_detail">"Utiliser l'AmazFit lord d’une course sur un tapis roulant"</string>
     <string name="beenz_task_9_name">100 km</string>
     <string name="beenz_task_exchange_net_error">Erreur réseau, impossible de recevoir votre récompense</string>
     <string name="beenz_task_get_gold">Recevoir dans...</string>
@@ -262,10 +262,10 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="bodyfat_hint_too_high">Trés Fort</string>
     <string name="bodyfat_intro">"Avec la Mi Balance
 suivez vos évolutions tels que le poids, la masse graisseuse, fourni une analyse et des conseils qui sont utiles pour votre santé.</string>
-    <string name="bone_mass"Masse osseuse</string>
+    <string name="bone_mass">Masse osseuse</string>
     <string name="bone_mass_label">Mince 2.5KG Normal</string>
     <string name="bt_operation_failed_tips">Connexion Bluetooth anormale. Veuillez réessayer plus tard.</string>
-    <string name="buy_a_band">Acheter un MI Band</string>
+    <string name="buy_a_band">Acheter un Mi-Fit</string>
     <string name="calorie_empty">Aucune calorie brûlée</string>
     <string name="calorie_lack_desc">"Ceci est l'énergie nécessaire pour le fonctionnement métabolique fondamental, comme la respiration, le transport du fer, la régénération normale des enzymes et des autres composants de l'organisme, etc."</string>
     <string name="calorie_lack_title">Qu\'est ce que BEE ?"</string>
