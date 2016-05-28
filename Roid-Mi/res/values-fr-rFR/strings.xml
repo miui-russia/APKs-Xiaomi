@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Roid-Mi</string>
+    <string name="app_name">RoidMi</string>
     <string name="app_name_show">Transmetteur Bluetooth</string>
     <string name="app_version">Version app: %1$s</string>
     <string name="btn_ok">OK</string>
@@ -51,8 +51,8 @@ Appuyez sur OK pour Continuer !"</string>
     <string name="device_bc">Chargeur auto avec Bluetooth</string>
     <string name="device_bu">USB avec Bluetooth</string>
     <string name="device_ty">TPMS</string>
-    <string name="device_bu_title">Roidmi USB avec Bluetooth</string>
-    <string name="device_ty_title">Roidmi TPMS</string>
+    <string name="device_bu_title">RoidMi USB avec Bluetooth</string>
+    <string name="device_ty_title">RoidMi TPMS</string>
     <string name="device_link">Connecté au Bluetooth</string>
     <string name="device_version">Version du Firmware</string>
     <string name="device_update_title">%1$s Mise à jour du Firmware</string>
@@ -85,7 +85,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="drive_time_120">Félicitations, vous êtes en bonne voie vers une conduite responsable</string>
     <string name="drive_time_300_1">"Félicitations, vous laissez votre empreinte dans la liste de Beverly Hillbillies
  Utilisez le un peu plus chaque jour pour avoir plus de fun"</string>
-    <string name="drive_time_300_2">Waouh, Si votre temps de conduite quotidien est de plus de 2 heures, vous serez dans la liste Roidmi de Beverly Hillbillies</string>
+    <string name="drive_time_300_2">Waouh, Si votre temps de conduite quotidien est de plus de 2 heures, vous serez dans la liste RoidMi de Beverly Hillbillies</string>
     <string name="drive_time_300_more_1">"Waouh, vous êtes l'un des chinois de Beverly Hillbillies pour votre conduite. Pensez à vous aérer l'esprit ?"</string>
     <string name="drive_time_300_more_2">"Waouh, vous êtes dans le top de la liste des chinois de Beverly Hillbillies. Loin devant d'autres dans l'esprit, ce n'est pas si cool hein ?"</string>
     <string name="feed_back">Commentaire</string>
@@ -106,7 +106,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche "Retour" pour revenir sur cet écran"</string>
     <string name="guide_start_up_setting">Commencer le paramètrage</string>
     <string name="guide_install">"C'est parti !"</string>
-    <string name="guide_install_info">Insérez le Roid-Mi dans la prise allume-cigare</string>
+    <string name="guide_install_info">Insérez le RoidMi dans la prise allume-cigare</string>
     <string name="guide_install_ok">OK, suivant !</string>
     <string name="guide_bt">Bluetooth</string>
     <string name="guide_bt_info">Entrez dans les paramètres du Bluetooth pour appairer votre appareil</string>
@@ -121,7 +121,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="send_voice_success">"J'entends! Suivant."</string>
     <string name="defalut_player">Lecteur de musique par défaut</string>
     <string name="defalut_player_detail">"Vous pouvez le modifier dans les paramètres de l'application."</string>
-    <string name="begin_use">Commencer à utiliser votre Roid-Mi</string>
+    <string name="begin_use">Commencer à utiliser votre RoidMi</string>
     <string name="fm_setting">Paramètres FM</string>
     <string name="fm_setting_detial">Réglez votre autoradio sur la fréquence:</string>
     <string name="fm_setting_info">La recherche automatique va régler votre fréquence</string>
@@ -162,31 +162,31 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="protocol">Conditions d\'utilisation</string>
     <string name="protocol_title_1">I. Conditions générales</string>
     <string name="protocol_content_1">"
-1.Les utilisateurs doivent accepter Conditions générales d'utilisations et acceptent de fournir toutes les informations nécessaires lors de la procédure de création de compte. Lors de la procédure de création de compte, si vous avez appuyé sur Valider, cela sous-entends que les utilisateurs ont pris connaissance des termes avec Wuxi Roidmi Information Technology Co., Ltd. et adhèrent sans réserve à l'intégralité des termes et conditions. 
+1.Les utilisateurs doivent accepter Conditions générales d'utilisations et acceptent de fournir toutes les informations nécessaires lors de la procédure de création de compte. Lors de la procédure de création de compte, si vous avez appuyé sur Valider, cela sous-entends que les utilisateurs ont pris connaissance des termes avec Wuxi RoidMi Information Technology Co., Ltd. et adhèrent sans réserve à l'intégralité des termes et conditions. 
 
 2.Après l'enregistrement, Wuxi Romi Information Technology Co., Ltd fournira à tous les utilisateurs un compte dédié ainsi que les identifiants, que l'utilisateur devra conserver en lieu sûr et par ses propres moyens. Les utilisateurs sont responsables de toutes les activités connues sur leur compte. 
 
-3.Les utilisateurs peuvent uniquement utiliser les services proposés avec les canaux fournis par RoidMi. Lorsque l'utilisateur l'utilise ainsi, leur comportement est considéré comme un accord pour l'utilisation du service et le consentement des toutes sortes d'annonces dans le service du firmware Roidmi. 
+3.Les utilisateurs peuvent uniquement utiliser les services proposés avec les canaux fournis par RoidMi. Lorsque l'utilisateur l'utilise ainsi, leur comportement est considéré comme un accord pour l'utilisation du service et le consentement des toutes sortes d'annonces dans le service du firmware RoidMi. 
 
-Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivement le contrat de service. Si vous êtes en désaccord avec cet accord de service et/ou sa modification à tout moment, vous pouvez prendre l'initiative d'annuler le service fourni par le Roid-Mi. Une fois que vous utilisez le service du firmware Roidmi, il est considéré que vous avez compris et êtes entièrement d'accord avec le contenu de l'accord de service, y compris les modifications de Wuxi Roidmi Information Technology Co., Ltd à l'entente de service à tout moment, et de devenir un utilisateur du pilote Roidmi."</string>
+Avant d'utiliser les services fournis par le RoidMi, vous devez lire attentivement le contrat de service. Si vous êtes en désaccord avec cet accord de service et/ou sa modification à tout moment, vous pouvez prendre l'initiative d'annuler le service fourni par le RoidMi. Une fois que vous utilisez le service du firmware RoidMi, il est considéré que vous avez compris et êtes entièrement d'accord avec le contenu de l'accord de service, y compris les modifications de Wuxi RoidMi Information Technology Co., Ltd à l'entente de service à tout moment, et de devenir un utilisateur du pilote RoidMi."</string>
     <string name="protocol_title_2">"Ⅱ.Renseignements concernant l'inscription et la protection de la vie privée"</string>
     <string name="protocol_content_2">"
-1.Wuxi Roidmi Information Technology Co., ltd. est le propriétaire du compte Roid-Mi i.e. de l'utilisateur Roid-Mi et de son identifiant. Une fois que les utilisateurs ont complétés les procédures d'enregistrement, ils peuvent obtenir le droit d'utiliser leurs comptes Roid-Mi. Wuxi Roidmi Information Technology Co., Ltd., n'est ni responsable des problèmes et conséquences causées par de fausses informations lors de l'enregistrement puisque les utilisateurs doivent fournir des informations personnelles détaillées et précises, et les mettre à jour constamment. Cependant, toutes les informations entrées seront conservées en tant qu'informations d'enregistrement. 
+1.Wuxi RoidMi Information Technology Co., ltd. est le propriétaire du compte RoidMi i.e. de l'utilisateur RoidMi et de son identifiant. Une fois que les utilisateurs ont complétés les procédures d'enregistrement, ils peuvent obtenir le droit d'utiliser leurs comptes RoidMi. Wuxi Roidmi Information Technology Co., Ltd., n'est ni responsable des problèmes et conséquences causées par de fausses informations lors de l'enregistrement puisque les utilisateurs doivent fournir des informations personnelles détaillées et précises, et les mettre à jour constamment. Cependant, toutes les informations entrées seront conservées en tant qu'informations d'enregistrement. 
 
-2.Wuxi ROIDMI Information Technology Co., Ltd. à le droit d'arrêter ses services s'il constate qu'il ne s'agit pas du compte de l'utilisateur. Si les utilisateurs préviennent immédiatement Wuxi Roidmi Information Technology Co., ltd. s'ils trouvent que leurs comptes ont été utilisés illégalement par d'autres. Les utilisateurs, plutôt que Wuxi Roidmi Information Technology Co., Ltd, doivent supporter la perte et d'autres responsabilités juridiques en raison de l'utilisation illégale des comptes n ° et des mots de passe par d'autres étant causé par le piratage ou la violation des dispositions de l'Accord.
+2.Wuxi RoidMi Information Technology Co., Ltd. à le droit d'arrêter ses services s'il constate qu'il ne s'agit pas du compte de l'utilisateur. Si les utilisateurs préviennent immédiatement Wuxi RoidMi Information Technology Co., ltd. s'ils trouvent que leurs comptes ont été utilisés illégalement par d'autres. Les utilisateurs, plutôt que Wuxi RoidMi Information Technology Co., Ltd, doivent supporter la perte et d'autres responsabilités juridiques en raison de l'utilisation illégale des comptes n ° et des mots de passe par d'autres étant causé par le piratage ou la violation des dispositions de l'Accord.
 
-3.Wuxi Roidmi Information Technology Co., Ltd. ne publiera ni ne divulguera les informations à des tiers, sauf si 
+3.Wuxi RoidMi Information Technology Co., Ltd. ne publiera ni ne divulguera les informations à des tiers, sauf si 
 （1）l'obtention de l'autorisation de l'utilisateur a été clarifiée et stipulée à l'avance;
 （2）seulement si la divulgation de vos informations personnelles permette de vous fournir les produits et services;
 （3）conformément aux lois et règlements;
 （4）tel que requis par les ministères concernés; 
-（5）de maintenir les droits et intérêts légitimes de la technologie Wuxi Roidmi Information Co., Ltd. 
+（5）de maintenir les droits et intérêts légitimes de la technologie Wuxi RoidMi Information Co., Ltd. 
 
-4.L'application Roid-Mi will collectera les informations personnelles d'identification lorsque les utilisateurs auront enregistré leurs comptes Roid-Mi, ou utilisés les produits et services Roid-Mi, ou navigué sur les pages Web Roidmi, ou participé à des promotions et des jeux concours. En termes d'information des utilisateurs d'identification personnelle, Wuxi Roidmi Information Technology Co., Ltd ne fournira pas, ne vendra, ne louera, ni ne partagera et échangera à des tiers. Cependant, les utilisateurs acceptent que leurs informations d'identification personnelle peuvent être utilisées pour améliorer les services et le contenu des pages Web par Wuxi Roidmi Information Technology Co., Ltd.
+4.L'application RoidMi will collectera les informations personnelles d'identification lorsque les utilisateurs auront enregistré leurs comptes RoidMi, ou utilisés les produits et services RoidMi, ou navigué sur les pages Web RoidMi, ou participé à des promotions et des jeux concours. En termes d'information des utilisateurs d'identification personnelle, Wuxi RoidMi Information Technology Co., Ltd ne fournira pas, ne vendra, ne louera, ni ne partagera et échangera à des tiers. Cependant, les utilisateurs acceptent que leurs informations d'identification personnelle peuvent être utilisées pour améliorer les services et le contenu des pages Web par Wuxi RoidMi Information Technology Co., Ltd.
 
-5.Lorsque l'utilisateurutilise le Roid-Mi, il va prendre l'initiative ou passivement la collecte et l'accès aux différentes données et informations générées par les utilisateurs, y compris mais sans s'y limiter les informations d'emplacement, l'adresse IP, les informations de l'appareil, les cookies, etc. Les utilisateurs accordent aucun regret que Wuxi Roidmi information Technology Co., Ltd a le droit d'utiliser les données et les informations ci-dessus. Afin d'améliorer le produit Roid-Mi et ses services, etc., nous pourrions fournir les données et informations à des tiers.
+5.Lorsque l'utilisateurutilise le RoidMi, il va prendre l'initiative ou passivement la collecte et l'accès aux différentes données et informations générées par les utilisateurs, y compris mais sans s'y limiter les informations d'emplacement, l'adresse IP, les informations de l'appareil, les cookies, etc. Les utilisateurs accordent aucun regret que Wuxi RoidMi information Technology Co., Ltd a le droit d'utiliser les données et les informations ci-dessus. Afin d'améliorer le produit RoidMi et ses services, etc., nous pourrions fournir les données et informations à des tiers.
 
-6.Afin de donner aux utilisateurs un meilleur service lors de leur utilisation des produits, Roid-Mi  peut, par l'intermédiaire de votre téléphone mobile, appliquer une variété de technologies de localisation, que les utilisateurs sont d'accord avec Roidmi en aucun regrets d'utiliser ces technologies ou autoriser une tiers partie de les utiliser pour fournir le service."</string>
+6.Afin de donner aux utilisateurs un meilleur service lors de leur utilisation des produits, RoidMi  peut, par l'intermédiaire de votre téléphone mobile, appliquer une variété de technologies de localisation, que les utilisateurs sont d'accord avec RoidMi en aucun regrets d'utiliser ces technologies ou autoriser une tiers partie de les utiliser pour fournir le service."</string>
     <string name="protocol_title_3">"Ⅲ.Règles d'utilisation"</string>
     <string name="protocol_content_3">"
 1.: Les utilisateurs doivent se conformer aux lois et règlements pertinents de leur pays dans l'utilisation des services Bluetooth FM. Les comportements inappropriés ou des activités illégales ne doivent pas être effectuées par les utilisateurs, y compris mais sans s'y limiter comme suit:
@@ -202,53 +202,53 @@ Avant d'utiliser les services fournis par le Roid-Mi, vous devez lire attentivem
 · Contenu faussé, nuisible, menaçant, contre la vie privée des autres, harcelant, diffamatoire, vulgaire, obscène, ou d'autres contenus moralement répréhensibles
 · Table des matières qui sont restreintes ou interdites par les lois, règlements, règles et autres normes
 · Ne pas utiliser le système de services de réseau à des fins illégales.
-· Ne pas utiliser les services du pilote Roid-Mi engagés dans les activités suivantes.
+· Ne pas utiliser les services du pilote RoidMi engagés dans les activités suivantes.
 · Accès aux ressources réseau de réseau d'information de l'ordinateur ou de l'utilisation d'informations de l'ordinateur sans autorisation
 · Pour ne pas supprimer, la modification ou l'ajout dans le réseau d'information de l'ordinateur sans autorisation,
 · Pour entrer dans le réseau d'information de l'ordinateur, et de faire la suppression, la modification et l'ajout sur le programme des données et des applications stockées, traitées et transmises sans autorisation
 · Intentionnellement faisant, la propagation des virus informatiques, et un autre programme destructeur
 · Autres actes mettant en danger la sécurité du réseau d'information de l'ordinateur
 
-2.Les utilisateurs conviennent de compenser Wuxi Roid-Mi Information Technology Co., Ltd, et ses sociétés affiliées, toute réclamation par des tierces parties ou pertes, y compris les honoraires d'avocat raisonnables en raison de violation contre les dispositions du présent accord ou des dispositions pertinentes des conditions de service . À cet égard, Wuxi Roidmi Information Technology Co., Ltd a le droit, y compris, mais sans s'y limiter, pour supprimer le contenu de l'information publiée par les utilisateurs, de suspendre l'utilisation, mettre fin aux services, limiter l'utilisation du numéro de compte FM, retirer le compte Bluetooth de voiture, maintenez la responsabilité juridique des utilisateurs, etc., selon les comportements des utilisateurs. Wuxi Roidmi Information Technology Co., Ltd a le droit de retirer le compte pour le compte Roidmi Driver malicieusement enregistré ou en utilisant du Roidmi compte du pilote pour des activités illégales, ce qui rend la difficulté, le harcèlement, la tromperie, et d'autres comportements à la violation de l'accord. Dans le même temps, Wuxi Roidmi Information Technology Co., Ltd aidera le département judiciaire pour enquêter sur les circonstances.
+2.Les utilisateurs conviennent de compenser Wuxi RoidMi Information Technology Co., Ltd, et ses sociétés affiliées, toute réclamation par des tierces parties ou pertes, y compris les honoraires d'avocat raisonnables en raison de violation contre les dispositions du présent accord ou des dispositions pertinentes des conditions de service . À cet égard, Wuxi RoidMi Information Technology Co., Ltd a le droit, y compris, mais sans s'y limiter, pour supprimer le contenu de l'information publiée par les utilisateurs, de suspendre l'utilisation, mettre fin aux services, limiter l'utilisation du numéro de compte FM, retirer le compte Bluetooth de voiture, maintenez la responsabilité juridique des utilisateurs, etc., selon les comportements des utilisateurs. Wuxi RoidMi Information Technology Co., Ltd a le droit de retirer le compte pour le compte RoidMi Driver malicieusement enregistré ou en utilisant du RoidMi compte du pilote pour des activités illégales, ce qui rend la difficulté, le harcèlement, la tromperie, et d'autres comportements à la violation de l'accord. Dans le même temps, Wuxi RoidMi Information Technology Co., Ltd aidera le département judiciaire pour enquêter sur les circonstances.
 
 3.Les utilisateurs ne peuvent pas copier, vendre ou revendre une partie des services ou de l'utilisation et de l'obtention des services à des fins commerciales.
 
-4.Les utilisateurs sont tenus d'assumer la responsabilité juridique de leur propre comportement dans l'utilisation des services de Roid-Mi, y compris mais sans s'y limiter: compenser la violation, et donner réparation en valeur égale à Wuxi Roidmi Information Technology Co., Ltd après qu'ils portent dans avancer la sanction administrative ou une compensation pour les dommages causés par la violation des activités des utilisateurs."</string>
+4.Les utilisateurs sont tenus d'assumer la responsabilité juridique de leur propre comportement dans l'utilisation des services de RoidMi, y compris mais sans s'y limiter: compenser la violation, et donner réparation en valeur égale à Wuxi RoidMi Information Technology Co., Ltd après qu'ils portent dans avancer la sanction administrative ou une compensation pour les dommages causés par la violation des activités des utilisateurs."</string>
     <string name="protocol_title_4">Ⅳ.Contenu du service</string>
     <string name="protocol_content_4">"
-1.Le contenu spécifique du service Roid-Mi est fournie par Wuxi Roidmi Information technology Co., Ltd. en fonction de la situation réelle.
+1.Le contenu spécifique du service RoidMi est fournie par Wuxi RoidMi Information technology Co., Ltd. en fonction de la situation réelle.
 
-2.Le nouveaux produits, de nouvelles fonctionnalités, de nouveaux services fournis par Wuxi Roidmi Information Technology Co., Ltd sont soumis aux règles de la présente convention de service, sauf stipulation contraire.
+2.Le nouveaux produits, de nouvelles fonctionnalités, de nouveaux services fournis par Wuxi RoidMi Information Technology Co., Ltd sont soumis aux règles de la présente convention de service, sauf stipulation contraire.
 
 3.In Pour utiliser ce service, vous devez accéder à l'Internet via le 3ème parti légitime en mesure de fournir des services Internet, et payer les frais de services concernés par vous-mêmes. En outre, vous devez être équipé avec tous les équipements nécessaires, y compris d'autres dispositifs d'accès pour se connecter à l'Internet ordinateur, machine de données ou.
 
-4.In vue de la nature particulière du service de réseau, les utilisateurs conviennent que Wuxi Roidmi Information Technology Co., Ltd a le droit de modifier, d'interrompre ou de mettre fin à tout ou partie des services de réseau à tout moment sans préavis. Wuxi Roidmi Information Technology Co., Ltd ne garantit pas que les services de réseau ne seront pas interrompus, ni ne garantissent la rapidité, la sécurité et la précision des services de réseau.
+4.In vue de la nature particulière du service de réseau, les utilisateurs conviennent que Wuxi RoidMi Information Technology Co., Ltd a le droit de modifier, d'interrompre ou de mettre fin à tout ou partie des services de réseau à tout moment sans préavis. Wuxi RoidMi Information Technology Co., Ltd ne garantit pas que les services de réseau ne seront pas interrompus, ni ne garantissent la rapidité, la sécurité et la précision des services de réseau.
 
-5.Wuxi Roidmi Information Technology Co., Ltd besoin de faire régulièrement ou irrégulièrement maintenance pour la plate-forme de services de réseau ou de l'équipement connexe. Par conséquent, ils ne doivent prendre aucune responsabilité pour un tel cas d'interruption du réseau dans un délai raisonnable, même pendant la période de service payant de temps. Wuxi Roidmi Information Technology Co., Ltd se réserve le droit de suspendre toute partie du service sans préavis en raison de la maintenance, la mise à niveau ou d'autres fins.
+5.Wuxi RoidMi Information Technology Co., Ltd besoin de faire régulièrement ou irrégulièrement maintenance pour la plate-forme de services de réseau ou de l'équipement connexe. Par conséquent, ils ne doivent prendre aucune responsabilité pour un tel cas d'interruption du réseau dans un délai raisonnable, même pendant la période de service payant de temps. Wuxi RoidMi Information Technology Co., Ltd se réserve le droit de suspendre toute partie du service sans préavis en raison de la maintenance, la mise à niveau ou d'autres fins.
 
-6.Both ce service et d'autres 3ème partie peut fournir des liens vers des sites ou des ressources, ce qui est sans le contrôle de Wuxi Roidmi Information Technology Co., Ltd utilisateurs, plutôt que Roidmi savoir si ces sites ou de ressources sont disponibles à utiliser. Wuxi Roidmi Information Technology Co., Ltd est pas responsable de l'existence de tout contenu, publicités, produits ou d'autres informations à partir de ces sites ou de ressources, ni Roidmi responsable de tout dommage ou perte résultant de l'utilisation ou de la confiance sur ces sites Web ou des ressources, ou tout contenu, produits ou services.
+6.Both ce service et d'autres 3ème partie peut fournir des liens vers des sites ou des ressources, ce qui est sans le contrôle de Wuxi RoidMi Information Technology Co., Ltd utilisateurs, plutôt que RoidMi savoir si ces sites ou de ressources sont disponibles à utiliser. Wuxi RoidMi Information Technology Co., Ltd est pas responsable de l'existence de tout contenu, publicités, produits ou d'autres informations à partir de ces sites ou de ressources, ni RoidMi responsable de tout dommage ou perte résultant de l'utilisation ou de la confiance sur ces sites Web ou des ressources, ou tout contenu, produits ou services.
 
-7.Users conviennent clairement que le risque de son utilisation des services du pilote Roidmi sera entièrement réalisé par eux-mêmes. Les utilisateurs comprennent et acceptent que toute information obtenue en téléchargeant ou en utilisant les services Bluetooth FM est déterminée par les utilisateurs eux-mêmes, et ils vont assumer les dommages du système, la perte de données, et tout autre risque. Wuxi Roidmi Information Technology Co., Ltd ne garantit pas les services commerciaux, le processus de transaction, et des informations de recrutement sur Internet.
+7.Users conviennent clairement que le risque de son utilisation des services du pilote RoidMi sera entièrement réalisé par eux-mêmes. Les utilisateurs comprennent et acceptent que toute information obtenue en téléchargeant ou en utilisant les services Bluetooth FM est déterminée par les utilisateurs eux-mêmes, et ils vont assumer les dommages du système, la perte de données, et tout autre risque. Wuxi RoidMi Information Technology Co., Ltd ne garantit pas les services commerciaux, le processus de transaction, et des informations de recrutement sur Internet.
 
-8.Wuxi Roidmi Information Technology Co., Ltd se réserve le droit de fermer le compte sans connexion pendant 6 mois.
+8.Wuxi RoidMi Information Technology Co., Ltd se réserve le droit de fermer le compte sans connexion pendant 6 mois.
 
-9.Indépendamment de toute notification à l'avance, Wuxi Roidmi Information Technology Co., Ltd a le droit de modifier ou de mettre fin aux services Roidmi du pilote (ou une partie de celui-ci) à tout moment sans avoir été détenu pendant toute responsabilité temporairement ou définitivement.
+9.Indépendamment de toute notification à l'avance, Wuxi RoidMi Information Technology Co., Ltd a le droit de modifier ou de mettre fin aux services RoidMi du pilote (ou une partie de celui-ci) à tout moment sans avoir été détenu pendant toute responsabilité temporairement ou définitivement.
 
 10.Résiliation du service 
-. Vous acceptez que Roid-Mi, sur la base de sa propre considération, pour une raison quelconque, y compris mais sans s'y limiter à long temps non utilisé, ou de violation du texte et de l'esprit de l'accord de service par vous-même, met fin à votre mot de passe, numéro de compte ou le service et supprime tout contenu au cours de la période de service. Vous acceptez que les services fournis conformément aux dispositions du présent contrat de service peut être interrompu ou résilié sans préavis. Vous reconnaissez et acceptez que le pilote Roidmi peut fermer immédiatement ou supprimer votre compte et toutes les informations et documents pertinents dans votre compte. En outre, vous acceptez que le pilote Roidmi décline toute responsabilité envers vous ou toute 3ème partie en raison de l'interruption ou la résiliation de votre compte et la fermeture ou la suppression des informations et des documents connexes."</string>
+. Vous acceptez que RoidMi, sur la base de sa propre considération, pour une raison quelconque, y compris mais sans s'y limiter à long temps non utilisé, ou de violation du texte et de l'esprit de l'accord de service par vous-même, met fin à votre mot de passe, numéro de compte ou le service et supprime tout contenu au cours de la période de service. Vous acceptez que les services fournis conformément aux dispositions du présent contrat de service peut être interrompu ou résilié sans préavis. Vous reconnaissez et acceptez que le pilote RoidMi peut fermer immédiatement ou supprimer votre compte et toutes les informations et documents pertinents dans votre compte. En outre, vous acceptez que le pilote RoidMi décline toute responsabilité envers vous ou toute 3ème partie en raison de l'interruption ou la résiliation de votre compte et la fermeture ou la suppression des informations et des documents connexes."</string>
     <string name="protocol_title_5">Ⅴ.Autres</string>
     <string name="protocol_content_5">"
 1.Le conclusion, l'exécution et l'interprétation de cet accord est applicable aux lois de la République populaire de Chine.
 
-2.Dans les différends se produisent sur le contenu de l'accord ou de l'exécution de celui-ci, ils seront réglés par voie de négociation amicale. Chaque partie peut déposer une plainte contre l'autre dans les peuples Cour d'où Wuxi Roidmi Information Technology Co., Ltd est situé s'il n'y a pas de règlement atteint.
+2.Dans les différends se produisent sur le contenu de l'accord ou de l'exécution de celui-ci, ils seront réglés par voie de négociation amicale. Chaque partie peut déposer une plainte contre l'autre dans les peuples Cour d'où Wuxi RoidMi Information Technology Co., Ltd est situé s'il n'y a pas de règlement atteint.
 
-3.Even si le pilote Roidmi n'exerce ou effectuer des droits ou des dispositions de l'entente de service, ni ne constitue une renonciation aux droits susmentionnés.
+3.Even si le pilote RoidMi n'exerce ou effectuer des droits ou des dispositions de l'entente de service, ni ne constitue une renonciation aux droits susmentionnés.
 
 4.Even si l'un des termes de cet accord, quelle que soit la raison pour laquelle la totalité ou une partie de l'accord est invalide ou ne pas l'exécution, les autres dispositions de cet accord restent valables et contraignantes.
 
-Veuillez informer Wuxi Roidmi Information Technology Co., Ltd, de toute violation contre l'accord de service et tout autre terme de service unique.
+Veuillez informer Wuxi RoidMi Information Technology Co., Ltd, de toute violation contre l'accord de service et tout autre terme de service unique.
 
-Bien que le produit, dans le processus de conduite vous apportera beaucoup de confort, nous vous recommandons fortement d'utiliser ce produit correctement pour votre sécurité de conduite. Wuxi Roidmi Information Technology Co., Ltd.is pas responsable de tous les types d'accidents causés par une mauvaise utilisation du produit dans le processus de conduite"</string>
+Bien que le produit, dans le processus de conduite vous apportera beaucoup de confort, nous vous recommandons fortement d'utiliser ce produit correctement pour votre sécurité de conduite. Wuxi RoidMi Information Technology Co., Ltd.is pas responsable de tous les types d'accidents causés par une mauvaise utilisation du produit dans le processus de conduite"</string>
     <string name="personal_info_title">Informations personnelles</string>
     <string name="personal_null">Non paramétré</string>
     <string name="personal_nick">Pseudo</string>
