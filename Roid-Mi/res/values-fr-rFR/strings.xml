@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RoidMi</string>
+    <string name="app_name">Roid-Mi</string>
     <string name="app_name_show">Transmetteur Bluetooth</string>
     <string name="app_version">Version app: %1$s</string>
     <string name="btn_ok">OK</string>
@@ -102,15 +102,15 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="feed_back_notify_content">Votre commentaire a eu une réponse, appuyez pour afficher le contenu</string>
     <string name="guide_show">www.roidmi.com</string>
     <string name="guide_start_up">Commencez</string>
-    <string name="guide_start_up_info1">Assurez vous du bon fonctionnement du programme</string>
-    <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche Retour pour revenir sur cet écran"</string>
+    <string name="guide_start_up_info1">Assurez-vous du bon fonctionnement du programme</string>
+    <string name="guide_start_up_info2">"Une fois l'installation réussie, appuyez sur la touche "Retour" pour revenir sur cet écran"</string>
     <string name="guide_start_up_setting">Commencer le paramètrage</string>
-    <string name="guide_install">"C'est parti!"</string>
-    <string name="guide_install_info">Insérer le  RoidMi dans la prise allume cigare</string>
-    <string name="guide_install_ok">OK, suivant!</string>
+    <string name="guide_install">"C'est parti !"</string>
+    <string name="guide_install_info">Insérez le Roid-Mi dans la prise allume-cigare</string>
+    <string name="guide_install_ok">OK, suivant !</string>
     <string name="guide_bt">Bluetooth</string>
     <string name="guide_bt_info">Entrez dans les paramètres du Bluetooth pour appairer votre appareil</string>
-    <string name="guide_bt_link_info">Une fois appairé, appuyé sur Retour.</string>
+    <string name="guide_bt_link_info">Une fois appairé, appuyez sur \"Retour\".</string>
     <string name="guide_bt_setting">Paramètres Bluetooth</string>
     <string name="guide_bt_success">Bluetooth OK</string>
     <string name="guide_bt_success_info">Votre téléphone est maintenant connecté !</string>
@@ -121,7 +121,7 @@ Vous serez dans l'historique des conducteurs responsables de Chine"</string>
     <string name="send_voice_success">"J'entends! Suivant."</string>
     <string name="defalut_player">Lecteur de musique par défaut</string>
     <string name="defalut_player_detail">"Vous pouvez le modifier dans les paramètres de l'application."</string>
-    <string name="begin_use">Commencer à utiliser votre RoidMi</string>
+    <string name="begin_use">Commencer à utiliser votre Roid-Mi</string>
     <string name="fm_setting">Paramètres FM</string>
     <string name="fm_setting_detial">Réglez votre autoradio sur la fréquence:</string>
     <string name="fm_setting_info">La recherche automatique va régler votre fréquence</string>
