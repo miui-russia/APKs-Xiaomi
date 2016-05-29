@@ -517,7 +517,7 @@ Cela peut nuire aux performances de votre routeur, essayer de vider le cache."</
     <string name="client_fail_to_call_smarthome_for_offline">Le périphérique est hors ligne. Rafraichir et essayer à nouveau.</string>
     <string name="client_failed_to_call_for_obsolete_smarthome_app">Mettre à jour Mi-Home et essayer à nouveau</string>
     <string name="client_failed_to_call_smarthome">Impossible d\'accéder à l\'application Mi-Home</string>
-    <string name="client_list_delete_offline_device">Supprimer l\historique hors ligne de ce périphérique ?</string>
+    <string name="client_list_delete_offline_device">Supprimer l\'historique hors ligne de ce périphérique ?</string>
     <string name="client_list_empty_prompt">Aucun périphérique connecté</string>
     <string name="client_list_high_speed_mode">Priorité haute</string>
     <string name="client_list_manual_mode">Limitation de vitesse%s</string>
@@ -2122,7 +2122,7 @@ Programme d'Expérience utilisateur"</string>
     <string name="setting_storgae_open_alert">开启后，硬盘会变成写保护状态。只能读取，不能新增、修改或删除文件。路由器文件、工具等多项功能将无法使用。确定要打开吗？</string>
     <string name="setting_wifi_relay_turnoff_promot">关闭Wi-Fi会造成路由器上不了网，请不要关闭</string>
     <string name="tool_add_remove">Ajouter et gérer</string>
-    <string name="tool_auto_installing">Ouverture: %1$s</string>
+    <string name="tool_auto_installing">Ouverture : %1$s</string>
     <string name="tool_disable_no_storage">没有检测到外置存储，工具无法使用</string>
     <string name="tool_indicator_recommend">Recommandation</string>
     <string name="tool_install_recommend_tool">%1$s, 是否确定加载?</string>
