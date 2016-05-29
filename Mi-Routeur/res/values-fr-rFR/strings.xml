@@ -324,7 +324,7 @@ et l'autre extrémité au Mi-Routeur."</string>
     <string name="bootstrap_need_dial">" "<u>Accès par réseau commuté</u>" "</string>
     <string name="bootstrap_need_not_dial">" "<u>Haut débit</u>" "</string>
     <string name="bootstrap_other_mode">" "<u>Plus d\'options</u>" "</string>
-    <string name="bootstrap_place_home">Accueil</string>
+    <string name="bootstrap_place_home">Maison</string>
     <string name="bootstrap_place_office">Bureau</string>
     <string name="bootstrap_place_other">Autres</string>
     <string name="bootstrap_place_select_prompt">Emplacement du routeur</string>
@@ -1528,7 +1528,7 @@ photos, etc.) du disque dur du routeur. Cette action est irréversible !</string
     <string name="recovery_now">Rétablir maintenant</string>
     <string name="recovery_optional_clean">FORMATER L\'ESPACE DE STOCKAGE</string>
     <string name="recovery_personal_data">Effacer les données utilisateurs</string>
-    <string name="recovery_personal_data_detail">L\'ensemble des informations du compte, les logs, et les réglages du routeur seront supprimés</string>
+    <string name="recovery_personal_data_detail">L\'ensemble des informations du compte, les logs, et les réglages du routeur seront supprimés !</string>
     <string name="recovery_reset_activity_confirm_body">"Rétablir les réglages d\'usine du routeur ? Cette action est irréversible !</string>
     <string name="recovery_succ_waiting">Réglages d\'usine rétablis</string>
     <string name="recovery_title">Réglages d\'usine</string>
@@ -1666,7 +1666,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="setting_title">Réglages du routeur</string>
     <string name="setting_unbind">Délier</string>
     <string name="setting_unbind_failed">Impossible de délier le routeur</string>
-    <string name="setting_unbind_message">Délier votre appareil de %s ?</string>
+    <string name="setting_unbind_message">Délier votre appareil du réseau %s ?</string>
     <string name="setting_unbind_waiting">Déliaison</string>
     <string name="setting_update">Mise à jour</string>
     <string name="setting_wifi_2_4_switch">Wi-Fi - Canal 2.4G</string>
