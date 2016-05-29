@@ -54,7 +54,7 @@
     <string name="back_name_less_limit_30">Le nombre de caractères ne peut pas dépasser 30</string>
     <string name="back_name_less_limit_not_null">Le nom ne peut pas être vide</string>
     <string name="backup_auto_backup_this_device">Sauvegarder automatiquement ce périphérique</string>
-    <string name="backup_auto_backup_when_router_wifi_connected">Sauvegarder lorsque vous êtes connecté au Wi-Fi du Mi-Routeur</string>
+    <string name="backup_auto_backup_when_router_wifi_connected">Sauvegarder dès que vous êtes connecté au Wi-Fi du Mi-Routeur</string>
     <string name="backup_auto_rebackup_for_router_directory_deleted">Aucune sauvegarde du Mi-Routeur n\'a été trouvée. Nouvelle sauvegarde créée.</string>
     <string name="backup_backing_up_x">Sauvegarde %s</string>
     <string name="backup_cancel_backup">" "<u>Annuler la sauvegarde</u>" "</string>
@@ -94,12 +94,12 @@
     <string name="backup_on_new_storage_no">Pas maintenant</string>
     <string name="backup_on_new_storage_yes">Sauvegarder</string>
     <string name="backup_on_watched_directories_change">Sauvegarder les nouveaux fichiers</string>
-    <string name="backup_phone_album">Sauvegarder les photos à partir du téléphone</string>
+    <string name="backup_phone_album">Sauvegarde des photos du téléphone</string>
     <string name="backup_prepare_to_start">Obtentention des informations de progression de la sauvegarde…</string>
     <string name="backup_query_files_status">Vérification des fichiers, état de sauvegarde…</string>
     <string name="backup_range">Choisissez les fichiers à sauvegarder</string>
     <string name="backup_scanning_files">Analyse des fichiers…</string>
-    <string name="backup_selected_x_folders">%s sélectionné</string>
+    <string name="backup_selected_x_folders">%s sélectionnés</string>
     <string name="backup_settings">Sauvegarde automatique</string>
     <string name="backup_skip_backup">" "<u>Passer cette étape</u>" "</string>
     <string name="backup_start_backup">Sauvegarde automatique</string>
@@ -537,9 +537,9 @@ Cela peut nuire aux performances de votre routeur, essayer de vider le cache."</
     <string name="client_qos_download_speed">Vitesse de téléchargement max.</string>
     <string name="client_qos_guest_limit_download">Vitesse de téléchargement</string>
     <string name="client_qos_guest_limit_upload">Débit montant</string>
-    <string name="client_qos_guest_percent">Attribution au Wi-Fi invité</string>
-    <string name="client_qos_guest_status">Vitesse du réseau la plus haute : %d%%</string>
-    <string name="client_qos_guest_title">Attribution au Wi-Fi invité</string>
+    <string name="client_qos_guest_percent">Quota du Wi-Fi invité</string>
+    <string name="client_qos_guest_status">Vitesse max. du Wi-Fi invité : %d%%</string>
+    <string name="client_qos_guest_title">Quota du Wi-Fi invité</string>
     <string name="client_qos_input_cannot_be_empty">Ne peut être vide</string>
     <string name="client_qos_input_cannot_be_negative">Ne peut être négatif</string>
     <string name="client_qos_input_chars_invalid">Chiffre uniquement</string>
@@ -560,12 +560,12 @@ Vous pouvez gérer la bande passante manuellement dans Outils</string>
     <string name="client_qos_prompt_on_speed_inaccurate">" "<u>Réglages manuels</u>" "</string>
     <string name="client_qos_prompt_simple_mode">Le système gèrera l\'attribution de la bande passante pour l\'ensemble des périphériques en assurant toujours la meilleure connectivité</string>
     <string name="client_qos_requires_enable_qos">Activer cette fonction dans l\'onglet des extensions d\'abord.</string>
-    <string name="client_qos_smartly_adjust_speed">Gérer la bande passante</string>
+    <string name="client_qos_smartly_adjust_speed">Gestion de la bande passante</string>
     <string name="client_qos_smartly_adjust_speed_description">Limiter le quota de bande passante que chaque périphérique peut consommer</string>
     <string name="client_qos_speed_mode">Réglages</string>
     <string name="client_qos_speed_mode_off">Réglages</string>
     <string name="client_qos_speed_mode_unknown">Aucune limite définie</string>
-    <string name="client_qos_test_band_width">Like %dMbps LAN</string>
+    <string name="client_qos_test_band_width">LAN de %d Mbps</string>
     <string name="client_qos_test_speed_prompt_1">Cette option néccesite un test de débit d\'abord</string>
     <string name="client_qos_test_speed_prompt_2">Test de débit en cours…</string>
     <string name="client_qos_unlimited_download_band">Ne pas limiter la bande passante pour les téléchargements"</string>
@@ -710,7 +710,7 @@ Assurez-vous que le Wi-Fi 2.4G est activée et essayez de vous connecter à nouv
     <string name="common_second_step">Etape 2</string>
     <string name="common_select_0">0 sélectionné</string>
     <string name="common_select_all">Tout sélectionner</string>
-    <string name="common_select_n">%d sélectionné</string>
+    <string name="common_select_n">%d sélectionnés</string>
     <string name="common_select_none">Tout déselectionner</string>
     <string name="common_select_nothing_selected">0 sélectionné</string>
     <string name="common_set">Réglages</string>
@@ -1401,7 +1401,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="network_optimize_speed">Vitesse du réseau</string>
     <string name="network_optimize_speed_step1">Vérification du délai du réseau…</string>
     <string name="network_optimize_speed_step10">Vérification de la vitesse d\'envoi du LAN...</string>
-    <string name="network_optimize_speed_step11">Calcul de la vitesse moyen d\'envoi Internet…</string>
+    <string name="network_optimize_speed_step11">Calcul de la vitesse moyenne d\'envoi Internet…</string>
     <string name="network_optimize_speed_step2">Vérification de la vitesse du LAN…</string>
     <string name="network_optimize_speed_step3">Vérification de la vitesse de téléchargement du LAN…</string>
     <string name="network_optimize_speed_step4">Calcul de la vitesse moyenne de téléchargement du LAN…</string>
@@ -1410,7 +1410,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="network_optimize_speed_step7">Vérification de la vitesse Internet…</string>
     <string name="network_optimize_speed_step8">Vérification de la vitesse de téléchargement Internet…</string>
     <string name="network_optimize_speed_step9">Calcul de la vitesse moyenne de téléchargement Internet…</string>
-    <string name="network_optimize_title">Optimisation Wi-Fi</string>
+    <string name="network_optimize_title">Optimisation du Wi-Fi</string>
     <string name="network_optimize_waiting_reboot">Redémarrer et optimiser</string>
     <string name="network_optimize_wan_speed">WAN</string>
     <string name="network_optimize_wan_speed1">(%1$s bande passante)</string>
@@ -1507,7 +1507,7 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="pullrefresh_refreshing_retry">Impossible d\'actualiser</string>
     <string name="pullrefresh_release_to_loadmore">Relâcher pour voir plus</string>
     <string name="pullrefresh_release_to_refresh">Relâcher pour actualiser</string>
-    <string name="quit_application">Sortir de Mi-Wi-Fi</string>
+    <string name="quit_application">Sortir de Mi-Routeur</string>
     <string name="rating_dlg_accept">Taux</string>
     <string name="rating_dlg_deny">Non, merci</string>
     <string name="rating_dlg_text_1">Aimez-vous notre application ?</string>
@@ -1631,7 +1631,7 @@ La plupart des fonctions du routeur ne sont pas utilisables lors du scan. Vous r
     <string name="router_setting_new_password_same_to_origin">Le mot de passe ne correspond pas</string>
     <string name="router_setting_password_loading">Définition du mot de passe…</string>
     <string name="router_setting_password_success">Mot de passe défini</string>
-    <string name="router_system_program">Key system elements</string>
+    <string name="router_system_program">Noyau du système</string>
     <string name="routing_feedback">Appairage du routeur</string>
     <string name="send_log">Envoyer les logs d\'erreur</string>
     <string name="setting_about">A propos</string>
@@ -1783,7 +1783,7 @@ Dernière mise à jour : %3$s"</string>
     <string name="tool_install_plugin_title">Ajouter une extension</string>
     <string name="tool_install_success">Extension installée</string>
     <string name="tool_invalid_mpk_error">Installateur de paquet invalide</string>
-    <string name="tool_invitation_router">Partager le routeur</string>
+    <string name="tool_invitation_router">Partage du routeur</string>
     <string name="tool_invitation_router_desc">Autoriser les autres utilisateurs à voir et changer les réglages du routeur</string>
     <string name="tool_manual_install">Installer une extension manuellement</string>
     <string name="tool_market_install">Ajouter</string>
@@ -1844,7 +1844,7 @@ mémoire</string>
     <string name="tool_taskmanager_running">En cours d\'exécution…</string>
     <string name="tool_taskmanager_status_unopen">Off</string>
     <string name="tool_taskmanager_system_app_desc">Ceci est le coeur du système de l\'application Mi-Routeur, il ne peut être stoppé.</string>
-    <string name="tool_taskmanager_task">Tâche</string>
+    <string name="tool_taskmanager_task">Tâches</string>
     <string name="tool_taskmanager_task_finishing">En cours de fin de tâche %s…</string>
     <string name="tool_taskmanager_task_open_success">La tâche a démarré avec succès</string>
     <string name="tool_taskmanager_task_opening">En cours de lancement %s…</string>
@@ -1935,7 +1935,7 @@ mémoire</string>
     <string name="tool_wifi_reconnect_state_success">Régalges appliqués</string>
     <string name="tool_wifi_time_hint">Eteindre le Wi-Fi automatiquement durant cette plage horaire</string>
     <string name="tool_wifi_timer">Programmation du Wi-Fi</string>
-    <string name="tool_wifi_timer_desc">Programmer l\'heure à laquelle le Wi-Fi se désactivera</string>
+    <string name="tool_wifi_timer_desc">Programmer l\'heure à laquelle le Wi-Fi sera actif</string>
     <string name="tool_wifi_timer_switch_hint">Régler l\'heure à laquelle le Wi-Fi se désactivera</string>
     <string name="tool_xiaomi_video_desc">Mi-Vidéo</string>
     <string name="tool_xiaomi_video_title">Mi-Vidéo</string>
