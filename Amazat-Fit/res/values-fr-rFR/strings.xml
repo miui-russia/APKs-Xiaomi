@@ -81,11 +81,11 @@
     <string name="active_text_summary_0_active">Vous étiez actif</string>
     <string name="active_text_summary_0_run">Vous avez couru pendant</string>
     <string name="active_text_summary_0_walk">Vous avez marché pendant</string>
-    <string name="active_text_summary_1_active">min, brûlée</string>
+    <string name="active_text_summary_1_active">min</string>
     <string name="active_text_summary_1_active_child">min, </string>
-    <string name="active_text_summary_1_run">%s, brûlée</string>
+    <string name="active_text_summary_1_run">%s</string>
     <string name="active_text_summary_1_run_child">%s, </string>
-    <string name="active_text_summary_1_walk">pas, brûlée</string>
+    <string name="active_text_summary_1_walk">pas</string>
     <string name="active_text_summary_1_walk_child">Pas, </string>
     <string name="activity_calorie">Activité bruler les calories</string>
     <string name="adapter_deep_sleep">Sommeil profond</string>
@@ -269,7 +269,7 @@ suivez vos évolutions tels que le poids, la masse graisseuse, fourni une analys
     <string name="calorie_empty">Aucune calorie brûlée</string>
     <string name="calorie_lack_desc">"Ceci est l'énergie nécessaire pour le fonctionnement métabolique fondamental, comme la respiration, le transport du fer, la régénération normale des enzymes et des autres composants de l'organisme, etc."</string>
     <string name="calorie_lack_title">Qu\'est ce que BEE ?"</string>
-    <string name="calorie_percent">Vous avez brûlé plus de gras que &lt;hl>%d%%&lt;/hl> des utilisateurs</string>
+    <string name="calorie_percent">Vous avez brûlé plus de graisse que &lt;hl>%d%%&lt;/hl> des utilisateurs</string>
     <string name="calorie_unit"> cal</string>
     <string name="cancel">Annuler</string>
     <string name="checking_new_apk">Vérification des mises à jour…</string>
@@ -514,9 +514,9 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="item_import_xiaomi_sport_data">Importation des données</string>
     <string name="item_my_task">Mes tâches</string>
     <string name="latest_sleep">Heure de coucher la plus tardive</string>
-    <string name="lfsc_bodyfat$_no_data">Aucune données</string>
+    <string name="lfsc_bodyfat$_no_data">Aucune donnée</string>
     <string name="lfsc_bodyfat$_no_data_summary">Poids</string>
-    <string name="lfsc_sleep$_no_data">Aucune données</string>
+    <string name="lfsc_sleep$_no_data">Aucune donnée</string>
     <string name="lfsc_sleep$_no_data_summary">Sommeil</string>
     <string name="lfscv$_tab_bodyfat">Poids</string>
     <string name="lfscv$_tab_sleep">Sommeil</string>
@@ -906,7 +906,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="sleep_light">Lumière</string>
     <string name="sleep_over_desc">Trop dormir vous fatigue. Prenez l\'habitude de vous réveiller dès que vous avez dormi suffisament, et de ne pas accumuler trop de sommeil.</string>
     <string name="sleep_over_title">"Trop de sommeil n'est pas bon pour vous"</string>
-    <string name="sleep_percent">Vous avez mieux dormi que &lt;hl>%d%%&lt;/hl> utilisateurs</string>
+    <string name="sleep_percent">Vous avez mieux dormi que &lt;hl>%d%%&lt;/hl> des utilisateurs</string>
     <string name="sleep_range">Couché de %1$s à %2$s</string>
     <string name="sleep_rate">Qualité du sommeil</string>
     <string name="sleep_state_awake">Réveiller</string>
@@ -923,9 +923,10 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="state_unauthorization_error">Échec de suppression</string>
     <string name="state_unauthorization_success">Suppression réussie</string>
     <string name="status_calorie_goal">Objectif %d cal</string>
-    <string name="status_calories_title">Brûler</string>
+    <string name="status_calories_title">Vous avez brûlé</string>
     <string name="status_daily_welcome_0">Êtes-vous prêt pour une nouvelle semaine ?</string>
-    <string name="status_daily_welcome_1">Nouvelle semaine, nouveaux challenges !</string>
+    <string name="status_daily_welcome_1">Nouvelle semaine,
+    nouveaux challenges !</string>
     <string name="status_daily_welcome_2">N\'oubliez pas vos objectifs."</string>
     <string name="status_daily_welcome_3">Continuez d\'avancer !</string>
     <string name="status_daily_welcome_4">Faites plus de marches !</string>
@@ -937,7 +938,7 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="status_steps_title">Distance</string>
     <string name="status_tab">Accueil</string>
     <string name="status_text">Accueil</string>
-    <string name="status_today_calories">Brûler</string>
+    <string name="status_today_calories">Vous avez brûlé</string>
     <string name="status_today_steps">Pas</string>
     <string name="step_empty">Pas de données</string>
     <string name="step_percent">Vous avez fait plus de pas que &lt;hl>%d%%&lt;/hl> utilisateurs</string>
@@ -1026,7 +1027,7 @@ Traduction : Miui-France"</string>
     <string name="walk_done">Vous avez marché </string>
     <string name="wee_hour">AM</string>
     <string name="week_distance">Distance hebdomadaire</string>
-    <string name="weekly_empty">Aucune données</string>
+    <string name="weekly_empty">Aucune donnée</string>
     <string name="weekly_sleep">Sommeil hebdomadaire</string>
     <string name="weekly_sleep_data_format">%1$02d</string>
     <string name="weekly_steps">Pas</string>
