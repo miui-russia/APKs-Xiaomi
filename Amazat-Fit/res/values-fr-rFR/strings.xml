@@ -87,7 +87,7 @@
     <string name="active_text_summary_1_run_child">%s, </string>
     <string name="active_text_summary_1_walk">pas</string>
     <string name="active_text_summary_1_walk_child">Pas, </string>
-    <string name="activity_calorie">Activité bruler les calories</string>
+    <string name="activity_calorie">Calorie(s) brûlée(s) durant l\'effort</string>
     <string name="adapter_deep_sleep">Sommeil profond</string>
     <string name="adapter_deep_sleep_short">Sommeil profond</string>
     <string name="adapter_shallow_sleep">Sommeil léger</string>
@@ -155,7 +155,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="attained_steps_summary_continuous_2">"Vous avez atteint votre objectif de pas %s consécutif !"</string>
     <string name="attained_steps_title">Objectif quotidien de pas atteint</string>
     <string name="avg_pace_speed">Rythme moyen</string>
-    <string name="awake">Éveiller</string>
+    <string name="awake">Éveillé</string>
     <string name="band_bind_help">Obtenir de l\'aide</string>
     <string name="band_bound_found">Trouver</string>
     <string name="band_bound_found_sub">Tappoter votre AmazFit pour confirmer l\'appairage quand il vibre.</string>
