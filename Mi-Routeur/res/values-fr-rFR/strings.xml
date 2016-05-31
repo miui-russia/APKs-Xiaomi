@@ -1508,10 +1508,10 @@ La personne devra l\'accepter depuis l\'application Mi-Routeur</string>
     <string name="pullrefresh_release_to_loadmore">Relâcher pour voir plus</string>
     <string name="pullrefresh_release_to_refresh">Relâcher pour actualiser</string>
     <string name="quit_application">Sortir de Mi-Routeur</string>
-    <string name="rating_dlg_accept">Taux</string>
+    <string name="rating_dlg_accept">Evaluer</string>
     <string name="rating_dlg_deny">Non, merci</string>
     <string name="rating_dlg_text_1">Aimez-vous notre application ?</string>
-    <string name="rating_dlg_text_2">Vous l\'avez utilisé pendant un long moment, dites-nous ce que vous en pensez.</string>
+    <string name="rating_dlg_text_2">Vous l\'avez utilisé pendant un certain temps, dites-nous ce que vous en avez pensé.</string>
     <string name="reboot_desc">Lors du redémarrage du routeur, tous les appareils seront déconnectés. Vous aurez peut-être besoin de reconnecter manuellement certains appareils après le redémarrage complet.</string>
     <string name="reboot_now">Redémarrer maintenant</string>
     <string name="reboot_router_rebooting_message">Les appareils se reconnecteront automatiquement après le redémarrage complet.</string>
