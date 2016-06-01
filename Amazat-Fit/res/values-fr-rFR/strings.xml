@@ -239,6 +239,9 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="ble_known">OK</string>
     <string name="ble_low_system_4_3_sub_title">Android 4.4 ou supérieur est requis</string>
     <string name="ble_low_system_4_3_title">"Impossible d'appairer"</string>
+    <string name="ble_no_gps_closed">"Services de localisation 
+est désactivé"</string>
+    <string name="ble_no_gps_tip">Activer les services de localisation</string>
     <string name="ble_no_network_tip">"Merci de laisser votre téléphone connecté au réseau."</string>
     <string name="ble_not_open">"Merci d'activer la connexion Bluetooth"</string>
     <string name="ble_not_open_not_bind">Annuler</string>
@@ -1155,7 +1158,7 @@ Traduction : Miui-France"</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="beenz_trade_page_no_data">已无历史数据</string>
-    <string name="com.crashlytics.android.build_id">472b6de9-d5f0-42cb-8f8d-765e47d99cbb</string>
+    <string name="com.crashlytics.android.build_id">b6e44d65-dd88-45f0-b212-3c3afc84f186</string>
     <string name="data_unknown">--</string>
     <string name="facebook_app_id">125938537776820</string>
     <string name="ga_trackingId">UA-76448473-2</string>
