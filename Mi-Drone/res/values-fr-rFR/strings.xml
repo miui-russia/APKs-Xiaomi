@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="SSID">SSID</string>
-    <string name="about">关于</string>
+    <string name="about">À propos</string>
     <string name="about_left_stick">了解左摇杆</string>
     <string name="about_motor">启动和停止电机</string>
     <string name="about_right_stick">了解右摇杆</string>
@@ -45,11 +45,15 @@
     <string name="calicompasstitle">校准指南针</string>
     <string name="calicompassvertialerror">竖直校准失败！</string>
     <string name="calicompete">完成校准</string>
+    <string name="calidiscondrone">飞行器连接已断开</string>
+    <string name="calierror">指南针校准超时失败，请严格按图示校准</string>
+    <string name="calierrordata">校准失败，请注意周围环境磁场干扰</string>
     <string name="caliremotestart">将遥控器摇杆分别按图示的4个方向推/拉到最大程度，</string>
     <string name="caliremotestart2">直到显示的摇杆位置与实际相符</string>
     <string name="calirockertitle">摇杆校准</string>
+    <string name="caliwarning">正在校准指南针，请勿退出</string>
     <string name="caliwhell">滚轮校准</string>
-    <string name="camera">相机</string>
+    <string name="camera">Caméra</string>
     <string name="camera_Lens_AC">镜头畸变校正</string>
     <string name="camera_connect_state_fail">相机连接状态错误</string>
     <string name="camera_reset_factory_mode">恢复出厂设置</string>
@@ -73,6 +77,7 @@
     <string name="close_new_hand_model">将关闭新手模式，请确认您已经熟练掌握了无人机操作</string>
     <string name="close_plane_switch_rocket">请先关闭飞行器电源，再切换遥控器模式</string>
     <string name="close_plane_to_remote_cali">请先关闭飞行器电源，再进行遥控器校准</string>
+    <string name="closedrone">请重启飞行器后再重试指南针校准</string>
     <string name="closefly">请先关闭飞机再进行遥控器校准</string>
     <string name="cloud_platform_setting">云台设置</string>
     <string name="cloud_platform_upgrade">云台升级</string>
@@ -112,12 +117,14 @@
     <string name="descompassthrid">保持起落架打开，勿握住起落架，将飞行器机头竖直拿起，旋转至红灯熄灭</string>
     <string name="desimagetransmission">图传信号:</string>
     <string name="deslevelspeek">水平速度:</string>
+    <string name="desnoflyzone">禁飞区</string>
     <string name="desremotesign">遥控器信号:</string>
     <string name="desverticalspeek">垂直速度:</string>
     <string name="detoruingpoint">绕点飞行</string>
     <string name="dgpair">正常飞行中</string>
     <string name="dgpsair">正常飞行中</string>
     <string name="dis_connect_phone">手机连接已断开</string>
+    <string name="discondrone">校准指南针失败,飞行器已断开连接</string>
     <string name="disconnect_reson">请确认遥控器电源已打开</string>
     <string name="disconnect_title">手机和遥控器连接失败!</string>
     <string name="disconnect_titlefaile">无法连接遥控器</string>
@@ -149,6 +156,8 @@
     <string name="execuwaypoint">航线中</string>
     <string name="exit">退出</string>
     <string name="exited">已退出</string>
+    <string name="failcalicompass">校准指南针失败</string>
+    <string name="failcalicompass2">校准指南针失败,请重启飞行器后再试</string>
     <string name="fault_Optic_flow_bad">光流精度差</string>
     <string name="fault_Optic_flow_invalid">光流数据非法</string>
     <string name="fault_accelerometer">加速度计需要校准</string>
@@ -240,6 +249,7 @@
     <string name="getdatafail">获取数据失败</string>
     <string name="gimbal_calibration">云台校准</string>
     <string name="gimbal_version">云台版本：</string>
+    <string name="goback">返回</string>
     <string name="gohome">是否返航</string>
     <string name="gohomeprompt">"飞行器将以30M高度返航至返航点上空，
 并降落至地面"</string>
@@ -276,7 +286,7 @@
     <string name="land_CAMP_NCAL">指南针异常，请移动飞行器或校准</string>
     <string name="land_GC_PREHEAT">云台需要预热，约3分钟</string>
     <string name="land_GPS_ERROR">检测到GPS异常</string>
-    <string name="land_GPS_NOSIG">GPS无信号</string>
+    <string name="land_GPS_NOSIG">GPS定位精度差</string>
     <string name="land_G_ATT_INV">飞行器摆放不平或颠簸</string>
     <string name="land_IMUACCEL_ERROR">检测到加速度计异常</string>
     <string name="land_IMUACCEL_NCAL">检测到加速度计异常</string>
@@ -289,7 +299,8 @@
     <string name="land_VPS_ERROR">检测到VPU异常</string>
     <string name="land_VPS_LOWACCURATE">VPU精度差，请在有纹理的地面飞行</string>
     <string name="land_log_error">检测到系统初始化异常</string>
-    <string name="land_no_fly_error">处于法定禁飞区，禁止飞行!</string>
+    <string name="land_no_fly_buffer_error">当前靠近禁飞区，不建议飞行!</string>
+    <string name="land_no_fly_error">当前处于禁飞区，禁止飞行!</string>
     <string name="landfall">降落</string>
     <string name="landing">自动降落中</string>
     <string name="landprompt">"飞行器将降落至地面，请确保地面平坦
@@ -518,9 +529,9 @@
     <string name="sky_GPS_ERROR">GPS异常，请小心飞行</string>
     <string name="sky_GPS_ERROR_result">请小心飞行</string>
     <string name="sky_GPS_ERROR_title">GPS异常</string>
-    <string name="sky_GPS_NOSIG">GPS信号差，请小心飞行</string>
-    <string name="sky_LOWPOWER">飞行器电量不足，既将自动降落</string>
-    <string name="sky_LOWPOWER_result">既将自动降落</string>
+    <string name="sky_GPS_NOSIG">GPS精度差，请小心飞行</string>
+    <string name="sky_LOWPOWER">飞行器电量不足，即将自动降落</string>
+    <string name="sky_LOWPOWER_result">即将自动降落</string>
     <string name="sky_LOWPOWER_title">飞行器电量不足</string>
     <string name="sky_LP_RETURN">飞行器电量仅足够返航</string>
     <string name="sky_MAXIMUM_ALTITUDE">已到达最大飞行高度</string>
@@ -532,9 +543,10 @@
     <string name="sky_VPS_LOWACCURATE">VPU精度差，请小心飞行</string>
     <string name="sky_VPS_LOWACCURATE_result">请小心飞行</string>
     <string name="sky_VPS_LOWACCURATE_title">VPU精度差</string>
-    <string name="sky_no_fly_error">进入法定禁飞区，请尽快返航</string>
+    <string name="sky_no_fly_buffer_error">当前靠近禁飞区，建议返航!</string>
+    <string name="sky_no_fly_error">您已进入禁飞区，请尽快返航</string>
     <string name="sky_no_fly_result">请尽快返航</string>
-    <string name="sky_no_fly_title">进入法定禁飞区</string>
+    <string name="sky_no_fly_title">您已进入禁飞区</string>
     <string name="start">开始</string>
     <string name="start_share">开始分享</string>
     <string name="startcamer">开始拍照</string>
