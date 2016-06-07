@@ -109,7 +109,7 @@
     <string name="app_name_ext">Yi-Caméra</string>
     <string name="app_upgrade_button">Télécharger</string>
     <string name="app_version">"Version de l'application"</string>
-    <string name="appversion">APP Version</string>
+    <string name="appversion">Version app</string>
     <string name="attention">Suivre</string>
     <string name="audit_failure">Audit failure</string>
     <string name="auto_low_light">Faible luminosité auto</string>
@@ -193,7 +193,7 @@ Apprendre comment faire cela sur http://www.xiaoyi.com/update/sports"</string>
     <string name="community_test">Community internal Test</string>
     <string name="community_theme">Special topic</string>
     <string name="confirm">OK</string>
-    <string name="confirm_clear_cache">Confirm to clean cache?</string>
+    <string name="confirm_clear_cache">Confirmer pour vider le cache ?</string>
     <string name="connect_wifi">Connect Wi-Fi</string>
     <string name="connecting">Connexion…</string>
     <string name="cont_pic">Capturer en mode rafale</string>
@@ -538,7 +538,6 @@ Camera password will be changed to 1234567890."</string>
     <string name="remind_net_exception">Network error, please try again</string>
     <string name="remind_no_content">No content</string>
     <string name="remind_no_more">No more</string>
-    <string name="reply">reply</string>
     <string name="report_community">Report</string>
     <string name="report_community_fail">Report failed</string>
     <string name="report_community_remind">Report this one?</string>
@@ -587,13 +586,13 @@ Camera password will be changed to 1234567890."</string>
     <string name="set_failed">"Couldn't update settings"</string>
     <string name="set_off">OFF</string>
     <string name="set_on">ON</string>
-    <string name="set_wifi_info">Wi-Fi settings</string>
-    <string name="setting">Settings</string>
+    <string name="set_wifi_info">Paramètres Wi-Fi</string>
+    <string name="setting">Paramètres</string>
     <string name="setting_auto_low_light">Auto low light</string>
     <string name="setting_auto_power_off">Auto power off</string>
     <string name="setting_buzzer_ring">Find camera</string>
     <string name="setting_buzzer_volume">Buzzer volume</string>
-    <string name="setting_camera">Camera</string>
+    <string name="setting_camera">Caméra</string>
     <string name="setting_camera_clock">Camera clock</string>
     <string name="setting_capture_default_mode">Default photo mode</string>
     <string name="setting_common_problem">Q&amp;A</string>
@@ -654,7 +653,7 @@ Camera password will be changed to 1234567890."</string>
     <string name="shopping">Buy</string>
     <string name="show_password">Show password</string>
     <string name="sign_words">Signature</string>
-    <string name="sign_words_default">In the world, we have to change!</string>
+    <string name="sign_words_default">See Different!</string>
     <string name="sinaweibo">Sina Weibo</string>
     <string name="sinaweibo_client_inavailable">Sina Weibo not installed or current version is too old.</string>
     <string name="single_pic">PHOTO</string>
@@ -689,10 +688,10 @@ Camera password will be changed to 1234567890."</string>
     <string name="stop_attention_the_user">Stop following?</string>
     <string name="stop_scan">Stop scanning</string>
     <string name="sure_to_delete">Delete items?</string>
-    <string name="switch_language">Switch language</string>
-    <string name="switch_language_english">Switch to English?</string>
-    <string name="switch_language_system">Switch to system language?</string>
-    <string name="switch_language_title">Switch Language</string>
+    <string name="switch_language">Changer de langue</string>
+    <string name="switch_language_english">Passer à l\'anglais ?</string>
+    <string name="switch_language_system">Passer à la langue du système ?</string>
+    <string name="switch_language_title">Changer de langue</string>
     <string name="switch_mode">Switch modes here</string>
     <string name="switch_server">Switch community server</string>
     <string name="switched_online_server">Switched online server</string>
@@ -710,13 +709,13 @@ Camera password will be changed to 1234567890."</string>
     <string name="tip_agreement">Please read and agree to Term of Use and Privacy Policy.</string>
     <string name="title_account">Me</string>
     <string name="title_account_setting">Profile</string>
-    <string name="title_camera">CAMERA</string>
-    <string name="title_camera_album">CAMERA ALBUM</string>
-    <string name="title_delete">Delete</string>
+    <string name="title_camera">CAMÉRA</string>
+    <string name="title_camera_album">ALBUM CAMÉRA</string>
+    <string name="title_delete">Supprimer</string>
     <string name="title_firmware_log">Update history</string>
-    <string name="title_local">PHONE</string>
-    <string name="title_local_album">LOCAL ALBUM</string>
-    <string name="title_sdcard">SD card</string>
+    <string name="title_local">TÉLÉPHONE</string>
+    <string name="title_local_album">ALBUM LOCAL</string>
+    <string name="title_sdcard">Carte SD</string>
     <string name="tools">Tools</string>
     <string name="trim">Trim</string>
     <string name="turn_off_4g">Or turn off cellular data.</string>
@@ -828,10 +827,10 @@ Battery"</string>
     <string name="wifi_connect_failed_directly">Reboot your phone or check the Wi-Fi connection in the Settings.</string>
     <string name="wifi_connect_failed_solution">Check if your phone is connected to the camera. If not, restart the camera.</string>
     <string name="wifi_invalidate_password">Wi-Fi password incorrect</string>
-    <string name="wifi_scan_faild">"Couldn't connect"</string>
+    <string name="wifi_scan_faild">"Couldn't connect, try again."</string>
     <string name="wifi_scan_faild_solution">"Search failed, make sure you've given permissions to access network and location."</string>
     <string name="wifi_scan_faild_solution_6.0">"
-Or connect Wi-Fi network with prefix of YDXJ from system Wi-Fi."</string>
+Or connect Wi-Fi network from system Wi-Fi."</string>
     <string name="wifi_set_success">Wi-Fi info updated, reconnect your camera.</string>
     <string name="wifi_set_title">Wi-Fi settings</string>
     <string name="wrap_enable">Lens distortion adjustment</string>
@@ -887,11 +886,12 @@ Or connect Wi-Fi network with prefix of YDXJ from system Wi-Fi."</string>
     <string name="video_splendid_menu_title">Switch</string>
     <string name="video_splendid_title">Splendid Video</string>
     <string name="wifi_failure_message">"It's Android M version, connecting camera wifi here may have problems, would you like to connect camera wifi via system setting?"</string>
-    <string name="abour_4k">YI 4K Action Camera</string>
-    <string name="cache_video">Loading…</string>
+    <string name="abour_4k">Yi-Caméra 4K</string>
+    <string name="cache_video">Chargement…</string>
     <string name="encoding">Encoding.</string>
     <string name="pic_edit_btn_adjust">Adjust</string>
     <string name="sd_card_available_photo_video">About %1$d photos or %2$d minutes video are available</string>
+    <string name="token_expired">Token has expired,please login again</string>
     <string name="yi_share">YI</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
