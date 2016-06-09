@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="keyguard_widget_gravity_ent">
-        <item>Left</item>
-        <item>Center</item>
-        <item>Right</item>
+        <item>Gauche</item>
+        <item>Centré</item>
+        <item>Droite</item>
     </string-array>
     <string-array name="keys_actions_ent">
-        <item>None</item>
+        <item>Aucun</item>
         <item>\"Menu\"</item>
-        <item>\"Home\"</item>
-        <item>\"Back\"</item>
-        <item>Previous application</item>
-        <item>Close application</item>
-        <item>Sleep</item>
-        <item>Recent applications</item>
-        <item>Show power menu</item>
-        <item>Expand notifications bar</item>
-        <item>Memory clean</item>
-        <item>Search</item>
-        <item>Screenshot</item>
+        <item>\"Accueil\"</item>
+        <item>\"Retour\"</item>
+        <item>Application précédente</item>
+        <item>Fermer application</item>
+        <item>Veille</item>
+        <item>Applications Récentes</item>
+        <item>Afficher le menu de démarrage</item>
+        <item>Développer la barre de notifications</item>
+        <item>Nettoyer la mémoire</item>
+        <item>Recherche</item>
+        <item>Capture</item>
     </string-array>
     <string-array name="statusbar_icons_pos_ent">
-        <item>Left</item>
-        <item>Center</item>
-        <item>Right</item>
+        <item>Gauche</item>
+        <item>Centré</item>
+        <item>Droite</item>
     </string-array>
     <string-array name="statusbar_signal_cluster_show_ent">
-        <item>SIM-1 and SIM-2</item>
+        <item>SIM-1 et SIM-2</item>
         <item>SIM-1</item>
         <item>SIM-2</item>
     </string-array>
     <string-array name="volume_panels_ent">
-        <item>Ringer</item>
+        <item>Sonnerie</item>
         <item>Notification</item>
-        <item>Media</item>
-        <item>Alarm</item>
-        <item>Call</item>
+        <item>Média</item>
+        <item>Alarme</item>
+        <item>Appel</item>
         <item>Bluetooth</item>
     </string-array>
     <string-array name="keyguard_widget_gravity_val">
@@ -64,11 +64,11 @@
         <item>2</item>
     </string-array>
     <string-array name="volume_panels_val">
-        <item>ringer</item>
-        <item>notification</item>
-        <item>media</item>
-        <item>alarm</item>
-        <item>call</item>
-        <item>bluetooth</item>
+        <item>Sonnerie</item>
+        <item>Notification</item>
+        <item>Média</item>
+        <item>Alarme</item>
+        <item>Appel</item>
+        <item>Bluetooth</item>
     </string-array>
 </resources>
