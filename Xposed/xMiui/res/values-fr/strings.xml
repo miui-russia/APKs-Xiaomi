@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">"Xposed module for MIUI tweaking
-Version"</string>
+    <string name="about">Module Xposed pour version de MIUI customisée</string>
+    <string name="about_developers_label">Développeurs de xMIUI:</string>
     <string name="about_developers">"\u0009• SolarWarez (e-mail: solar.warez@yandex.ru)
  \u0009• Andu Satria
  \u0009• Abdul Latif
  \u0009• Fatra Megantara
- \u0009• Aris.Ho`弦魔
+ \u0009• Aris.Ho
  
-If you wish to help us with translation to other languages or in any other way - please feel free to contact at solar.warez@yandex.ru!"</string>
-    <string name="about_developers_label">xMIUI team:</string>
-    <string name="about_donate" formatted="false">"If you likes my work and decide to donate - thank you, it's very much appreciated! 
+Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru!"</string>
+    <string name="about_translator_label">Traducteurs:</string>
+    <string name="about_translator">\u0009• Angyann
+ \u0009• Fays </string>
+    <string name="about_donate" formatted="false">"Si vous aimez cette application et décidiez de faire un don - merci à vous !
  
 PayPal: "<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=PUKLXWLPVYF3Q&amp;item_name=Donation%20to%20SolarWarez&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">solar.warez@yandex.ru</a>" 
  
-Please consider: 
-\u0009• Please donate only if you want to thank me for the work I have done already, not in expectation of any future work. 
-\u0009• A donation doesn't entitle you for preferred/private support etc. As mentioned, it's only meant as a \"thank you\" gift. "</string>
-    <string name="about_donate_label">Donate:</string>
+Veuillez prendre en compte: 
+\u0009• un don est pour remercier le travail déjà effectué, et non pas dans l'attente des futurs améliorations.
+\u0009• Un don ne vous donne pas droit à un soutien particulier/privé, etc. Comme mentionné, il est seulement conçu comme un cadeau de remerciement."</string>
+    <string name="about_donate_label">Don:</string>
     <string name="about_qq_group" />
     <string name="about_qq_group_join" />
     <string name="about_qq_group_label" />
-    <string name="about_summary">Know about the people who created xMIUI, where to get support for this app etc.</string>
-    <string name="about_support">Facebook Group: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - XPOSED MODULE</a>"
-Thread on "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>" "</string>
-    <string name="about_support_label">Get support at:</string>
-    <string name="about_title">About</string>
-    <string name="about_translator_label">Translator:</string>
-    <string name="about_version_label">Version of this app:</string>
-    <string name="app_description">Xposed module for MIUI tweaking</string>
-    <string name="app_killed">%s killed</string>
-    <string name="applied">Settings applied</string>
-    <string name="apply_summary">Press to apply settings</string>
-    <string name="apply_title">Apply settings</string>
-    <string name="colorpicker_dialog_color_picker">Color Picker</string>
-    <string name="colorpicker_press_color_to_apply">Press on Color to apply</string>
-    <string name="help_summary">Information about module installation, upgrades etc.</string>
-    <string name="help_text">&lt;h5>1. Prerequisites&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;For working the module requires &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework and installed &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a> application. &lt;b>Without this the module will not work!&lt;/b>&lt;br> For information on how to how to install on your device Xposed framework looking at specialized forums related to your device.&lt;/p> &lt;h5>2. Set up your device&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;After installing the Xposed framework and Xposed Installer application, you must go to Security application and then Permissions ➔ Autostart to allow the autostart of Xposed Installer application.&lt;/p> &lt;h5>3. Installation of the module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;The module is installed as a regular application.&lt;br> &amp;emsp;&amp;emsp;After the first installation of the module, it must be activated in the Xposed Installer application, in the Modules tab, and then restart the device.&lt;br> &amp;emsp;&amp;emsp;If you perform step 2, you should see a notification from the Xposed Installer application that new module has been installed, but is not activated yet.&lt;/p> &lt;h5>4. Update module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Update module also takes place as updating regular applications.&lt;br> &amp;emsp;&amp;emsp;If you perform step 2, you should see a notification from the Xposed Installer program that the module is updated and you need to restart your device.&lt;br> &amp;emsp;&amp;emsp;&lt;b>If this notification is not appears, then after the upgrade module is required to manually open Xposed Installer application, go to Modules tab and uncheck and then check again mark on the module and reboot the device!&lt;/b>&lt;/p> &lt;h5>5. Uninstalling of the module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;The module is uninstalled as a regular application.&lt;/p></string>
+    <string name="about_summary">"Pour en apprendre plus sur les personnes qui ont créé xMIUI, où obtenir de l'aide pour cette application, etc."</string>
+    <string name="about_support">Groupe Facebook: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - MODULE XPOSED</a>"
+Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>" "</string>
+    <string name="about_support_label">"Obtenir de l'aide:</string>
+    <string name="about_title">À Propos</string>
+    <string name="about_version_label">"Version de l'application:"</string>
+    <string name="app_description">Module Xposed pour version de MIUI customisée</string>
+    <string name="app_killed">%s tuée</string>
+    <string name="applied">Réglages appliqués</string>
+    <string name="apply_summary">Appuyer pour appliquer les réglages</string>
+    <string name="apply_title">Appliquer les réglages</string>
+    <string name="colorpicker_dialog_color_picker">Choix de la couleur</string>
+    <string name="colorpicker_press_color_to_apply">"Appuyez sur la couleur pour l'appliquer"</string>
+    <string name="help_summary">"Informations à propos de l'installation, les mises à jour du module, etc."</string>
+    <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage tet autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Ii vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre télphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du modulevous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
     <string name="help_title">Help</string>
     <string name="need_apply_or_reboot">To apply settings you need either press \"Apply settings\" button or reboot</string>
     <string name="need_reboot">You need reboot to apply settings</string>
