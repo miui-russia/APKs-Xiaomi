@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="keyguard_widget_gravity_ent">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="keys_actions_ent">
+        <item>None</item>
+        <item>\"Menu\"</item>
+        <item>\"Home\"</item>
+        <item>\"Back\"</item>
+        <item>Previous application</item>
+        <item>Close application</item>
+        <item>Sleep</item>
+        <item>Recent applications</item>
+        <item>Show power menu</item>
+        <item>Expand notifications bar</item>
+        <item>Memory clean</item>
+        <item>Search</item>
+        <item>Screenshot</item>
+    </string-array>
+    <string-array name="statusbar_icons_pos_ent">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="statusbar_signal_cluster_show_ent">
+        <item>SIM-1 and SIM-2</item>
+        <item>SIM-1</item>
+        <item>SIM-2</item>
+    </string-array>
+    <string-array name="volume_panels_ent">
+        <item>Ringer</item>
+        <item>Notification</item>
+        <item>Media</item>
+        <item>Alarm</item>
+        <item>Call</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="keyguard_widget_gravity_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="keys_actions_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="statusbar_icons_pos_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="volume_panels_val">
+        <item>ringer</item>
+        <item>notification</item>
+        <item>media</item>
+        <item>alarm</item>
+        <item>call</item>
+        <item>bluetooth</item>
+    </string-array>
+</resources>
