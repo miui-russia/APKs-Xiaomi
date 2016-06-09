@@ -1011,7 +1011,7 @@ Taille : %4$s"</string>
     <string name="file_menu_sort">Trier par</string>
     <string name="file_menu_transfer_manger">Gérer les transferts</string>
     <string name="file_menu_tunnel_test">Tunnel test</string>
-    <string name="file_menu_upload_to_current_path">Transferer les fichiers</string>
+    <string name="file_menu_upload_to_current_path">Transférer les fichiers</string>
     <string name="file_menu_upload_to_router">Synchroniser avec le routeur</string>
     <string name="file_mobile_backup_desc">Sauvegarder les photos sur le routeur</string>
     <string name="file_mobile_camera_path_name">Caméra</string>
@@ -1065,7 +1065,7 @@ Taille : %4$s"</string>
     <string name="file_sort_by_type_asc">*.a à *.z</string>
     <string name="file_sort_by_type_desc">*.z à *.a</string>
     <string name="file_sort_desc_format">%1$s (%2$s)</string>
-    <string name="file_start_upload_media_files">Envoie</string>
+    <string name="file_start_upload_media_files">Envoyer</string>
     <string name="file_tab_completed">Completé</string>
     <string name="file_tab_title_directory">Dossiers</string>
     <string name="file_tab_title_image">Photos</string>
@@ -1155,7 +1155,7 @@ Voir les fichiers en utilisant l\'outils</string>
     <string name="file_unmount_confirm_message">Ejecter %s ?</string>
     <string name="file_upload_files">Transfert</string>
     <string name="file_upload_path_switch_text">Changer</string>
-    <string name="file_upload_to">Transferer vers</string>
+    <string name="file_upload_to">Transférer vers</string>
     <string name="file_upload_type">Choisir le type de fichier</string>
     <string name="file_usb_import_failed">Impossible d\'importer</string>
     <string name="file_usb_import_failed_for_remove">Importation échouée, Le stockage USB a été retiré.</string>
