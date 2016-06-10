@@ -38,41 +38,41 @@ Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed
     <string name="colorpicker_press_color_to_apply">"Appuyez sur la couleur pour l'appliquer"</string>
     <string name="help_summary">"Informations à propos de l'installation, les mises à jour du module, etc."</string>
     <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage tet autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Ii vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre télphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du modulevous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
-    <string name="help_title">Help</string>
-    <string name="need_apply_or_reboot">To apply settings you need either press \"Apply settings\" button or reboot</string>
-    <string name="need_reboot">You need reboot to apply settings</string>
-    <string name="no_previous_app_found">No previous app found</string>
-    <string name="none">None</string>
-    <string name="not_enabled">"xMIUI module is not enabled!
-You must enable it in Xposed Installer application and reboot phone.
-See details in Help section."</string>
-    <string name="nothing_to_kill">"There's nothing to kill"</string>
-    <string name="pref_cat_contacts_audio_route_by_proximity_sensor_summary">Allows to switch audio route from ear-speaker to speaker by proximity sensor</string>
-    <string name="pref_cat_contacts_audio_route_by_proximity_sensor_title">Audio route by proximity sensor</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_summary">Minimum delay, in milliseconds, between incomming call and answer by proximity sensor to prevent false positive triggering</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_title">Proximity sensor delay</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Allows to answer incomming call by placing phone closely to ear</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_title">Answer by proximity sensor</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_summary">When enabled ringer volume will be increased from lowest to user selected value</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">Time in seconds, while ringer volume will be increased</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_time_title">Increasing time</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_title">Increasing ringer volume</string>
-    <string name="pref_cat_contacts_summary">Phone / Contacts tweaks preferences</string>
-    <string name="pref_cat_contacts_title">Phone / Contacts</string>
-    <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Defines for how long (in seconds) key must be pressed to trigger device unlock</string>
-    <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Long-press delay</string>
-    <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">"Performing long-press on \"Back\" key will unlock device.
-Warning! Device will unlocked even if PIN-code or password is set!"</string>
-    <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Long-press on \"Back\" to unlock</string>
-    <string name="pref_cat_keyguard_show_next_alarm_summary">Allows to display alarm info on lockscreen (may not works with custom themes)</string>
-    <string name="pref_cat_keyguard_show_next_alarm_title">Show alarm info</string>
-    <string name="pref_cat_keyguard_show_widget_summary">Allows to select widget that will be displayed on lockscreen (may not works with custom themes)</string>
-    <string name="pref_cat_keyguard_show_widget_title">Keyguard widget</string>
-    <string name="pref_cat_keyguard_summary">Lockscreen tweaks preferences</string>
-    <string name="pref_cat_keyguard_time_pin_summary">When enabled, then you must add current time value to your PIN code to unlock device.</string>
-    <string name="pref_cat_keyguard_time_pin_title">PIN with time</string>
-    <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;This feature dynamically changes your lock screen PIN code to whatever the current time is plus your real PIN code. The real PIN code and current time value added mathematically as two four-digit numbers.&lt;br> &amp;emsp;&amp;emsp;The PIN will always be four digits. Current time value must be taken in 24-hour format with leading zeroes.&lt;br> &amp;emsp;&amp;emsp;For example, if your PIN code is 0000 and the time is 12:30, your current PIN would be 1230.&lt;br> If your PIN code is 2222 and the time is 02:10, your current PIN would be 2432.&lt;br> If your PIN code is 1234 and the time is 22:47, your current PIN would be 3481. And so on.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;If you don't understand what this option mean - do not turn it on or you can lose access to your phone!!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Do you really want turn this option on?&lt;/b>"</string>
-    <string name="pref_cat_keyguard_title">Lockscreen</string>
+    <string name="help_title">Aide</string>
+    <string name="need_apply_or_reboot">Pour appliquer les paramètres dont vous avez besoin soit appuyez sur le bouton \"Appliquer les réglages\" ou alors redémarrez votre téléphone.</string>
+    <string name="need_reboot">Vous devez redémarrer pour appliquer les réglagess</string>
+    <string name="no_previous_app_found">Aucune application précédente trouvée</string>
+    <string name="none">Aucune</string>
+    <string name="not_enabled">"Le module xMIUI n'est pas activé !
+Vous devez l'activer dans l'application Xposed Installer et redémarrer le téléphone.
+Voir les détails dans la Section Aide."</string>
+    <string name="nothing_to_kill">"Il n'y a rien à tuer"</string>
+    <string name="pref_cat_contacts_audio_route_by_proximity_sensor_summary">"Permet de changer le circuit audio de l'enceinte pour l'oreille vers le haut-parleur grâce au capteur de proximité"</string>
+    <string name="pref_cat_contacts_audio_route_by_proximity_sensor_title">Circuit audio via capteur de proximité</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_summary">Délai minimum, en millisecondes, entre un appel et sa réponse via le capteur de proximité pour éviter le déclenchement de faux positifs.</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_title">Délai du capteur de proximité</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Permet de répondre à un appel entrant en plaçant le téléphone à l'oreille</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_title">Répondre via le capteur de proximité</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_summary">"Lorsque le volume de la sonnerie est activé, il augmentera à partir de la plus faible valeur sélectionnée par l'utilisateur."</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">Temps en secondes de l'augmentation du volume de la sonnerie"</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter le temps</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie.</string>
+    <string name="pref_cat_contacts_summary">Téléphone/Contacts préférences des modifications</string>
+    <string name="pref_cat_contacts_title">Téléphone/Contacts</string>
+    <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Définit pour combien de temps (en secondes) la touche doit être pressée pour déclencher le déverrouillage du téléphone</string>
+    <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Délai de pression sur la touche</string>
+    <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
+Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de passe sont configurés !</string>
+    <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
+    <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
+    <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
+    <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
+    <string name="pref_cat_keyguard_show_widget_title">"Widget de l'écran de verrouillage"</string>
+    <string name="pref_cat_keyguard_summary">Écran de verrouillage préférences des modifications</string>
+    <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN dans un laps de temps définitpour déverrouiller votre téléphone."</string>
+    <string name="pref_cat_keyguard_time_pin_title">Saisie du code PIN avec une durée</string>
+    <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement l'écran de verrouillage de saisie du code PIN. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
+    <string name="pref_cat_keyguard_title">Écran de verrouillage</string>
     <string name="pref_cat_keyguard_widget_gravity_summary">Allows to select widget horizontal gravity</string>
     <string name="pref_cat_keyguard_widget_gravity_title">Widget gravity</string>
     <string name="pref_cat_keyguard_widget_height_summary">Allows to select widget height</string>
