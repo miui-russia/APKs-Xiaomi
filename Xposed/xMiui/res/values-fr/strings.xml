@@ -51,10 +51,10 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_contacts_audio_route_by_proximity_sensor_title">Circuit audio via capteur de proximité</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_summary">Délai minimum, en millisecondes, entre un appel et sa réponse via le capteur de proximité pour éviter le déclenchement de faux positifs.</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_title">Délai du capteur de proximité</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Permet de répondre à un appel entrant en plaçant le téléphone à l'oreille</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Permet de répondre à un appel entrant en plaçant le téléphone à l\'oreille</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_title">Répondre via le capteur de proximité</string>
     <string name="pref_cat_contacts_rising_ringer_volume_summary">"Lorsque le volume de la sonnerie est activé, il augmentera à partir de la plus faible valeur sélectionnée par l'utilisateur."</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">Temps en secondes de l'augmentation du volume de la sonnerie"</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">Temps en secondes de l\'augmentation du volume de la sonnerie"</string>
     <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter le temps</string>
     <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie.</string>
     <string name="pref_cat_contacts_summary">Personnalisation de Téléphone/Contacts</string>
@@ -68,7 +68,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
     <string name="pref_cat_keyguard_show_widget_title">"Widget de l'écran de verrouillage"</string>
-    <string name="pref_cat_keyguard_summary">Personnalisation de l'écran de verrouillage</string>
+    <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
     <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN dans un laps de temps définitpour déverrouiller votre téléphone."</string>
     <string name="pref_cat_keyguard_time_pin_title">Saisie du code PIN avec une durée</string>
     <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement l'écran de verrouillage de saisie du code PIN. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
@@ -169,7 +169,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_statusbar_clock_text_size_summary">"Permet de sélectionner la taille du texte de l'horloge"</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_title">"Taille du texte de l'horloge"</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_summary">"Permet de sélectionner le nombre maximum de notifications d'icônes qui s'affichent sur la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">Nombre maximum d'icônes</string>
+    <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">Nombre maximum d\'icônes</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_summary">"Permet de sélectionner la position de la vitesse de connexion sur la barre d'état"</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_title">Vitesse de connexion</string>
     <string name="pref_cat_systemui_statusbar_network_speed_text_size_summary">Permet de sélectionner la taille du texte de vitesse de connexion (pour le style vitesse de connexion montante/descendante cette valeur est divisée par deux)</string>
@@ -185,7 +185,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_summary">"Permet d'afficher les notifications dans la barre d'état sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_summary">"Permet d'afficher les notifications dans la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_title">Popup dans la barre d'état</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_title">Popup dans la barre d\'état</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_summary">"Permet d'afficher la vitesse de connexion montante et descendante"</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_title">Vitesse de connexion montante et descendante</string>
     <string name="pref_cat_systemui_statusbar_right_wifi_icon_summary">"Permet d'afficher le signal WiFi à droite de la vitesse de connexion"</string>
@@ -195,13 +195,13 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_statusbar_signal_cluster_pos_summary">Permet de sélectionner la position du signal du réseau mobile</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_pos_title">Icône signal du réseau mobile</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_show_summary">Permet de sélectionner quel signal du réseau mobile de quelle carte SIM afficher</string>
-    <string name="pref_cat_systemui_statusbar_signal_cluster_show_title">Icône signal du réseau mobile affiché<</string>
+    <string name="pref_cat_systemui_statusbar_signal_cluster_show_title">Icône signal du réseau mobile affiché</string>
     <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_summary">Permet de sélectionner la taille du statut des icônes en pourcentage</string>
     <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_title">Taille du statut des icônes</string>
     <string name="pref_cat_systemui_statusbar_status_icons_pos_summary">Permet de sélectionner la position du statut des icônes</string>
     <string name="pref_cat_systemui_statusbar_status_icons_pos_title">Statut des icônes</string>
     <string name="pref_cat_systemui_ststusbar_icons_title">Position des icônes dans la barre de Notifications</string>
-    <string name="pref_cat_systemui_summary">Personnalisation de l'interface Utilisateur"</string>
+    <string name="pref_cat_systemui_summary">Personnalisation de l\'interface Utilisateur"</string>
     <string name="pref_cat_systemui_title">Interface Utilisateur</string>
     <string name="pref_cat_systemui_toggles_panel_columns_summary">Permet de définir le nb de colonnes dans la barre des raccourcis</string>
     <string name="pref_cat_systemui_toggles_panel_columns_title">Nombre de colonnes dans la barre des raccourcis</string>
@@ -219,8 +219,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_volume_media_max_title">Média</string>
     <string name="pref_cat_volume_notifications_max_summary">Permet de remplacer le volume maximum des notifications</string>
     <string name="pref_cat_volume_notifications_max_title">Notifications</string>
-    <string name="pref_cat_volume_panel_timeout_summary">Durée de l'affichage du panneau de volume (en millisecondes)</string>
-    <string name="pref_cat_volume_panel_timeout_title">"Délai dl'affichage du panneau de volume"</string>
+    <string name="pref_cat_volume_panel_timeout_summary">Durée de l\'affichage du panneau de volume (en millisecondes)</string>
+    <string name="pref_cat_volume_panel_timeout_title">"Délai d\'affichage du panneau de volume"</string>
     <string name="pref_cat_volume_panels_summary">Permet de sélectionner quel panneau de volume sera utilisé</string>
     <string name="pref_cat_volume_panels_title">Panneaux de volume</string>
     <string name="pref_cat_volume_ringer_max_summary">Permet de remplacer le volume maximum de la sonnerie</string>
@@ -229,7 +229,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_volume_title">Volume</string>
     <string name="pref_cat_volume_unlink_notification_summary">Permet de contrôler le volume des notifications indépendamemnt du volume de la sonnerie</string>
     <string name="pref_cat_volume_unlink_notification_title">Volume des notifications</string>
-    <string name="pref_cat_volume_use_volume_panels_summary">Permet d'utiliser des panneaux de volume à défilement</string>
+    <string name="pref_cat_volume_use_volume_panels_summary">Permet d\'utiliser des panneaux de volume à défilement</string>
     <string name="pref_cat_volume_use_volume_panels_title">Panneaux de volume étendu</string>
     <string name="pref_current_value">Valeur actuelle :</string>
     <string name="version">Version</string>
