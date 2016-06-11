@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">Module Xposed pour version de MIUI customisée</string>
-    <string name="about_developers_label">Développeurs de xMIUI:</string>
-    <string name="about_developers">"\u0009• SolarWarez (e-mail: solar.warez@yandex.ru)
+    <string name="about">Module Xposed pour MIUI 7</string>
+    <string name="about_developers">"\u0009• SolarWarez (Email: solar.warez@yandex.ru)
  \u0009• Andu Satria
  \u0009• Abdul Latif
  \u0009• Fatra Megantara
  \u0009• Aris.Ho
  
 Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru!"</string>
-    <string name="about_translator_label">Traducteurs:</string>
-    <string name="about_translator">\u0009• Angyann
- \u0009• Fays </string>
+    <string name="about_developers_label">Développeurs de xMIUI:</string>
+    <string name="about_translator_label">Traduction Française:</string>
+    <string name="translator">"\u0009• Angyann
+ \u0009• Fayz "</string>
     <string name="about_donate" formatted="false">"Si vous aimez cette application et décidiez de faire un don - merci à vous !
  
 PayPal: "<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=PUKLXWLPVYF3Q&amp;item_name=Donation%20to%20SolarWarez&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">solar.warez@yandex.ru</a>" 
@@ -19,7 +19,7 @@ PayPal: "<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;busin
 Veuillez prendre en compte: 
 \u0009• un don est pour remercier le travail déjà effectué, et non pas dans l'attente des futurs améliorations.
 \u0009• Un don ne vous donne pas droit à un soutien particulier/privé, etc. Comme mentionné, il est seulement conçu comme un cadeau de remerciement."</string>
-    <string name="about_donate_label">Don:</string>
+    <string name="about_donate_label">Dons:</string>
     <string name="about_qq_group" />
     <string name="about_qq_group_join" />
     <string name="about_qq_group_label" />
@@ -29,7 +29,7 @@ Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed
     <string name="about_support_label">"Obtenir de l'aide:</string>
     <string name="about_title">À Propos</string>
     <string name="about_version_label">"Version de l'application:"</string>
-    <string name="app_description">Module Xposed pour version de MIUI customisée</string>
+    <string name="app_description">Module Xposed pour MIUI 7</string>
     <string name="app_killed">%s tuée</string>
     <string name="applied">Réglages appliqués</string>
     <string name="apply_summary">Appuyer pour appliquer les réglages</string>
@@ -80,16 +80,16 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_keyguard_widget_width_summary">Permet de sélectionner la longueur du widget</string>
     <string name="pref_cat_keyguard_widget_width_title">Longueur du Widget</string>
     <string name="pref_cat_keys_back_title">Touche \"Retour\"</string>
-    <string name="pref_cat_keys_disable_hw_keys_summary">Permet de désactiver les touches tactiles</string>
-    <string name="pref_cat_keys_disable_hw_keys_title">Touches tactiles</string>
+    <string name="pref_cat_keys_disable_hw_keys_summary">Permet de désactiver les boutons tactiles</string>
+    <string name="pref_cat_keys_disable_hw_keys_title">Boutons tactiles</string>
     <string name="pref_cat_keys_doubletap_action_summary">"Sélectionnez l'action du double appui sur la touche"</string>
     <string name="pref_cat_keys_doubletap_action_title">Action du double appui</string>
     <string name="pref_cat_keys_doubletap_enable_summary">Activer les actions du double appui</string>
     <string name="pref_cat_keys_doubletap_enable_title">Double appui</string>
     <string name="pref_cat_keys_doubletap_timeout_summary">Permet de définir délai du double appui en millisecondes (Par défault 300)</string>
     <string name="pref_cat_keys_doubletap_timeout_title">Délai double appui</string>
-    <string name="pref_cat_keys_enable_summary">Permet de remplacer le comportement des touches tactiles</string>
-    <string name="pref_cat_keys_enable_title">Personnalisation des touches tactiles</string>
+    <string name="pref_cat_keys_enable_summary">Permet de remplacer le comportement des boutons tactiles</string>
+    <string name="pref_cat_keys_enable_title">Personnalisation des boutons tactiles</string>
     <string name="pref_cat_keys_home_doubletap_lockscreen_summary">"Verrouiller l'écran via un double appui sur la touche \"Accueil\""</string>
     <string name="pref_cat_keys_home_doubletap_lockscreen_title">\"Accueil\" double appui sur écran de verrouillage</string>
     <string name="pref_cat_keys_home_doubletap_on_lockscreen_lockscreen_summary">"Double appui sur la touche \"Accueil\" sur l'écran de verrouillage pour sortir de veille."</string>
@@ -101,18 +101,18 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_keys_other_title">Autre</string>
     <string name="pref_cat_keys_singletap_action_summary">"Sélectionnez l'action du simple appui"</string>
     <string name="pref_cat_keys_singletap_action_title">"Action du simple appui"</string>
-    <string name="pref_cat_keys_summary">Configuration du comportement des touches tactiles</string>
-    <string name="pref_cat_keys_switch_track_by_vol_keys_summary">"Passer à la chanson suivante par un appui long sur les touches de volume lorsque l'écran du téléphone est éteint"</string>
+    <string name="pref_cat_keys_summary">Configuration du comportement des boutons tactiles</string>
+    <string name="pref_cat_keys_switch_track_by_vol_keys_summary">"Passer à la chanson suivante par un appui long sur les boutons de volume lorsque l'écran du téléphone est éteint"</string>
     <string name="pref_cat_keys_switch_track_by_vol_keys_title">Changement de chanson</string>
-    <string name="pref_cat_keys_title">Touches tactiles</string>
-    <string name="pref_cat_launcher_cell_height_summary">"Hauteur de la cellule de l'icône sur le Bureau"</string>
-    <string name="pref_cat_launcher_cell_height_title">"Hauteur de la cellule de l'icône"</string>
-    <string name="pref_cat_launcher_cell_width_summary">"Largeur de la cellule de l'icône sur le Bureau"</string>
-    <string name="pref_cat_launcher_cell_width_title">"Largeur de la cellule de l'icône"</string>
+    <string name="pref_cat_keys_title">Boutons tactiles</string>
+    <string name="pref_cat_launcher_cell_height_summary">"Hauteur de l'icône sur le Bureau"</string>
+    <string name="pref_cat_launcher_cell_height_title">"Hauteur de l'icône"</string>
+    <string name="pref_cat_launcher_cell_width_summary">"Largeur de l'icône sur le Bureau"</string>
+    <string name="pref_cat_launcher_cell_width_title">"Largeur de l'icône"</string>
     <string name="pref_cat_launcher_enable_icon_shadow_summary">"Activer l'ombre des icônes sur le Bureau"</string>
-    <string name="pref_cat_launcher_enable_icon_shadow_title">Ombre des icônes</string>
+    <string name="pref_cat_launcher_enable_icon_shadow_title">Ombrage des icônes</string>
     <string name="pref_cat_launcher_folder_columns_count_auto_summary">Le nombre de colonnes dans les dossiers sera automatiquement détecté</string>
-    <string name="pref_cat_launcher_folder_columns_count_auto_title">Nb de colonnes auto dans les dossiers</string>
+    <string name="pref_cat_launcher_folder_columns_count_auto_title">Nombre de colonnes auto dans les dossiers</string>
     <string name="pref_cat_launcher_folder_columns_count_summary">Nombre de colonnes dans les dossiers</string>
     <string name="pref_cat_launcher_folder_columns_count_title">Colonnes dans les dossiers</string>
     <string name="pref_cat_launcher_hide_hotseat_summary">"Une fois activé la barre d'icônes située en bas sur le Bureau disparaît"</string>
@@ -125,19 +125,19 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_launcher_title">Bureau</string>
     <string name="pref_cat_launcher_widgets_resize_always_summary">Rendre tous les widgets redimensionnables (ne fonctionne pas pour les widgets MIUI par défaut)</string>
     <string name="pref_cat_launcher_widgets_resize_always_title">Widgets redimensionnables</string>
-    <string name="pref_cat_launcher_workspace_columns_summary">Personnaliser le nb de colonnes du Bureau</string>
-    <string name="pref_cat_launcher_workspace_columns_title">Nb de Colonnes</string>
-    <string name="pref_cat_launcher_workspace_icon_size_summary">>Personnaliser la taille des icônes du Bureau</string>
+    <string name="pref_cat_launcher_workspace_columns_summary">Personnaliser le nombre de colonnes du Bureau</string>
+    <string name="pref_cat_launcher_workspace_columns_title">Nombre de Colonnes</string>
+    <string name="pref_cat_launcher_workspace_icon_size_summary">Personnaliser la taille des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_icon_size_title">Taille des icônes</string>
     <string name="pref_cat_launcher_workspace_icon_text_size_summary">Taille du nom des icônes</string>
-    <string name="pref_cat_launcher_workspace_icon_text_size_title">Taille du nom des icônes</string>
-    <string name="pref_cat_launcher_workspace_rows_summary">Personnaliser le nb de lignes de la grille du Bureau</string>
-    <string name="pref_cat_launcher_workspace_rows_title">Nb de Lignes</string>
+    <string name="pref_cat_launcher_workspace_icon_text_size_title">Nom des icônes</string>
+    <string name="pref_cat_launcher_workspace_rows_summary">Personnaliser le nombre de lignes de la grille du Bureau</string>
+    <string name="pref_cat_launcher_workspace_rows_title">Nombre de Lignes</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes du Bureau</string>
     <string name="pref_cat_screen_summary">"Personnalisation de teinte de l'écran"</string>
     <string name="pref_cat_screen_title">"Teinte de l'écran"</string>
-    <string name="pref_cat_settings_show_naviagation_bar_summary">"Permet d'afficher les touches tactiles à l'écran"</string>
+    <string name="pref_cat_settings_show_naviagation_bar_summary">"Permet d'afficher les boutons tactiles à l'écran"</string>
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_summary">"Lorsqu'elle est cochée, cela permet d'afficher ou masquer l'horloge dans la barre d'état lorsque le widget horloge est visible par défaut sur le Bureau"</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_title">"Forcer l'affichage de l'horloge"</string>
@@ -203,9 +203,9 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_ststusbar_icons_title">Position des icônes dans la barre de Notifications</string>
     <string name="pref_cat_systemui_summary">Personnalisation de l\'interface Utilisateur"</string>
     <string name="pref_cat_systemui_title">Interface Utilisateur</string>
-    <string name="pref_cat_systemui_toggles_panel_columns_summary">Permet de définir le nb de colonnes dans la barre des raccourcis</string>
+    <string name="pref_cat_systemui_toggles_panel_columns_summary">Permet de définir le nombre de colonnes dans la barre des raccourcis</string>
     <string name="pref_cat_systemui_toggles_panel_columns_title">Nombre de colonnes dans la barre des raccourcis</string>
-    <string name="pref_cat_systemui_toggles_panel_rows_summary">Permet de définir le nb de lignes dans la barre des raccourcis</string>
+    <string name="pref_cat_systemui_toggles_panel_rows_summary">Permet de définir le nombre de lignes dans la barre des raccourcis</string>
     <string name="pref_cat_systemui_toggles_panel_rows_title">Nombre de lignes dans la barre des raccourcis</string>
     <string name="pref_cat_volume_alarm_max_summary">"Permet de remplacer le volume maximum de l'alarme"</string>
     <string name="pref_cat_volume_alarm_max_title">Alarme</string>
