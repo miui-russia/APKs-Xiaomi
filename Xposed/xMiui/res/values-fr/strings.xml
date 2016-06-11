@@ -37,7 +37,7 @@ Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed
     <string name="colorpicker_dialog_color_picker">Choix de la couleur</string>
     <string name="colorpicker_press_color_to_apply">"Appuyez sur la couleur pour l'appliquer"</string>
     <string name="help_summary">"Informations à propos de l'installation, les mises à jour du module, etc."</string>
-    <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage tet autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Ii vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre télphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du modulevous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
+    <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage et autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du module vous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
     <string name="help_title">Aide</string>
     <string name="need_apply_or_reboot">Pour appliquer les paramètres dont vous avez besoin soit appuyez sur le bouton \"Appliquer les réglages\" ou alors redémarrez votre téléphone.</string>
     <string name="need_reboot">Vous devez redémarrer pour appliquer les réglagess</string>
@@ -54,24 +54,24 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Permet de répondre à un appel entrant en plaçant le téléphone à l\'oreille</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_title">Répondre via le capteur de proximité</string>
     <string name="pref_cat_contacts_rising_ringer_volume_summary">"Lorsque le volume de la sonnerie est activé, il augmentera à partir de la plus faible valeur sélectionnée par l'utilisateur."</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">Temps en secondes de l\'augmentation du volume de la sonnerie"</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter le temps</string>
-    <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie.</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_time_summary">"Durée en secondes de l'augmentation du volume de la sonnerie"</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter la durée</string>
+    <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie</string>
     <string name="pref_cat_contacts_summary">Personnalisation de Téléphone/Contacts</string>
     <string name="pref_cat_contacts_title">Téléphone/Contacts</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Définit pour combien de temps (en secondes) la touche doit être pressée pour déclencher le déverrouillage du téléphone</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Délai de pression sur la touche</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
-Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de passe sont configurés !</string>
+Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
     <string name="pref_cat_keyguard_show_widget_title">"Widget de l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
-    <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN dans un laps de temps définitpour déverrouiller votre téléphone."</string>
-    <string name="pref_cat_keyguard_time_pin_title">Saisie du code PIN avec une durée</string>
-    <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement l'écran de verrouillage de saisie du code PIN. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
+    <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN et y ajouter l'heure actuelle pour déverrouiller votre téléphone."</string>
+    <string name="pref_cat_keyguard_time_pin_title">"Saisie du code PIN + l'heure actuelle"</string>
+    <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement la saisie du code PIN sur l'écran de verrouillage. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
     <string name="pref_cat_keyguard_title">Écran de verrouillage</string>
     <string name="pref_cat_keyguard_widget_gravity_summary">Permet de sélectionner la position horizontale du widget</string>
     <string name="pref_cat_keyguard_widget_gravity_title">Position du Widget</string>
@@ -84,7 +84,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_keys_disable_hw_keys_title">Boutons tactiles</string>
     <string name="pref_cat_keys_doubletap_action_summary">"Sélectionnez l'action du double appui sur la touche"</string>
     <string name="pref_cat_keys_doubletap_action_title">Action du double appui</string>
-    <string name="pref_cat_keys_doubletap_enable_summary">Activer les actions du double appui</string>
+    <string name="pref_cat_keys_doubletap_enable_summary">Activez les actions du double appui</string>
     <string name="pref_cat_keys_doubletap_enable_title">Double appui</string>
     <string name="pref_cat_keys_doubletap_timeout_summary">Permet de définir délai du double appui en millisecondes (Par défault 300)</string>
     <string name="pref_cat_keys_doubletap_timeout_title">Délai double appui</string>
@@ -109,7 +109,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_launcher_cell_height_title">"Hauteur de l'icône"</string>
     <string name="pref_cat_launcher_cell_width_summary">"Largeur de l'icône sur le Bureau"</string>
     <string name="pref_cat_launcher_cell_width_title">"Largeur de l'icône"</string>
-    <string name="pref_cat_launcher_enable_icon_shadow_summary">"Activer l'ombre des icônes sur le Bureau"</string>
+    <string name="pref_cat_launcher_enable_icon_shadow_summary">"Activez l'ombre des icônes sur le Bureau"</string>
     <string name="pref_cat_launcher_enable_icon_shadow_title">Ombrage des icônes</string>
     <string name="pref_cat_launcher_folder_columns_count_auto_summary">Le nombre de colonnes dans les dossiers sera automatiquement détecté</string>
     <string name="pref_cat_launcher_folder_columns_count_auto_title">Nombre de colonnes auto dans les dossiers</string>
@@ -118,7 +118,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_launcher_hide_hotseat_summary">"Une fois activé la barre d'icônes située en bas sur le Bureau disparaît"</string>
     <string name="pref_cat_launcher_hide_hotseat_title">"Masquer barre d'icônes située en bas sur le Bureau"</string>
     <string name="pref_cat_launcher_hotseat_show_icons_labels_summary">"Afficher ou masquer le nom des icônes sur la barre d'icônes située en bas sur le Bureau"</string>
-    <string name="pref_cat_launcher_hotseat_show_icons_labels_title">Afficher nom des icônes barre en bas du Bureau</string>
+    <string name="pref_cat_launcher_hotseat_show_icons_labels_title">Afficher le nom des icônes sur la barre en bas du Bureau</string>
     <string name="pref_cat_launcher_multiline_icons_labels_summary">Afficher le nom des icônes sur plusieurs lignes</string>
     <string name="pref_cat_launcher_multiline_icons_labels_title">Afficher le nom des icônes sur plusieurs lignes</string>
     <string name="pref_cat_launcher_summary">Personnalisation du Bureau</string>
@@ -131,7 +131,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_launcher_workspace_icon_size_title">Taille des icônes</string>
     <string name="pref_cat_launcher_workspace_icon_text_size_summary">Taille du nom des icônes</string>
     <string name="pref_cat_launcher_workspace_icon_text_size_title">Nom des icônes</string>
-    <string name="pref_cat_launcher_workspace_rows_summary">Personnaliser le nombre de lignes de la grille du Bureau</string>
+    <string name="pref_cat_launcher_workspace_rows_summary">Personnaliser le nombre de lignes du Bureau</string>
     <string name="pref_cat_launcher_workspace_rows_title">Nombre de Lignes</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes du Bureau</string>
@@ -148,13 +148,13 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_dim_layer_power_summary">"Permet de sélectionner une valeur de teinte</string>
     <string name="pref_cat_systemui_dim_layer_power_title">Valeur de teinte</string>
     <string name="pref_cat_systemui_dim_layer_title">"Teinte de l'écran"</string>
-    <string name="pref_cat_systemui_expand_notifications_by_click_summary">"Permet d'étendre les notifications en cliquant dessus"</string>
-    <string name="pref_cat_systemui_expand_notifications_by_click_title">Étendre les notifications en cliquant dessus</string>
+    <string name="pref_cat_systemui_expand_notifications_by_click_summary">"Permet d'étendre les notifications en appuyant dessus"</string>
+    <string name="pref_cat_systemui_expand_notifications_by_click_title">Étendre les notifications en appuyant dessus</string>
     <string name="pref_cat_systemui_fix_notifications_icons_summary">Notifications des icônes façon AOSP</string>
     <string name="pref_cat_systemui_fix_notifications_icons_title">Notifications AOSP des icônes</string>
     <string name="pref_cat_systemui_recents_animation_angle_summary">"Angle d'animation des applications récentes"</string>
     <string name="pref_cat_systemui_recents_animation_angle_title">Angle de rotation</string>
-    <string name="pref_cat_systemui_recents_animation_enable_summary">"Activer l'animation des applications récentes""</string>
+    <string name="pref_cat_systemui_recents_animation_enable_summary">"Activez l'animation des applications récentes""</string>
     <string name="pref_cat_systemui_recents_animation_enable_title">Animation des applications récentes</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_summary">Permet de sélectionner la taille du pourcentage de la batterie</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_title">Taille du pourcentage de la batterie</string>
@@ -174,7 +174,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_statusbar_network_speed_pos_title">Vitesse de connexion</string>
     <string name="pref_cat_systemui_statusbar_network_speed_text_size_summary">Permet de sélectionner la taille du texte de vitesse de connexion (pour le style vitesse de connexion montante/descendante cette valeur est divisée par deux)</string>
     <string name="pref_cat_systemui_statusbar_network_speed_text_size_title">Taille du texte de vitesse de connexion</string>
-    <string name="pref_cat_systemui_statusbar_network_speed_update_interval_summary">"Permet de sélectionner l'intervalle de temps de rafraichissement de l'affichage de la vitesse de connexionn (en millisecondes)"</string>
+    <string name="pref_cat_systemui_statusbar_network_speed_update_interval_summary">"Permet de sélectionner l'intervalle de temps de rafraichissement de l'affichage de la vitesse de connexion (en millisecondes)"</string>
     <string name="pref_cat_systemui_statusbar_network_speed_update_interval_title">"Mise à jour de l'intervalle de temps"</string>
     <string name="pref_cat_systemui_statusbar_notification_icons_dimens_mult_summary">Permet de sélectionner la taille des notifications des icônes en pourcentage</string>
     <string name="pref_cat_systemui_statusbar_notification_icons_dimens_mult_title">Taille des notifications des icônes</string>
@@ -196,10 +196,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_systemui_statusbar_signal_cluster_pos_title">Icône signal du réseau mobile</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_show_summary">Permet de sélectionner quel signal du réseau mobile de quelle carte SIM afficher</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_show_title">Icône signal du réseau mobile affiché</string>
-    <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_summary">Permet de sélectionner la taille du statut des icônes en pourcentage</string>
-    <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_title">Taille du statut des icônes</string>
-    <string name="pref_cat_systemui_statusbar_status_icons_pos_summary">Permet de sélectionner la position du statut des icônes</string>
-    <string name="pref_cat_systemui_statusbar_status_icons_pos_title">Statut des icônes</string>
+    <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_summary">Permet de sélectionner la taille des icônes de statut en pourcentage</string>
+    <string name="pref_cat_systemui_statusbar_status_icons_dimens_mult_title">Taille des icônes de statut</string>
+    <string name="pref_cat_systemui_statusbar_status_icons_pos_summary">Permet de sélectionner la position des icônes de statut</string>
+    <string name="pref_cat_systemui_statusbar_status_icons_pos_title">Icônes de statut</string>
     <string name="pref_cat_systemui_ststusbar_icons_title">Position des icônes dans la barre de Notifications</string>
     <string name="pref_cat_systemui_summary">Personnalisation de l\'interface Utilisateur"</string>
     <string name="pref_cat_systemui_title">Interface Utilisateur</string>
@@ -229,7 +229,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou mot de pa
     <string name="pref_cat_volume_title">Volume</string>
     <string name="pref_cat_volume_unlink_notification_summary">Permet de contrôler le volume des notifications indépendamemnt du volume de la sonnerie</string>
     <string name="pref_cat_volume_unlink_notification_title">Volume des notifications</string>
-    <string name="pref_cat_volume_use_volume_panels_summary">Permet d\'utiliser des panneaux de volume à défilement</string>
+    <string name="pref_cat_volume_use_volume_panels_summary">Permet d\'utiliser des panneaux de volume à défilement (Attention ne fonctionne pas sur tous les téléphones)</string>
     <string name="pref_cat_volume_use_volume_panels_title">Panneaux de volume étendu</string>
     <string name="pref_current_value">Valeur actuelle :</string>
     <string name="version">Version</string>
