@@ -7,11 +7,8 @@
  \u0009• Fatra Megantara
  \u0009• Aris.Ho
  
-Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru!"</string>
+Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru !"</string>
     <string name="about_developers_label">Développeurs de xMIUI:</string>
-    <string name="about_translator_label">Traduction Française:</string>
-    <string name="translator">"\u0009• Angyann
- \u0009• Fayz "</string>
     <string name="about_donate" formatted="false">"Si vous aimez cette application et décidiez de faire un don - merci à vous !
  
 PayPal: "<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=PUKLXWLPVYF3Q&amp;item_name=Donation%20to%20SolarWarez&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">solar.warez@yandex.ru</a>" 
@@ -28,6 +25,7 @@ Veuillez prendre en compte:
 Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>" "</string>
     <string name="about_support_label">"Obtenir de l'aide:</string>
     <string name="about_title">À Propos</string>
+    <string name="about_translator_label">Traduction Française:</string>
     <string name="about_version_label">"Version de l'application:"</string>
     <string name="app_description">Module Xposed pour MIUI 7</string>
     <string name="app_killed">%s tuée</string>
@@ -58,8 +56,8 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_contacts_rising_ringer_volume_time_summary">"Durée en secondes de l'augmentation du volume de la sonnerie"</string>
     <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter la durée</string>
     <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie</string>
-    <string name="pref_cat_contacts_summary">Personnalisation de Téléphone/Contacts</string>
-    <string name="pref_cat_contacts_title">Téléphone/Contacts</string>
+    <string name="pref_cat_contacts_summary">Personnalisation du Téléphone</string>
+    <string name="pref_cat_contacts_title">Téléphone</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Définit pour combien de temps (en secondes) la touche doit être pressée pour déclencher le déverrouillage du téléphone</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Délai de pression sur la touche</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
@@ -70,10 +68,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
-    <string name="pref_cat_keyguard_show_widget_title">"Widget de l'écran de verrouillage"</string>
+    <string name="pref_cat_keyguard_show_widget_title">"Widget sur l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Allows to dismiss notifications from lock screen by swipe</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_title">Dismiss notifications by swipe</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Permet de quitter les notifications sur l\écran de verrouillage par balayage</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_title">Quitter les notifications par balayage</string>
     <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN et y ajouter l'heure actuelle pour déverrouiller votre téléphone."</string>
     <string name="pref_cat_keyguard_time_pin_title">"Saisie du code PIN + l'heure actuelle"</string>
     <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement la saisie du code PIN sur l'écran de verrouillage. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
@@ -84,7 +82,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keyguard_widget_height_title">Hauteur du Widget</string>
     <string name="pref_cat_keyguard_widget_width_summary">Permet de sélectionner la longueur du widget</string>
     <string name="pref_cat_keyguard_widget_width_title">Longueur du Widget</string>
-    <string name="pref_cat_keys_back_title">Touche \"Retour\"</string>
+    <string name="pref_cat_keys_back_title">Bouton \"Retour\"</string>
     <string name="pref_cat_keys_disable_hw_keys_summary">Permet de désactiver les boutons tactiles</string>
     <string name="pref_cat_keys_disable_hw_keys_title">Boutons tactiles</string>
     <string name="pref_cat_keys_doubletap_action_summary">"Sélectionnez l'action du double appui sur la touche"</string>
@@ -99,10 +97,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keys_home_doubletap_lockscreen_title">\"Accueil\" double appui sur écran de verrouillage</string>
     <string name="pref_cat_keys_home_doubletap_on_lockscreen_lockscreen_summary">"Double appui sur la touche \"Accueil\" sur l'écran de verrouillage pour sortir de veille."</string>
     <string name="pref_cat_keys_home_doubletap_on_lockscreen_lockscreen_title">\"Accueil\" double appui sur écran de verrouillage</string>
-    <string name="pref_cat_keys_home_title">Touche \"Accueil\"</string>
+    <string name="pref_cat_keys_home_title">Bouton \"Accueil\"</string>
     <string name="pref_cat_keys_longpress_action_summary">"Sélectionnez l'action de l'appui long"</string>
     <string name="pref_cat_keys_longpress_action_title">"Action de l'appui long"</string>
-    <string name="pref_cat_keys_menu_title">Touche \"Menu\"</string>
+    <string name="pref_cat_keys_menu_title">Bouton \"Menu\"</string>
     <string name="pref_cat_keys_other_title">Autre</string>
     <string name="pref_cat_keys_singletap_action_summary">"Sélectionnez l'action du simple appui"</string>
     <string name="pref_cat_keys_singletap_action_title">"Action du simple appui"</string>
@@ -146,8 +144,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_summary">"Lorsqu'elle est cochée, cela permet d'afficher ou masquer l'horloge dans la barre d'état lorsque le widget horloge est visible par défaut sur le Bureau"</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_title">"Forcer l'affichage de l'horloge"</string>
-    <string name="pref_cat_systemui_autoexpand_notifications_summary">Allows auto-expand notifications in notification panel</string>
-    <string name="pref_cat_systemui_autoexpand_notifications_title">Auto-expand notifications</string>
+    <string name="pref_cat_systemui_autoexpand_notifications_summary">Permet d\'étendre les notifications automatiquement dans la barre de notification</string>
+    <string name="pref_cat_systemui_autoexpand_notifications_title">Étendre automatiquement les notifications</string>
     <string name="pref_cat_systemui_dim_layer_color_summary">"Permet de sélectionner la couleur de teinte de l'écran"</string>
     <string name="pref_cat_systemui_dim_layer_color_title">Couleur</string>
     <string name="pref_cat_systemui_dim_layer_enable_summary">"Permet d'utiliser une autre couleur de teinte de l'écran"</string>
@@ -175,8 +173,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_clock_pos_title">Horloge</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_summary">"Permet de sélectionner la taille du texte de l'horloge"</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_title">"Taille du texte de l'horloge"</string>
-    <string name="pref_cat_systemui_statusbar_hide_battery_summary">Allows to hide battery icon in status bar</string>
-    <string name="pref_cat_systemui_statusbar_hide_battery_title">Hide battery icon</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_summary">Permet de masquer l\'icône de la batterie dans la barre d\'état</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_title">Masquer l\'icône de la batterie</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_summary">"Permet de sélectionner le nombre maximum de notifications d'icônes qui s'affichent sur la barre d'état"</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">Nombre maximum d\'icônes</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_summary">"Permet de sélectionner la position de la vitesse de connexion sur la barre d'état"</string>
@@ -241,6 +239,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_volume_use_volume_panels_summary">Permet d\'utiliser des panneaux de volume à défilement (Attention ne fonctionne pas sur tous les téléphones)</string>
     <string name="pref_cat_volume_use_volume_panels_title">Panneaux de volume étendu</string>
     <string name="pref_current_value">Valeur actuelle :</string>
+    <string name="translator">"\u0009• Angyann (Email: angyann@miui-france.org)
+ \u0009• Fayz  (Email: fays91@miui-france.org)
+ 
+Pour remonter les erreurs de traduction ou optimisation - merci d'envoyer un email à Angyann ou Fayz !"</string>
     <string name="version">Version</string>
     <string name="warnin">Attention !</string>
     <string name="app_name">xMIUI</string>
