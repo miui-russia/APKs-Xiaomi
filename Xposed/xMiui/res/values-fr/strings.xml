@@ -39,6 +39,7 @@ Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed
     <string name="help_summary">"Informations à propos de l'installation, les mises à jour du module, etc."</string>
     <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage et autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du module vous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
     <string name="help_title">Aide</string>
+    <string name="hidden_content">Hidden content</string>
     <string name="need_apply_or_reboot">Pour appliquer les paramètres dont vous avez besoin soit appuyez sur le bouton \"Appliquer les réglages\" ou alors redémarrez votre téléphone.</string>
     <string name="need_reboot">Vous devez redémarrer pour appliquer les réglagess</string>
     <string name="no_previous_app_found">Aucune application précédente trouvée</string>
@@ -64,11 +65,15 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
 Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
+    <string name="pref_cat_keyguard_hide_notifications_details_summary">Allows to hide notifications details on lock screen</string>
+    <string name="pref_cat_keyguard_hide_notifications_details_title">Hide notifications details</string>
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
     <string name="pref_cat_keyguard_show_widget_title">"Widget de l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Allows to dismiss notifications from lock screen by swipe</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_title">Dismiss notifications by swipe</string>
     <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN et y ajouter l'heure actuelle pour déverrouiller votre téléphone."</string>
     <string name="pref_cat_keyguard_time_pin_title">"Saisie du code PIN + l'heure actuelle"</string>
     <string name="pref_cat_keyguard_time_pin_warning">"&amp;emsp;&amp;emsp;Cette fonction permet de modifier dynamiquement la saisie du code PIN sur l'écran de verrouillage. Le code PIN et la valeur de l'heure actuelle sont ajoutés mathématiquement comme deux nombres à quatre chiffres.&lt;br> &amp;emsp;&amp;emsp;Le code PIN sera toujours quatre chiffres. La valeur de l'heure doit être saisie au format 24h avec des des zéros.&lt;br> &amp;emsp;&amp;emsp;Par exemple, si votre code PIN est 0000 et l'heure est 12:30, votre NIP actuel serait 1230.&lt;br> Si votre code PIN est 2222 et l'heure est 02h10, votre code PIN serait 2432.&lt;br> Si votre code PIN est 1234 et l'heure est 22h47, votre PIN serait 3481. Etc.&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Si vous ne comprenez pas ce que cette fonctionnalité - ne l'activez pas car risqueriez de perdre l'accès à votre téléphone !!!&lt;/b>&lt;br> &lt;br> &lt;b>&amp;emsp;&amp;emsp;Voulez-vous vraiment activer cette option ?&lt;/b>"</string>
@@ -141,6 +146,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_summary">"Lorsqu'elle est cochée, cela permet d'afficher ou masquer l'horloge dans la barre d'état lorsque le widget horloge est visible par défaut sur le Bureau"</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_title">"Forcer l'affichage de l'horloge"</string>
+    <string name="pref_cat_systemui_autoexpand_notifications_summary">Allows auto-expand notifications in notification panel</string>
+    <string name="pref_cat_systemui_autoexpand_notifications_title">Auto-expand notifications</string>
     <string name="pref_cat_systemui_dim_layer_color_summary">"Permet de sélectionner la couleur de teinte de l'écran"</string>
     <string name="pref_cat_systemui_dim_layer_color_title">Couleur</string>
     <string name="pref_cat_systemui_dim_layer_enable_summary">"Permet d'utiliser une autre couleur de teinte de l'écran"</string>
@@ -168,6 +175,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_clock_pos_title">Horloge</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_summary">"Permet de sélectionner la taille du texte de l'horloge"</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_title">"Taille du texte de l'horloge"</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_summary">Allows to hide battery icon in status bar</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_title">Hide battery icon</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_summary">"Permet de sélectionner le nombre maximum de notifications d'icônes qui s'affichent sur la barre d'état"</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">Nombre maximum d\'icônes</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_summary">"Permet de sélectionner la position de la vitesse de connexion sur la barre d'état"</string>
