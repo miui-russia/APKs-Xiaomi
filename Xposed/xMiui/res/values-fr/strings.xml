@@ -117,8 +117,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_folder_columns_count_title">Colonnes dans les dossiers</string>
     <string name="pref_cat_launcher_hide_hotseat_summary">"Une fois activé la barre d'icônes située en bas sur le Bureau disparaît"</string>
     <string name="pref_cat_launcher_hide_hotseat_title">"Masquer barre d'icônes située en bas sur le Bureau"</string>
-    <string name="pref_cat_launcher_hotseat_show_icons_labels_summary">"Afficher ou masquer le nom des icônes sur la barre d'icônes située en bas sur le Bureau"</string>
-    <string name="pref_cat_launcher_hotseat_show_icons_labels_title">Afficher le nom des icônes sur la barre en bas du Bureau</string>
+    <string name="pref_cat_launcher_hotseat_show_icons_labels_summary">"Afficher ou masquer le nom des icônes située en bas sur le Bureau"</string>
+    <string name="pref_cat_launcher_hotseat_show_icons_labels_title">Afficher le nom des icônes en bas du bureau</string>
     <string name="pref_cat_launcher_multiline_icons_labels_summary">Afficher le nom des icônes sur plusieurs lignes</string>
     <string name="pref_cat_launcher_multiline_icons_labels_title">Afficher le nom des icônes sur plusieurs lignes</string>
     <string name="pref_cat_launcher_summary">Personnalisation du Bureau</string>
@@ -134,8 +134,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_workspace_rows_summary">Personnaliser le nombre de lignes du Bureau</string>
     <string name="pref_cat_launcher_workspace_rows_title">Nombre de Lignes</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
-    <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes du Bureau</string>
-    <string name="pref_cat_screen_summary">"Personnalisation de teinte de l'écran"</string>
+    <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes</string>
+    <string name="pref_cat_screen_summary">"Personnalisation de la teinte de l'écran"</string>
     <string name="pref_cat_screen_title">"Teinte de l'écran"</string>
     <string name="pref_cat_settings_show_naviagation_bar_summary">"Permet d'afficher les boutons tactiles à l'écran"</string>
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
