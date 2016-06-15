@@ -8,7 +8,7 @@
     <string name="abc_action_mode_done">OK</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
-    <string name="abc_search_hint">Rechercher...</string>
+    <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -22,7 +22,7 @@
     <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
     <string name="com_facebook_like_button_liked">J\’aime déjà</string>
     <string name="com_facebook_like_button_not_liked">J\’aime</string>
-    <string name="com_facebook_loading">Chargement...</string>
+    <string name="com_facebook_loading">Chargement…</string>
     <string name="com_facebook_loginview_cancel_action">Annuler</string>
     <string name="com_facebook_loginview_log_in_button">Connexion</string>
     <string name="com_facebook_loginview_log_in_button_long">Connexion avec Facebook</string>
@@ -88,7 +88,7 @@
     <string name="account_user_icon">Avatar</string>
     <string name="account_user_id">ID du compte</string>
     <string name="account_user_nick">Pseudo</string>
-    <string name="add_commend">Ajouter un commentaire...</string>
+    <string name="add_commend">Ajouter un commentaire…</string>
     <string name="add_tag">Add tag</string>
     <string name="adj_cmp">Contraste</string>
     <string name="adj_hue">Saturation</string>
@@ -220,11 +220,11 @@ Apprendre comment faire cela sur http://www.xiaoyi.com/update/sports"</string>
     <string name="download_firmware_log">"Télécharger l'historique de la mise à jour ?"</string>
     <string name="download_firmware_log_failed">"Impossible de télécharger l'historique des mises à jour"</string>
     <string name="download_firmware_log_successed">"L'historique de la mise à jour a été téléchargé"</string>
-    <string name="download_storage">%1$sGo disponible, %2$sGo total</string>
+    <string name="download_storage">%1$s Go disponible, %2$s Go total</string>
     <string name="downloaded">Téléchargé</string>
     <string name="downloading">Téléchargement</string>
     <string name="dump_firmware_log_failed">"Impossible de créer le fichier de l'historique de mise à jour"</string>
-   <string name="editAndShare">Modifier&amp;partager</string>
+   <string name="editAndShare">Modifier et partager</string>
     <string name="edit_cancel_warning">Annuler la modification en cours ?</string>
     <string name="edm">EDM</string>
     <string name="effect">Effets</string>
@@ -314,7 +314,7 @@ gardez la caméra à proximité de votre appareil."</string>
     <string name="generate_MP4">MP4</string>
     <string name="get_latest_firmeware_info">Obtention de la version du firmware…</string>
     <string name="get_sd_card_info_failed">Impossible de lire la carte SD</string>
-    <string name="get_setting">Connexion...</string>
+    <string name="get_setting">Connexion…</string>
     <string name="gif_format">GIF</string>
     <string name="guide_step1_content1">connectez la caméra</string>
     <string name="guide_step1_content2">et</string>
@@ -333,7 +333,7 @@ Photo"</string>
     <string name="hint_password">Nouveau mot de passe</string>
     <string name="history_tag">Historique des Tag</string>
     <string name="home_camera_dialog_help_content">"Ouvrez le couvercle et retirez la batterie.
-Trouvez le n° de série et le nom WiFi par défaut de la Caméra.
+Trouvez le n° de série et le nom Wi-Fi par défaut de la Caméra.
 Ajouter les 7 derniers caractères du n° de série à GDXJ."</string>
     <string name="home_camera_dialog_help_title">Vous ne trouvez pas la Caméra ?</string>
     <string name="home_camera_dialog_reset_content">"Appuyez et maintenez le bouton power et le bouton WIFi simultanément jusqu'à ce que vous entendez un bip.
@@ -411,7 +411,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="network_disconnect">Réseau déconnecté</string>
     <string name="network_error">Connectez-vous à Internet et essayez à nouveau</string>
     <string name="network_switch_failed">Impossible de changer de réseau</string>
-    <string name="new_agreement">"J'ai lu et j'accepte<a href="http://www.xiaoyi.com/en/legal/action">les conditions d'utilisations</a> ainsi que <a href="http://www.xiaoyi.com/en/home/privacy-policy/index.html"> la politique de confidentialité</a>."</string>
+    <string name="new_agreement">"J\'ai lu et j\'accepte<a href="http://www.xiaoyi.com/en/legal/action">les conditions d\'utilisations</a> et <a href="http://www.xiaoyi.com/en/home/privacy-policy/index.html"> la politique de confidentialité</a>."</string>
     <string name="newest">Explorez les messages</string>
     <string name="next">Suivante</string>
     <string name="next_time">Pas maintenant</string>
@@ -434,9 +434,9 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="ok">OK</string>
     <string name="open_camera">Allumer la caméra</string>
     <string name="open_camera_message">Appuyez sur le bouton power pour démarrer</string>
-    <string name="open_wifi">Activer le WiFi</string>
+    <string name="open_wifi">Activer le Wi-Fi</string>
     <string name="open_wifi2">Appuyez sur le bouton rouge</string>
-    <string name="open_wifi_message">"Appuyez et maintenez enfoncé le bouton WiFi sur le côté de la caméra jusqu'à ce que la lumière devienne bleue et commence à clignoter."</string>
+    <string name="open_wifi_message">"Appuyez et maintenez enfoncé le bouton Wi-Fi sur le côté de la caméra jusqu'à ce que la lumière devienne bleue et commence à clignoter."</string>
     <string name="open_wifi_message2">Appuyez sur le bouton rouge pour démarrer la recherche, ensuite sélectionnez une caméra à connecter (Mot de passe par défault: 1234567890)</string>
     <string name="operation_failed">Erreur</string>
     <string name="password_format_error">"Le mot de passe doit contenir entre 8-64 caractères et ne doit pas contenir d'espaces."</string>
@@ -524,7 +524,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="qq_client_inavailable">"QQ n'est pas installé ou la version actuelle est trop ancienne."</string>
     <string name="qzone">Qzone</string>
     <string name="qzone_client_inavailable">"Qzone n'est pas installé ou la version actuelle est trop ancienne."</string>
-    <string name="rb">R&amp;B</string>
+    <string name="rb">R et B</string>
     <string name="recommend_user">Utilisateurs recommandés</string>
     <string name="reconnect">Réessayez</string>
     <string name="record">VIDÉO</string>
@@ -536,7 +536,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="region">Région</string>
     <string name="remain_length">%s caractères restants</string>
     <string name="remind_net_exception">Erreur réseau, veuillez essayer à nouveau</string>
-    <string name="remind_no_content"Pas de contenu</string>
+    <string name="remind_no_content">Pas de contenu</string>
     <string name="remind_no_more">Rien de plus</string>
     <string name="report_community">Signaler</string>
     <string name="report_community_fail">Signalement échoué</string>
@@ -544,8 +544,8 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="report_community_success">Signalement réussi</string>
     <string name="resolution">Résolution</string>
     <string name="resolution_sample">1920 X 1080 | 16:9 | 60P</string>
-    <string name="restart_device_immediately">Reconnexion nécessaire après la mise à jour des infos du Wifi</string>
-    <string name="restore_factory_success">Activez le WiFi pour vous connectez à nouveau</string>
+    <string name="restart_device_immediately">Reconnexion nécessaire après la mise à jour des infos du Wi-Fi</string>
+    <string name="restore_factory_success">Activez le Wi-Fi pour vous connectez à nouveau</string>
     <string name="retro">Rétro</string>
     <string name="retry">Réessayer</string>
     <string name="retry_after_connect_network">Connectez-vous à Internet et essayez à nouveau</string>
@@ -575,7 +575,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="select_format">Sélectionner le format</string>
     <string name="select_photo">"Sélectionner d'abord le fichier"</string>
     <string name="select_tag">Sélectionner tags</string>
-    <string name="select_wifi">Choisissez le WiFi pour connecter la caméra</string>
+    <string name="select_wifi">Choisissez le Wi-Fi pour connecter la caméra</string>
     <string name="send_commend">Envoyer</string>
     <string name="send_feedback_fail">"Impossible d'envoyer, réessayer."</string>
     <string name="send_feedback_success">Merci pour votre commentaire !</string>
@@ -595,10 +595,10 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="setting_camera">Caméra</string>
     <string name="setting_camera_clock">Heure de la caméra</string>
     <string name="setting_capture_default_mode">Mode Photo par défaut</string>
-    <string name="setting_common_problem">Q&amp;R</string>
+    <string name="setting_common_problem">Q et R</string>
     <string name="setting_develop">Option Développeur</string>
     <string name="setting_device">Appareils</string>
-    <string name="setting_emergency_file_backup">Sauvegarde d'urgence</string>
+    <string name="setting_emergency_file_backup">Sauvegarde d\'urgence</string>
     <string name="setting_failed">"Impossible d'appliquer les paramètres"</string>
     <string name="setting_feedback">Avis des utilisateurs</string>
     <string name="setting_firmware_log">"Mise à jour de l'historique"</string>
@@ -612,10 +612,10 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="setting_photo_size">Résolution</string>
     <string name="setting_photo_stamp">Heure tampon</string>
     <string name="setting_preview_status">Aperçu</string>
-    <string name="setting_restore_factory_settings">Rétablir les paramètres d'usine</string>
+    <string name="setting_restore_factory_settings">Rétablir les paramètres d\'usine</string>
     <string name="setting_sdcard">Carte SD</string>
     <string name="setting_serial_number">Numéro de série</string>
-    <string name="setting_start_wifi_while_booted">"Activer le WiFi quand l'appareil est allumé"</string>
+    <string name="setting_start_wifi_while_booted">"Activer le Wi-Fi quand l'appareil est allumé"</string>
     <string name="setting_sw_version">Version du firmware</string>
     <string name="setting_system_default_mode">Mode Caméra par défaut</string>
     <string name="setting_timeout">"Réglages de l'heure de fin"</string>
@@ -632,8 +632,8 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="setting_video_standard">Vidéo Standarde</string>
     <string name="setting_video_time_stamp">Heure tampon</string>
     <string name="setting_warp_enable">Ajuster la lentille de distortion</string>
-    <string name="setting_wifi">Réglages WiFi</string>
-    <string name="share_choice_tag">Sélectionnez jusqu'à trois tags</string>
+    <string name="setting_wifi">Réglages Wi-Fi</string>
+    <string name="share_choice_tag">Sélectionnez jusqu\'à trois tags</string>
     <string name="share_community_fail">Partage échoué</string>
     <string name="share_community_success">Partage réussi</string>
     <string name="share_content">Partagé avec YI Caméra Action</string>
@@ -675,7 +675,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="splash">Splash page</string>
     <string name="splendid_spots">Moment merveilleux</string>
     <string name="sport">Sport</string>
-    <string name="ssid_format_error">"Le nom WiFi doit contenir de 1 à 20 caractères et ne doit pas contenir d'espaces."</string>
+    <string name="ssid_format_error">"Le nom Wi-Fi doit contenir de 1 à 20 caractères et ne doit pas contenir d'espaces."</string>
     <string name="ssid_is_empty">Entrez SSID</string>
     <string name="standard_definition">SD</string>
     <string name="start_session_failed">Impossible de se connecter</string>
@@ -702,8 +702,8 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="tab_community_notifi">Notifications</string>
     <string name="tab_discover">PLACE</string>
     <string name="tab_profile">PROFIL</string>
-    <string name="text_password">Mot de passe WiFi</string>
-    <string name="text_ssid">Réseau WiFi</string>
+    <string name="text_password">Mot de passe Wi-Fi</string>
+    <string name="text_ssid">Réseau Wi-Fi</string>
     <string name="time">Heure</string>
     <string name="time_lapse_pic">TIMELAPSE</string>
     <string name="tip_agreement">"Lire et accepter les conditions d'utilisation et la Politique de confidentialité."</string>
@@ -712,7 +712,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="title_camera">CAMÉRA</string>
     <string name="title_camera_album">ALBUM CAMÉRA</string>
     <string name="title_delete">Supprimer</string>
-    <string name="title_firmware_log">Mise à jour de l'historique</string>
+    <string name="title_firmware_log">Mise à jour de l\'historique</string>
     <string name="title_local">TÉLÉPHONE</string>
     <string name="title_local_album">ALBUM LOCAL</string>
     <string name="title_sdcard">Carte SD</string>
@@ -727,7 +727,7 @@ situés à l'arrière de la caméra"</string>
     <string name="tutorial_battery_tip1">Ouvrez le couvercle de logement de la batterie.</string>
     <string name="tutorial_battery_tip2">"Insérez la batterie comme le montre l'image."</string>
     <string name="tutorial_battery_tip3">Allumer la caméra</string>
-    <string name="tutorial_blue_step1">Double appuyez sur le bouton WiFi. Vous entendrez un bip puis la LED passera au bleu.</string>
+    <string name="tutorial_blue_step1">Double appuyez sur le bouton Wi-Fi. Vous entendrez un bip puis la LED passera au bleu.</string>
     <string name="tutorial_blue_step2">"Appuyez sur le bouton de l'obturateur de la télécommande Bluetooth. Une fois que la lumière est bleue, l'appairage sera réussi"</string>
     <string name="tutorial_blue_tip1">Obturateur</string>
     <string name="tutorial_blue_tip2">Voyant</string>
@@ -735,12 +735,12 @@ situés à l'arrière de la caméra"</string>
     <string name="tutorial_know">Je le sais</string>
     <string name="tutorial_sn">Où se situe le numéro de série ？</string>
     <string name="tutorial_turn_on_camera">Allumer la caméra</string>
-    <string name="tutorial_turn_on_wifi">Activer le WiFi</string>
-    <string name="tutorial_z13_step3">Sélectionnez le WiFi</string>
+    <string name="tutorial_turn_on_wifi">Activer le Wi-Fi</string>
+    <string name="tutorial_z13_step3">Sélectionnez le Wi-Fi</string>
     <string name="tutorial_z16_step2">"Faites glisser votre doigt sur
-  l'écran LCD et sélectionnez l'icône WiFi"</string>
+  l'écran LCD et sélectionnez l'icône Wi-Fi"</string>
     <string name="tutorial_z16_step2_2">"Ou appuyuez sur l'icône de
-  réglage de la connexion Wifi"</string>
+  réglage de la connexion Wi-Fi"</string>
     <string name="tutorials">Voir le tutoriel</string>
     <string name="tvBatteryLevelValue">0</string>
     <string name="tvBatteryLevelValuePercentage">%</string>
@@ -821,15 +821,15 @@ situés à l'arrière de la caméra"</string>
     <string name="white_balance_native">Native</string>
     <string name="wifi_connect_failed">Déconnecté</string>
     <string name="wifi_connect_failed_desc_default">Caméra déconnectée</string>
-    <string name="wifi_connect_failed_directly">Redémarrez votre téléphone ou vérifiez votre connexion WiFi dans les réglages.</string>
+    <string name="wifi_connect_failed_directly">Redémarrez votre téléphone ou vérifiez votre connexion Wi-Fi dans les réglages.</string>
     <string name="wifi_connect_failed_solution">Vérifiez que votre téléphone soit connecté à la caméra. Sinon, redémarrez la caméra.</string>
-    <string name="wifi_invalidate_password">Mot de passe WiFi incorrecte</string>
+    <string name="wifi_invalidate_password">Mot de passe Wi-Fi incorrecte</string>
     <string name="wifi_scan_faild">Impossible de se connecter, réessayez.</string>
     <string name="wifi_scan_faild_solution">"Rechercher échouée, assurez-vous que vous avez donné des autorisations pour avoir accès au réseau et à l'emplacement."</string>
     <string name="wifi_scan_faild_solution_6.0">"
-    Ou connectez votre réseau WiFi au WiFi système."</string>
-    <string name="wifi_set_success">Informations WiFi mises à jour, reconnectez votre caméra.</string>
-    <string name="wifi_set_title">Réglages WiFi</string>
+    Ou connectez votre réseau Wi-Fi au Wi-Fi système."</string>
+    <string name="wifi_set_success">Informations Wi-Fi mises à jour, reconnectez votre caméra.</string>
+    <string name="wifi_set_title">Réglages Wi-Fi</string>
     <string name="wrap_enable">Ajustement de la lentille de distortion</string>
     <string name="xiaomi">Xiaomi</string>
     <string name="xiaomi_login">Se connecter avec le compte Mi</string>
@@ -858,10 +858,10 @@ situés à l'arrière de la caméra"</string>
     <string name="loop_record_duration">Durée</string>
     <string name="media_detail_video_photo_stats">Vidéo-Photo (%d objets)</string>
     <string name="open_camera2_message1">Appuyez sur le bouton Power pour allumer</string>
-    <string name="open_camera2_message2">"Activer le WiFi en appuyant sur l'interface utilisateur"</string>
+    <string name="open_camera2_message2">"Activer le Wi-Fi en appuyant sur l'interface utilisateur"</string>
     <string name="open_camera2_message3">Appuyez sur le bouton rouge pour démarrer le scan</string>
     <string name="open_camera2_wifi1">Allumer</string>
-    <string name="open_camera2_wifi2">Activer le WiFi</string>
+    <string name="open_camera2_wifi2">Activer le Wi-Fi</string>
     <string name="open_camera2_wifi3">Appuyez sur le bouton rouge</string>
     <string name="photo_setting_ev">Gain Exposition Photo</string>
     <string name="photo_setting_iso">Sensibilité de la luminosité de la photo</string>
@@ -872,7 +872,7 @@ situés à l'arrière de la caméra"</string>
     <string name="video_edit_exist">Cette vidéo existe déjà</string>
     <string name="video_edit_fail_preview">Impossible de charger la vidéo</string>
     <string name="video_edit_failure">Impossible de rogner la vidéo</string>
-    <string name="video_edit_loading">Chargement...</string>
+    <string name="video_edit_loading">Chargement…</string>
     <string name="video_edit_save_progress">Enregistrement de la vidéo…</string>
     <string name="video_edit_success">Vidéo rognée avec succès</string>
     <string name="video_edit_title">Rogner</string>
@@ -882,7 +882,7 @@ situés à l'arrière de la caméra"</string>
     <string name="video_setting_wb">Balance des blancs</string>
     <string name="video_splendid_menu_title">Changer</string>
     <string name="video_splendid_title">Vidéo splendide</string>
-    <string name="wifi_failure_message">Vous êtes sur la version M d'Android, connecter une caméra en WiFi peut engendrer dans anomalies, souhaitez-vous connecter la caméra wifi via les réglages système ?</string>
+    <string name="wifi_failure_message">Vous êtes sur la version M d\'Android, connecter une caméra en Wi-Fi peut engendrer dans anomalies, souhaitez-vous connecter la caméra Wi-Fi via les réglages système ?</string>
     <string name="abour_4k">Yi-Caméra 4K</string>
     <string name="cache_video">Chargement...</string>
     <string name="encoding">Encoder</string>
