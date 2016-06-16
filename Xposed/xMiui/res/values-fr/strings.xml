@@ -67,10 +67,10 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
 Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Enable support of Google Smart Lock</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
     <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
     <string name="pref_cat_keyguard_hide_notifications_details_summary">"Permet de masquer les détails des notifications sur l'écran de verrouillage"</string>
-    <string name="pref_cat_keyguard_hide_notifications_details_title">Masquer les détaisl des notifications</string>
+    <string name="pref_cat_keyguard_hide_notifications_details_title">Masquer les détails des notifications</string>
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
@@ -144,7 +144,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes</string>
     <string name="pref_cat_menu_key_enable_summary">Allows to override \"Menu\" key behavior</string>
-    <string name="pref_cat_menu_key_enable_title">Custom \"Menu\" key</string>
+    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
     <string name="pref_cat_screen_summary">"Personnalisation de la teinte de l'écran"</string>
     <string name="pref_cat_screen_title">"Teinte de l'écran"</string>
     <string name="pref_cat_sensor_key_enable_summary">Allows to override \"Sensor\" key behavior</string>
@@ -205,8 +205,8 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_summary">"Permet d'afficher les notifications dans la barre d'état sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_summary">"Permet d'afficher les notifications dans la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Allows to set notification ticker text size</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification ticker text size</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_title">Popup dans la barre d\'état</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_summary">"Permet d'afficher la vitesse de connexion montante et descendante"</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_title">Vitesse de connexion montante et descendante</string>
