@@ -46,8 +46,6 @@ Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed
 Vous devez l'activer dans l'application Xposed Installer et redémarrer le téléphone.
 Voir les détails dans la Section Aide."</string>
     <string name="nothing_to_kill">"Il n'y a rien à tuer"</string>
-    <string name="pref_cat_back_key_enable_summary">Allows to override \"Back\" key behavior</string>
-    <string name="pref_cat_back_key_enable_title">Custom \"Back\" key</string>
     <string name="pref_cat_contacts_audio_route_by_proximity_sensor_summary">"Permet de changer le circuit audio de l'enceinte pour l'oreille vers le haut-parleur grâce au capteur de proximité"</string>
     <string name="pref_cat_contacts_audio_route_by_proximity_sensor_title">Circuit audio via capteur de proximité</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_summary">Délai minimum, en millisecondes, entre un appel et sa réponse via le capteur de proximité pour éviter le déclenchement de faux positifs.</string>
@@ -60,15 +58,11 @@ Voir les détails dans la Section Aide."</string>
     <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie</string>
     <string name="pref_cat_contacts_summary">Personnalisation du Téléphone</string>
     <string name="pref_cat_contacts_title">Téléphone</string>
-    <string name="pref_cat_home_key_enable_summary">Allows to override \"Home\" key behavior</string>
-    <string name="pref_cat_home_key_enable_title">Custom \"Home\" key</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Définit pour combien de temps (en secondes) la touche doit être pressée pour déclencher le déverrouillage du téléphone</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Délai de pression sur la touche</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
 Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
     <string name="pref_cat_keyguard_hide_notifications_details_summary">"Permet de masquer les détails des notifications sur l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_hide_notifications_details_title">Masquer les détails des notifications</string>
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
@@ -76,7 +70,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
     <string name="pref_cat_keyguard_show_widget_title">"Widget sur l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Permet de retirer les notifications sur l\écran de verrouillage en les faisant glisser</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Permet de retirer les notifications sur l\'écran de verrouillage en les faisant glisser</string>
     <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_title">Retirer les notifications par glissement</string>
     <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN et y ajouter l'heure actuelle pour déverrouiller votre téléphone."</string>
     <string name="pref_cat_keyguard_time_pin_title">"Saisie du code PIN + l'heure actuelle"</string>
@@ -106,7 +100,6 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keys_longpress_action_title">"Action de l'appui long"</string>
     <string name="pref_cat_keys_menu_title">Bouton \"Menu\"</string>
     <string name="pref_cat_keys_other_title">Autre</string>
-    <string name="pref_cat_keys_sensor_title">\"Sensor\" key</string>
     <string name="pref_cat_keys_singletap_action_summary">"Sélectionnez l'action du simple appui"</string>
     <string name="pref_cat_keys_singletap_action_title">"Action du simple appui"</string>
     <string name="pref_cat_keys_summary">Configuration du comportement des boutons tactiles</string>
@@ -143,16 +136,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_workspace_rows_title">Nombre de Lignes</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes</string>
-    <string name="pref_cat_menu_key_enable_summary">Allows to override \"Menu\" key behavior</string>
-    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
     <string name="pref_cat_screen_summary">"Personnalisation de la teinte de l'écran"</string>
     <string name="pref_cat_screen_title">"Teinte de l'écran"</string>
-    <string name="pref_cat_sensor_key_enable_summary">Allows to override \"Sensor\" key behavior</string>
-    <string name="pref_cat_sensor_key_enable_title">Custom \"Sensor\" key</string>
     <string name="pref_cat_settings_show_naviagation_bar_summary">"Permet d'afficher les boutons tactiles à l'écran"</string>
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
-    <string name="pref_cat_settings_swap_volume_keys_summary">Allows to swap volume keys when the screen is rotated</string>
-    <string name="pref_cat_settings_swap_volume_keys_title">Swap volume keys</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_summary">"Lorsqu'elle est cochée, cela permet d'afficher ou masquer l'horloge dans la barre d'état lorsque le widget horloge est visible par défaut sur le Bureau"</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_title">"Forcer l'affichage de l'horloge"</string>
     <string name="pref_cat_systemui_autoexpand_notifications_summary">Permet d\'étendre les notifications automatiquement dans la barre de notification</string>
@@ -172,8 +159,6 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_recents_animation_angle_title">Angle de rotation</string>
     <string name="pref_cat_systemui_recents_animation_enable_summary">"Activez l'animation des applications récentes""</string>
     <string name="pref_cat_systemui_recents_animation_enable_title">Animation des applications récentes</string>
-    <string name="pref_cat_systemui_shade_statusbar_summary">Allows to shade status bar oposite icons color</string>
-    <string name="pref_cat_systemui_shade_statusbar_title">Shade status bar</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_summary">Permet de sélectionner la taille du pourcentage de la batterie</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_title">Taille du pourcentage de la batterie</string>
     <string name="pref_cat_systemui_statusbar_battery_pos_summary">"Permet de sélectionner la position de l'icône de la batterie dans la barre d'état"</string>
@@ -205,8 +190,6 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_summary">"Permet d'afficher les notifications dans la barre d'état sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_summary">"Permet d'afficher les notifications dans la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_title">Popup dans la barre d\'état</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_summary">"Permet d'afficher la vitesse de connexion montante et descendante"</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_title">Vitesse de connexion montante et descendante</string>
@@ -260,5 +243,27 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
 Pour remonter les erreurs de traduction ou optimisation - merci d'envoyer un email à Angyann ou Fayz !"</string>
     <string name="version">Version</string>
     <string name="warnin">Attention !</string>
-    <string name="app_name">xMIUI</string>
+    <string name="pref_cat_keys_sensor_title">\"Sensor\" key</string>
+    <string name="pref_cat_menu_key_enable_summary">Allows to override \"Menu\" key behavior</string>
+    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
+    <string name="pref_cat_back_key_enable_title">Custom \"Back\"</string>
+    <string name="pref_cat_back_key_enable_summary">Allows to override \"Back\" key behavior</string>
+    <string name="pref_cat_home_key_enable_title">Custom \"Home\" key</string>
+    <string name="pref_cat_home_key_enable_summary">Allows to override \"Home\" key behavior</string>
+    <string name="pref_cat_sensor_key_enable_title">Custom \"Sensor\" key</string>
+    <string name="pref_cat_sensor_key_enable_summary">Allows to override \"Sensor\" key behavior</string>
+    <string name="pref_cat_settings_swap_volume_keys_title">Swap volume keys</string>
+    <string name="pref_cat_settings_swap_volume_keys_summary">Allows to swap volume keys when the screen is rotated</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
+    <string name="pref_cat_systemui_shade_statusbar_title">Shade status bar</string>
+    <string name="pref_cat_systemui_shade_statusbar_summary">Allows to shade status bar oposite icons color</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
+    <string name="pref_cat_systemui_dark_notifications_icons_title">Dark notifications icons</string>
+    <string name="pref_cat_systemui_dark_notifications_icons_summary">Use dark notifications icons in expanded status bar notifications list</string>
+    <string name="pref_cat_systemui_expand_notifications_by_side_title">Smart notification panel expand mode</string>
+    <string name="pref_cat_systemui_expand_notifications_by_side_summary">• when swipe on left half of screen then toggles panel will expand\n• when swipe on right half of screen then notifications panel will expand</string>
+    <string name="pref_cat_keyguard_shuffle_pin_title">Shuffle PIN keypad</string>
+    <string name="pref_cat_keyguard_shuffle_pin_summary">Allows to shuffle PIN keypad buttons every time after phone locking</string>
 </resources>
