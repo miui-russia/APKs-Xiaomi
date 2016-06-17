@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="statusbar_icons_pos_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="statusbar_icons_pos_ent">
+        <item>Gauche</item>
+        <item>Centré</item>
+        <item>Droite</item>
+    </string-array>
+    <string-array name="statusbar_signal_cluster_show_ent">
+        <item>SIM-1 et SIM-2</item>
+        <item>SIM-1</item>
+        <item>SIM-2</item>
+    </string-array>
+    <string-array name="keyguard_widget_gravity_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="keyguard_widget_gravity_ent">
         <item>Gauche</item>
         <item>Centré</item>
         <item>Droite</item>
+    </string-array>
+    <string-array name="volume_panels_val">
+        <item>Sonnerie</item>
+        <item>Notification</item>
+        <item>Média</item>
+        <item>Alarme</item>
+        <item>Appel</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="volume_panels_ent">
+        <item>Sonnerie</item>
+        <item>Notification</item>
+        <item>Média</item>
+        <item>Alarme</item>
+        <item>Appel</item>
+        <item>Bluetooth</item>
     </string-array>
     <string-array name="keys_actions_ent">
         <item>Aucun</item>
@@ -20,29 +56,6 @@
         <item>Recherche</item>
         <item>Capture</item>
     </string-array>
-    <string-array name="statusbar_icons_pos_ent">
-        <item>Gauche</item>
-        <item>Centré</item>
-        <item>Droite</item>
-    </string-array>
-    <string-array name="statusbar_signal_cluster_show_ent">
-        <item>SIM-1 et SIM-2</item>
-        <item>SIM-1</item>
-        <item>SIM-2</item>
-    </string-array>
-    <string-array name="volume_panels_ent">
-        <item>Sonnerie</item>
-        <item>Notification</item>
-        <item>Média</item>
-        <item>Alarme</item>
-        <item>Appel</item>
-        <item>Bluetooth</item>
-    </string-array>
-    <string-array name="keyguard_widget_gravity_val">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="keys_actions_val">
         <item>0</item>
         <item>1</item>
@@ -57,18 +70,5 @@
         <item>10</item>
         <item>11</item>
         <item>12</item>
-    </string-array>
-    <string-array name="statusbar_icons_pos_val">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="volume_panels_val">
-        <item>Sonnerie</item>
-        <item>Notification</item>
-        <item>Média</item>
-        <item>Alarme</item>
-        <item>Appel</item>
-        <item>Bluetooth</item>
     </string-array>
 </resources>
