@@ -54,7 +54,7 @@
     <string name="caliwarning">Étalonnage de la boussole, ne pas quitter</string>
     <string name="caliwhell">Alignement des roues</string>
     <string name="camera">Caméra</string>
-    <string name="camera_Lens_AC">Correction de la distorsion de l'objectif</string>
+    <string name="camera_Lens_AC">Correction de la distorsion de l\'objectif</string>
     <string name="camera_connect_state_fail">相机连接状态错误</string>
     <string name="camera_reset_factory_mode">Restaurer les paramètres d\'usine</string>
     <string name="camera_sd_format">Formater la carte SD</string>
@@ -77,8 +77,8 @@
     <string name="close_new_hand_model">Fermer le mode novice, assurez-vous que vous maîtrisez suffisamment le drone</string>
     <string name="close_plane_switch_rocket">Coupez l\'alimentation électrique du drone, puis changer le mode de télécommande</string>
     <string name="close_plane_to_remote_cali">请先关闭飞行器电源，再进行遥控器校准</string>
-    <string name="closedrone">Merci de redémarrer l'étalonnage de la boussole du drone</string>
-    <string name="closefly">Éteignez l'avion puis la télécommande</string>
+    <string name="closedrone">Merci de redémarrer l\'étalonnage de la boussole du drone</string>
+    <string name="closefly">Éteignez l\'avion puis la télécommande</string>
     <string name="cloud_platform_setting">云台设置</string>
     <string name="cloud_platform_upgrade">云台升级</string>
     <string name="comalding">完成自动降落</string>
@@ -624,7 +624,7 @@
     <string name="vetelcalicom">La calibration vertical est terminé!</string>
     <string name="viewpager_indicator">%1$d/%2$d</string>
     <string name="warm_prompt">温馨提示：升级过程中请勿断开遥控器连接，请勿退出升级页面</string>
-    <string name="waypoint">Points d'intérêts</string>
+    <string name="waypoint">Points d\'intérêts</string>
     <string name="wechat">Wechat</string>
     <string name="wechat_friends">Vos amis Wechat</string>
     <string name="welcomuseing">Bienvenue</string>
@@ -632,7 +632,7 @@
     <string name="whelldescre2">Jusqu\'à ce que l\'emplacement de la roue actuel soit conforme</string>
     <string name="woman">Femme</string>
     <string name="work_mode">Mode</string>
-    <string name="wrongLanding">Erreur d'atterrissage</string>
+    <string name="wrongLanding">Erreur d\'atterrissage</string>
     <string name="wrongbackhome">Erreur de retour</string>
     <string name="wrongtakeoff">Erreur de décollage</string>
     <string name="x2_version">Version：</string>
