@@ -593,7 +593,7 @@ le Mi-Fit</string>
     <string name="light_color">Couleur des LEDs</string>
     <string name="light_color_title">"Couleur de l'indicateur de progression"</string>
     <string name="lighter_than_goal">"Plus léger que l'objectif %1$s"</string>
-    <string name="loaction_msg">Activer les services de localisation pour se connecter aux services Mi-band plus rapidement</string>
+    <string name="loaction_msg">Activer les services de localisation pour se connecter aux services Mi-Fit plus rapidement</string>
     <string name="loaction_tips">Activer les services de localisation</string>
     <string name="load_fail">Impossible de charger les données</string>
     <string name="load_failed">Connectez-vous à internet, puis réessayez</string>
@@ -629,7 +629,7 @@ le Mi-Fit</string>
     <string name="long_sit_start_gt_stop">"L'heure de début ne peut pas être postérieure à l'heure de fin"</string>
     <string name="long_sit_stop_lt_start">"L'heure de fin ne peut pas être antérieure à l'heure de début"</string>
     <string name="long_sit_title">Intervalle</string>
-    <string name="long_sit_unbind">Appairer le Mi-band 2 pour recevoir des alertes d'inactivité</string>
+    <string name="long_sit_unbind">Appairer le Mi-Fit 2 pour recevoir des alertes d\'inactivité</string>
     <string name="look_for">"Jeter un coup d'oeil"</string>
     <string name="love_fail">"Impossible d'envoyer un coup de pouce"</string>
     <string name="love_success">Poussé</string>
@@ -799,7 +799,7 @@ la plage de mesure (%s)"</string>
     <string name="permission_phone">"Access device's status"</string>
     <string name="permission_sdcard">Lire et écrire des fichiers sur la carte SD</string>
     <string name="permission_set">Paramètres</string>
-    <string name="permission_sub_title">Autorisez d'utiliser toutes les fonctionnalités de Mi-Fit</string>
+    <string name="permission_sub_title">Autorisez d\'utiliser toutes les fonctionnalités de Mi-Fit</string>
     <string name="permission_tips">"Essayez d'accepter les autorisations dans les paramètres du téléphone"</string>
     <string name="permission_title">Mi-Fit nécessite les autorisations suivantes</string>
     <string name="person_info_finish">Terminé</string>
@@ -1087,8 +1087,8 @@ Gardez le Bluetooth activé pendant la course."</string>
     <string name="search_result_is_empty">Impossible de trouver cette personne</string>
     <string name="select_from_camera">Photo</string>
     <string name="select_from_local">Choisir dans la Galerie</string>
-    <string name="select_mili_tips_1">Sélectionner le Mi-band à appairer</string>
-    <string name="select_mili_tips_2">"Si vous ne trouvez pas votre Mi-band, éloignez vous des autres Mi-band et réessayer"</string>
+    <string name="select_mili_tips_1">Sélectionner le Mi-Fit à appairer</string>
+    <string name="select_mili_tips_2">"Si vous ne trouvez pas votre Mi-Fit , éloignez vous des autres Mi-Fit et réessayer"</string>
     <string name="selected_alert_apps">Les applications sélectionnées avec les notifications</string>
     <string name="send_fail">"Impossible d'envoyer la demande d'ami"</string>
     <string name="send_success">"Demande d'ami envoyée"</string>
@@ -1226,7 +1226,7 @@ Vous pouvez changer l'unité de mesure manuellement dans le compartiment des pil
     <string name="sleep_chart_no_data">Aucune donnée de sommeil</string>
     <string name="sleep_deep">"Sommeil profond "</string>
     <string name="sleep_deep_time">"Sommeil profond "</string>
-    <string name="sleep_edit">Modifier l'heure du coucher</string>
+    <string name="sleep_edit">Modifier l\'heure du coucher</string>
     <string name="sleep_edit_title">Modifier le sommeil</string>
     <string name="sleep_go_sleep_time">Couché(e) à</string>
     <string name="sleep_light">Sommeil léger</string>
@@ -1431,7 +1431,7 @@ Paramètres > Écran de verrouillage > Déverrouiller avec un app. Bluetooth"</s
     <string name="unlock_screen_set_success">Vous pouvez déverrouiller cet appareil avec votre Mi-Fit.</string>
     <string name="update_now">Mettre à jour</string>
     <string name="use_phone_tips1">Comptez les pas avec votre téléphone</string>
-    <string name="use_phone_tips2">"Utilisez les données de remise en forme de votre téléphone lorsque aucun Mi-band n'est connecté"</string>
+    <string name="use_phone_tips2">"Utilisez les données de remise en forme de votre téléphone lorsque aucun Mi-Fit n'est connecté"</string>
     <string name="used">Utilisé</string>
     <string name="user_agreement">"Conditions d'utilisation et Politique de confidentialité"</string>
     <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter les
