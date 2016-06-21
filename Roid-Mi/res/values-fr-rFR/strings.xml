@@ -29,8 +29,8 @@ Appuyez sur OK pour Continuer !"</string>
     <string name="recommend_1">(Recommandé)</string>
     <string name="recommend_2">(Recommandé)</string>
     <string name="space_insufficient">Espace disque insuffisant !</string>
-    <string name="unit_hour">%1$s heures</string>
-    <string name="unit_minute">%1$s minutes</string>
+    <string name="unit_hour1">%1$s heures</string>
+    <string name="unit_minute1">%1$s minutes</string>
     <string name="welcome">Bienvenue</string>
     <string name="dian">·</string>
     <string name="about">À propos...</string>
@@ -406,4 +406,5 @@ Bien que le produit, dans le processus de conduite vous apportera beaucoup de co
     <string name="voltage_size_tip">Ce résultat de détection est donné à titre indicatif, des résultats de test technique effectué par un professionnel sont recommandées.</string>
     <string name="web_load_fail">Impossible de charger la page</string>
     <string name="please_opennet">Échec de la requête, merci de vérifier votre connexion Internet</string>
+    <string name="unit_km">km</string>
 </resources>
