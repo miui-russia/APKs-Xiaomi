@@ -64,6 +64,9 @@
     <string name="about">À propos</string>
     <string name="about_subtitle">En savoir plus</string>
     <string name="account_must_email">(Utiliser un e-mail pour le compte)</string>
+    <string name="add_preset_failure">Failed to bookmark position</string>
+    <string name="add_preset_failure_rotate">Failed to bookmark, camera is currently in motion</string>
+    <string name="add_preset_teach">Tap here to bookmark the current camera viewing position</string>
     <string name="agreement_agree">ACCEPTER</string>
     <string name="agreement_cancel">ANNULER</string>
     <string name="agreement_content">BY CLICKING “AGREE”, YOU ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND ARE BOUND BY THE APP <u><a href="agreementInternational://123">TERMS OF USE</a></u> AND <u><a href="policyInternational://123">PRIVACY POLICY</a></u> . IF YOU DO NOT AGREE, CLICK “CANCEL” AND DO NOT LOG INTO OR USE THE APP.</string>
@@ -112,6 +115,7 @@
     <string name="alert_gesture">Gesture Recognition</string>
     <string name="alert_human">Human Detection</string>
     <string name="alert_move">Motion Detection</string>
+    <string name="alert_move_trace">Motion tracking alerts</string>
     <string name="alert_no_camera">"Il n'y a actuellement aucune liaison de caméra, merci d'aller au menu d'appairage."</string>
     <string name="alert_no_choose">Tout décocher</string>
     <string name="alert_no_message">"Aujourd'hui, vous êtes tranquille, vous n'avez aucun message."</string>
@@ -139,7 +143,7 @@
     <string name="barcode_bind_fail">"Échec du scan,
 Réinitialiser la caméra"</string>
     <string name="bind_camera">Caméra connectée</string>
-    <string name="bind_result_get_succeed">获取成功</string>
+    <string name="bind_result_get_succeed">acquire success</string>
     <string name="bind_success">Connexion effectuée</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="button_back">Retour</string>
@@ -192,7 +196,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_buffing">Mise en mémoire tampon...</string>
     <string name="camera_config">Paramétrage de la caméra</string>
     <string name="camera_connect_timeout">Connexion à la caméra échouée délai dépassé，veuillez réinitialiser la caméra</string>
-    <string name="camera_cover_tips">您的摄像机前有物体遮挡或较亮光源，请调整摄像机位置或关闭光源</string>
+    <string name="camera_cover_tips">An object or a light source is directly in front of the camera. For optimal experience, please reposition the camera or turn off the light source</string>
     <string name="camera_firmware_version">Camera firmware version</string>
     <string name="camera_id">"ID: "</string>
     <string name="camera_infrared_setting">Night Vision Mode Setting</string>
@@ -202,6 +206,7 @@ Réinitialiser la caméra"</string>
     <string name="camera_is_offline">Caméra éteinte</string>
     <string name="camera_is_recording_prompt">Recording...</string>
     <string name="camera_motion_detect_des">"Enregistrer uniquement lorsqu'il y de l'activité dans le champs de la caméra，afin d'économiser de l'espace de stockage"</string>
+    <string name="camera_move_border_tips">This is as far as I can go!</string>
     <string name="camera_name_cant_be_null">Le nom de la caméra ne peut pas être vide!</string>
     <string name="camera_network_monitor_prompt1">Still failing to connect after refresh or reconnect?</string>
     <string name="camera_network_monitor_prompt2">Checking network conditions</string>
@@ -241,21 +246,22 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_beep_mode_fail">Réglages rapides vocaux échoué, réessayer à nouveau</string>
     <string name="camera_setting_beep_mode_title">Mise à jour firmware</string>
     <string name="camera_setting_camera_name">Nom de la caméra</string>
-    <string name="camera_setting_camera_network_monitor">Network monitoring</string>
-    <string name="camera_setting_camera_network_monitoring">Monitoring</string>
+    <string name="camera_setting_camera_network_monitor">Connectivity</string>
+    <string name="camera_setting_camera_network_monitoring">Testing</string>
     <string name="camera_setting_camera_network_monitoring_detail_report">Detail report:</string>
     <string name="camera_setting_camera_network_monitoring_detail_report_prompt">if failed to connect to device, please join qq group(237683839) and post your problem(s) and we can fix it together.</string>
     <string name="camera_setting_camera_network_monitoring_excellet">Excellent</string>
-    <string name="camera_setting_camera_network_monitoring_fail">检测失败</string>
+    <string name="camera_setting_camera_network_monitoring_fail">Failed</string>
     <string name="camera_setting_camera_network_monitoring_good">Good</string>
-    <string name="camera_setting_camera_network_monitoring_middle">Middle</string>
+    <string name="camera_setting_camera_network_monitoring_middle">Fair</string>
     <string name="camera_setting_camera_network_monitoring_poor">Poor</string>
     <string name="camera_setting_camera_network_monitoring_received_packet">Received:%1$d</string>
     <string name="camera_setting_camera_network_monitoring_sent_packet">Sent:%1$d</string>
     <string name="camera_setting_camera_network_monitoring_state_prompt">Checking network status</string>
     <string name="camera_setting_camera_network_monitoring_state_prompt_current">Network status</string>
-    <string name="camera_setting_camera_network_monitoring_title">Network monitoring report</string>
-    <string name="camera_setting_day_night_subtitle">Interrupteur manuel on/off de la lumière infrarouge manuellement</string>
+    <string name="camera_setting_camera_network_monitoring_title">Connectivity</string>
+    <string name="camera_setting_day_night_subtitle">"This setting will only take effect after 
+when night vision is active"</string>
     <string name="camera_setting_day_night_title">Paramètres vision nocturne</string>
     <string name="camera_setting_debug_title">DEBUG</string>
     <string name="camera_setting_decode_subtitle">Utilisez la puce matérielle pour faire le décodage vidéo et améliorer les performances</string>
@@ -263,25 +269,25 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_device_timezone">Fuseau horaire</string>
     <string name="camera_setting_firmware_version">Version du firmware</string>
     <string name="camera_setting_foundation">Basic</string>
-    <string name="camera_setting_get_devices_info_error">获取状态信息失败</string>
-    <string name="camera_setting_infrared_auto_switch_des">In poor lighting conditions the camera will automatically switch to black and white night vision mode</string>
+    <string name="camera_setting_get_devices_info_error">Failed to obtain status information</string>
+    <string name="camera_setting_infrared_auto_switch_des">Camera will automatically switch between black and white night vision and full color mode according to lighting condition</string>
     <string name="camera_setting_infrared_auto_switch_title">Auto</string>
-    <string name="camera_setting_infrared_close_always_des">Regardless of the light environment, night vision will always be turned off. This is more suitable for homes with bright lighting</string>
-    <string name="camera_setting_infrared_close_always_title">Always off</string>
+    <string name="camera_setting_infrared_close_always_des">Full color mode stays on at all time. This is suitable for bright lighting condition</string>
+    <string name="camera_setting_infrared_close_always_title">Always OFF</string>
     <string name="camera_setting_infrared_des_auto">Auto</string>
     <string name="camera_setting_infrared_des_close">Off</string>
     <string name="camera_setting_infrared_des_open">On</string>
     <string name="camera_setting_infrared_open_always_des">Black and white night vision mode stays on at all time. This is suitable for darker lighting condition</string>
-    <string name="camera_setting_infrared_open_always_title">Always on</string>
+    <string name="camera_setting_infrared_open_always_title">Always ON</string>
     <string name="camera_setting_infrared_title">Infrared Night Vision</string>
     <string name="camera_setting_ldc_mode_subtitle">"La lentille correctrice peut provoquer des distorsions d'inclinaison des photos/vidéos"</string>
     <string name="camera_setting_ldc_mode_title">Correction de la distorsion</string>
     <string name="camera_setting_man_smart_interaction">Gesture Command Interaction</string>
     <string name="camera_setting_mic_volume">Camera Microphone</string>
-    <string name="camera_setting_mic_volume_des">The camera will not be able to collect the voice when shut off</string>
+    <string name="camera_setting_mic_volume_des">Note:Baby crying detection will be rendered ineffective if microphone is switched off.</string>
     <string name="camera_setting_motion_detect">Enregistrement lors de détection de mouvement</string>
     <string name="camera_setting_network_information">Informations réseau</string>
-    <string name="camera_setting_network_switch_wifi">切换摄像机所连接WiFi</string>
+    <string name="camera_setting_network_switch_wifi">Switch WiFi</string>
     <string name="camera_setting_network_title">Network</string>
     <string name="camera_setting_person_alarm_subtitle">"Alerter uniquement lors de la détection de l'homme sur l'écran"</string>
     <string name="camera_setting_person_alarm_title">Activer la détection humaine</string>
@@ -308,59 +314,59 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_stats_light_switch">Status Light</string>
     <string name="camera_setting_storage_set">Paramètres de la carte mémoire</string>
     <string name="camera_setting_storage_situation">Stockage</string>
-    <string name="camera_setting_storage_video_backup">备份到小米路由器</string>
-    <string name="camera_setting_storage_video_backup_cloud_conflict_prompt">已开启云存储备份，不支持同时备份到小米路由器</string>
-    <string name="camera_setting_storage_video_backup_day">一天&lt;font color=#a3a3a3>&lt;small>(最大占用约19G存储空间)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_day_description">24小时滚动循环备份</string>
-    <string name="camera_setting_storage_video_backup_disk_mobile">可移动磁盘&lt;font color=#a3a3a3>&lt;small>(%1$s可用/%2$s)&lt;/small>&lt;/font</string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_clean_dialog">"可移动磁盘存储空间不足1G，
-已暂停备份，请清理存储空间"</string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_clean_prompt">可移动磁盘存储空间不足，请清理后使用</string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_not_detected">&lt;font color=#a3a3a3>可移动磁盘&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_not_support">&lt;font color=#a3a3a3>可移动磁盘&lt;small>(暂不支持)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_subtitle_out_of_space">&lt;font color=#a3a3a3>可移动磁盘&lt;small>(空间不足)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_mobile_subtitle_out_of_space_5G">&lt;font color=#a3a3a3>可移动磁盘&lt;small>(空间不足5G)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_router">路由盘&lt;font color=#a3a3a3>&lt;small>(%1$s可用/%2$s)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_router_and_mobile_clean_prompt">路由盘和可移动磁盘存储空间不足，请清理后使用</string>
-    <string name="camera_setting_storage_video_backup_disk_router_clean_dialog">"路由盘存储空间不足1G，
-已暂停备份，请清理存储空间"</string>
-    <string name="camera_setting_storage_video_backup_disk_router_clean_prompt">路由盘空间不足，请清理后使用</string>
-    <string name="camera_setting_storage_video_backup_disk_router_not_detected">&lt;font color=#a3a3a3>路由盘&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_router_not_support">&lt;font color=#a3a3a3>路由盘&lt;small>(暂不支持)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_router_subtitle_out_of_space">&lt;font color=#a3a3a3>路由盘&lt;small>(空间不足)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_disk_router_subtitle_out_of_space_5G">&lt;font color=#a3a3a3>路由盘&lt;small>(空间不足5G)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_duration">视频备份时长设置</string>
-    <string name="camera_setting_storage_video_backup_month">一个月&lt;font color=#a3a3a3>&lt;small>(最大占用约570G存储空间)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_month_description">30×24小时滚动循环备份</string>
-    <string name="camera_setting_storage_video_backup_out_of_space">路由器存储空间不足时将自动删除最早一天的视频后再备份前一天的视频</string>
-    <string name="camera_setting_storage_video_backup_path">备份路径</string>
-    <string name="camera_setting_storage_video_backup_resolution">视频备份清晰度</string>
-    <string name="camera_setting_storage_video_backup_resolution_hd">高清&lt;font color=#a3a3a3>&lt;small>(1小时视频约800M)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_resolution_sd">标清&lt;font color=#a3a3a3>&lt;small>(1小时视频约90M)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_router_access_setting">请尝试升级小米路由器固件或在小米路由器管理中对小蚁智能摄像机开启全盘访问</string>
-    <string name="camera_setting_storage_video_backup_router_can_not_access">无法访问小米路由器硬盘</string>
-    <string name="camera_setting_storage_video_backup_router_guide_1">打开小米路由器手机端App，点击下方“存储”分类</string>
-    <string name="camera_setting_storage_video_backup_router_guide_2">选择“摄像机监控视频”文件夹</string>
-    <string name="camera_setting_storage_video_backup_router_guide_3">找到小蚁智能摄像机对应的文件夹“xiaoyicamera”，即可查看备份视频</string>
-    <string name="camera_setting_storage_video_backup_router_net_tip">备份到路由器会受到当前网络状况的影响</string>
-    <string name="camera_setting_storage_video_backup_router_out_of_space">"小米路由器存储空间不足1G，
-请清理路由器存储空间"</string>
-    <string name="camera_setting_storage_video_backup_router_sdcard_unused">未发现SD卡或SD卡当前无法正常使用</string>
-    <string name="camera_setting_storage_video_backup_router_space">当前所选磁盘剩余空间：&lt;font color=#0097ff>&lt;small>%1$s&lt;/small>&lt;/font>，该摄像机监控视频已占用：&lt;font color=#0097ff>&lt;small>%2$s&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_router_type_support">目前仅支持内置硬盘的小米路由器</string>
-    <string name="camera_setting_storage_video_backup_router_undetected">未发现可支持的小米路由器或获取路由器信息失败</string>
-    <string name="camera_setting_storage_video_backup_subtitle">开启后,存储卡视频将定时备份到小米路由器</string>
-    <string name="camera_setting_storage_video_backup_suggest">如有多台摄像机同时备份到同一台小米路由器,建议修改摄像机名称,便于查看视频时进行区分</string>
-    <string name="camera_setting_storage_video_backup_switch_duration_day">备份时长切换后，如已备份有一天前的视频将自动删除</string>
-    <string name="camera_setting_storage_video_backup_switch_duration_mouth">备份时长切换后，如已备份有一个月前的视频将自动删除</string>
-    <string name="camera_setting_storage_video_backup_switch_duration_week">备份时长切换后，如已备份有一个周前的视频将自动删除</string>
-    <string name="camera_setting_storage_video_backup_time_unlimited">无限制备份</string>
-    <string name="camera_setting_storage_video_backup_time_unlimited_description">将占有路由盘所有空闲空间滚动循环备份</string>
-    <string name="camera_setting_storage_video_backup_tips">每天08:00和18:00自动将摄像机SD卡存储的视频备份到小米路由器</string>
-    <string name="camera_setting_storage_video_backup_title">视频备份设置</string>
-    <string name="camera_setting_storage_video_backup_tutorial"><u>如何查看备份视频？</u></string>
-    <string name="camera_setting_storage_video_backup_week">一周&lt;font color=#a3a3a3>&lt;small>(最大占用约133G存储空间)&lt;/small>&lt;/font></string>
-    <string name="camera_setting_storage_video_backup_week_description">7×24小时滚动循环备份</string>
+    <string name="camera_setting_storage_video_backup">Back up to Mi WiFi hard disk</string>
+    <string name="camera_setting_storage_video_backup_cloud_conflict_prompt">You can not back up to router hard disk because you have already turned on YI Cloud Service</string>
+    <string name="camera_setting_storage_video_backup_day">Daily &lt;font color=#a3a3a3>&lt;small>(Max 19GB disk space required)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_day_description">24 hours rolling overwrite</string>
+    <string name="camera_setting_storage_video_backup_disk_mobile">External hard disk &lt;font color=#a3a3a3>&lt;small>(%1$s of total %2$s free)&lt;/small>&lt;/font</string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_clean_dialog">"External hard disk has less than 1GB free. 
+Backup operation has been suspended. Please free up some space."</string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_clean_prompt">Insufficient disk space on router and external hard disk, please free up space before continuing</string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_not_detected">&lt;font color=#a3a3a3>External hard disk&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_not_support">&lt;font color=#a3a3a3>External hard disk &lt;small>(currently not supported)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_subtitle_out_of_space">&lt;font color=#a3a3a3>External hard disk &lt;small>(Insufficient disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_mobile_subtitle_out_of_space_5G">&lt;font color=#a3a3a3>External hard disk &lt;small>(less than 5GB disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_router">Internal hard disk &lt;font color=#a3a3a3>&lt;small>(%1$s of total %2$s free)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_router_and_mobile_clean_prompt">Insufficient disk space on router and external hard disk, please free up space before continuing</string>
+    <string name="camera_setting_storage_video_backup_disk_router_clean_dialog">"Router hard disk has less than 1GB free. 
+Backup operation has been suspended. Please free up some space."</string>
+    <string name="camera_setting_storage_video_backup_disk_router_clean_prompt">Insufficient disk space on router hard disk. Please free up space before continuing</string>
+    <string name="camera_setting_storage_video_backup_disk_router_not_detected">&lt;font color=#a3a3a3>Internal hard disk&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_router_not_support">&lt;font color=#a3a3a3>Internal hard disk &lt;small>(currently not supported)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_router_subtitle_out_of_space">&lt;font color=#a3a3a3>Internal hard disk &lt;small>(Insufficient disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_disk_router_subtitle_out_of_space_5G">&lt;font color=#a3a3a3>Internal hard disk &lt;small>(less than 5GB disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_duration">Duration settings:</string>
+    <string name="camera_setting_storage_video_backup_month">Monthly &lt;font color=#a3a3a3>&lt;small>(Max 570GB disk space required)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_month_description">30days x 24 hrs rolling overwrite</string>
+    <string name="camera_setting_storage_video_backup_out_of_space">When router disk space is insufficent, the earliest recorded videos will be deleted before backup</string>
+    <string name="camera_setting_storage_video_backup_path">STORAGE SELECTION:</string>
+    <string name="camera_setting_storage_video_backup_resolution">Video resolution</string>
+    <string name="camera_setting_storage_video_backup_resolution_hd">HD video &lt;font color=#a3a3a3>&lt;small>(1 hour takes up about 800MB disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_resolution_sd">SD video &lt;font color=#a3a3a3>&lt;small>(1 hour takes up about 90MB disk space)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_router_access_setting">Please upgrade MI WiFi Router to the latest firmware version or grant full access</string>
+    <string name="camera_setting_storage_video_backup_router_can_not_access">Unable to access MI WiFi hard disk</string>
+    <string name="camera_setting_storage_video_backup_router_guide_1">Open Mi Wifi mobile app. Tap the \"Storage\" tab</string>
+    <string name="camera_setting_storage_video_backup_router_guide_2">Select the \"Camera surveillance video\" folder</string>
+    <string name="camera_setting_storage_video_backup_router_guide_3">Tap folder \"xiaoyicamera\" to access backup videos</string>
+    <string name="camera_setting_storage_video_backup_router_net_tip">"Backup to router's hard disk is affected by your router connectivity, and may not guaranteed to be 100% successful."</string>
+    <string name="camera_setting_storage_video_backup_router_out_of_space">"Router's hard disk space is less than 1GB,
+Please free up disk space before continue."</string>
+    <string name="camera_setting_storage_video_backup_router_sdcard_unused">No valid MicroSD card was found in the camera</string>
+    <string name="camera_setting_storage_video_backup_router_space">Available disk space: &lt;font color=#0097ff>&lt;small>%1$s&lt;/small>&lt;/font>，Space occupied by backup videos:&lt;font color=#0097ff>&lt;small>%2$s&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_router_type_support">We currently only support Mi WiFi router with internal hard disk.</string>
+    <string name="camera_setting_storage_video_backup_router_undetected">Your router is not on supported router list or attempt to obtain information from your router has failed</string>
+    <string name="camera_setting_storage_video_backup_subtitle">Recorded videos will backup to Mi WiFi hard disk</string>
+    <string name="camera_setting_storage_video_backup_suggest">When multiple cameras are configured to back up to the same router hard disk, we suggest changing the names of the cameras to facilitate video access</string>
+    <string name="camera_setting_storage_video_backup_switch_duration_day">After switching backup duration, if there are any videos from over a day ago, they will automatically be deleted</string>
+    <string name="camera_setting_storage_video_backup_switch_duration_mouth">After switching backup duration, if there are any backups from over a month ago, they will automatically be deleted</string>
+    <string name="camera_setting_storage_video_backup_switch_duration_week">After switching backup duration, if there are any backups from over a week ago, they will automatically be deleted</string>
+    <string name="camera_setting_storage_video_backup_time_unlimited">No time/space limit</string>
+    <string name="camera_setting_storage_video_backup_time_unlimited_description">Rolling overwrite when out of disk space</string>
+    <string name="camera_setting_storage_video_backup_tips">Automatically backup recorded videos at 8AM and 6PM daily</string>
+    <string name="camera_setting_storage_video_backup_title">Mi WiFi Hard Disk Backup</string>
+    <string name="camera_setting_storage_video_backup_tutorial"><u>How to access backed up videos?</u></string>
+    <string name="camera_setting_storage_video_backup_week">Weekly &lt;font color=#a3a3a3>&lt;small>(Max 133GB disk space required)&lt;/small>&lt;/font></string>
+    <string name="camera_setting_storage_video_backup_week_description">7days x 24 hrs rolling overwrite</string>
     <string name="camera_setting_subtitle">"État du voyant, orientation de l'écran, informations réseau, version du firmware, etc..."</string>
     <string name="camera_setting_title">Réglages de la caméra</string>
     <string name="camera_setting_trigger_alarm_conditon">Motion</string>
@@ -380,15 +386,15 @@ Réinitialiser la caméra"</string>
     <string name="camera_setting_weixin_alarm_public_title">Canal Public</string>
     <string name="camera_setting_weixin_alarm_subtitle">"Les messages d'alarme peuvent être visualisés avec le contenu de la micro-canal"</string>
     <string name="camera_setting_weixin_alarm_title">"Réception un message d'avertissement via le Micro-canal"</string>
-    <string name="camera_silent_upgrade_subtitle">自动检测并更新固件版本</string>
-    <string name="camera_silent_upgrade_title">静默升级</string>
+    <string name="camera_silent_upgrade_subtitle">Automatically check and update firmware</string>
+    <string name="camera_silent_upgrade_title">Auto Update</string>
     <string name="camera_smart_demo_video">Tutorial Video</string>
     <string name="camera_smart_gesture">Gesture Recognition</string>
     <string name="camera_smart_gesture_video_prompt">"Tips:
  *Do not put your hand in front of your face or neck
  *Do not perform when night vision mode is enabled
  *Perform under bright lighting condition"</string>
-    <string name="camera_tips_zoom">You can view the timeline below by clicking anywhere on the video.</string>
+    <string name="camera_tips_zoom">You can view playback timeline below by taping anywhere on the video.</string>
     <string name="camera_update">Nouveau firmware disponible, le mettre à jour immédiatement</string>
     <string name="camera_upgrade">Mise à niveau de la caméra</string>
     <string name="camera_version_recover">Roll back</string>
@@ -405,206 +411,222 @@ Réinitialiser la caméra"</string>
     <string name="checked_gesture">Heartwarming Message</string>
     <string name="checked_human">Human Detected</string>
     <string name="checked_move">Motion Detected</string>
+    <string name="checked_move_trace">Motion tracking detected</string>
     <string name="choose_config_type">Sélectionnez le type de configuration</string>
     <string name="click_bind">Appuyez pour vous connecter</string>
     <string name="click_show_log">Appuyez pour afficher le journal de mise à jour</string>
     <string name="cloud">Mi-Cloud</string>
-    <string name="cloud_activate_storage_service">"激活服务 : "</string>
-    <string name="cloud_activate_storage_sure">确认激活</string>
-    <string name="cloud_activate_storage_title">激活云存储</string>
-    <string name="cloud_all_order_payment">支付金额 : %1$.2f元</string>
-    <string name="cloud_camera_choose_hint">开通云存储功能，我们会帮助您将最近的报警视频自动上传到云端保存，即使在您的设备丢失时，也可以查看。</string>
-    <string name="cloud_camera_choose_sub_title">选择摄像机</string>
-    <string name="cloud_device_choose">请选择摄像机:</string>
-    <string name="cloud_device_title">select device(s)</string>
-    <string name="cloud_my_cloud_activated_deadline">"有效期截止: "</string>
-    <string name="cloud_my_cloud_activated_free">激活%1$s免费云存储</string>
-    <string name="cloud_my_cloud_buy">购买</string>
-    <string name="cloud_my_cloud_buy_again">再次购买</string>
-    <string name="cloud_my_cloud_buy_expire">当前服务已到期</string>
-    <string name="cloud_my_cloud_buy_subtitle">您当前还未开通云存储服务，快来购买吧！</string>
-    <string name="cloud_my_cloud_buy_title">购买云存储服务</string>
-    <string name="cloud_my_cloud_buy_validaty">"当前服务有效期 : "</string>
-    <string name="cloud_my_cloud_due_date">距离云服务到期还有%1$d天</string>
-    <string name="cloud_my_cloud_enter">进入我的云空间</string>
-    <string name="cloud_my_cloud_expire">云存储服务已到期</string>
-    <string name="cloud_my_cloud_explain_subtitle">云存储服务帮助及常见问题</string>
-    <string name="cloud_my_cloud_explain_title">云储存服务说明</string>
-    <string name="cloud_my_cloud_live_prompt">您可在电脑上浏览器地址栏输入:https://yun.xiaoyi.com，观看云端视频</string>
-    <string name="cloud_my_cloud_people_statistics_timespan_custom">自定义时间段</string>
-    <string name="cloud_my_cloud_people_statistics_timespan_fullday">全天</string>
-    <string name="cloud_my_cloud_people_statistics_timespan_setup">设置时间段</string>
-    <string name="cloud_my_cloud_people_statistics_title">人流量统计</string>
-    <string name="cloud_my_cloud_service_switch_subtitle">暂停后，服务时间不延长，视频将不再上传到云端</string>
-    <string name="cloud_my_cloud_service_switch_subtitle2">购买云存储服务后自动开启</string>
-    <string name="cloud_my_cloud_service_switch_title">云服务存储开关</string>
-    <string name="cloud_my_cloud_stop_upload">视频已停止上传</string>
-    <string name="cloud_my_cloud_subtitle">最近%1$d天共为您保存%2$d分钟视频</string>
-    <string name="cloud_my_cloud_subtitle_hour">最近%1$d天共为您保存%2$d小时%3$d分钟视频</string>
-    <string name="cloud_my_cloud_subtitle_no_video">当前云端无视频</string>
-    <string name="cloud_my_cloud_subtitle_overdue">视频将从前往后逐天删除，%1$d天后全部删除</string>
-    <string name="cloud_my_cloud_title">我的云存储</string>
-    <string name="cloud_my_cloud_upload_video">今天已上传%1$d分钟视频</string>
-    <string name="cloud_my_cloud_upload_video_hour">今天已上传%1$d小时%2$d分钟视频</string>
-    <string name="cloud_my_order">我的订单</string>
-    <string name="cloud_my_order_cancel_payment">已取消</string>
-    <string name="cloud_my_order_not_payment">待支付</string>
-    <string name="cloud_my_order_payment">已支付</string>
-    <string name="cloud_my_order_subtitle">购买云存储服务记录</string>
-    <string name="cloud_no_video_upload">当天无视频上传到云端</string>
-    <string name="cloud_order_cancel">取消订单</string>
-    <string name="cloud_order_cancel_prompt">确定取消订单?</string>
-    <string name="cloud_order_cancel_succcess">取消订单成功</string>
-    <string name="cloud_order_detail_title">订单详情</string>
-    <string name="cloud_order_hour_auto_cancel">%1$d小时后自动取消</string>
-    <string name="cloud_order_minute_auto_cancel">%1$d分钟后自动取消</string>
-    <string name="cloud_order_no">"订单编号 : "</string>
-    <string name="cloud_order_no_device">您当前无支持云存储功能的设备</string>
-    <string name="cloud_order_no_order">您当前还没有订单呢!</string>
-    <string name="cloud_order_no_video">没有下载视频!</string>
-    <string name="cloud_order_not_pay_prompt">该设备有未付款订单，请处理后再购买</string>
-    <string name="cloud_order_pay_cancel">支付取消</string>
-    <string name="cloud_order_pay_failure">支付失败</string>
-    <string name="cloud_order_pay_success">支付成功</string>
-    <string name="cloud_order_pay_wait">支付结果确认中</string>
-    <string name="cloud_order_payment">付款</string>
-    <string name="cloud_order_service_current_state">"当前使用状态: "</string>
-    <string name="cloud_order_service_deadline">"服务截止: "</string>
-    <string name="cloud_order_service_no_data">未购买</string>
-    <string name="cloud_order_service_not_used">未使用</string>
-    <string name="cloud_order_service_state">"服务状态 : "</string>
-    <string name="cloud_order_service_used">已到期</string>
-    <string name="cloud_order_service_using">使用中</string>
-    <string name="cloud_order_time">"下单时间 : "</string>
-    <string name="cloud_payment_order_device_name">"设备名称: "</string>
-    <string name="cloud_payment_order_payment_alipay">支付宝支付</string>
-    <string name="cloud_payment_order_payment_sure">确认支付</string>
-    <string name="cloud_payment_order_payment_type">选择支付方式</string>
-    <string name="cloud_payment_order_price">支付金额: %1$.2f元</string>
-    <string name="cloud_payment_order_record_time">"购买服务: "</string>
-    <string name="cloud_payment_order_record_time_type">天云录制</string>
-    <string name="cloud_payment_order_service_date">"服务时间: "</string>
-    <string name="cloud_payment_order_service_explain">云储存服务</string>
-    <string name="cloud_payment_order_title">支付订单</string>
-    <string name="cloud_people_statistics_arrow_data">显示所有数据</string>
-    <string name="cloud_people_statistics_chart_no_data">无数据</string>
-    <string name="cloud_people_statistics_data_not_exist">尚未获取到人流量统计数据</string>
-    <string name="cloud_people_statistics_guide_attention">注意事项：</string>
-    <string name="cloud_people_statistics_guide_attention_prompt1">开启后将自动关闭智能侦测报警</string>
-    <string name="cloud_people_statistics_guide_door">出入口</string>
-    <string name="cloud_people_statistics_guide_prompt">帮助您更好摆放摄像机位置、设置统计区域，让统计更加准确。</string>
-    <string name="cloud_people_statistics_guide_setting_camera2_finish">明白了，现在去设置</string>
-    <string name="cloud_people_statistics_guide_setting_camera2_prompt1">不要将统计区域设置在们所在位置</string>
-    <string name="cloud_people_statistics_guide_setting_camera2_prompt2">确保客人能穿过设置的统计区域</string>
-    <string name="cloud_people_statistics_guide_setting_camera2_title">设置人流量统计区域，让统计更加精准</string>
-    <string name="cloud_people_statistics_guide_setting_camera_finish">已按此角度安装完成</string>
-    <string name="cloud_people_statistics_guide_setting_camera_prompt">"在统计区域内
-人流方向与摄像机视角垂直"</string>
-    <string name="cloud_people_statistics_guide_setting_camera_subtitle">（摄像机摆放最佳高度为距地面1米）</string>
-    <string name="cloud_people_statistics_guide_setting_camera_title">为确保统计准确，建议按白色透视线矫正摄像机角度</string>
-    <string name="cloud_people_statistics_guide_title">人流量统计使用引导</string>
-    <string name="cloud_people_statistics_guide_to_setting">去设置</string>
-    <string name="cloud_people_statistics_help_best_camera_position">摄像机最合适的位置</string>
-    <string name="cloud_people_statistics_help_detail">&lt;font color=#000000>人流量统计功能用来统计小店铺的客流量，给出统计图和趋势变化。&lt;br/>给店主数据支撑，给店主的经营决策助一臂之力。&lt;/font></string>
-    <string name="cloud_people_statistics_help_title">人流量统计使用帮助</string>
-    <string name="cloud_people_statistics_list_view_title_data">人数</string>
-    <string name="cloud_people_statistics_list_view_title_time">时间</string>
-    <string name="cloud_people_statistics_monitor_area_prompt_lower">（最佳宽度1米）</string>
-    <string name="cloud_people_statistics_monitor_area_prompt_middle">指定统计区域</string>
-    <string name="cloud_people_statistics_monitor_area_prompt_upper">拖拽红色方框</string>
-    <string name="cloud_people_statistics_monitor_area_set_failure">人流量统计区域设置失败</string>
-    <string name="cloud_people_statistics_monitor_area_set_success">人流量统计区域设置成功</string>
-    <string name="cloud_people_statistics_no_data">当前还没有数据哦~</string>
-    <string name="cloud_people_statistics_radio_day">日</string>
-    <string name="cloud_people_statistics_radio_month">月</string>
-    <string name="cloud_people_statistics_radio_week">周</string>
-    <string name="cloud_people_statistics_region_description">修改</string>
-    <string name="cloud_people_statistics_switch_failed">人流量统计开关操作失败</string>
-    <string name="cloud_people_statistics_time_set_failed">人流量统计时间设置失败</string>
-    <string name="cloud_people_statistics_time_setting">人流量统计时段设置</string>
-    <string name="cloud_people_statistics_video_backup_cloud_conflict_prompt">已开启备份到小米路由器，不支持同时备份到云存储</string>
+    <string name="cloud_activate_storage_service">"Activation service: "</string>
+    <string name="cloud_activate_storage_sure">Confirm activation</string>
+    <string name="cloud_activate_storage_title">Activate YI Cloud Service</string>
+    <string name="cloud_all_order_payment">Amount paid: %1$.2f yuan</string>
+    <string name="cloud_camera_choose_hint">By subscribing to YI Cloud Service, your motion detected videos will automatically uploaded to the YI Cloud for safekeep. You can access your recorded videos by signing in to your YI account online.</string>
+    <string name="cloud_device_choose">Please select a camera:</string>
+    <string name="cloud_device_title">Select Camera(s)</string>
+    <string name="cloud_my_cloud_activated_deadline">"Valid until : "</string>
+    <string name="cloud_my_cloud_activated_free">Activate %1$s free cloud storage</string>
+    <string name="cloud_my_cloud_buy">Purchase</string>
+    <string name="cloud_my_cloud_buy_again">Renew</string>
+    <string name="cloud_my_cloud_buy_expire">Current service has expired</string>
+    <string name="cloud_my_cloud_buy_subtitle">YI Cloud is not currently activated on this camera. Subscribe for YI Cloud now!</string>
+    <string name="cloud_my_cloud_buy_title">Subscribe for YI Cloud</string>
+    <string name="cloud_my_cloud_buy_validaty">"Service valid: "</string>
+    <string name="cloud_my_cloud_due_date">%1$d days left on your YI Cloud Service subscription</string>
+    <string name="cloud_my_cloud_enter">My YI Cloud Space</string>
+    <string name="cloud_my_cloud_expire">YI Cloud Service subscription has expired</string>
+    <string name="cloud_my_cloud_explain_subtitle">Help and FAQ</string>
+    <string name="cloud_my_cloud_explain_title">Instructions</string>
+    <string name="cloud_my_cloud_live_prompt">Use this url: https://yun.xiaoyi.com on your browser to access cloud videos.</string>
+    <string name="cloud_my_cloud_people_statistics_timespan_custom">Custom set time periods</string>
+    <string name="cloud_my_cloud_people_statistics_timespan_fullday">All day</string>
+    <string name="cloud_my_cloud_people_statistics_timespan_setup">Set the time period</string>
+    <string name="cloud_my_cloud_people_statistics_title">People Counting</string>
+    <string name="cloud_my_cloud_service_switch_subtitle">Note: Suspending YI Cloud service will not extend your subscription period.</string>
+    <string name="cloud_my_cloud_service_switch_subtitle2">This will be turned on after subscribing to YI Cloud Service</string>
+    <string name="cloud_my_cloud_service_switch_title">YI Cloud Service</string>
+    <string name="cloud_my_cloud_stop_upload">Video has stopped uploading to the cloud</string>
+    <string name="cloud_my_cloud_subtitle">%2$d mins video saved in the last %1$d days</string>
+    <string name="cloud_my_cloud_subtitle_hour">%2$d hrs %3$d mins video saved in the last %1$d days</string>
+    <string name="cloud_my_cloud_subtitle_no_video">There is no video found</string>
+    <string name="cloud_my_cloud_subtitle_overdue">Oldest video clips are deleted first. All videos will be purged after %1$d days</string>
+    <string name="cloud_my_cloud_title">My YI Cloud</string>
+    <string name="cloud_my_cloud_upload_video">%1$d mins of video were uploaded today</string>
+    <string name="cloud_my_cloud_upload_video_hour">%1$d hrs %2$d mins of video were uploaded today</string>
+    <string name="cloud_my_order">My order</string>
+    <string name="cloud_my_order_cancel_payment">Cancelled</string>
+    <string name="cloud_my_order_not_payment">Pending</string>
+    <string name="cloud_my_order_payment">Paid</string>
+    <string name="cloud_my_order_subtitle">Order history</string>
+    <string name="cloud_no_video_upload">No videos uploaded to YI Cloud today</string>
+    <string name="cloud_order_cancel">Cancel order</string>
+    <string name="cloud_order_cancel_failure">Order cancellation has failed</string>
+    <string name="cloud_order_cancel_prompt">Are you sure you wish to cancel this order?</string>
+    <string name="cloud_order_cancel_succcess">Order cancellation was successful</string>
+    <string name="cloud_order_detail_title">Order Details</string>
+    <string name="cloud_order_hour_auto_cancel">Automatically cancel after %1$d hours</string>
+    <string name="cloud_order_minute_auto_cancel">Automatically cancel after %1$d minutes</string>
+    <string name="cloud_order_no">"Order number: "</string>
+    <string name="cloud_order_no_device">Your camera does not currently support subscription to YI Cloud Storage Service</string>
+    <string name="cloud_order_no_order">You currently have no orders</string>
+    <string name="cloud_order_no_video">No downloaded videos</string>
+    <string name="cloud_order_not_pay_prompt">The camera has unpaid orders. Please settle those orders first before making further purchases</string>
+    <string name="cloud_order_pay_cancel">Payment was cancelled</string>
+    <string name="cloud_order_pay_failure">Payment failed</string>
+    <string name="cloud_order_pay_success">Payment was successful</string>
+    <string name="cloud_order_pay_wait">Pending</string>
+    <string name="cloud_order_payment">Pay</string>
+    <string name="cloud_order_service_current_state">" "</string>
+    <string name="cloud_order_service_deadline">"Service ends: "</string>
+    <string name="cloud_order_service_no_data">Not purchased</string>
+    <string name="cloud_order_service_not_used">Unused</string>
+    <string name="cloud_order_service_state">"Order status: "</string>
+    <string name="cloud_order_service_used">Expired</string>
+    <string name="cloud_order_service_using">Currently in use</string>
+    <string name="cloud_order_time">"Order time: "</string>
+    <string name="cloud_payment_order_device_name">"Device name : "</string>
+    <string name="cloud_payment_order_payment_alipay">Alipay</string>
+    <string name="cloud_payment_order_payment_sure">Confirm</string>
+    <string name="cloud_payment_order_payment_type">Select payment method</string>
+    <string name="cloud_payment_order_price">Price: %1$.2f yuan</string>
+    <string name="cloud_payment_order_record_time">"Service: "</string>
+    <string name="cloud_payment_order_record_time_type">Days of cloud video storage</string>
+    <string name="cloud_payment_order_service_date">"Duration: "</string>
+    <string name="cloud_payment_order_service_explain">YI Cloud Service</string>
+    <string name="cloud_payment_order_title">Checkout</string>
+    <string name="cloud_people_statistics_arrow_data">Show All Data</string>
+    <string name="cloud_people_statistics_arrow_manual">Service Instructions</string>
+    <string name="cloud_people_statistics_arrow_region">Monitoring Region</string>
+    <string name="cloud_people_statistics_arrow_schedule">Data Collection Period</string>
+    <string name="cloud_people_statistics_chart_no_data">No data</string>
+    <string name="cloud_people_statistics_data_not_exist">Unable to retrieve People Counting data</string>
+    <string name="cloud_people_statistics_day_description1">Total people today</string>
+    <string name="cloud_people_statistics_day_description2">Time with most people</string>
+    <string name="cloud_people_statistics_guide_attention">Precautions:</string>
+    <string name="cloud_people_statistics_guide_attention_prompt1">Turning on People Counting will disable all other detections</string>
+    <string name="cloud_people_statistics_guide_door">Entrance/Exit</string>
+    <string name="cloud_people_statistics_guide_prompt">Position the camera and set the monitoring region to effectively collect data.</string>
+    <string name="cloud_people_statistics_guide_setting_camera2_finish">Continue</string>
+    <string name="cloud_people_statistics_guide_setting_camera2_prompt1">Avoid setting region next to an entrance</string>
+    <string name="cloud_people_statistics_guide_setting_camera2_prompt2">Ensure foot traffic flow through the region as shown</string>
+    <string name="cloud_people_statistics_guide_setting_camera2_title">Set region to ensure accurate People Counting.</string>
+    <string name="cloud_people_statistics_guide_setting_camera_finish">Done</string>
+    <string name="cloud_people_statistics_guide_setting_camera_prompt">Make sure the camera angle is perpendicular to the foot traffic flow</string>
+    <string name="cloud_people_statistics_guide_setting_camera_subtitle">(Optimal camera height: 1 meter)</string>
+    <string name="cloud_people_statistics_guide_setting_camera_title">We recommend using the example below to adjust the camera angle</string>
+    <string name="cloud_people_statistics_guide_title">People Counting User Guide</string>
+    <string name="cloud_people_statistics_guide_to_setting">Next</string>
+    <string name="cloud_people_statistics_help_best_camera_position">Proper camera position</string>
+    <string name="cloud_people_statistics_help_detail">&lt;font color=#000000>People Counting function tracks customer traffic, produces charts, &lt;br/>and trends to help business owner to use these data to make business and strategy decision&lt;/font></string>
+    <string name="cloud_people_statistics_help_title">People Counting Help</string>
+    <string name="cloud_people_statistics_list_view_title_data">People</string>
+    <string name="cloud_people_statistics_list_view_title_time">Time</string>
+    <string name="cloud_people_statistics_monitor_area">People Counting Region Settings</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_lower">(Optimal width: 1 meter)</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_middle">Specify People Counting region</string>
+    <string name="cloud_people_statistics_monitor_area_prompt_upper">Drag the red box</string>
+    <string name="cloud_people_statistics_monitor_area_set_failure">People Counting region setting has failed</string>
+    <string name="cloud_people_statistics_monitor_area_set_success">People Counting region setting was success</string>
+    <string name="cloud_people_statistics_month_description1">Total people this month</string>
+    <string name="cloud_people_statistics_month_description2">Time with most people</string>
+    <string name="cloud_people_statistics_no_data">There is currently no data</string>
+    <string name="cloud_people_statistics_radio_day">Day</string>
+    <string name="cloud_people_statistics_radio_month">Month</string>
+    <string name="cloud_people_statistics_radio_week">Week</string>
+    <string name="cloud_people_statistics_region_description">Modify</string>
+    <string name="cloud_people_statistics_switch_failed">People Counting ON/OFF operation has failed</string>
+    <string name="cloud_people_statistics_switch_open">People Counting Service</string>
+    <string name="cloud_people_statistics_switch_open_subtitle">Turning on People Counting will disable all other detections</string>
+    <string name="cloud_people_statistics_time_set_failed">Data collection setup failed</string>
+    <string name="cloud_people_statistics_time_setting">Data Collection Period Settings</string>
+    <string name="cloud_people_statistics_title">People Counting</string>
+    <string name="cloud_people_statistics_video_backup_cloud_conflict_prompt">You can not turn on YI Cloud Service because you have already configured to back up recorded videos to router hard disk</string>
+    <string name="cloud_people_statistics_week_description1">Total people this week</string>
+    <string name="cloud_people_statistics_week_description2">Time with most people</string>
     <string name="cloud_play_failure">Fail to play</string>
-    <string name="cloud_service_choos_start_time">"当前购买服务起止时间: "</string>
-    <string name="cloud_service_choose_buy_now">立即支付</string>
-    <string name="cloud_service_choose_explain">"服务说明：
+    <string name="cloud_service_choos_start_time">"The current service duration: "</string>
+    <string name="cloud_service_choose_buy_now">Subscribe</string>
+    <string name="cloud_service_choose_explain">"Note: 
 
-1、使用云存储服务，每台设备至少需要4M带宽，请确保您的网络符合要求
-2、如您暂停使用云存储，服务时间不延长
-3、云存储服务和账号绑定，拥有云存储服务的设备绑定至新账号时将无法继续享受服务。"</string>
-    <string name="cloud_service_choose_password_invalid">充值卡密码无效</string>
-    <string name="cloud_service_choose_record_time">选择录制时间</string>
-    <string name="cloud_service_choose_recycle_record">循环滚动记录最近%1$d天视频</string>
-    <string name="cloud_service_choose_roll_record">滚动记录所选天数的视频到云端</string>
-    <string name="cloud_service_choose_service_agreement">服务协议></string>
-    <string name="cloud_service_choose_service_agreement_title">服务协议</string>
-    <string name="cloud_service_choose_service_code">服务码通道</string>
-    <string name="cloud_service_choose_service_code_content">"您兑换的服务为: "</string>
-    <string name="cloud_service_choose_service_code_fail">充值失败，请重试</string>
-    <string name="cloud_service_choose_service_code_hint">在此输入</string>
-    <string name="cloud_service_choose_service_code_input">请输入18位服务码密码</string>
-    <string name="cloud_service_choose_service_code_password_empty">服务码不能为空</string>
-    <string name="cloud_service_choose_service_code_success">充值成功</string>
-    <string name="cloud_service_choose_service_code_use">确定使用服务？</string>
-    <string name="cloud_service_choose_service_discount">立省%1$d元</string>
-    <string name="cloud_service_choose_service_rmb">元</string>
-    <string name="cloud_service_choose_service_time">"选择服务时长 : "</string>
-    <string name="cloud_service_choose_service_time_month">一个月</string>
-    <string name="cloud_service_choose_service_time_quarter">三个月</string>
-    <string name="cloud_service_choose_service_time_year">一年</string>
-    <string name="cloud_service_choose_title">购买云存储服务</string>
-    <string name="cloud_storage_video">Cloud video</string>
+1. YI Cloud Service subscription has a minimum 2Mb/s upstream bandwidth requirements for each camera. 
+
+2.When you suspend YI Cloud Service, your subscription period will not be extended"</string>
+    <string name="cloud_service_choose_password_invalid">Prepaid card code is invalid</string>
+    <string name="cloud_service_choose_record_time">Service Plan</string>
+    <string name="cloud_service_choose_recycle_record">Loop record last %1$d days of motion detected video</string>
+    <string name="cloud_service_choose_roll_record">Select # loop record days of video storage</string>
+    <string name="cloud_service_choose_service_agreement">Service agreement></string>
+    <string name="cloud_service_choose_service_agreement_title">Service Agreement</string>
+    <string name="cloud_service_choose_service_code">Service Code Channel</string>
+    <string name="cloud_service_choose_service_code_content">"You have redeemed the service: "</string>
+    <string name="cloud_service_choose_service_code_fail">Recharge has failed, please try again.</string>
+    <string name="cloud_service_choose_service_code_hint">Enter here</string>
+    <string name="cloud_service_choose_service_code_input">Please enter 18-digit service code</string>
+    <string name="cloud_service_choose_service_code_password_empty">Service code cannot be empty</string>
+    <string name="cloud_service_choose_service_code_success">Successful recharge</string>
+    <string name="cloud_service_choose_service_code_use">Are you sure you wish to use the service?</string>
+    <string name="cloud_service_choose_service_discount">You saved %1$d yuan</string>
+    <string name="cloud_service_choose_service_rmb">¥</string>
+    <string name="cloud_service_choose_service_time">"Select the service length : "</string>
+    <string name="cloud_service_choose_service_time_month">One month</string>
+    <string name="cloud_service_choose_service_time_quarter">Three months</string>
+    <string name="cloud_service_choose_service_time_year">One year</string>
+    <string name="cloud_service_choose_title">Subscribe to YI Cloud Service</string>
+    <string name="cloud_storage_video">Cloud Videos</string>
     <string name="cloud_subtitle">Subscribe to cloud service to automatically save motion detected video</string>
-    <string name="cloud_video_download_delete">确定删除这%1$d条记录?</string>
-    <string name="cloud_video_download_delete_prompt1">拖动红色窗口选择需要删除的视频</string>
-    <string name="cloud_video_download_delete_prompt2">（单次最多删除1小时）</string>
-    <string name="cloud_video_download_delete_sure">确定删除云端视频？</string>
-    <string name="cloud_video_download_delete_time_error">云删除时间大于1小时，请重新选择</string>
-    <string name="cloud_video_download_fail">下载失败</string>
-    <string name="cloud_video_download_mobile_size">手机总容量%1$s,可用容量%2$s</string>
-    <string name="cloud_video_download_no_wifi">当前没有WiFi，下载需要花费流量</string>
-    <string name="cloud_video_download_no_wifi_download">土豪请继续</string>
-    <string name="cloud_video_download_not_enough_free_space">可用空间不足</string>
-    <string name="cloud_video_download_progress">正在下载</string>
+    <string name="cloud_video_download_delete">Are you sure you want to delete the %1$d record(s)?</string>
+    <string name="cloud_video_download_delete_prompt1">Drag red window to select video to delete</string>
+    <string name="cloud_video_download_delete_prompt2">(Maximum 1 hour per delete)</string>
+    <string name="cloud_video_download_delete_sure">Are you sure you wish to delete the selected videos?</string>
+    <string name="cloud_video_download_delete_time_error">Please reset your delete window in 1 hour</string>
+    <string name="cloud_video_download_fail">Download failed</string>
+    <string name="cloud_video_download_mobile_size">Total phone capacity %1$s, available capacity %2$s</string>
+    <string name="cloud_video_download_no_wifi">You are not currently connected to WiFi network. Downloading the selected videos may incur a fee (data) by your mobile carier.</string>
+    <string name="cloud_video_download_no_wifi_download">Please continue.</string>
+    <string name="cloud_video_download_not_enough_free_space">Insufficient free space</string>
+    <string name="cloud_video_download_notification_safe">Secured download in progress</string>
+    <string name="cloud_video_download_notification_title">Videos download in progress</string>
+    <string name="cloud_video_download_progress">Download in progress</string>
     <string name="cloud_video_download_prompt1">Drag yellow window to select video to download</string>
-    <string name="cloud_video_download_prompt2">10 mins most for single download mission</string>
+    <string name="cloud_video_download_prompt2">Maximum 10 minutes per download</string>
     <string name="cloud_video_download_select_time_error">Please reset your download window in 10 mins</string>
-    <string name="cloud_video_download_select_time_no_video_error">选择的时间段无视频，请重新选择</string>
-    <string name="cloud_video_download_subtitle">云端下载的视频</string>
-    <string name="cloud_video_download_success">下载完成</string>
-    <string name="cloud_video_download_title">下载视频</string>
-    <string name="cloud_video_download_video_deleted">该视频已被删除</string>
+    <string name="cloud_video_download_select_time_no_video_error">The time period you selected contains no videos. Please reselect and try again.</string>
+    <string name="cloud_video_download_subtitle">Videos downloaded from Cloud</string>
+    <string name="cloud_video_download_success">Download complete</string>
+    <string name="cloud_video_download_title">Downloaded Videos</string>
+    <string name="cloud_video_download_video_deleted">This video has been deleted</string>
     <string name="cloud_video_downloading">Downloading, please try later！</string>
-    <string name="cloud_video_num">共上传%1$d段报警视频</string>
-    <string name="cloud_video_play_finish">当天无更多视频啦</string>
-    <string name="cloud_video_secure_transmission">Video transmission with secured channel</string>
-    <string name="confirm_exit_camera_config">Are you sure to quit camera setup?</string>
+    <string name="cloud_video_num">%1$d activity alert videos were uploaded.</string>
+    <string name="cloud_video_play_finish">No more videos from today</string>
+    <string name="cloud_video_secure_transmission">Secured transmission</string>
+    <string name="confirm_exit_camera_config">Are you sure you want to quit camera setup?</string>
     <string name="connect_app_version_scan_content1">Align QR Code on your camera within frame to scan</string>
     <string name="connect_app_version_scan_content2">Then the app will check if the camera model you have selected is correct</string>
     <string name="connect_app_version_scan_device_app_download">Download</string>
     <string name="connect_app_version_scan_device_app_not_match_china_prompt">You have an international version of the camera. Please download the international version YI Home App from the online store</string>
     <string name="connect_app_version_scan_device_app_not_match_international_prompt">You have a Chinese version of camera. Please download the Chinese version App from the Chinese online store.</string>
-    <string name="connect_app_version_scan_device_app_not_match_title">Your App version does not match your camera version</string>
+    <string name="connect_app_version_scan_device_app_not_match_title">Mismatched App and Camera Version</string>
     <string name="connect_app_version_scan_device_area_not_match_prompt">Your device is \"%1$s\" version YI Home Camera, please select \"%2$s\" as login location</string>
     <string name="connect_app_version_scan_device_choose_error_title">Camera Model Error</string>
     <string name="connect_app_version_scan_device_choose_h18_mi">You have a YI Home Camera, please re-select the camera model</string>
     <string name="connect_app_version_scan_device_choose_h18_yi">You have a Chinese version of YI Home Cam, please login with a Mi ID and try pairing again.</string>
+    <string name="connect_app_version_scan_device_choose_h19">You have a YI Dome Camera, please re-select the camera model</string>
     <string name="connect_app_version_scan_device_choose_h21">You have a YI 1080p Home Camera 2 , please re-select the camera model</string>
     <string name="connect_app_version_scan_device_choose_success_international_prompt">Your login location matches the version of the camera and app, please check other settings.</string>
     <string name="connect_app_version_scan_device_choose_success_prompt">The camera model you have selected is correct. Please check for other settings</string>
-    <string name="connect_app_version_scan_device_choose_success_title">Camera Model is correct</string>
+    <string name="connect_app_version_scan_device_choose_success_title">Correct Camera Model</string>
     <string name="connect_app_version_scan_device_login_select_error_title">Incorrect Login Location</string>
-    <string name="connect_app_version_scan_device_success_title">Camera Model/Version is correct</string>
-    <string name="connect_app_version_scan_title">Scan QR code</string>
+    <string name="connect_app_version_scan_device_success_title">Correct Camera Model/Version</string>
+    <string name="connect_app_version_scan_title">Scan QR Code</string>
     <string name="connect_distribute_server">Connecting CDN servers</string>
     <string name="connect_error_app">Verify camera model</string>
     <string name="connect_hear_voice_prompt">If you hear \"QR Code scan is successful\", please next</string>
-    <string name="connect_switch_wifi_exit_dialog">确定退出切换Wi-Fi?</string>
-    <string name="connect_switch_wifi_flash_yellow_light">看到黄灯闪烁</string>
-    <string name="connect_switch_wifi_listener_fail">听到“Wi-Fi切换失败”？</string>
-    <string name="connect_switch_wifi_not_flash_yellow_light">未看到黄灯闪烁</string>
-    <string name="connect_switch_wifi_prompt">请将电源断电后，重新接入，耐心等待&lt;br/>1-2分钟，直到摄像机&lt;font color=#ffb400>黄灯闪烁&lt;/font></string>
-    <string name="connect_switch_wifi_success">Wi-fi切换成功</string>
-    <string name="connect_switch_wifi_title">重启设备</string>
+    <string name="connect_switch_wifi_exit_dialog">Are you sure you wish to cancel switching to new WiFi?</string>
+    <string name="connect_switch_wifi_flash_yellow_light">I saw the blinking yellow light</string>
+    <string name="connect_switch_wifi_listener_fail">Did you hear \"Switching to new WiFi has failed?\"</string>
+    <string name="connect_switch_wifi_not_flash_yellow_light">I did not see the blinking yellow light</string>
+    <string name="connect_switch_wifi_prompt">Please disconnect and reconnect the power cable,&lt;br/>wait 1-2 minutes until the camera indicator&lt;font color=#ffb400>light blinking yellow&lt;/font></string>
+    <string name="connect_switch_wifi_success">Switching to new WiFi was successful</string>
+    <string name="connect_switch_wifi_title">Reboot the Camera</string>
     <string name="connect_test_server_rate">Testing server connection quality</string>
     <string name="connect_to_wifi_msg">Please connect your phone to Wi-Fi first！</string>
     <string name="connect_video_cloud_server">Connecting cloud based video decoding services</string>
@@ -616,6 +638,7 @@ Réinitialiser la caméra"</string>
     <string name="connected_wifi_handle_hint">Pairing process takes about 1-2 minutes Please wait...</string>
     <string name="connection_choose_camera_g1_type_name">YI Home Camera</string>
     <string name="connection_choose_camera_g2_type_name">YI 1080P Home Camera</string>
+    <string name="connection_choose_camera_g3_type_name">YI Dome Camera</string>
     <string name="connection_choose_camera_type_prompt">Please select a camera model:</string>
     <string name="connection_choose_camera_type_title">Camera model selection</string>
     <string name="connection_reset_camera">Configurer la caméra</string>
@@ -623,18 +646,37 @@ Réinitialiser la caméra"</string>
     <string name="connection_set_camera">Configuration de la caméra</string>
     <string name="connection_yi_account_not_support_with_device">Please use Mi Home app to bind device</string>
     <string name="connection_yi_account_not_support_without_device">Please use Mi account to login or use Mi Home app to bind device</string>
+    <string name="conversation_mode_description">In hand-free mode, you and your party can talk and listen to each other simultaneously.</string>
     <string name="copyright">"XiaoYi Technology Co., Ltd 
 Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
-    <string name="current_is_last_version">Vous avez déjà la dernière version</string>
-    <string name="current_version">Version actuelle %1$s</string>
+    <string name="cruise_mode_dialog_go_set">Next</string>
+    <string name="cruise_mode_dialog_hint">Please bookmark at least 2 viewing positions</string>
+    <string name="cruise_setting_cruise_mode">Cruise Route</string>
+    <string name="cruise_setting_cruise_mode_full">Cruise Horizontally 360°</string>
+    <string name="cruise_setting_cruise_mode_preset">Cruise Bookmarked Locations</string>
+    <string name="cruise_setting_cruise_time">Cruise Period</string>
+    <string name="cruise_setting_cruise_time_full">All-day Cruising</string>
+    <string name="cruise_setting_start_cruise">Auto-Cruise</string>
+    <string name="cruise_setting_start_track">Motion Tracking</string>
+    <string name="current_is_last_version">Up to Date</string>
+    <string name="current_version">Current Version%1$s</string>
     <string name="current_version_is_latest">Firmware is up to date</string>
-    <string name="current_version_no">Numéro de la version actuelle</string>
-    <string name="custom_alarm">Alarme personnalisée</string>
+    <string name="current_version_no">Version actuelle</string>
+    <string name="custom_alarm">Personnalisée</string>
+   <string name="custom_time_cruise_discription">Please select a valid cruise period</string>
+    <string name="custom_time_cruise_end">End Time</string>
+    <string name="custom_time_cruise_start">Start Time</string>
+    <string name="custom_time_cruise_title">Customize Cruise Period</string>
+    <string name="custom_time_resfuse">Inter-day setting is not supported</string>
     <string name="delete">Supprimer</string>
     <string name="delete_failed">Suppression échouée</string>
-    <string name="delete_latest_1_hour_failed">最近一小时内的视频不可删除</string>
+    <string name="delete_latest_1_hour_failed">The most recent 1 hour of footage cannot be deleted</string>
+    <string name="delete_preset">Delete the current bookmark</string>
+    <string name="delete_presets">Delete these %1$d bookmarks</string>
     <string name="delete_success">Suppression effectuée</string>
     <string name="device_added_by_other2">"La caméra a été associé à d'autres utilisateurs"</string>
+    <string name="device_cruising">Auto-Cruise in progress</string>
+    <string name="device_moving_trace">Motion tracking in progress</string>
     <string name="device_no_sdcard">"Pas de carte SD insérée dans la caméra, vous ne pouvez pas voir l'historique des  vidéos"</string>
     <string name="device_not_exist">"La caméra n'existe pas"</string>
     <string name="device_not_found">"Ce numéro de caméra n'existe pas"</string>
@@ -715,11 +757,15 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
     <string name="flickr">Flickr</string>
     <string name="format_in_process_please_wait">Formatage, veuillez patienter</string>
     <string name="format_success_wait_restart">Formatage réussi, veuillez attendre que la caméra redémarre</string>
-    <string name="forum">论坛</string>
-    <string name="forum_subtitle">和蚁粉一起分享</string>
+    <string name="forum">Forum</string>
+    <string name="forum_subtitle">Share with your fellow YI users</string>
     <string name="foursquare">FourSquare</string>
     <string name="friend_recommend">Recommander à un ami</string>
     <string name="full_time_alarm">24/7</string>
+    <string name="fullday_cruise_discription">The camera will cruise all day</string>
+    <string name="fullday_cruise_title">All-day Cruising</string>
+    <string name="fullview_cruise_discription">Rotate 360° horizontally and make stop at preset locations</string>
+    <string name="fullview_cruise_title">Cruise Horizontally 360°</string>
     <string name="function_introduction">Caractéristiques</string>
     <string name="get_camere_info_fail">"Connexion à la caméra échouée, impossible d'obtenir plus d'informations"</string>
     <string name="go_config">Paramètres</string>
@@ -743,7 +789,8 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
     <string name="history_video">Lecture</string>
     <string name="human_traffic">Human traffic statistics</string>
     <string name="human_traffic_statistics_subtitle">Cloud storage tips and FAQs</string>
-    <string name="image_is_saved">已经保存该图片</string>
+    <string name="image_is_saved">This picture has been saved</string>
+    <string name="in_talking">Currently in call</string>
     <string name="info_cannot_find_camera">Configuration de la caméra introuvable</string>
     <string name="insert_sdcard_to_save_video">Secure your footage by inserting a micro SD card</string>
     <string name="instagram">Instagram</string>
@@ -754,6 +801,7 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
     <string name="instapaper_login">Se connecter</string>
     <string name="instapaper_logining">Connexion...</string>
     <string name="instapaper_pwd">Mot de passe</string>
+    <string name="intercom_mode_description">In intercom mode, only one side can talk and listen at a time.</string>
     <string name="internal_storage_space">Stockage</string>
     <string name="into_look_v2">Commencez la vie intelligente>></string>
     <string name="kaixin">Kaixin</string>
@@ -772,6 +820,7 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
     <string name="listen_wifi_password_error">"J'ai entendu (Erreur mot de passe Wi-Fi)"</string>
     <string name="live_video">En direct</string>
     <string name="live_video_off">La caméra est éteinte</string>
+    <string name="live_video_off2">Privacy mode activated</string>
     <string name="loading">Chargement...</string>
     <string name="loading_video">Téléchargement de la vidéo</string>
     <string name="login_text">Visualisation à distance via le smartphone. Permet de voir, entendre et parler</string>
@@ -782,6 +831,7 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
     <string name="mingdao_share_content">Partager du contenu Mingdao</string>
     <string name="msg_connect_your_mobile_to_wifi">Please connect your mobile phone to the Wi-Fi</string>
     <string name="my_camera">XiaoYi-Cam</string>
+    <string name="my_camera_H19">YI Dome Camera</string>
     <string name="my_camera_H21">XiaoYi-Cam 1080P</string>
     <string name="my_return">Retour</string>
     <string name="net_bad_tip">"Réseau instable, l'enregistrement vidéo peut être affectée."</string>
@@ -802,6 +852,7 @@ Copyright © 2014-2016 XiaoYi. All Rights Reserved."</string>
  Retour à la page connexion."</string>
     <string name="new_version_no">Nouvelle version détectée</string>
     <string name="nickname">Surnom</string>
+    <string name="no_preset">Bookmark is empty</string>
     <string name="no_sdcard_info">Aucune carte mémoire insérée</string>
     <string name="no_wifi_network">Le réseau Wi-Fi actuel est indisponible, veuillez vérifier vos paramètres réseau</string>
     <string name="no_wifi_onlywifi_update">Pas de connexion Wi-Fi, mise à jour possible uniquement via le Wi-Fi</string>
@@ -829,10 +880,10 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="pincode_not_sure">"Les deux mots de passe ne correspondent pas, merci d'entrer de nouveau votre mot de passe !"</string>
     <string name="pincode_protect">Protection par mot de passe</string>
     <string name="pincode_protect_above">Sécurité</string>
-    <string name="pincode_protect_freeze_time">密码连续输错5次，请%1$d分钟后重新输入，或重置摄像机</string>
+    <string name="pincode_protect_freeze_time">You have entered an incorrect PIN code 5 times. Please try again in %1$d minutes or reset the camera</string>
     <string name="pincode_protect_hint">"Merci d'entrer votre mot de passe sur la caméra"</string>
-    <string name="pincode_protect_input_times">密码输错%1$d次，还剩%2$d次</string>
-    <string name="pincode_protect_locked">当前设备已被锁定，请在%1$d分钟后重试，或重置摄像机</string>
+    <string name="pincode_protect_input_times">Incorrect PIN. %1$d attempted, %2$d remaining.</string>
+    <string name="pincode_protect_locked">The camera is locked out due to incorrect PIN, please try again in %1$d minutes, or reset the camera</string>
     <string name="pincode_set">Protection par mot de passe</string>
     <string name="pincode_set_new">"Merci d'entrer un mot de passe, allumer la caméra"</string>
     <string name="pincode_set_new_again">"Merci d'entrer de nouveau votre mot de passe"</string>
@@ -852,18 +903,23 @@ Si vous avez oublié votre mot de passe, réinitialiser la caméra, puis reconne
     <string name="please_input_username_and_password">"Veuillez entrez l'email et le mot de passe!"</string>
     <string name="please_insert_sdcard">Veuillez insérer une Carte Micro SD !</string>
     <string name="pocket">Poche</string>
+    <string name="preset_favorite">Bookmarks</string>
+    <string name="preset_full">The maximum numbers (8) of bookmarks has been reached.</string>
+    <string name="preset_less_two">After you delete these %1$d bookmarks, there will be less than 2 bookmarks remaining. Auto-Cruise function will stop due to insufficient bookmarks. Do you still wish to continue?</string>
+    <string name="preset_point_cruise_discription">Cycle through all bookmarks and stop at each for 10 seconds</string>
+    <string name="preset_point_cruise_title">Cruise All Bookmarks</string>
+    <string name="preset_success">Bookmark successfully added</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="prompt">Message</string>
     <string name="qq">QQ</string>
     <string name="qq_client_inavailable">Votre version QQ est trop ancienne ou non installée, vous devez installer pour pouvoir utiliser QQ！</string>
-    <string name="quality_guide_text">"Appuyez ici
-Définition en qualité HD, essayez la!"</string>
     <string name="qzone">Zone QQ</string>
     <string name="rate_dialog_left_btn_text">Pas vraiment</string>
     <string name="rate_dialog_msg">"Si vous êtes satisfait de YI Home, voulez-vous donner 5 étoiles à l'application ?"</string>
     <string name="rate_dialog_right_btn_text">Oui</string>
     <string name="reboot_message_send_success">"Redémarrage de la mise à jour de la caméra, passer à l'interface de lecture en attendant !"</string>
     <string name="record_time_too_short">"Le temps d'enregistrement est trop court, vous ne pouvez pas générer de fichiers !"</string>
+    <string name="recover_download_failed">Failed to download the firmware, please check you network and try again.</string>
     <string name="renren">Renren</string>
     <string name="repassword">Répétez le mot de passe</string>
     <string name="reset">Réinitialiser</string>
@@ -905,6 +961,7 @@ Si vous souhaitez utiliser la pleine capacité de la carte mémoire, nous vous r
     <string name="sense_high">"L'alerte sera déclenchée lorsqu'une légère activité sera détectée"</string>
     <string name="sense_low">"L'alerte sera déclenchée que lorsqu'une activité importante sera détectée"</string>
     <string name="sense_middle">"L'alerte sera déclenchée que lorsqu'une activité modérée sera détectée"</string>
+    <string name="set_failed">Setting failed</string>
     <string name="setting_alarm_time">"Réglez l'heure de l'alarme"</string>
     <string name="share_device">Camera Sharing</string>
     <string name="share_device_count">Shared to %1$d people</string>
@@ -936,9 +993,13 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="sure_to_region_set_roi">Do you want to turn on Region of Interest encoding?&lt;OK> to increase image clarity inside activity region&lt;Cancel> to distribute clarity evenly inside and outside activity region</string>
     <string name="sync_log">Synchronisation du journal</string>
     <string name="tab_camera">Caméra</string>
-    <string name="tab_message">Message</string>
+    <string name="tab_message">Alertes</string>
     <string name="tab_my">Profil</string>
-    <string name="tab_photos">Galerie</string>
+    <string name="tab_photos">Album</string>
+    <string name="talk_mode">Call mode</string>
+    <string name="talk_mode_phone">Hand-free</string>
+    <string name="talk_mode_set_title">Call Mode Setting</string>
+    <string name="talk_mode_speak">Intercom</string>
     <string name="tencentweibo">Weibo Tencent</string>
     <string name="terms_of_use">Terms of Use</string>
     <string name="text_login">Connexion</string>
@@ -1027,11 +1088,13 @@ Assurez-vous durant le processus, que la caméra ne s'éteigne pas !"</string>
     <string name="timezone_choose">Sélectionner le fuseau horaire</string>
     <string name="timezone_setting_failure">Sélection du fuseau horaire échouée</string>
     <string name="timezone_setting_success">Sélection du fuseau horaire réussie</string>
+    <string name="tip_camera_setting">Tap here to view camera settings</string>
+    <string name="tip_yuntaicamera">Tap to display navigation control</string>
     <string name="tips_approach_camera_to_router">Tips: Place camera close to router.</string>
     <string name="tips_camera_name">Veuillez entrez un nom de caméra</string>
     <string name="tips_save_password">Sauvegarder le mot de passe</string>
     <string name="tips_wifi_name">Veuillez vous connecter au réseau Wi-Fi</string>
-    <string name="tips_wifi_no_password_prompt">确定使用无密码Wi-Fi?</string>
+    <string name="tips_wifi_no_password_prompt">Are you sure you wish to connect to non-password-protected WiFi?</string>
     <string name="tips_wifi_password">Veuillez entrez le mot de passe Wi-Fi</string>
     <string name="tips_wifi_password_incorrect">Mot de passe Wi-Fi actuel non reconnu, veuillez le changer</string>
     <string name="tips_wifi_requirements_of_camera">Minimum network requirement</string>
@@ -1143,15 +1206,15 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="yi_user_agreement">I have read and agree to the <u><a href="agreementInternational://123">Terms of Use</a></u></string>
     <string name="yi_user_agreement_China">I read and agreed <u><a href="agreement://123">user agreement</a></u>&amp;<u><a href="policy://123">privacy policy</a></u></string>
     <string name="yi_user_banding_email">Enter bind e-mail</string>
-    <string name="yi_user_banding_phone">Enter bind phone number</string>
+    <string name="yi_user_banding_phone">Phone number</string>
     <string name="yi_user_bind_email_code_hint">Bind code</string>
     <string name="yi_user_btn_next">Next</string>
     <string name="yi_user_btn_reset">Reset Password</string>
     <string name="yi_user_btn_save">Save</string>
     <string name="yi_user_change_password_success">Change password successfully. Please login again.</string>
-    <string name="yi_user_change_password_title">Change password</string>
-    <string name="yi_user_code_hint">Code (click to refresh)</string>
-    <string name="yi_user_email_code_hint">Verification code(Case sensitive)</string>
+    <string name="yi_user_change_password_title">Change Password</string>
+    <string name="yi_user_code_hint">Code (tap to refresh))</string>
+    <string name="yi_user_email_code_hint">Verification code (Case sensitive)</string>
     <string name="yi_user_email_code_prompt">Verification code sent to your e-mail(%1$s) will expire in 10 mins</string>
     <string name="yi_user_email_hint">Enter email</string>
     <string name="yi_user_error_code">Invalid validation code</string>
@@ -1179,17 +1242,17 @@ Cliquez sur une carte pour visualiser l'image de la caméra."</string>
     <string name="yi_user_forget_password">Forgot password</string>
     <string name="yi_user_forgot_password">Forgot password</string>
     <string name="yi_user_login">Login with YI account</string>
-    <string name="yi_user_login_password_hint">Enter your password</string>
+    <string name="yi_user_login_password_hint">Password</string>
     <string name="yi_user_new_password2_hint">Confirm new password</string>
     <string name="yi_user_new_password_hint">New password</string>
     <string name="yi_user_nickname_hint">Username</string>
     <string name="yi_user_old_password_hint">Enter current password</string>
     <string name="yi_user_password_format">Password format:8 - 16 characters long, use at least three of the following types of characters: numbers, uppercase characters, lowercase characters, symbols</string>
-    <string name="yi_user_password_hint">Enter password</string>
+    <string name="yi_user_password_hint">Password</string>
     <string name="yi_user_phone_code_hint">SMS code</string>
     <string name="yi_user_phone_code_prompt">Verification code sent to your phone(%1$s) will expire in 10 mins</string>
-    <string name="yi_user_phone_num_email_hint">Enter your phone number/e-mail address</string>
-    <string name="yi_user_phone_num_hint">Enter your phone number</string>
+    <string name="yi_user_phone_num_email_hint">Phone/Email</string>
+    <string name="yi_user_phone_num_hint">Phone number</string>
     <string name="yi_user_register_ok">Register success</string>
     <string name="yi_user_register_success1">An activation link has been sent to your email address.</string>
     <string name="yi_user_register_success2">Confirm your registration within 30 minutes using the activation link sent to your email %1$s</string>
@@ -1200,17 +1263,17 @@ Or use a different email address and try Sign Up again."</string>
     <string name="yi_user_reset_password_desc">"Security code has been sent to your email
 (%1$s) 
 Please verify the code within 10 minutes"</string>
-    <string name="yi_user_reset_password_email">E-mail reset</string>
+    <string name="yi_user_reset_password_email">By Email</string>
     <string name="yi_user_reset_password_hand_in">Submit</string>
     <string name="yi_user_reset_password_ok">"Reset password successfully
  Please login again"</string>
-    <string name="yi_user_reset_password_phone_number">Phone number reset</string>
+    <string name="yi_user_reset_password_phone_number">By Phone</string>
     <string name="yi_user_retrieve_email_code">Verification email sent to your mailbox, please enter verification code</string>
     <string name="yi_user_retrieve_password">Reset Yi account password with verified e-mail</string>
     <string name="yi_user_save_fail">Failed</string>
     <string name="yi_user_save_ok">Saved</string>
     <string name="yi_user_security_code_expire">Verification code expired, please request again.</string>
-    <string name="yi_user_send_code">Send verification code</string>
+    <string name="yi_user_send_code">Send code</string>
     <string name="yi_user_sign_in">Login</string>
     <string name="yi_user_sign_up">Sign up</string>
     <string name="yi_user_sign_up_now">Sign up</string>
@@ -1225,25 +1288,7 @@ Please verify the code within 10 minutes"</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
-    <string name="cloud_order_cancel_failure">取消订单失败</string>
-    <string name="cloud_people_statistics_arrow_manual">服务说明</string>
-    <string name="cloud_people_statistics_arrow_region">统计区域设置</string>
-    <string name="cloud_people_statistics_arrow_schedule">人流量统计时段</string>
-    <string name="cloud_people_statistics_day_description1">今天累计人流量</string>
-    <string name="cloud_people_statistics_day_description2">今天人最多的时间</string>
-    <string name="cloud_people_statistics_monitor_area">设置人流统计监控区域</string>
-    <string name="cloud_people_statistics_month_description1">本月累计人流量</string>
-    <string name="cloud_people_statistics_month_description2">本月人最多时间</string>
-    <string name="cloud_people_statistics_switch_open">开启人流量统计</string>
-    <string name="cloud_people_statistics_switch_open_subtitle">开启后将暂停智能侦测报警</string>
-    <string name="cloud_people_statistics_switch_open_warning">开启后将自动关闭智能侦测报警</string>
-    <string name="cloud_people_statistics_title">人流量统计</string>
-    <string name="cloud_people_statistics_week_description1">最近一周累计人流量</string>
-    <string name="cloud_people_statistics_week_description2">最近一周人最多的时间</string>
-    <string name="cloud_video_download_notification_safe">安全通道下载中</string>
-    <string name="cloud_video_download_notification_title">正在下载云视频</string>
     <string name="ijkplayer_dummy" />
     <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
-    <string name="menu_faq">FAQ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
