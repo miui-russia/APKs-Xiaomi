@@ -12,12 +12,12 @@
     <string name="SDcard_tip_is_full">"Votre carte SD n'a pas assez d'espace pour certaines des caractéristiques Mi-Talk"</string>
     <string name="SDcard_tip_is_full_when_capture_image">"Merci de libérer plus d'espace sur la carte SD pour envoyer des dessins"</string>
     <string name="SDcard_tip_is_full_when_download_smiley">"Merci de libérer plus d'espace sur la carte SD pour plus d'émoticônes"</string>
-    <string name="SDcard_tip_is_full_when_gif">"Merci de libérer plus d'espace sur la carte SD pour envoyer des fichiers gif"</string>
+    <string name="SDcard_tip_is_full_when_gif">"Merci de libérer plus d'espace sur la carte SD pour envoyer des fihiers gif"</string>
     <string name="SDcard_tip_is_full_when_in_topic">"Merci de libérer de l'espace sur votre carte SD pour télécharger l'image"</string>
     <string name="SDcard_tip_is_full_when_in_wall">"Merci de libérer de l'espace sur la carte SD"</string>
     <string name="SDcard_tip_is_full_when_namecard">"Merci de libérer de l'espace sur la carte SD pour votre photo de profil"</string>
     <string name="SDcard_tip_is_full_when_take_photo">"Merci de libérer de l'espace sur la carte SD pour envoyer des images"</string>
-    <string name="SDcard_tip_is_full_when_voice">"Merci de libérer de l'espace sur la carte SD pour envoyer un message vocal/vidéo"</string>
+    <string name="SDcard_tip_is_full_when_voice">"Merci de libérer de l'espace sur la carte SD pour envoyer un message vocal/video"</string>
     <string name="SDcard_tip_when_choose_pic">"Vous avez besoin d'une carte SD pour sélectionner des photos dans la galerie"</string>
     <string name="SDcard_tip_when_click_face">"Vous avez besoin d'une carte SD avec assez d'espace libre pour sauvegarder plus d'émoticônes"</string>
     <string name="SDcard_tip_when_running">Carte SD introuvable, certaines fonctionnalités de Mi-Talk ne sont pas disponibles</string>
@@ -50,7 +50,7 @@
     <string name="accept">Accepter</string>
     <string name="accepted">Accepté</string>
     <string name="access_error">Erreur de fonctionnement, merci de vérifier votre réseau et réessayez</string>
-    <string name="account">Compte :</string>
+    <string name="account">Compte:</string>
     <string name="accpet_friend_succeeded">"Accepter la demande d'amis"</string>
     <string name="act_find_city_auto">Me localiser</string>
     <string name="act_find_city_locate_failed">Erreur de localisation</string>
@@ -96,8 +96,9 @@ Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot
     <string name="add_friend_sending_verification">Envoi de la demande…</string>
     <string name="add_friend_succeeded">Félicitation ! Vous êtes maintenant amis sur Mi-Talk !</string>
     <string name="add_friend_title">Envoyer un message à %s</string>
-    <string name="add_friend_too_many">"Désolé, vous avez dépassé le nombre maximum d'amis."</string>
+    <string name="add_friend_too_many">"Désolé, vous avez dépassé le nombre maximum du nombre d'amis."</string>
     <string name="add_group_description">Éditer à propos de</string>
+    <string name="add_invite_count">Add %1$d, Invite %2$d peoples success</string>
     <string name="add_itme_tilte">Ajouter</string>
     <string name="add_miliao_account_success">Ajout du compte Mi réalisé avec succès</string>
     <string name="add_new_company">Ajouter une entreprise</string>
@@ -106,7 +107,7 @@ Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot
     <string name="add_new_school">Ajouter une école</string>
     <string name="add_phone_contact">Contacts</string>
     <string name="add_phone_failed">"Erreur d'ajout"</string>
-    <string name="add_phone_succeeded">Mis à jour ! Vous allez recevoir une notification par SMS prochainement</string>
+    <string name="add_phone_succeeded">Mis à jour ! Vous allez recevoir une notification SMS prochainement</string>
     <string name="add_private_mail_box">Ajouter</string>
     <string name="add_reading_account">Souscrire</string>
     <string name="add_renren">Renren</string>
@@ -134,7 +135,8 @@ Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot
     <string name="age">Âge %d</string>
     <string name="agree">"D'accord"</string>
     <string name="agree_contact_licence">"Fusionner avec les contacts du carnet d'adresse"</string>
-    <string name="agree_private_licence">"J'ai lu et j'accepte"</string>
+    <string name="agree_private_licence">"J'ai lu et j'accepte
+"</string>
     <string name="alert_dialog_known">OK</string>
     <string name="all_all_hint">[Message à tous les membres]</string>
     <string name="all_friends">Tous les amis</string>
@@ -147,17 +149,17 @@ Merci de vous rappelez que vous ne pourrez vous connecter et restaurer votre mot
     <string name="already_open_manual_mode">"Déjà ouvert en mode manuel, l'adresse est %s"</string>
     <string name="anim_emoji_mall_paid">Acheté</string>
     <string name="anim_emoji_mall_pay">Acheter</string>
-    <string name="anim_emoji_mall_title">Boutique des émoticônes</string>
-    <string name="anime_author_key">Auteur : %1$s</string>
-    <string name="anime_cancel_download_tips">Confirmez pour annuler le téléchargement de cette émoticône ?</string>
+    <string name="anim_emoji_mall_title">Boutique des emoticons</string>
+    <string name="anime_author_key">Auteur: %1$s</string>
+    <string name="anime_cancel_download_tips">Confirmez pour annuler le téléchargement de cet emoticon ?</string>
     <string name="anime_cancel_list_text">Annuler</string>
     <string name="anime_cancel_title">Annuler</string>
-    <string name="anime_detail_title_key">Taille : %1$.2f Mo</string>
-    <string name="anime_fix_msg_key">"Pack émoticône détecté, %1$s endommagé
-taille : %2$.2f Mo"</string>
+    <string name="anime_detail_title_key">Taille: %1$.2f Mo</string>
+    <string name="anime_fix_msg_key">"Pack emoticon détecté, %1$s endommagé
+taille: %2$.2f Mo"</string>
     <string name="anime_fix_success">Réparé</string>
-    <string name="anime_fix_title">Réparer émoticônes</string>
-    <string name="anime_list_retry_text">"Échec d'obtention des informations de l'émoticône, 
+    <string name="anime_fix_title">Réparer emoticons</string>
+    <string name="anime_list_retry_text">"Échec d'obtention des informations de l'emoticon, 
 merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="animemoji_btn_coin">Mi-Crédits</string>
     <string name="animemoji_btn_delete">Supprimer</string>
@@ -165,11 +167,11 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="animemoji_btn_downloading">En cours</string>
     <string name="animemoji_btn_free">Gratuit</string>
     <string name="animemoji_btn_in_use">Utilisé</string>
-    <string name="animemoji_delete_confirm">Continuez pour effacer cette émoticône?</string>
+    <string name="animemoji_delete_confirm">Continuez pour effacer cet emoticon?</string>
     <string name="animemoji_detail_title">Détails</string>
     <string name="animemoji_entrance_title">Expression</string>
     <string name="animemoji_pay_free">Obtenir le lien de téléchargement</string>
-    <string name="animemoji_store_title">Boutique des émoticônes</string>
+    <string name="animemoji_store_title">Boutique des emoticons</string>
     <string name="animemoji_unzip_fail">Erreur de connexion, merci de réessayer</string>
     <string name="announce_deleted">Annonce déjà supprimé</string>
     <string name="answer_question">Répondre</string>
@@ -187,7 +189,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="app_deleted">Cette extension à été désinstallée</string>
     <string name="app_download_error_check_network">Échec de téléchargement</string>
     <string name="app_downloading">Téléchargement…</string>
-    <string name="app_exit_on_kick_off">"Votre compte Mi-Talk a été utilisé sur un autre appareil Android le %1$s à %2$s. Si cela n'est pas de votre fait, changer votre mot de passe dans les paramètres de votre compte."</string>
+    <string name="app_exit_on_kick_off">"Une connexion sur votre compte %1$s d'un autre appareil %2$s a été détecté, si cela n'est pas de votre fait, changer votre mot de passe dans les paramètres de votre compte."</string>
     <string name="app_force_upgrade">Mettez à jour Mi-Talk pour utiliser cette fonction</string>
     <string name="app_installing">Installation…</string>
     <string name="app_name">Mi-Talk</string>
@@ -201,7 +203,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="app_paused">En Pause</string>
     <string name="app_shortcut_created">Créer un raccourci</string>
     <string name="app_shortcut_error">Échec pour ajouter le raccourci, merci de réessayer</string>
-    <string name="app_size">Taille :</string>
+    <string name="app_size">Taille:</string>
     <string name="app_uninstalling_please_wait">Désinstallation…</string>
     <string name="app_unziping">Terminé…</string>
     <string name="app_update">Mise à jour</string>
@@ -211,20 +213,21 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="app_upgradeNo">Me le redemander plus tard</string>
     <string name="app_upgradeTitle">Application mise à jour</string>
     <string name="app_upgradeYes">Oui</string>
-    <string name="app_upgrade_additional_size">[Mise à jour]Installation taille : %.2fMo</string>
+    <string name="app_upgrade_additional_size">[Mise à jour]Installation taille: %.2fMo</string>
     <string name="app_xiezai">Désinstaller</string>
     <string name="apply_join_group_operation_success">"Envoyer votre candidature et attendez la confirmation de l'administrateur"</string>
     <string name="apply_join_muc">Demander à rejoindre le groupe</string>
     <string name="apply_once_again">Appliquer à nouveau</string>
     <string name="apply_reason">Envoyer une demande</string>
-    <string name="apply_reason_key">"Demande d'ajout :"</string>
+    <string name="apply_reason_key">"Demande d'ajout:"</string>
     <string name="apply_theme">Appliquer</string>
     <string name="approve_add_friend">Approuvé</string>
     <string name="archive_management_title">Tchats archivés</string>
     <string name="archive_robot_displayname">Tchats archivés</string>
     <string name="archived_failed">Échec, réessayer plus tard</string>
+    <string name="archived_failed_netWork_error">Échec, vérifier votre réseau</string>
     <string name="archived_list">Liste archivée</string>
-    <string name="archived_new_msg_hint">Nouveau message :</string>
+    <string name="archived_new_msg_hint">Nouveau message:</string>
     <string name="archived_no_msg_hint">Aucun message</string>
     <string name="archived_remind_frequency">Se souvenir fréquemment</string>
     <string name="archived_remove_failed">Échec de déplacement</string>
@@ -250,7 +253,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="auto_check_sd_card_space_dialog_ok_btn">Nettoyer maintenant</string>
     <string name="auto_check_sd_card_space_dialog_title">Notifications</string>
     <string name="av_switch_front_hint">Caméra frontale</string>
-    <string name="av_switch_rear_hint">Caméra arrière</string>
+    <string name="av_switch_rear_hint">Camera arrière</string>
     <string name="avatar_cache_cleared">Nettoyé</string>
     <string name="award_detial">Détails du Prix</string>
     <string name="award_info">Informations du Prix</string>
@@ -277,13 +280,13 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="barcode_not_found">QR code invalide</string>
     <string name="base_test_recommend">Vous pourriez être intéressé par</string>
     <string name="base_test_tips">Top des groupes qui pourraient vous intéresser</string>
-    <string name="baseshareactivity_email">MAIL :</string>
-    <string name="baseshareactivity_name">NOM :</string>
-    <string name="baseshareactivity_phone">TELEPHONE :</string>
+    <string name="baseshareactivity_email">MAIL:</string>
+    <string name="baseshareactivity_name">NOM:</string>
+    <string name="baseshareactivity_phone">TELEPHONE:</string>
     <string name="basic_info">Informations de base</string>
     <string name="batch">Lots</string>
     <string name="batch_cancel_select">Annuler</string>
-    <string name="batch_cancel_select_all">Désélectionner</string>
+    <string name="batch_cancel_select_all">Déselectionner</string>
     <string name="batch_delete_all_sms_msg_alert">Supprimer cette conversation ?</string>
     <string name="batch_delete_n">Effacement(%d sélectionné)</string>
     <string name="batch_delete_n_conversation">Supprimer %d ?</string>
@@ -297,9 +300,9 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="bbs_detail_first_page">Première page</string>
     <string name="bbs_detail_last_page">Dernière page</string>
     <string name="bbs_detail_nameless">Anonyme</string>
-    <string name="bbs_detail_net_error">Erreur de connexion, merci de vérifier vos paramètres de connexion</string>
+    <string name="bbs_detail_net_error">Erreur de connexion, merci de vérifier vos paramètrages de connexion</string>
     <string name="bbs_detail_next_page">Suivant</string>
-    <string name="bbs_detail_page_number">Page%d</string>
+    <string name="bbs_detail_page_number">Page %d</string>
     <string name="bbs_detail_pre_page">Précédente</string>
     <string name="bbs_detail_process">Chargement</string>
     <string name="bbs_detail_pull_pre_page">Glissez vers le bas afin de charger la page précédente</string>
@@ -329,8 +332,8 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="bbs_publish_title_hint">Entrez un titre</string>
     <string name="bbs_register_empty">Le surnom ne doit pas être vide</string>
     <string name="bbs_register_succeed">Paramétrage du surnom réussi !</string>
-    <string name="bbs_reply_count">Répondus : %d</string>
-    <string name="bbs_reply_from">Cités : %s</string>
+    <string name="bbs_reply_count">Répondus:%d</string>
+    <string name="bbs_reply_from">Cités: %s</string>
     <string name="bbs_reply_hint">Répondus</string>
     <string name="bbs_reply_save_draft">Réponse enregistrée en tant que brouillon</string>
     <string name="bbs_reply_someone">Réponse %s</string>
@@ -340,7 +343,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="bbs_threads_author_tag_2">2ème place</string>
     <string name="bbs_threads_author_tag_3">3ème place</string>
     <string name="bbs_threads_author_tag_4">4ème place</string>
-    <string name="bbs_view_count">Vues : %d</string>
+    <string name="bbs_view_count">Vues: %d</string>
     <string name="begin_to_batch_delete_sms">Commencer la suppression</string>
     <string name="begin_to_export_avatars">"Synchronisation des photos de vos contacts de Mi-Talk vers le carnet d'adresse…"</string>
     <string name="big_group_edit_btn_done">Sauvegarder</string>
@@ -422,16 +425,16 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="btn_cancel">Annuler</string>
     <string name="bubble_subscribe_forward_source">De %s</string>
     <string name="bubble_subscribe_show_original_btn">Afficher tout</string>
-    <string name="buddy_message_search_account">Compte Mi :</string>
+    <string name="buddy_message_search_account">Compte Mi:</string>
     <string name="buddy_message_search_buddy_title">Chercher contacts</string>
     <string name="buddy_message_search_message_title">Historique des messages en Local</string>
-    <string name="buddy_message_search_muc_account">groupe ID :</string>
-    <string name="buddy_message_search_muc_member">Membre :</string>
+    <string name="buddy_message_search_muc_account">groupe ID:</string>
+    <string name="buddy_message_search_muc_member">Membre:</string>
     <string name="buddy_message_search_muc_member_title">Rechercher groupe/Groupe tchats</string>
     <string name="buddy_message_search_mutil_message">%1$d enregistrements trouvés en relation avec“%2$s“</string>
     <string name="buddy_message_search_mutil_message_header">Enregistrements trouvés en relation avec“</string>
     <string name="buddy_message_search_mutil_message_tail">“</string>
-    <string name="buddy_message_search_service">Abonnement ID :</string>
+    <string name="buddy_message_search_service">Abonnement ID:</string>
     <string name="buddy_message_search_web_search_text">"Recherche d'ID en relation avec “%s”"</string>
     <string name="buddy_message_search_web_title">Recherche Web</string>
     <string name="buddy_search_header_added_me">Demande reçue</string>
@@ -466,7 +469,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="burn_msg_show_text">【Détruire après lecture】La version actuelle de Mi-Talk ne supporte pas ce type de messages</string>
     <string name="buy_group_tips">Payez 10 Mi-Crédits?</string>
     <string name="buy_group_with_midian">Créer un groupe avec les Mi Points</string>
-    <string name="bypass">Quitter</string>
+    <string name="bypass">Quitter>></string>
     <string name="call_audio_tip_when_voice">Record peut pas être utilisé dans un audio-appel</string>
     <string name="call_op_audio_accept">Réponse vocale</string>
     <string name="call_op_cancel">Annuler</string>
@@ -499,7 +502,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="cannot_report_self">"Vous n'avez pas les droits pour le signaler"</string>
     <string name="change_bkg_oom">"Pas assez d'espace pour changer le fond d'écran, libérez de la mémoire et réessayez."</string>
     <string name="change_one_code">Changer</string>
-    <string name="change_password_new">Nouveau mot de passe :</string>
+    <string name="change_password_new">Nouveau mot de passe:</string>
     <string name="change_pwd">Changer mot de passe</string>
     <string name="change_secret_account_unsecret_tips">Vous serez redirigé vers une page Web pour achever ce processus</string>
     <string name="change_secret_accout_email_tips">"Nous sommes sur le point d'ouvrir un navigateur Web afin de compléter ce processus. Veuillez noter que les informations actuelles de votre compte seront supprimées après ce changement. Voulez-vous continuer ?"</string>
@@ -509,24 +512,24 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="changing_pwd_succeed">Mot de passe mis à jour</string>
     <string name="channel">Messages fous</string>
     <string name="channel_empty">Non %s</string>
-    <string name="channel_group_publisher">Posté par : %s</string>
+    <string name="channel_group_publisher">Posté par: %s</string>
     <string name="channel_new_post_count">"%d nouveaux messages aujourd'hui"</string>
-    <string name="channel_owner">Propriétaire : %s</string>
+    <string name="channel_owner">Propriétaire:%s</string>
     <string name="channel_publish">Poster un nouveau sondage</string>
-    <string name="channel_publish_book_author">Auteur : %s</string>
+    <string name="channel_publish_book_author">Auteur: %s</string>
     <string name="channel_publish_book_hint">Écrire quelque chose à propos du livre</string>
     <string name="channel_publish_image_hint">Dire quelque chose</string>
     <string name="channel_publish_movie_hint">Écrire quelque chose à propos de ce film</string>
-    <string name="channel_publish_movie_info">"Réalisateur : %1$s
+    <string name="channel_publish_movie_info">"Réalisateur: %1$s
  Rôles principaux: %2$s"</string>
-    <string name="channel_publish_music_artist">%1$s | Du : %2$s thème de la chanson</string>
+    <string name="channel_publish_music_artist">%1$s | Du: %2$s thème de la chanson</string>
     <string name="channel_publish_music_hint">Ecrire quelque chose à propos de la chanson</string>
     <string name="channel_publish_text_hint">Entrer du texte</string>
     <string name="channel_publish_title">Sondage</string>
     <string name="channel_publish_vote_hint">Entrer ici votre sondage</string>
     <string name="channel_publish_vote_option1_hint">Option 1 (max 16 caractères)</string>
     <string name="channel_publish_vote_option2_hint">Option 2</string>
-    <string name="channel_publish_vote_option3_hint">Option 3</string>
+    <string name="channel_publish_vote_option3_hint">Options 3</string>
     <string name="channel_publish_vote_option4_hint">Option 4</string>
     <string name="channel_publish_vote_option_add">Ajouter une option</string>
     <string name="channel_vote_count">%d votes</string>
@@ -535,8 +538,8 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="chat_bottom_add_video_talk_btn">Vidéo</string>
     <string name="chat_group">Inviter</string>
     <string name="chat_record_file_header_part_1_buddy">[Mi-Talk] Conversation avec %s</string>
-    <string name="chat_record_file_header_part_1_group_and_muc">[Mi-Talk]Nom du groupe : %s</string>
-    <string name="chat_record_file_header_part_2">Sauvgardé : %s</string>
+    <string name="chat_record_file_header_part_1_group_and_muc">[Mi-Talk]Nom du groupe: %s</string>
+    <string name="chat_record_file_header_part_2">Sauvgardé: %s</string>
     <string name="check_bind_dialog_cancel_button">Annuler</string>
     <string name="check_bind_dialog_email_button">Activer email</string>
     <string name="check_bind_dialog_phone_button">Activer numéro de téléphoner</string>
@@ -579,7 +582,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="chose_buddy_already_exist_private_mailbox">Déjà existant dans la boîte de réception privée</string>
     <string name="chose_muc_category">Intérêt</string>
     <string name="chose_muc_label">Ajouté un titre</string>
-    <string name="chose_muc_position">Sélectionnez un groupe local</string>
+    <string name="chose_muc_position">Sélectionnez une groupe des localisations</string>
     <string name="chose_one_buddy_start_private_mailbox">Sélectionnez une boîte de réception privée</string>
     <string name="chose_pic_quality_gaoqing">Haute qualité</string>
     <string name="chose_pic_quality_shengliu">Mode de sauvegarde des données</string>
@@ -656,7 +659,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="complete_information">"Pas assez d'informations"</string>
     <string name="complete_information_msg_receive">Remplissez votre profil</string>
     <string name="complete_information_msg_sned">"Hé, j'aimerais en savoir un peu plus sur vous. Pourriez-vous remplir votre profil avec plus de détails ?"</string>
-    <string name="completeinfo_uuid_tips">Identifiant Mi :</string>
+    <string name="completeinfo_uuid_tips">Identifiant Mi:</string>
     <string name="compose_message_menu_change_bkg">"Changer le fond d'écran"</string>
     <string name="compose_message_menu_check_name_card">Voir le profil</string>
     <string name="compose_message_menu_edit">Paquet supprimé</string>
@@ -720,7 +723,7 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="contact_or_not">"Ne pas synchroniser vos contacts du carnet d'adresse de votre téléphone ?"</string>
     <string name="contact_read_warning">Mi-Talk accèdera à vos contacts, continuer ?</string>
     <string name="contact_tab_create_private_muc">Créer un groupe de discussion</string>
-    <string name="contact_tab_miliao_id">Identifiant Mi : %s</string>
+    <string name="contact_tab_miliao_id">Identifiant Mi: %s</string>
     <string name="contact_tab_zone">Ma zone</string>
     <string name="contacts">Contacts</string>
     <string name="contacts_search_hint">Cherchez par identifiant Mi/nom</string>
@@ -797,13 +800,13 @@ merci de vérifier votre connexion et de réessayer à nouveau"</string>
     <string name="create_group_step_1_title">Editer profile</string>
     <string name="create_group_step_one_should_chose_type">Sélectionnez le type de groupe</string>
     <string name="create_group_tips0">Dépenser %s Mi-Credits pour créer le groupe</string>
-    <string name="create_group_tips1">Comment créer des groupes</string>
+    <string name="create_group_tips1">Comment par créer des groupes</string>
     <string name="create_group_tips2">Quels sont les groupes ?</string>
     <string name="create_group_title_tips">Créer</string>
     <string name="create_group_you_has_created">Créer par moi</string>
     <string name="create_muc_add_info_des_hint">Entrez la description du groupe</string>
     <string name="create_muc_add_info_input_des">À propos de ce groupe</string>
-    <string name="create_muc_add_info_input_des_0">Contacter le créateur du groupe</string>
+    <string name="create_muc_add_info_input_des_0">Contactez-créateur du groupe</string>
     <string name="create_muc_add_info_title">Profil du Groupe</string>
     <string name="create_muc_add_info_tuijian">Sélectionnez un type</string>
     <string name="create_muc_choose_poi_message">La localisation ne peut pas être modifié après que le groupe soit créé</string>
@@ -846,7 +849,7 @@ Un identifiant ne peut créer qu'un groupe proximité"</string>
     <string name="create_nearby_group">Créer un groupe basé sur la localisation</string>
     <string name="create_nearby_group_bind_failed">Activer un compte</string>
     <string name="create_nearby_group_bind_limit">Liez votre téléphone et email en premier</string>
-    <string name="create_nearby_group_desc_bottom_tip">Quel genre de membres recherchez vous ?</string>
+    <string name="create_nearby_group_desc_bottom_tip">Quel genre de membres que recherchez vous ?</string>
     <string name="create_nearby_group_desc_et_hint">Entrez une description du groupe</string>
     <string name="create_nearby_group_failed">Impossible de créer un groupe</string>
     <string name="create_nearby_group_limit">Vous ne pouvez pas ajouter plus de %1$d membres à un groupe basé sur la localisation (vous avez déjà ajouté %2$d membres)</string>
@@ -884,7 +887,7 @@ Vit à Guomao"</string>
     <string name="crop_title">Déplacer et recadrer</string>
     <string name="curent_password">Actuel</string>
     <string name="current_member_count_hint">%1$s à %2$s maintenant, les membres comptent limite est %3$s</string>
-    <string name="data_magrationing" formatted="false">Mise à jour des données... %d%</string>
+    <string name="data_magrationing">Mise à jour des données... %s</string>
     <string name="date_format_str">dd/MM/yyyy</string>
     <string name="day">Jour</string>
     <string name="db_recovery_tip">"Une erreur de base de données s'est produite. Accédez aux paramètres et retélécharger les infos du contact."</string>
@@ -925,12 +928,12 @@ Vit à Guomao"</string>
     <string name="delete_thread_alert">"Suppression de l'enregistrement du tchat avec %s?"</string>
     <string name="delete_unbinded_email_succeeded">Supprimé</string>
     <string name="delete_unbinded_phone_succeeded">Supprimé</string>
-    <string name="delete_vote_msg_alert">Continuer pour supprimer ce vote ?</string>
+    <string name="delete_vote_msg_alert">Continuer pour supprimer ce vote vote ?</string>
     <string name="delete_vote_msg_failed">Impossible de supprimer ce vote, merci de vérifier votre connexion réseau et réessayez.</string>
     <string name="delete_vote_msg_succeeded">Vote supprimé</string>
     <string name="delete_wall_msg_alert">Supprimer ce message ?</string>
     <string name="delete_wall_msg_failed">Impossible de supprimer les messages</string>
-    <string name="delete_wall_msg_succeeded">Le message a été supprimé</string>
+    <string name="delete_wall_msg_succeeded">Le message à été supprimé</string>
     <string name="delete_wall_reply">Supprimer la réponse</string>
     <string name="delete_wall_reply_alert">Supprimer ce commentaire ?</string>
     <string name="deleting">Suppression…</string>
@@ -951,7 +954,7 @@ Vit à Guomao"</string>
     <string name="dialog_setting">Mettre en place</string>
     <string name="dingyue_failed">Impossible de vous abonner</string>
     <string name="dingyue_succeed">Vous avez réussi à vous abonner à %s</string>
-    <string name="disable_barcode_failed">Pas réussi à désactiver le code QR : %s</string>
+    <string name="disable_barcode_failed">Pas réussi à désactiver le code QR:%s</string>
     <string name="disable_barcode_success">Pas réussi à désactiver le code QR</string>
     <string name="disabled_shortcut">Raccourci échoué</string>
     <string name="discovery_added">Ajouté</string>
@@ -986,14 +989,14 @@ Vit à Guomao"</string>
     <string name="discovery_nearby_poi_load_empty">Rien trouvé</string>
     <string name="discovery_nearby_poi_load_failed">Impossible de charger les localisations</string>
     <string name="discovery_nearby_poi_search_empty">Rien trouvé</string>
-    <string name="discovery_rank_muc_load_all">Aucun groupe de recommandé</string>
+    <string name="discovery_rank_muc_load_all">Aucune groupe de recommandée</string>
     <string name="discovery_recommend_conatct_done">"Recherche... nous vous informerons si nous trouvons quelqu'un"</string>
     <string name="discovery_recommend_distance_kilometer">%d km</string>
     <string name="discovery_recommend_distance_meter">%d m</string>
     <string name="discovery_recommend_distance_unknown">Distance inconnue</string>
     <string name="discovery_recommend_empty_loading">Chargement…</string>
     <string name="discovery_recommend_empty_loading_failed">Impossible de charger. Vérifiez votre connexion réseau et réessayez</string>
-    <string name="discovery_recommend_load_all">"C'est tout pour l'instant !"</string>
+    <string name="discovery_recommend_load_all">"Cest tout pour l'instant !"</string>
     <string name="discovery_recommend_load_failed">Impossible de charger les suggestions</string>
     <string name="discovery_recommend_loading">Chargement…</string>
     <string name="discovery_recommend_mf">%d amis communs</string>
@@ -1006,7 +1009,7 @@ Vit à Guomao"</string>
     <string name="discovery_recommend_nearby">Proche</string>
     <string name="discovery_recommend_new">%d suggestions</string>
     <string name="discovery_recommend_no_new">Pas de nouvelles suggestions</string>
-    <string name="discovery_recommend_recommend_more">Plus de </string>
+    <string name="discovery_recommend_recommend_more">Plus de ></string>
     <string name="discovery_recommend_recommend_muc">Groupes suggérés</string>
     <string name="discovery_recommend_recommend_nearby_muc">Groupes à proximité</string>
     <string name="discovery_recommend_recommend_nearby_people">Personnes à proximité</string>
@@ -1030,7 +1033,7 @@ Vit à Guomao"</string>
     <string name="download">Télécharger</string>
     <string name="download_error">Le téléchargement a échoué. Vérifiez votre connexion réseau et réessayez</string>
     <string name="download_file_failed">Échec du téléchargement du fichier</string>
-    <string name="download_from_link">Téléchargé depuis le lien : %s</string>
+    <string name="download_from_link">Téléchargé depuis le lien: %s</string>
     <string name="download_miba">Télécharger MiBa</string>
     <string name="download_miba_progress">%d</string>
     <string name="download_offline_failed_expired">"Le fichier n'est pas à jour"</string>
@@ -1046,7 +1049,7 @@ Vit à Guomao"</string>
     <string name="duplicate_add_error">Vous et %s êtes maintenant amis !</string>
     <string name="duplicated_dingyue">Vous avez déjà fait une souscription pour %s</string>
     <string name="dynamic">RSS</string>
-    <string name="each_relation">Amis communs :</string>
+    <string name="each_relation">Amis communs:</string>
     <string name="edit">Éditer</string>
     <string name="edit_avatar">"Éditer l'image"</string>
     <string name="edit_channel_failed">Impossible de modifier la chaîne</string>
@@ -1070,7 +1073,7 @@ Vit à Guomao"</string>
     <string name="email_cannot_be_empty">"L'adresse mail est manquante"</string>
     <string name="email_friend">"Vous avez les informations de l'adresse mail de cet utilisateur"</string>
     <string name="email_invite_warning">Une invitation sera envoyé à votre ami automatiquement, voulez-vous continuer ?</string>
-    <string name="email_nonencrypt_tips">Les autres utilisateurs ne seront pas en mesure de voir cette info</string>
+    <string name="email_nonencrypt_tips">Les autres utilisateurs ne sera pas en mesure de voir cette info</string>
     <string name="email_not_for_secret">"Nous sommes désolé de vous informer que ce n'est pas l'adresse mail par défaut."</string>
     <string name="email_unbinded">"L'adresse mail n'a pas été enregistrée"</string>
     <string name="email_verification_tips">"Vérifiez vos informations d'adresse mail pour permettre à plus de gens de vous trouver sur Mi-Talk."</string>
@@ -1126,7 +1129,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="exit_group_union">Quitter le groupe</string>
     <string name="exiting_group">Quitter</string>
     <string name="export_avatars_succeeded">Terminé !</string>
-    <string name="export_chat_record_audio_remind_msg">Notification : %s</string>
+    <string name="export_chat_record_audio_remind_msg">Notification: %s</string>
     <string name="export_chat_record_content">Exporter la conversation vers %s ?</string>
     <string name="export_chat_record_failure_tip_1">"Pas assez d'espace sur la carte SD"</string>
     <string name="export_chat_record_failure_tip_2">Une erreur est survenue. Vérifiez si votre carte SD est correctement montée</string>
@@ -1135,7 +1138,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="export_chat_record_sd_tip_2">"Impossible d'utiliser la carte SD."</string>
     <string name="export_chat_record_start_tip">Exportation…</string>
     <string name="export_chat_record_success_tip">Exportation terminée</string>
-    <string name="export_chat_record_text_remind_msg">Notification : Heure : %1$s, Contenu : %2$s</string>
+    <string name="export_chat_record_text_remind_msg">Notification: Heure: %1$s, Contenu: %2$s</string>
     <string name="export_chat_record_title">Exporter cette conversation</string>
     <string name="export_to_contact">Synchroniser photo de profil</string>
     <string name="export_to_contact_detail">"Souhaitez-vous synchroniser les images des contacts par défaut de Mi-Talk avec le carnet d'adresse du téléphone locale ?"</string>
@@ -1143,7 +1146,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="failed_open_camera">"L'ouverture du système de la caméra a échoué"</string>
     <string name="failed_open_camera_broken">Erreur du système de la caméra</string>
     <string name="failed_to_get_tags">Impossible de se connecter au réseau</string>
-    <string name="fascination_key">Charisme : %1$d</string>
+    <string name="fascination_key">Charisme: %1$d</string>
     <string name="fascination_value">Charisme</string>
     <string name="fast_search">Recherche</string>
     <string name="fast_search_conversation">Recherche</string>
@@ -1169,7 +1172,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="file">Fichiers</string>
     <string name="file_category_edittext_hint">Type de recherche</string>
     <string name="file_category_empty_tip">"Le Fichier n'existe pas"</string>
-    <string name="file_create_time">Heure de création :</string>
+    <string name="file_create_time">Heure de création:</string>
     <string name="file_explorer_item_invalid">"fichier invalide, merci d'essayer un nouveau fichier !"</string>
     <string name="file_explorer_item_itemName0">Application</string>
     <string name="file_explorer_item_itemName1">Documents</string>
@@ -1184,18 +1187,18 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="file_is_will_expired">" [%s maturité]"</string>
     <string name="file_not_exist">"Le Fichier n'existe pas"</string>
     <string name="file_not_exist_toast">"La photo n'existe pas"</string>
-    <string name="file_path">"Chemin d'accès :"</string>
-    <string name="file_size">Taille :</string>
+    <string name="file_path">"Chemin d'accès:"</string>
+    <string name="file_size">Taille:</string>
     <string name="file_size_exceed_threshold">Merci de sélectionner un fichier plus petit que 10Mo</string>
-    <string name="file_title">Nom :</string>
+    <string name="file_title">Nom:</string>
     <string name="file_type_apk">[App]</string>
     <string name="file_type_doc">[Documents]</string>
     <string name="file_type_music">[Musique]</string>
     <string name="file_type_other">[Fichiers]</string>
     <string name="file_type_photo">[Photos]</string>
     <string name="file_type_video">[Vidéos]</string>
-    <string name="file_upload_failed">Chargement du fichier échouée</string>
-    <string name="file_width_height">Taille :</string>
+    <string name="file_upload_failed">Chargement du fichier écouée</string>
+    <string name="file_width_height">Taille:</string>
     <string name="film_threate_title">Théâtre Web</string>
     <string name="filter">Filtre</string>
     <string name="filter_error">"Impossible d'utiliser ce filtre"</string>
@@ -1262,7 +1265,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="forgot_password">Mot de passe oublié ?</string>
     <string name="forgot_password_in_login">Mot de passe oublié</string>
     <string name="fourth_prize">Quatrième prix</string>
-    <string name="fr_notificaiton_contact_name">Contact du téléphone : %s</string>
+    <string name="fr_notificaiton_contact_name">Contact du téléphone: %s</string>
     <string name="fr_notificaiton_from_dynamic">Statut</string>
     <string name="free">Gratuit</string>
     <string name="free_sms">SMS gratuits</string>
@@ -1301,8 +1304,8 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="friend_list_unsubscribe">Se désabonner</string>
     <string name="friend_mayknow">Suggestion</string>
     <string name="friend_no_data">Vide</string>
-    <string name="friend_recommend_bubble_UUID">(Identifiant Mi : %s)</string>
-    <string name="friend_recommend_robot_conversation_head">Nom : %1$s, Identifiant Mi : %2$s,%3$s</string>
+    <string name="friend_recommend_bubble_UUID">(Identifiant Mi: %s)</string>
+    <string name="friend_recommend_robot_conversation_head">Nom: %1$s, Identifiant Mi:%2$s,%3$s</string>
     <string name="friend_relation_colike">Cette personne vous apprécie aussi</string>
     <string name="friend_req">"Demande d'amis"</string>
     <string name="friend_req_notif">%1$s demandes de connexion avec vous sur Mi-Talk</string>
@@ -1319,7 +1322,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="friends_in_group">Contacts dans ce groupe (%s)</string>
     <string name="friends_mayknow">Recommandé</string>
     <string name="from_share">%s partagé</string>
-    <string name="from_topic">Sujet : %s</string>
+    <string name="from_topic">Sujet: %s</string>
     <string name="function_setting">Paramètres</string>
     <string name="gain">Obtenir</string>
     <string name="game_center">Jeux</string>
@@ -1339,9 +1342,9 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="game_detail_evaluating_btn">Évaluation</string>
     <string name="game_detail_invalid_url">URL non valide, veuillez rafraichir et réessayer</string>
     <string name="game_detail_rank_muc_buddy">Classement du membre du groupe</string>
-    <string name="game_detail_rank_muc_from">Depuis : %s</string>
+    <string name="game_detail_rank_muc_from">Depuis:%s</string>
     <string name="game_detail_ranking_btn">Classement des amis</string>
-    <string name="game_detail_ranking_empty">Soyez le premier à joueur au jeu</string>
+    <string name="game_detail_ranking_empty">Soyez le premier à joueur à jeu</string>
     <string name="game_detail_ranking_error">Impossible de récupérer les informations de classement, veuillez vérifier votre réseau et réessayez</string>
     <string name="game_detail_start_btn">Démarrer</string>
     <string name="game_detail_title">Détails</string>
@@ -1351,10 +1354,10 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="game_fri_count">%d amis jouent</string>
     <string name="game_install_btn">Installer</string>
     <string name="game_install_completed_title">%s installé</string>
-    <string name="game_rank">N° %d</string>
+    <string name="game_rank">"N° %d"</string>
     <string name="game_rank_no">Pas de classement</string>
     <string name="game_retry_text">Demande échouée , vérifiez vos connexions et essayez à nouveau</string>
-    <string name="game_size">%dMo</string>
+    <string name="game_size">%d Mo</string>
     <string name="game_start_btn">Démarrer</string>
     <string name="game_tab_all_games">Vos amis jouent</string>
     <string name="game_tab_category">Catégories</string>
@@ -1407,14 +1410,14 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gif_retake">Refaire</string>
     <string name="gif_reverse_order">Inversé</string>
     <string name="gif_select_minimal_frame_hint">Min. %1$d images</string>
-    <string name="gif_size_estimation_msg">Taille : %1$dKo</string>
+    <string name="gif_size_estimation_msg">Taille: %1$dKo</string>
     <string name="gif_speed_fast">Rapide</string>
     <string name="gif_speed_slow">Lent</string>
     <string name="gift_activity_end">Promotion terminée</string>
     <string name="gift_activity_intro"><u>Détails de la promotion</u></string>
     <string name="gift_activity_login_failed">Échec de la connexion</string>
     <string name="gift_activity_login_progress">Connexion…</string>
-    <string name="gift_activity_prize">Prix :</string>
+    <string name="gift_activity_prize">Prix:</string>
     <string name="gift_activity_signup_comment">"Votre voiture sera dans le jeu après l'inscription"</string>
     <string name="gift_activity_signup_confirm">Confirmer</string>
     <string name="gift_activity_signup_failed">Inscription échouée</string>
@@ -1429,7 +1432,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_activity_status_end_not_signup">La promotion a pris fin</string>
     <string name="gift_activity_status_not_signup">Inscriptions fermées</string>
     <string name="gift_activity_status_prepare">Bientôt disponible</string>
-    <string name="gift_activity_status_prepare_today" formatted="false">"Aujourd'hui%d : %02d les inscriptions débutes"</string>
+    <string name="gift_activity_status_prepare_today" formatted="false">"Aujourd'hui%d:%02d les inscriptions débutes"</string>
     <string name="gift_activity_status_progress">Rejoindre</string>
     <string name="gift_activity_status_reward">Obtenir les récompenses</string>
     <string name="gift_activity_status_signup">"S'inscrire maintenant"</string>
@@ -1438,8 +1441,10 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_draw">Tirage au sort</string>
     <string name="gift_exchange_blue_gem_confirm">Confirmer</string>
     <string name="gift_exchange_blue_gem_exchange_success">Échanger les succès</string>
-    <string name="gift_exchange_money_tips">%1$s insuffisant. %2$d %3$s nécessaire pour monter de niveau. Mon%4$s : %5$d</string>
-    <string name="gift_exp" formatted="false">Niveau : %d（Expérience : %s）</string>
+    <string name="gift_exchange_money_tips">"%1$s insuffisant. 
+%2$d %3$s nécessaire pour monter de niveau. 
+Mon %4$s:%5$d"</string>
+    <string name="gift_exp" formatted="false">Niveau: %d（Expérience: %s）</string>
     <string name="gift_game_list">Obtenir des avantages</string>
     <string name="gift_game_res_download_package">Chargement（%.1f%%）</string>
     <string name="gift_game_res_download_package1">Chargement（%d o）</string>
@@ -1457,14 +1462,14 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_game_title_3">Princesse</string>
     <string name="gift_game_title_none">Bientôt disponible</string>
     <string name="gift_gem_mall">Gemmes Bleues</string>
-    <string name="gift_gold">Or : %s</string>
+    <string name="gift_gold">Or: %s</string>
     <string name="gift_item_upgrade_btn">Améliorer</string>
     <string name="gift_item_upgrade_buy_cost">Acheter %s</string>
     <string name="gift_item_upgrade_cancel_btn">Annuler</string>
     <string name="gift_item_upgrade_confirm_btn">Confirmer</string>
     <string name="gift_item_upgrade_confirm_title">amélioré%s</string>
-    <string name="gift_item_upgrade_content" formatted="false">"Objet amélioré : %s 
-%s"</string>
+    <string name="gift_item_upgrade_content" formatted="false">"Objet amélioré:%s 
+ %s"</string>
     <string name="gift_item_upgrade_glod_exchange_btn">Échanger Glod</string>
     <string name="gift_item_upgrade_glod_not_enough">Glod insuffisant</string>
     <string name="gift_item_upgrade_levelup_btn">Comment améliorer</string>
@@ -1484,8 +1489,8 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_mibi_quering">Questionnement…</string>
     <string name="gift_mibi_query_failed">Échec</string>
     <string name="gift_mibi_recharge">Mi-Crédit</string>
-    <string name="gift_mibi_title">Mi-Crédit :</string>
-    <string name="gift_my_mibi">Mes Mi-Crédit :</string>
+    <string name="gift_mibi_title">Mi-Crédit:</string>
+    <string name="gift_my_mibi">Mes Mi-Crédit:</string>
     <string name="gift_rank">Classement</string>
     <string name="gift_rank_charisma">Classement par charisme</string>
     <string name="gift_rank_lucky">Classement par chance</string>
@@ -1495,7 +1500,7 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_rank_strengthen_lucky">Luck up</string>
     <string name="gift_rank_strengthen_lucky_bei">%d times</string>
     <string name="gift_rank_strengthen_lucky_des">"Vous avez de plus grandes chances de gagner à la loterie aujourd'hui%d"</string>
-    <string name="gift_rank_strengthen_lucky_title">Points de chance :</string>
+    <string name="gift_rank_strengthen_lucky_title">Points de chance:</string>
     <string name="gift_rank_strengthen_network_failed">Réseau non disponible, merci de réssayer plus tard</string>
     <string name="gift_rank_strengthen_none">Power-up échoué, essayer plus la prochaine fois</string>
     <string name="gift_rank_strengthen_one_key">Power-up en un click</string>
@@ -1509,19 +1514,19 @@ Voir qui de vos contacts utilise déjà Mi-Talk"</string>
     <string name="gift_type_sapphire_count">Sapphirex %d</string>
     <string name="gift_upgrade">Equipement</string>
     <string name="gift_user_info">Profile</string>
-    <string name="gift_user_info_charisma">Charisme : %d</string>
-    <string name="gift_user_info_gem_blue">Gemmes bleues : %d</string>
-    <string name="gift_user_info_gem_red">Gemmes rouges : %d</string>
-    <string name="gift_user_info_ingot">Lingot : %d</string>
-    <string name="gift_user_info_lucky">Points de chance : %d</string>
-    <string name="gift_user_info_lv_info">NV%d</string>
-    <string name="gift_user_info_lv_text">Niveau :</string>
-    <string name="gift_user_info_point">Points : %d</string>
-    <string name="gift_user_info_tribute">Hommages : %d</string>
+    <string name="gift_user_info_charisma">Charisme: %d</string>
+    <string name="gift_user_info_gem_blue">Gemmes bleues: %d</string>
+    <string name="gift_user_info_gem_red">Gemmes rouges: %d</string>
+    <string name="gift_user_info_ingot">Lingot: %d</string>
+    <string name="gift_user_info_lucky">Points de chance: %d</string>
+    <string name="gift_user_info_lv_info">NV %d</string>
+    <string name="gift_user_info_lv_text">Niveau:</string>
+    <string name="gift_user_info_point">Points: %d</string>
+    <string name="gift_user_info_tribute">Hommages: %d</string>
     <string name="girls">Mesdames</string>
     <string name="global_search">Recherche</string>
-    <string name="global_search_adapter_contact">Contacts du téléphone :</string>
-    <string name="global_search_adapter_name">Nom :</string>
+    <string name="global_search_adapter_contact">Contacts du téléphone:</string>
+    <string name="global_search_adapter_name">Nom:</string>
     <string name="global_search_tips">"Rechercher des amis, de forum de discussion, de 
 groupes et rejoignez-nous etc."</string>
     <string name="go_and_take_a_look">A vérifier</string>
@@ -1537,7 +1542,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="gold_mall_paid">Payé</string>
     <string name="gold_mall_pay">Payer</string>
     <string name="gold_mall_title">Boutique MiCrédit</string>
-    <string name="good_to_know">"Information : des frais de SMS locaux pourront vous être facturé selon vos services et vos forfaits téléphoniques via votre fournisseur d'accès. Ils seront gratuits si vos amis sont sur Mi-Talk!"</string>
+    <string name="good_to_know">"Information: des frais de SMS locaux pourront vous être facturé selon vos services et vos forfaits téléphoniques via votre fournisseur d'accès. Ils seront gratuits si vos amis sont sur Mi-Talk!"</string>
     <string name="google_map_at">\@</string>
     <string name="graffiti">Message dessiné</string>
     <string name="graffiti_compress_image_out_of_memory">"Nous avons compressé l'image car sa taille dépasse la limite maximum."</string>
@@ -1623,7 +1628,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_member_row_lowversion_tips">Ces membres doivent mettre à jour la version Mi-Talk pour utiliser cette fonctionnalité</string>
     <string name="group_member_set_admin">Mis à jour</string>
     <string name="group_msg_receive_setting">Messages reçus</string>
-    <string name="group_name">Nom :</string>
+    <string name="group_name">Nom:</string>
     <string name="group_name_can_not_digits_only">Le nom du groupe ne peut contenir que des chiffres</string>
     <string name="group_name_cannot_only_digit">Le nom du groupe doit contenir au moins une lettre</string>
     <string name="group_name_could_not_be_empty">Entrez votre nom</string>
@@ -1683,7 +1688,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_head_createtime_info">Créé dans %s</string>
     <string name="group_setting_head_creator_info">Créateur %s</string>
     <string name="group_setting_head_group_description">À propos de ce groupe %s</string>
-    <string name="group_setting_head_group_id">Identifiant du groupe :</string>
+    <string name="group_setting_head_group_id">Identifiant du groupe:</string>
     <string name="group_setting_isrecommend">Groupes recommandés</string>
     <string name="group_setting_join">Rejoindre ce groupe</string>
     <string name="group_setting_join_level">Entrer dans le groupe et mettre à jour</string>
@@ -1711,12 +1716,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="group_setting_set_msg_notiry">Notification de discussion</string>
     <string name="group_setting_tag_key">Tag du groupe</string>
     <string name="group_setting_title">Profil et paramètres</string>
-    <string name="group_setting_transfer_condition">"Changer l'administrateur du groupe"</string>
+    <string name="group_setting_transfer_condition">"Changer administrateur de l'groupe"</string>
     <string name="group_setting_transfer_condition_content">"1.Le nouvel administrateur doit être dans le groupe.
 2.Le nouvel administrateur doit être un ami Mi-Talk du propriétaire du groupe actuel."</string>
     <string name="group_setting_transfer_dialog_content">Le transfert de groupe vous privera de tous vos droits en tant que propriétaire du groupe. Cette opération est irréversible. Veuillez procéder avec prudence.</string>
     <string name="group_setting_transfer_dialog_content_private_gourp">"Tous vos droits en tant que propriétaire du groupe seront également transférés et ce n'est pas irréversible. Veuillez prêter attention avant le transfert."</string>
-    <string name="group_setting_transfer_group">"Changer l'administrateur du groupe"</string>
+    <string name="group_setting_transfer_group">"Changer l'administrateur de l'groupe"</string>
     <string name="group_setting_transfer_success">Transféré</string>
     <string name="group_setting_transfer_wait">Transfert…</string>
     <string name="group_setting_unmember_friends">%1$s et %2$s des contacts sont également dans ce groupe</string>
@@ -1785,7 +1790,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="guide_next_to_say">Plus tard</string>
     <string name="guide_not_add_fris_continue_find">"Essayer d'autres façons de trouver des amis,"</string>
     <string name="guide_or_direct_start_miliao">ou démarrer Mi-Talk maintenant</string>
-    <string name="guide_search_may_be">Vous pouvez rechercher :</string>
+    <string name="guide_search_may_be">Vous pouvez rechercher:</string>
     <string name="guide_select_department">Sélectionnez un département</string>
     <string name="guide_select_enter_school_year">Classe</string>
     <string name="guide_select_uni_from_list">Sélectionnez une école</string>
@@ -1827,7 +1832,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="help_specification_YY">Appel Mi</string>
     <string name="help_specification_v_plus">Appliquer le statut V</string>
     <string name="hide">Caché</string>
-    <string name="hide_birth">"Cacher la date d'anniversaire"</string>
+    <string name="hide_birth">"Cacher la date d'anniversairee naissance"</string>
     <string name="hide_born_year">Cacher la date de naissance</string>
     <string name="hide_setting_title">Vous êtes invisible pour les personnes à proximité</string>
     <string name="hide_year_tip">Aucun</string>
@@ -1844,10 +1849,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="holiday_wish">Recommandé</string>
     <string name="home_town">Ville natale</string>
     <string name="hometown">Ville natale</string>
-    <string name="hometown_title">Ville natale :</string>
+    <string name="hometown_title">Ville natale:</string>
     <string name="honor_url">http://3g.miliao.com/honor</string>
     <string name="hot">Hot</string>
-    <string name="hour">hr</string>
+    <string name="hour">h</string>
     <string name="how_to_get_midian">Comment obtenir des Mi Points</string>
     <string name="human_voice">Voix</string>
     <string name="i_agree">"J'accepte"</string>
@@ -1860,7 +1865,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="ignored">ignoré</string>
     <string name="illegal_email_address">Adresse mail invalide, veuillez réessayer</string>
     <string name="image">Image</string>
-    <string name="image_desc">Description : %s</string>
+    <string name="image_desc">Description: %s</string>
     <string name="image_gif">GIF</string>
     <string name="image_view_delete_negetive">Annuler</string>
     <string name="image_view_delete_positive">Confirmer</string>
@@ -1873,7 +1878,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="industry_info">Industrie</string>
     <string name="industry_info_1">Tous Les Jours</string>
     <string name="industry_info_2">Trouver des infos</string>
-    <string name="industry_title">Industrie :</string>
+    <string name="industry_title">Industrie:</string>
     <string name="inform_exit_muc">Supprimer et quitter</string>
     <string name="inform_move_blacklist">Déplacer vers la liste des blocages</string>
     <string name="inform_remove_member">Supprimer ce membre</string>
@@ -1907,8 +1912,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="input_sns_account">Entrée %s comptes</string>
     <string name="input_topic_name">Votre sujet</string>
     <string name="input_verf_msg">Saisissez les informations de vérification</string>
-    <string name="input_verification_code">Entrée le code de vérification</string>
-    <string name="insert_image_out_of_memory">Échec, besoin de plus de mémoire dans le téléphone</string>
+    <string name="input_verification_code">Entrée code de vérification</string>
+    <string name="insert_image_out_of_memory">Échec, besoin de plus de mémoire dand le téléphone</string>
     <string name="installing">Installation</string>
     <string name="interest_tips">Sélectionnez au moins un tag</string>
     <string name="intput_group_description">À propos de ce groupe…</string>
@@ -1957,7 +1962,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="item_forbidden">Bloquer</string>
     <string name="item_key_name">Nom</string>
     <string name="jie">Classe</string>
-    <string name="jing">sélectionner</string>
+    <string name="jing">Sélectionner</string>
     <string name="join_domain_cancel">Annuler</string>
     <string name="join_domain_msg">Ce groupe appartient aux catégories %1$s>%2$s , ajouter ceci à votre carte personnelle ?</string>
     <string name="join_domain_ok">Ajouter</string>
@@ -1967,7 +1972,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="join_muc_need_check">"Demande à l'administrateur"</string>
     <string name="join_muc_title">Demande pour rejoindre ce groupe</string>
     <string name="join_union_title">Demande pour rejoindre ce groupe</string>
-    <string name="joined_groups">groupes</string>
+    <string name="joined_groups">Groupes</string>
     <string name="just_talk">Tchat</string>
     <string name="kindly_reminder">Rappel</string>
     <string name="label_tips">Veuillez ne pas choisir plus de 10 tags</string>
@@ -2095,7 +2100,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="login_system_account_failed">Échec de connexion avec le système de compte</string>
     <string name="login_verify_phone_title">Numéro de téléphone</string>
     <string name="login_warning">Échec de connexion avec un nouveau compte, toutes les conversations précédentes seront supprimées</string>
-    <string name="login_your_miid">Identifiant Mi : %1$s</string>
+    <string name="login_your_miid">Identifiant Mi: %1$s</string>
     <string name="logined_account">Connexion %1$s</string>
     <string name="logining">Connexion…</string>
     <string name="logoff">Déconnexion</string>
@@ -2108,13 +2113,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="long_click_item_view_image">Afficher une grande image</string>
     <string name="look_groups">Voulez-vous consulter ces groupes !</string>
     <string name="look_up_old_msg">Voir les nouvelles récentes..</string>
-    <string name="lottery_number">Nombre de gagnants : %d</string>
+    <string name="lottery_number">Nombre de gagnants: %d</string>
     <string name="ma_network_offline">Hors ligne</string>
     <string name="ma_tip_processing">Chargement…</string>
     <string name="ma_tip_success">Appliqué</string>
     <string name="ma_updata_album_failed">Échec</string>
-    <string name="mail_bind">Adresse email :</string>
-    <string name="mail_colon">Adresse email : %s</string>
+    <string name="mail_bind">Adresse email:</string>
+    <string name="mail_colon">Adresse email: %s</string>
     <string name="main_avatar">Image par défaut</string>
     <string name="main_page">Page principale</string>
     <string name="main_tab_conersation">Tchat</string>
@@ -2188,13 +2193,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="message_item_share">Partager</string>
     <string name="message_record_audio_permission">"Enregistrement besoin d'autorisations appropriées, désormais fixés ?"</string>
     <string name="miID_uninitialized">Identifiant Mi pas encore confirmé</string>
-    <string name="mi_nickname">Mi-Talk : %s</string>
+    <string name="mi_nickname">Mi-Talk: %s</string>
     <string name="mi_passport">Compte</string>
     <string name="mi_tips">/“Mi Moi/” est juste une autre façon de dire envoie moi un message Mi-Talk</string>
     <string name="mi_world">Monde</string>
     <string name="mi_world_load_error_click_to_refresh">Échec de chargement</string>
     <string name="mi_world_new_msg">Message de MiWorld</string>
-    <string name="mi_world_other_side_not_support">La version de cet utilisateur ne supporte pas cette fonction</string>
+    <string name="mi_world_other_side_not_support">La version de cette utilisateur ne supporte pas cette fonction</string>
     <string name="miba">Mi Ba</string>
     <string name="miba_click_to_install">Appuyez pour installer</string>
     <string name="miba_download_failed">Échec</string>
@@ -2202,17 +2207,17 @@ groupes et rejoignez-nous etc."</string>
     <string name="miba_download_tips">Télécharger Mi Ba</string>
     <string name="micloud_title">Chargement…</string>
     <string name="mid_school">Étudiant</string>
-    <string name="midian_of_one_group">Dépenser MiCrédits : %d</string>
+    <string name="midian_of_one_group">Dépenser MiCrédits: %d</string>
     <string name="mifans">Mi fans</string>
     <string name="miid_unbinded">Numéro de téléphone/email manquant</string>
-    <string name="mili_counts">Points :</string>
+    <string name="mili_counts">Points:</string>
     <string name="mili_lottery">Lotterie Mi</string>
     <string name="mili_lottery_award_dialog_dicountma">"Vous avez gagné un 
 %s!"</string>
     <string name="mili_lottery_award_dialog_fma">"Vous avez gagné une 
 %s médaille"</string>
-    <string name="mili_lottery_award_dialog_mi2">"Félicitations vous avez gagné 
-%s!"</string>
+    <string name="mili_lottery_award_dialog_mi2">"Félicitations 
+vous avez gagné %s !"</string>
     <string name="mili_lottery_award_dialog_title">"Vous avez gagné 
 %s"</string>
     <string name="mili_lottery_award_discountma">Visitez http://www.xiaomi.com et entrez le code de réduction au cours du paiement</string>
@@ -2222,7 +2227,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="mili_lottery_award_weibo_phone">"Je viens de gagner %1$s Mi Points. Et il y a plus à gagner d'où ça vient ! (%2$s)"</string>
     <string name="mili_lottery_award_weibo_text">"Je viens de gagner un %1$s. Et il y a plus à gagner d'où ça vient ! (%2$s)"</string>
     <string name="mili_lottery_checked_award">Voir les Prix</string>
-    <string name="mili_lottery_date_time">Horaires de la lotterie : De %1$s à %2$s, tous les jours de %3$s à %4$s</string>
+    <string name="mili_lottery_date_time">Horaires de la lotterie: De %1$s à %2$s, tous les jours de %3$s à %4$s</string>
     <string name="mili_lottery_default_title">Échangez des Mi Points contre des Prix</string>
     <string name="mili_lottery_detail">Description</string>
     <string name="mili_lottery_dialog_after_time">Le tirage est terminé</string>
@@ -2256,24 +2261,24 @@ groupes et rejoignez-nous etc."</string>
     <string name="miliao_data">Données de votre compte Mi-Talk</string>
     <string name="miliao_does_not_login">"Vous n'êtes pas connecté"</string>
     <string name="miliao_dot_com">www.Mi-Talk.com</string>
-    <string name="miliao_dot_com_xiexian">Appuyez sur le lien pour télécharger : http://m.miliao.com/an/</string>
+    <string name="miliao_dot_com_xiexian">Appuyez sur le lien pour télécharger: http://m.miliao.com/an/</string>
     <string name="miliao_friend">Ami Mi-Talk</string>
     <string name="miliao_friend_recommend_robot">Ami suggéré</string>
     <string name="miliao_game_content" />
     <string name="miliao_game_title">Venez nous rejoindre dans les jeux sur Mi-Talk</string>
     <string name="miliao_ice_content">Microsoft Ice est là !( Obtenez Ice )</string>
     <string name="miliao_ice_title">Microsoft Ice</string>
-    <string name="miliao_job_book">Petit rappel : La première incription à un compte de service, vous gagnez 100 points. Dépêchez-vous et lancez-vous !</string>
+    <string name="miliao_job_book">Petit rappel: La première incription à un compte de service, vous gagnez 100 points. Dépêchez-vous et lancez-vous !</string>
     <string name="miliao_job_book_tip">Commencez</string>
-    <string name="miliao_job_broadcast">Petit rappel : La première publication vous rapporte 40 points, dépêchez-vous de partager quelque chose avec vos amis!</string>
+    <string name="miliao_job_broadcast">Petit rappel: La première publication vous rapporte 40 points, dépêchez-vous de partager quelque chose avec vos amis!</string>
     <string name="miliao_job_broadcast_tip">Publier</string>
-    <string name="miliao_job_first_vote">Petit rappel : La première participation à un vote vous rapporte 50 points, Dépêchez-vous et votez !</string>
+    <string name="miliao_job_first_vote">Petit rappel: La première participation à un vote vous rapporte 50 points, Dépêchez-vous et votez !</string>
     <string name="miliao_job_first_vote_tip">Votes</string>
-    <string name="miliao_job_sign">Petit rappel : Gagnez une récompense de 50 points par inscription. Allez-y et obtenez votre récompense !</string>
+    <string name="miliao_job_sign">Petit rappel: Gagnez une récompense de 50 points par inscription. Allez-y et obtenez votre récompense !</string>
     <string name="miliao_job_sign_tip">"S'inscrire"</string>
-    <string name="miliao_job_union">Petit rappel : Le premier rattachement à un groupe vous rapportera 100 points, dépêchez-vous de voir quels groupes sont intéressantes près de chez vous !</string>
+    <string name="miliao_job_union">Petit rappel: Le premier rattachement à un groupe vous rapportera 100 points, dépêchez-vous de voir quels groupes sont intéressantes près de chez vous !</string>
     <string name="miliao_job_union_tip">Rejoindre un groupe</string>
-    <string name="miliao_job_vote">Petit rappel : Votez trois fois par jour et gagner 20 points. Dépêchez-vous et votez pour vos amis !</string>
+    <string name="miliao_job_vote">Petit rappel: Votez trois fois par jour et gagner 20 points. Dépêchez-vous et votez pour vos amis !</string>
     <string name="miliao_job_vote_tip">Votes</string>
     <string name="miliao_joke">Blagues Mi-Talk</string>
     <string name="miliao_login">Se connecter</string>
@@ -2307,15 +2312,15 @@ groupes et rejoignez-nous etc."</string>
     <string name="miworld_namecard_not_complete_notice">Profil incomplet</string>
     <string name="miworld_personal_page">Mon profil</string>
     <string name="miworld_system">Système</string>
-    <string name="miworld_uuid_template">Identifiant Mi : %s</string>
-    <string name="mobile_phone_colon">Téléphone : %s</string>
+    <string name="miworld_uuid_template">Identifiant Mi: %s</string>
+    <string name="mobile_phone_colon">Téléphone: %s</string>
     <string name="mode_chat">Mode Tchat</string>
     <string name="mode_sns">Mode découverte</string>
     <string name="monday">Lundi</string>
     <string name="month">Mois</string>
     <string name="month_date">%1$d/%2$d</string>
     <string name="more">Plus</string>
-    <string name="more_app_center">Application market</string>
+    <string name="more_app_center">Mi-Market</string>
     <string name="more_mayknow">Plus</string>
     <string name="more_scan_code">Scannez le QR code</string>
     <string name="more_uninstalled">Pas installé</string>
@@ -2401,7 +2406,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_create_a_group">Créer un groupe</string>
     <string name="muc_create_failed">Échec de création</string>
     <string name="muc_create_failed_by_networking">Échec</string>
-    <string name="muc_current_level">Niveau actuel : %d</string>
+    <string name="muc_current_level">Niveau actuel: %d</string>
     <string name="muc_dismiss">Déjà rejeté</string>
     <string name="muc_email_had_sent_to">Email envoyé à</string>
     <string name="muc_email_header">"Nom d'utilisateur de l'adresse mail d'entreprise"</string>
@@ -2439,7 +2444,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_invite_tips">%1$s%2$s à ce goupe!</string>
     <string name="muc_join_please_answer">Saisir une réponse</string>
     <string name="muc_label_list_header">%d titres apparentés</string>
-    <string name="muc_level">NV%d</string>
+    <string name="muc_level">NV %d</string>
     <string name="muc_level_key">Niveau %d</string>
     <string name="muc_level_privilege">Niveau privilégié</string>
     <string name="muc_list_create">Créer</string>
@@ -2486,7 +2491,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_msg_receive_setting">Recevoir les messages</string>
     <string name="muc_my_group_list_header">"Que j'ai créé"</string>
     <string name="muc_name_can_not_digits_only">Le nom du groupe ne peut pas contenir que des chiffres</string>
-    <string name="muc_namecard_member_count">Membres : %d</string>
+    <string name="muc_namecard_member_count">Membres: %d</string>
     <string name="muc_need_check_hint">Exiger une confirmation</string>
     <string name="muc_need_check_to_join">Confirmer avant que les gens vous rejoignent ?</string>
     <string name="muc_need_disable_check_hint">Rejoindre ></string>
@@ -2495,11 +2500,16 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_no_muc_hint">Aucune recommandation trouvée</string>
     <string name="muc_no_permision_to_delete">Vous ne avez pas la permission de supprimer ce message</string>
     <string name="muc_no_reason">none</string>
-    <string name="muc_no_recommend_hint">"Nous ne pouvons pas trouver de groupes de la société ou de l'école dans votre profil. Vous devez 1.Créer des groupes pour votre lieu de travail et d'école 2.Changer ou ajouter de nouvelles informations à votre profil Votre entreprise : %1$s Votre école : %2$s"</string>
+    <string name="muc_no_recommend_hint">"Nous ne pouvons pas trouver de groupes de la société ou de l'école dans votre profil. Vous devez 
+
+1.Créer des groupes pour votre lieu de travail et d'école 
+2.Changer ou ajouter de nouvelles informations à votre profil 
+ Votre entreprise: %1$s 
+ Votre école: %2$s"</string>
     <string name="muc_not_member">"Vous n'êtes plus dans ce groupe."</string>
     <string name="muc_notification_status_agree">Demande déjà acceptée</string>
     <string name="muc_notification_status_rejected">Demande déjà refusée</string>
-    <string name="muc_notify_content">%1$s : %2$s</string>
+    <string name="muc_notify_content">%1$s: %2$s</string>
     <string name="muc_notify_setting_isaccept_tips">Vous ne recevrez plus de notifications</string>
     <string name="muc_notify_setting_new_msg_notify">Notification du tchat</string>
     <string name="muc_notify_setting_new_msg_notify_tips">Recevoir les messages sans les notifications</string>
@@ -2545,7 +2555,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_setting_be_removed">Vous avez été supprimé de ce groupe</string>
     <string name="muc_setting_ear_mode">Mode écoute</string>
     <string name="muc_setting_goto_chat">Commencer à discuter</string>
-    <string name="muc_setting_group_num">Numéro de groupe : %s</string>
+    <string name="muc_setting_group_num">Numéro de groupe: %s</string>
     <string name="muc_setting_join_use_midian_tips">Le groupe que vous souhaitez rejoindre à déjà 10 membres. Vous devez payer 30 Mi Points pour le rejoindre</string>
     <string name="muc_setting_member_cnt">%s</string>
     <string name="muc_setting_member_icon_cnt">Photos du profil | %s total</string>
@@ -2553,7 +2563,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_setting_member_is_full">Ce groupe est plein</string>
     <string name="muc_setting_no_join_question">"Vous n'avez pas encore rejoins ce groupe"</string>
     <string name="muc_setting_noannounce_tips">Vide</string>
-    <string name="muc_setting_unactive_tips">"Information : Ce groupe a des membres inactifs depuis plus de 7 jours. Cela engendre une diminution du niveau d'activité des groupes."</string>
+    <string name="muc_setting_unactive_tips">"Information: Ce groupe a des membres inactifs depuis plus de 7 jours. Cela engendre une diminution du niveau d'activité des groupes."</string>
     <string name="muc_setting_unmember_category_key">Types de groupe</string>
     <string name="muc_setting_unmember_label_key">Étiquette</string>
     <string name="muc_system_robot_name">Contacts du groupe</string>
@@ -2577,7 +2587,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="muc_verify_protect_add_domains">"Ajouter plus d'options concernant votre adresse mail"</string>
     <string name="muc_verify_protect_close_tips">"Si vous choisissez de désactiver la Protection de confidentialité pour ce groupe, vous permettez à quiconque de se joindre sans adresse mail d'entreprise vérifié. Êtes-vous sûr de vouloir la désactiver ?"</string>
     <string name="muc_verify_protect_lv_head">"Le compte d'adresse mail doit être confirmé"</string>
-    <string name="muc_verify_protect_verifying">Nous avons envoyé un mail à %s. Suivre les instructions du mail afin de complêter le processus de vérification</string>
+    <string name="muc_verify_protect_verifying">Nous avons envoyé un mail à %s
+Suivre les instructions du mail afin de complêter le processus de vérification</string>
     <string name="muc_view_by_type">Voir par catégorie</string>
     <string name="muc_vote">Sondages</string>
     <string name="muc_waiting_email_resend">Renvoyer</string>
@@ -2590,7 +2601,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="multi_graph_add_image">Ajouter une photo</string>
     <string name="multi_graph_input_wall_content">Ajouter du contenu de diffusion</string>
     <string name="multi_graph_more">%d total</string>
-    <string name="multi_graph_share_to">Partager avec :</string>
+    <string name="multi_graph_share_to">Partager avec:</string>
     <string name="music">Chansons</string>
     <string name="music_channel">Musique</string>
     <string name="music_friend_cd">CD du jour</string>
@@ -2616,22 +2627,23 @@ groupes et rejoignez-nous etc."</string>
     <string name="music_title">Collections de Musique</string>
     <string name="music_today_cd_empty">Vide</string>
     <string name="music_today_cd_failed">Échec de chargement du CD du jour, veuillez de réessayer</string>
-    <string name="mutual_friend_recomm_describ">Voulez-vous que nous vous proposons avec des personnes qui ont des amis communs avec vous ? (Vous pouvez toujours changer cette fonctionnalité dans les paramètres)</string>
+    <string name="mutual_friend_recomm_describ">Voulez-vous que nous vous proposons avec des personnes qui ont des amis communs avec vous ? 
+ (Vous pouvez toujours changer cette fonctionnalité dans les paramètres)</string>
     <string name="mutual_friend_recomm_no">Pas maintenant</string>
     <string name="mutual_friend_recomm_yes">Oui</string>
     <string name="my_address_book_add_friend">Ajouter un contact</string>
     <string name="my_address_book_add_muc">Ajouter un groupe</string>
     <string name="my_address_book_friend">Contacts</string>
     <string name="my_address_book_maybe_interested">Cela pourrait vous intéresser</string>
-    <string name="my_address_book_midian">MiCrédits : %s</string>
+    <string name="my_address_book_midian">Mi-Crédits: %s</string>
     <string name="my_address_book_muc">Groupe</string>
     <string name="my_barcode">Mon QR code</string>
     <string name="my_card">"Ma Carte d'affaire"</string>
     <string name="my_card_themes">"Plus de cartes d'identifiant Mi"</string>
     <string name="my_channel">Ma chaîne</string>
     <string name="my_contacts">Mes contacts</string>
-    <string name="my_domain">Mes intérêts :</string>
-    <string name="my_email">Adresse mail :</string>
+    <string name="my_domain">Mes intérêts:</string>
+    <string name="my_email">Adresse mail:</string>
     <string name="my_favorite">Mes favoris</string>
     <string name="my_favorite_book">Livres</string>
     <string name="my_favorite_channel">Mes favoris</string>
@@ -2640,12 +2652,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="my_gallery">Galerie</string>
     <string name="my_groups">Mes groupes</string>
     <string name="my_ice">Xiaoice chatbot</string>
-    <string name="my_id">Identifiant Mi :</string>
+    <string name="my_id">Identifiant Mi:</string>
     <string name="my_location">Je me trouve @</string>
     <string name="my_mili_icon_title">Mes Mi Points</string>
     <string name="my_mili_title">MiCrédits</string>
     <string name="my_music_history">Mon historique de musique</string>
-    <string name="my_name">Nom :</string>
+    <string name="my_name">Nom:</string>
     <string name="my_namecard">Mon profil</string>
     <string name="my_profile">Paramètres personnels</string>
     <string name="my_relation">Relation</string>
@@ -2670,14 +2682,14 @@ groupes et rejoignez-nous etc."</string>
     <string name="name_card_inform_ok_btn_msg">Signaler</string>
     <string name="name_card_inform_secceeded">Liste des blocages mise à jour!</string>
     <string name="name_card_informing">Soumission…</string>
-    <string name="namecard_account">Identifiant Mi :</string>
+    <string name="namecard_account">Identifiant Mi:</string>
     <string name="namecard_add_friend">"Ajouter en tant qu'amis"</string>
     <string name="namecard_add_more">Ajouter une information supplémentaire</string>
     <string name="namecard_age">%d</string>
     <string name="namecard_age_template">%s ans</string>
     <string name="namecard_begin_chat">Tchater maintenant</string>
     <string name="namecard_bio">Ma Bio</string>
-    <string name="namecard_birthday">Anniversaire :</string>
+    <string name="namecard_birthday">Anniversaire:</string>
     <string name="namecard_bottom_btn_add">Ajouter</string>
     <string name="namecard_bottom_btn_chat">Tchater</string>
     <string name="namecard_bottom_btn_confirm">Confirmer</string>
@@ -2703,8 +2715,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_child">Jeune</string>
     <string name="namecard_click_to_add_comment">modifier</string>
     <string name="namecard_click_to_view">Voir le Mur</string>
-    <string name="namecard_company">Société :</string>
-    <string name="namecard_completeness">Terminé :</string>
+    <string name="namecard_company">Société:</string>
+    <string name="namecard_completeness">Terminé:</string>
     <string name="namecard_completeness_info">"Plus d'infos, plus d'amis !"</string>
     <string name="namecard_confirm_before_back">"Êtes-vous sûr de vouloir quitter l'édition?"</string>
     <string name="namecard_confirm_before_delete_avatar">Êtes-vous sûr de vouloir supprimer cette image ?</string>
@@ -2713,27 +2725,27 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_delete_photo">Effacer la photo par défaut</string>
     <string name="namecard_edit_avatar">Éditer</string>
     <string name="namecard_elder">Senior</string>
-    <string name="namecard_email">Adresse mail :</string>
+    <string name="namecard_email">Adresse mail:</string>
     <string name="namecard_failed_download_original_photo">Aucune image disponible</string>
     <string name="namecard_grade">Classe</string>
-    <string name="namecard_her_wall_msg">Son Mur :</string>
-    <string name="namecard_his_wall_msg">Son Mur :</string>
+    <string name="namecard_her_wall_msg">Son Mur:</string>
+    <string name="namecard_his_wall_msg">Son Mur:</string>
     <string name="namecard_import">Importer maintenant</string>
     <string name="namecard_item_add_more_contact_info">Ajouter plus de contacts</string>
     <string name="namecard_item_add_more_social_experience">"Ajouter plus d'informations"</string>
     <string name="namecard_its_wall_msg">RSS</string>
-    <string name="namecard_last_login_time">Dernière connexion : %s</string>
+    <string name="namecard_last_login_time">Dernière connexion: %s</string>
     <string name="namecard_local_name">"(Carnet d'adresse des Contacts)"</string>
-    <string name="namecard_local_phone">Téléphone :</string>
+    <string name="namecard_local_phone">Téléphone:</string>
     <string name="namecard_local_phone_remarks">"Votre carnet d'adresse des Contacts"</string>
-    <string name="namecard_location">Emplacement :</string>
-    <string name="namecard_middle_school">École :</string>
+    <string name="namecard_location">Emplacement:</string>
+    <string name="namecard_middle_school">École:</string>
     <string name="namecard_my_wall_msg">Mon Mur</string>
-    <string name="namecard_name">Nom :</string>
+    <string name="namecard_name">Nom:</string>
     <string name="namecard_new_friend_request">%s souhaite être votre ami sur Mi-Talk !</string>
-    <string name="namecard_nickname">"Nom d'utilisateur :"</string>
+    <string name="namecard_nickname">"Nom d'utilisateur:"</string>
     <string name="namecard_online">En ligne %s</string>
-    <string name="namecard_phone">Téléphone :</string>
+    <string name="namecard_phone">Téléphone:</string>
     <string name="namecard_picker_photo">App. Photo</string>
     <string name="namecard_picker_pick">Sélectionnez-en une déjà existante</string>
     <string name="namecard_please_input_bio">Aucune</string>
@@ -2752,8 +2764,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_pop_menu_send">Envoyez</string>
     <string name="namecard_pop_menu_unsubscribe">Désinscription</string>
     <string name="namecard_reload">Rafraîchir le profil</string>
-    <string name="namecard_remarks">Surnom :</string>
-    <string name="namecard_school">École :</string>
+    <string name="namecard_remarks">Surnom:</string>
+    <string name="namecard_school">École:</string>
     <string name="namecard_separater_basic_info">Information de base</string>
     <string name="namecard_separater_bind_info">Comptes</string>
     <string name="namecard_separater_contact_info">Contacts</string>
@@ -2761,7 +2773,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="namecard_separater_exp_info">Expérience</string>
     <string name="namecard_separater_social_info">Social</string>
     <string name="namecard_set_to_default_photo">En faire ma photo par défaut</string>
-    <string name="namecard_sex">Sexe :</string>
+    <string name="namecard_sex">Sexe:</string>
     <string name="namecard_sex_unknown">Sexe</string>
     <string name="namecard_signature">État</string>
     <string name="namecard_sina_weibo">Sina Weibo</string>
@@ -2796,11 +2808,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="nearby_loadmore">Afficher plus</string>
     <string name="nearby_location_list_title">Voyage autour</string>
     <string name="nearby_mark_succeeded">Mis à jour</string>
-    <string name="nearby_message_template">Message : %s</string>
+    <string name="nearby_message_template">Message: %s</string>
     <string name="nearby_muc_create_one">Créer un groupe basé sur la localisation</string>
     <string name="nearby_muc_list_title">Groupes à proximité</string>
     <string name="nearby_muc_no_group_tip">Pas de groupes à proximité</string>
-    <string name="nearby_muc_no_location_tip">Impossible de vous localiser, veuillez réessayer</string>
+    <string name="nearby_muc_no_location_tip">"Impossible de vous localiser, veuillez réessayer
+"</string>
     <string name="nearby_muc_no_network_tip">Impossible de se connecter au réseau</string>
     <string name="nearby_muc_try_again">Réessayer</string>
     <string name="nearby_my_location">Ma localisation</string>
@@ -2819,9 +2832,9 @@ groupes et rejoignez-nous etc."</string>
     <string name="nearby_poi_try_again">Réessayer</string>
     <string name="nearby_recommend_gyml_title">Intérêts partagés</string>
     <string name="nearby_recommend_iknow">Contacts du téléphone</string>
-    <string name="nearby_recommend_iknow_contact">Contacts du téléphone :</string>
+    <string name="nearby_recommend_iknow_contact">Contacts du téléphone:</string>
     <string name="nearby_recommend_iknow_title">Contacts du téléphone</string>
-    <string name="nearby_recommend_mf_title">amis communs</string>
+    <string name="nearby_recommend_mf_title">Amis communs</string>
     <string name="nearby_recommend_mfsf_title">Amis communs</string>
     <string name="nearby_secr_closed_notice">Vous ne partagez pas votre position</string>
     <string name="nearby_secr_empty_desc">En savoir plus à propos des gens autour de vous tout en partageant votre position avec eux !</string>
@@ -2865,7 +2878,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="network_error_notify">Veuillez vérifiez les connexions Internet ou réessayez plus tard</string>
     <string name="network_unavailable">Pas de réseau disponible</string>
     <string name="never_show">Ne plus afficher</string>
-    <string name="new_buddy_conversation_basic">%1$s (Identifiant Mi : %2$s)</string>
+    <string name="new_buddy_conversation_basic">%1$s (Identifiant Mi: %2$s)</string>
     <string name="new_friend">"Demande d'ami"</string>
     <string name="new_friend_request_notification">Vous avez une nouvelle notification, tirez pour rafraîchir</string>
     <string name="new_friends">Nouveaux amis</string>
@@ -2933,7 +2946,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="new_topic_msg">Nouvelle notification des sujets locaux</string>
     <string name="next_hints">"Plus d'options"</string>
     <string name="next_step">Suivant</string>
-    <string name="nick_name">Surnom :</string>
+    <string name="nick_name">Surnom:</string>
     <string name="no">Non</string>
     <string name="no_avatar_tips">Ajouter une photo de profil, laissez vos amis vous trouver</string>
     <string name="no_award">Aucun prix maintenant</string>
@@ -2959,6 +2972,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="no_notification_msg">Aucune notification trouvée</string>
     <string name="no_offline_muc_member">Aucune</string>
     <string name="no_phone_friends">Pas de contacts téléphoniques trouvés</string>
+    <string name="no_power_change_muc_tag">只有群主才能修改标签</string>
     <string name="no_promotions">Pas de Promotions</string>
     <string name="no_recommend_property_hint">"Vous n'avez pas changé le paramétrage des recommandations."</string>
     <string name="no_search_tag_muc">"Nous n'avons pas trouvé ce groupe."</string>
@@ -3031,7 +3045,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="notification_center_join_muc_btn">Rejoignez Muc</string>
     <string name="notification_center_menu_delete">Supprimer</string>
     <string name="notification_center_menu_reject">Ignorer</string>
-    <string name="notification_center_message_prefix">[notification]</string>
+    <string name="notification_center_message_prefix">[Notification]</string>
     <string name="notification_center_new_fr_message_tip_title">Vous avez %d messages</string>
     <string name="notification_center_new_message_tip_title">Vous avez %d notifications</string>
     <string name="notification_center_no_network_tip">Impossible de se connecter au réseau</string>
@@ -3059,7 +3073,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="notify_bar_sub_forward_content">Partager un lien</string>
     <string name="notify_connection_off">Échec de connexion</string>
     <string name="notify_connection_off_when_pull_old">Connexion avec le serveur perdue, vérifier votre connexion réseau et réessayez</string>
-    <string name="notify_multi_login">Vous avez été déconnecté car votre compte a été enregistré sur un autre appareil. Appuyez pour vous connecter</string>
+    <string name="notify_multi_login">"Vous avez été déconnecté car votre compte a été enregistré sur un autre appareil. 
+Appuyez pour vous connecter"</string>
     <string name="notify_wall_has_deleted">"Ce message n'existe plus"</string>
     <string name="nr_add_avatar">Ajouter la photo du profil</string>
     <string name="nr_edit_avatar">Éditer</string>
@@ -3080,7 +3095,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="number_opt_sms">Message</string>
     <string name="offline">Inactif cette semaine</string>
     <string name="offline_file_sms_body">"Vous avez reçu un fichier d'un message, votre version ne supporte pas ce type de réception."</string>
-    <string name="offline_notification">Notification de déconnexion</string>
+    <string name="offline_notification">Notification déconnecté</string>
     <string name="offline_notification_content_connecting">Connexion…</string>
     <string name="offline_notification_content_muti_login">Vous êtes connecté avec un autre appareil. appuyez pour vous reconnecter</string>
     <string name="offline_notification_content_no_network">Impossible de se connecter au réseau</string>
@@ -3103,7 +3118,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="open_camera_exception_dialog_title">Un erreur est survenue</string>
     <string name="open_image_failed">"Échec d'agrandissement"</string>
     <string name="open_in_system_browser">Ouvrir dans un navigateur web</string>
-    <string name="open_link_download_forbidden_tips">"Vous avez ouvert : %s . Veuillez l'ouvrir dans un navigateur web pour télécharger depuis le lien."</string>
+    <string name="open_link_download_forbidden_tips">"Vous avez ouvert: 
+%s
+
+ . Veuillez l'ouvrir dans un navigateur web pour télécharger depuis le lien."</string>
     <string name="open_link_failed">"Ce lien n'est pas sûr"</string>
     <string name="open_match_contact">Synchroniser les contacts</string>
     <string name="open_match_contact_tips">Trouvez vos contacts téléphoniques sur Mi-Talk</string>
@@ -3116,14 +3134,14 @@ groupes et rejoignez-nous etc."</string>
     <string name="open_system_bg_setting_go">Ouvrir</string>
     <string name="open_system_bg_setting_hint">Problème de compatibilité de version. Désactiver le démarrage automatique pour Mi-Talk et essayez à nouveau</string>
     <string name="open_system_bg_setting_title">Une petite astuce…</string>
-    <string name="open_text_dialog_content">Contenu : %s</string>
+    <string name="open_text_dialog_content">Contenu: %s</string>
     <string name="open_text_dialog_ok_btn">Copier</string>
     <string name="open_text_dialog_title">Contenu</string>
     <string name="open_url_dialog_content">%s,confirmer ?</string>
     <string name="open_url_dialog_title">Lier</string>
     <string name="openapp_auth_failed_desc">Entrer le mot de passe</string>
-    <string name="openapp_auth_kick_off">Votre compte est déjà connecté sur %1$s un autre %2$s appareil, veuillez rentrer à nouveau votre mot de passe :</string>
-    <string name="openapp_auth_kick_off_default">Votre compte est déjà connecté sur un appareil different, veuillez rentrer à nouveau votre mot de passe :</string>
+    <string name="openapp_auth_kick_off">Votre compte est déjà connecté sur %1$s un autre %2$s appareil, veuillez rentrer à nouveau votre mot de passe:</string>
+    <string name="openapp_auth_kick_off_default">Votre compte est déjà connecté sur un appareil different, veuillez rentrer à nouveau votre mot de passe:</string>
     <string name="openapp_from">De</string>
     <string name="openapp_loading">Téléchargement..</string>
     <string name="openapp_local_downloading">Démarrage…</string>
@@ -3149,7 +3167,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="outcall_voip_nobindphone">Votre ami a besoin de lier un numéro de téléphone en premier</string>
     <string name="outcall_voip_resume">Continuer</string>
     <string name="pass_validate">Validé</string>
-    <string name="password">Mot de passe :</string>
+    <string name="password">Mot de passe:</string>
     <string name="password_cannot_be_empty">Entrer votre mot de passe</string>
     <string name="password_encrypt">Information du compte par défaut</string>
     <string name="password_tips">"Pour la sécurité de votre compte, nous n'allons pas nous mémoriser votre mot de passe."</string>
@@ -3172,7 +3190,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="phone_accept_calling">Répondre</string>
     <string name="phone_already_exists">Le numéro de téléphone est utilisé</string>
     <string name="phone_back_chat_view">Cacher</string>
-    <string name="phone_bind">Téléphone :</string>
+    <string name="phone_bind">Téléphone:</string>
     <string name="phone_binded">Ce numéro de téléphone est déjà lié à un compte existant</string>
     <string name="phone_call_ring_number">Sonné %s fois</string>
     <string name="phone_callee_busy_msg">Le contact est occupé</string>
@@ -3217,19 +3235,19 @@ groupes et rejoignez-nous etc."</string>
     <string name="photo_picker_show_size" formatted="false">Prises %s，total%s</string>
     <string name="photo_wall_title">Photos</string>
     <string name="pic_download_failed">Échec du téléchargement</string>
-    <string name="pic_size_show">Taille :</string>
+    <string name="pic_size_show">Taille:</string>
     <string name="play">Jouer</string>
     <string name="play_count_format_wan">%.1f</string>
     <string name="play_count_format_yi">%.1f</string>
     <string name="play_error">Erreur</string>
     <string name="play_game_get_first">Venez et devenez le numéro 1</string>
-    <string name="playing_music_name">Jouez maintenant : %s</string>
+    <string name="playing_music_name">Jouez maintenant:%s</string>
     <string name="please_choose_a_pumpkin">Sélectionnez votre petit gâteau !</string>
     <string name="please_choose_date_default">Année de démarrage</string>
     <string name="please_choose_date_default_time">Présent</string>
     <string name="please_choose_date_info">Dates</string>
     <string name="please_input_apply_reason">Entrez un message</string>
-    <string name="please_input_email">Adresse Email :</string>
+    <string name="please_input_email">Adresse Email:</string>
     <string name="please_input_email_address">Adresse Email</string>
     <string name="please_input_email_content">Contenu Email</string>
     <string name="please_input_email_pwd">Mot de passe</string>
@@ -3237,7 +3255,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="please_input_keywords">Contenu manquant</string>
     <string name="please_input_mi_id">Identifiant Mi</string>
     <string name="please_input_phone">Numéro de téléphone</string>
-    <string name="please_input_username">Nom :</string>
+    <string name="please_input_username">Nom:</string>
     <string name="please_input_valid_username">"Le nom d'utilisateur est non valide"</string>
     <string name="please_input_verification_code">Entrer le code de vérification</string>
     <string name="please_input_verification_code_again">Échec de la vérification, entrer le code de vérification à nouveau</string>
@@ -3318,7 +3336,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="ppl_compose_kan">Échange de photos</string>
     <string name="ppl_compose_kan_2">Afficher</string>
     <string name="ppl_compose_reason">Entrer un message</string>
-    <string name="ppl_compose_sysmsg_002">002$Commencez à tchater!</string>
+    <string name="ppl_compose_sysmsg_002">002$Commencez à tchater !</string>
     <string name="ppl_compose_sysmsg_004">004$continuez de tchater !</string>
     <string name="ppl_compose_sysmsg_005">005$ontinuez de regarder</string>
     <string name="ppl_compose_sysmsg_006">"006$Pour échanger des photos, appuyez sur l'icône dans le coin inférieur droit"</string>
@@ -3445,7 +3463,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="private_group_not_member">Vous ne faites plus partie de ce groupe</string>
     <string name="private_group_setting_announce_input_tips">"Envoyer des messages pour l'ensemble du groupe"</string>
     <string name="private_group_setting_transfer_condition">Conditions</string>
-    <string name="private_group_setting_transfer_condition_content">1.Le bénéficiaire doit également être un membre du groupe 2.Le bénéficiaire doit être un ami Mi-Talk du propriétaire du groupe</string>
+    <string name="private_group_setting_transfer_condition_content">"1.Le bénéficiaire doit également être un membre du groupe 
+2.Le bénéficiaire doit être un ami Mi-Talk du propriétaire du groupe"</string>
     <string name="private_groups">Discussions de groupe privées</string>
     <string name="private_mail_box_title">Boîte de réception privée</string>
     <string name="private_muc_group_name_valid_tip">Saisissez un titre entre %1$d-%2$d caractères</string>
@@ -3472,7 +3491,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="qq_login">Se connecter à QQ</string>
     <string name="qq_login_error">Erreur de connexion à QQ</string>
     <string name="qq_share">Partager mon Identifiant Mi sur QQ</string>
-    <string name="question">Question :</string>
+    <string name="question">Question:</string>
     <string name="quick_reply">Répondre</string>
     <string name="quit">quitter</string>
     <string name="quit_confirm">Confirmez avant de quitter</string>
@@ -3487,12 +3506,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="read_app_usagestats_permisson">"ne vous a pas accordé l'accès aux statistiques d'utilisation pour Miltalk, d'accorder et puis utilisez cette fonction normalement ！"</string>
     <string name="read_buddy_permission">Lire le compte Mi-Talk</string>
     <string name="read_status">Lire</string>
-    <string name="real_name">Votre nom :</string>
+    <string name="real_name">Votre nom:</string>
     <string name="reason_of_verify_email">"Pourquoi est-il nécessaire de vérifier l'adresse mail de l'entreprise ?"</string>
     <string name="rec_vip_last_msg_title">Plus à jour---</string>
     <string name="received">Reçu</string>
     <string name="received_status">Reçu</string>
-    <string name="recent_send_pic_text">Vous pouvez envoyer cette image :</string>
+    <string name="recent_send_pic_text">Vous pouvez envoyer cette image:</string>
     <string name="recipient_selection_all">Tous les amis</string>
     <string name="recipient_selection_allgroup">Groupes</string>
     <string name="recipient_selection_big_group">Groupes</string>
@@ -3521,8 +3540,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="recommend_assistent_show_more_user">Plus de recommandations</string>
     <string name="recommend_assistent_show_more_vip">Plus de souscriptions</string>
     <string name="recommend_assistent_thread_tip">Recommandez %1$s</string>
-    <string name="recommend_assistent_thread_tip_muc">Groupes recommandés : %1$s</string>
-    <string name="recommend_assistent_thread_tip_user">Ami recommandé : %1$s</string>
+    <string name="recommend_assistent_thread_tip_muc">Groupes recommandés: %1$s</string>
+    <string name="recommend_assistent_thread_tip_user">Ami recommandé: %1$s</string>
     <string name="recommend_assistent_thread_tip_vip">Vous aimeriez %1$s</string>
     <string name="recommend_channel">Chaîne recommandée</string>
     <string name="recommend_channel_des">Amis favoris %s</string>
@@ -3626,7 +3645,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="redbag_title_send">Enveloppe rouge envoyée</string>
     <string name="redbag_total">Total</string>
     <string name="redbag_verified_tip1">"Depuis votre compte, liez votre Carte Bancaire à votre Portefeuille Mi，veuillez &lt;br>en %s à l'intérieur，sinon, il sera retourné，&lt;font color=\"#f3635c\">rattacher la carte maintenant&lt;/font>"</string>
-    <string name="redbag_verified_tip2">"Vous n'avez pas lié votre Carte Bancaire à votre Portefeuille Mi, les enveloppes rouges seront renvoyées à l'expéditeur"</string>
+    <string name="redbag_verified_tip2">"Vous n'avez pas lié votre Carte Bancaire à votre Portefeuille Mi, 
+les enveloppes rouges seront renvoyées à l'expéditeur"</string>
     <string name="redbag_verify_tips_1">"Jusqu'à 200¥ pour chaque enveloppe rouge"</string>
     <string name="redbag_verify_tips_2">"Jusqu'à 100 enveloppes rouges"</string>
     <string name="redbag_verify_tips_3">Au moins une enveloppe rouge</string>
@@ -3703,7 +3723,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="remind_add_shortcut_dialog_ok">Oui</string>
     <string name="remind_add_shortcut_dialog_title">"Ajouter sur la page d'accueil"</string>
     <string name="remind_compatible_body">%1$s vous a envoyé un rappel. La version de Mi-Talk que vous utilisez actuellement ne supporte pas les rappels</string>
-    <string name="remind_compatible_body_new">%2$s, %1$s vous a envoyé un rappel : %3$s</string>
+    <string name="remind_compatible_body_new">%2$s, %1$s vous a envoyé un rappel: %3$s</string>
     <string name="remind_delete_dialog_body">Voulez-vous supprimer ce rappel ?</string>
     <string name="remind_delete_dialog_body_new">Annuler la fonction de notification ? (Le ystème enverra une notification pour confirmer cette action.)</string>
     <string name="remind_delete_dialog_title">Supprimer</string>
@@ -3829,7 +3849,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="restore_buddies_title">"Synchroniser la liste d'amis"</string>
     <string name="restoring_buddies">Synchronisation %s</string>
     <string name="retrieve_apply_dialog_hint">Entrez votre Compte Mi</string>
-    <string name="retrieve_apply_dialog_title">"Si vous n'avez pas accès à votre adresse mail précédente ou numéro de téléphone, un membre de notre équipe de support en ligne peut vous aider à réinitialiser votre mot de passe."</string>
+    <string name="retrieve_apply_dialog_title">"Si vous n'avez pas accès à votre adresse mail précédente ou numéro de téléphone, 
+un membre de notre équipe de support en ligne peut vous aider à réinitialiser votre mot de passe."</string>
     <string name="retrieving_contacts">Chargement…</string>
     <string name="retrieving_contacts_failed">Impossible de récupérer les contacts</string>
     <string name="retrieving_profile">Chargement…</string>
@@ -3861,7 +3882,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="say_hi_sent">Envoyé !</string>
     <string name="sayhi_tips">Vous souhaitez vous faire de nouveaux amis ? Allez-y dites bonjour ！</string>
     <string name="sb_create_topic">%1$s sujet créé %2$s</string>
-    <string name="sb_create_topic_at_sp">%1$s créé %3$s à %2$s</string>
+    <string name="sb_create_topic_at_sp">"%1$s créé %3$s 
+à %2$s"</string>
     <string name="scan_barcode">"Scanner l'identifiant Mi"</string>
     <string name="scan_barcode_info">"Placez et scanner un code barre d'identifiant Mi à l'intérieur du viseur."</string>
     <string name="scan_barcode_join_group">Scanner QR code pour rejoindre</string>
@@ -3949,9 +3971,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_card_tip">[Carte de visite]</string>
     <string name="send_contact_card_bubble_title">Contact du téléphone</string>
     <string name="send_contact_card_not_support">"Votre version actuelle de Mi-Talk ne supporte pas l'affichage de carte de visite complète."</string>
-    <string name="send_contact_card_not_support_email">Adresse mail : %1$s</string>
-    <string name="send_contact_card_not_support_name">Nom : %1$s</string>
-    <string name="send_contact_card_not_support_phone">Téléphone : %1$s</string>
+    <string name="send_contact_card_not_support_email">"Email: %1$s
+"</string>
+    <string name="send_contact_card_not_support_name">"Nom: %1$s
+"</string>
+    <string name="send_contact_card_not_support_phone">"Téléphone: %1$s
+"</string>
     <string name="send_failed">"Échec d'envoi, veuillez essayer à nouveau."</string>
     <string name="send_feedback">Signaler un problème</string>
     <string name="send_forbidden_chat">Bloqué</string>
@@ -3962,7 +3987,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_message_to_groups">Envoyer à des groupes</string>
     <string name="send_muc_card">Envoyer une carte de groupe</string>
     <string name="send_muc_card_bubble_title">Groupe</string>
-    <string name="send_muc_card_not_support">"Nom du groupe : %1$s Identifiant du groupe : %2$s La version de Mi-Talk que vous utilisez actuellement ne supporte pas l'affichage de carte de visite."</string>
+    <string name="send_muc_card_not_support">"Nom du groupe: %1$s Identifiant du groupe: %2$s La version de Mi-Talk que vous utilisez actuellement ne supporte pas l'affichage de carte de visite."</string>
     <string name="send_muc_card_tip">[Carte de visite du groupe]</string>
     <string name="send_muc_name_card">Envoyer la carte de visite</string>
     <string name="send_pwd_by_email">Un email a été envoyé. Suivez les instructions fournies pour réinitialiser votre mot de passe</string>
@@ -3976,16 +4001,16 @@ groupes et rejoignez-nous etc."</string>
     <string name="send_sms_title">Conseils</string>
     <string name="send_sub_card_add_contact">Ajouter</string>
     <string name="send_sub_card_bubble_title">Souscription</string>
-    <string name="send_sub_card_not_support">"Nom d'utilisateur : %1$s Identifiant Mi : %2$s La version de Mi-Talk vutilisée ne supporte pas les cartes de souscription"</string>
+    <string name="send_sub_card_not_support">"Nom d'utilisateur: %1$s Identifiant Mi:%2$s La version de Mi-Talk vutilisée ne supporte pas les cartes de souscription"</string>
     <string name="send_subscribe_card_tip">[souscription]</string>
     <string name="send_success">Envoyée</string>
     <string name="send_user_card_add_contact">Ajouter</string>
     <string name="send_user_card_bubble_title">Carte de visite</string>
     <string name="send_user_card_icon_des">Photo du profil</string>
-    <string name="send_user_card_not_support">"Nom d'utilisateur : %1$s Identifiant Mi : %2$s La version de Mi-Talk que vous utilisez actuellement ne supporte pas l'affichage de carte de visite."</string>
+    <string name="send_user_card_not_support">"Nom d'utilisateur: %1$s Identifiant Mi: %2$s La version de Mi-Talk que vous utilisez actuellement ne supporte pas l'affichage de carte de visite."</string>
     <string name="send_verification_code_to">"Code d'activation envoyé à %s"</string>
-    <string name="send_video_confirm">Taille de la vidéo : %1$.2fMo, durée : %2$ds, continuer ?</string>
-    <string name="sender_template">Expéditeur : %1$s</string>
+    <string name="send_video_confirm">Taille de la vidéo: %1$.2fMo,durée: %2$ds, continuer ?</string>
+    <string name="sender_template">Expéditeur: %1$s</string>
     <string name="sending">Envoi en cours..</string>
     <string name="sending_inviation">"Envoi d'invitations..."</string>
     <string name="sending_sms">Envoi en cours…</string>
@@ -4036,11 +4061,11 @@ groupes et rejoignez-nous etc."</string>
     <string name="set_locale">Langue</string>
     <string name="set_main_avatar">Définir par défaut</string>
     <string name="set_name">Nom</string>
-    <string name="set_new_pwd">Nouveau mot de passe (6-16 caractères) :</string>
+    <string name="set_new_pwd">Nouveau mot de passe (6-16 caractères):</string>
     <string name="set_now">Inscrivez-vous maintenant</string>
     <string name="set_password">Réinitialisez le mot de passe</string>
     <string name="set_ph_secret">Définissez le téléphone comme information par défaut du compte</string>
-    <string name="set_pwd">Nouveau mot de passe (6-16 caractères) :</string>
+    <string name="set_pwd">Nouveau mot de passe (6-16 caractères):</string>
     <string name="setting_and_manage">Paramètres et gestion</string>
     <string name="setting_language">"Modification de l'affichage de la langue..."</string>
     <string name="setting_pwd">Définition du mot de passe..</string>
@@ -4135,7 +4160,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="shakehands_setting_user_guide">Pour couper la fonction de secouez les mains, appuyez ici</string>
     <string name="share">Partager</string>
     <string name="share_a_link">Partager un lien</string>
-    <string name="share_body">"Je suis allé sur Mi-Talk! Compte Mi-Talk : %1$s (pour m'ajouter comme ami, suivez ce lien : %2$s)"</string>
+    <string name="share_body">"Je suis allé sur Mi-Talk! Compte Mi-Talk: %1$s (pour m'ajouter comme ami, suivez ce lien: %2$s)"</string>
     <string name="share_done_back">Retour</string>
     <string name="share_file_tips">Partager un fichier</string>
     <string name="share_file_to_friends">Transmettre à des amis</string>
@@ -4160,6 +4185,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="share_sina_title">Sina Weibo</string>
     <string name="share_stay_in_miliao">Rester sur Mi-Talk</string>
     <string name="share_text_format">"%s
+
 @Mi-Talk"</string>
     <string name="share_to">Partager</string>
     <string name="share_to_compose">Envoyé aux amis</string>
@@ -4277,7 +4303,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="sixin_send_hi_self">Impossible de vous ajouter vous-même comme un ami</string>
     <string name="sixin_send_hi_success">"Demande d'ami envoyée"</string>
     <string name="sixin_send_hi_wait">"Envoi demande d'ami..."</string>
-    <string name="sixin_send_hint">corps du message</string>
+    <string name="sixin_send_hint">Corps du message</string>
     <string name="sixin_sender_limit">"Désolé, vous ne pouvez envoyer le message qu'à %s personnes aujourd'hui."</string>
     <string name="sixin_setting_tip_content">Vos paramètres de confidentialité actuelles ne permettent pas aux utilisateurs recommandées à proximité de vous envoyer des salutations ou pour vous ajouter comme ami</string>
     <string name="sixin_setting_tip_ok_btn">OK</string>
@@ -4295,7 +4321,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="sixin_who_can_sending">Autoriser les messages de personnes qui ne sont pas amis</string>
     <string name="sixth_prize">Sixième prix</string>
     <string name="skip">Quitter</string>
-    <string name="smiley_animemoji_des_formatter">[MiMotion : %s]</string>
+    <string name="smiley_animemoji_des_formatter">[MiMotion:%s]</string>
     <string name="smiley_animemoji_download_failed">Échec de téléchargement</string>
     <string name="smiley_animemoji_downloading">Téléchargement des MiMotions…</string>
     <string name="smiley_click_to_download">Téléchargement</string>
@@ -4304,7 +4330,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="smiley_down_cancel">Annuler</string>
     <string name="smiley_down_more">"Télécharger plus d'expressions"</string>
     <string name="smiley_down_more_tips">"Télécharger des packs d'émoticônes"</string>
-    <string name="smiley_down_size">Taille : %dKo</string>
+    <string name="smiley_down_size">Taille: %d Ko</string>
     <string name="smiley_download_cancel">Le processus de téléchargement est arrêté</string>
     <string name="smiley_download_failed">Échec de télécharger le pack MiMotion, veuillez essayer à nouveau</string>
     <string name="smiley_download_more">Téléchargement du pack</string>
@@ -4312,7 +4338,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="smiley_downloading_click_cancel">Téléchargement(%d%%), appuyez pour annuler</string>
     <string name="smiley_no_recent_animemoji">"Pas d'envois récents"</string>
     <string name="smiley_nopackage_click_to_download">"Vous n'avez pas ce pack. Voulez-vous le télécharger maintenant ?"</string>
-    <string name="smiley_progress_text">Téléchargement : %1$d/%2$dKB</string>
+    <string name="smiley_progress_text">Téléchargement: %1$d/%2$dKB</string>
     <string name="smiley_sdcard_full">"Il n'y a pas assez de place dans votre carte mémoire."</string>
     <string name="smiley_sdcard_unavailable">"Désolé, nous sommes incapables d'identifier la carte SD."</string>
     <string name="smiley_start_download">"Télécharger un pack d'émoticônes"</string>
@@ -4354,7 +4380,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="sns_info_title">"Confirmer l'information"</string>
     <string name="sns_invite_confirm">Envoyer un message privé pour inviter ?</string>
     <string name="sns_invite_friends">Inviter</string>
-    <string name="sns_invite_friends_progress">"Envoi de demandes d'ami, réussies : %1$d，échouées:%2$d…"</string>
+    <string name="sns_invite_friends_progress">"Envoi de demandes d'ami, réussies:%1$d，échouées:%2$d…"</string>
     <string name="sns_invite_sina_weibo_contacts">Inviter des amis Sina Weibo</string>
     <string name="sns_invite_tips">"Vous engendrerez des frais réguliers de votre fournisseur pour l'envoi de SMS"</string>
     <string name="sns_kaixin">Kaixin</string>
@@ -4385,7 +4411,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="spread_access_imme">Rejoindre maintenant</string>
     <string name="spread_access_no">Non</string>
     <string name="spread_complete_n">Confirmer (%s)</string>
-    <string name="spread_confirm_invite_message">"Confirmer le contenu de l'invitation :"</string>
+    <string name="spread_confirm_invite_message">"Confirmer le contenu de l'invitation:"</string>
     <string name="spread_content_out_max">Veuillez entrer moins de %1$d caractères, vous dépassez de %2$d</string>
     <string name="spread_has_joined_before">"Vous avez déjà participé à cette activité. Allez vérifier l'état de votre invitation"</string>
     <string name="spread_invite_message_templete">%s vous a laissé un message sur Mi-Talk</string>
@@ -4419,7 +4445,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="submit_tag_alert_text">Une fois soumis, ne peut plus être changer. Continuer ?</string>
     <string name="submit_tag_alert_text_company_and_classmate">Une fois soumis, ne peut plus être changer. Continuer ?</string>
     <string name="submit_tag_alert_title">Proposez étiquette</string>
-    <string name="subscribe_117">【nouvelles】</string>
+    <string name="subscribe_117">【Nouvelles】</string>
     <string name="subscribe_118">Horoscope</string>
     <string name="subscribe_119">Blagues quotidiennes</string>
     <string name="subscribe_accounts">Abonnement</string>
@@ -4468,8 +4494,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="sync_history_msg_syncing">Synchronisation…</string>
     <string name="sync_history_msg_tip">Synchroniser vos messages à travers les appareils</string>
     <string name="sync_history_status_completed">Synchronisation complète</string>
-    <string name="sync_history_status_failure">"Une erreur s'est produite lors de la synchronisation %1$s messages n'ont pas été synchronisés, environ %2$s"</string>
-    <string name="sync_history_status_no_network">"Impossible de se connecter au réseau %1$s n'ont pas été synchronisés, environ %2$s"</string>
+    <string name="sync_history_status_failure">"Une erreur s'est produite lors de la synchronisation 
+%1$s messages n'ont pas été synchronisés, environ %2$s"</string>
+    <string name="sync_history_status_no_network">"Impossible de se connecter au réseau 
+%1$s n'ont pas été synchronisés, environ %2$s"</string>
     <string name="sync_muc_info">Pour éviter de perdre des informations, synchronisations de discussions du groupe. Cela prendra environ 1 minute et ne peut être annulée</string>
     <string name="sync_muc_title">"Groupe d'amis ou de la liste de groupes"</string>
     <string name="sync_renren">Synchroniser les messages du cercle de Mi-Talk vers Renren</string>
@@ -4537,7 +4565,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="thread_tips_location">Position</string>
     <string name="thread_tips_remind">[Rappel]</string>
     <string name="thursday">Jeudi</string>
-    <string name="time_template">Heure : %1$s</string>
+    <string name="time_template">Heure: %1$s</string>
     <string name="title_floating_window_permission">"Paramètres d'autorisation"</string>
     <string name="title_invite_classmate">Inviter des camarades</string>
     <string name="title_invite_colleague">Inviter des collègues</string>
@@ -4629,8 +4657,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="update_member_count_success">Mise à jour %s réussi</string>
     <string name="update_member_count_title">Mise à jour %s membres</string>
     <string name="update_safe_address">Mettre à jour les informations du compte de contact par défaut</string>
-    <string name="update_succeed">mis à jour</string>
-    <string name="update_success">mise à jour effectuée !</string>
+    <string name="update_succeed">Mis à jour</string>
+    <string name="update_success">Mise à jour effectuée !</string>
     <string name="updating_to_server">Mise à jour…</string>
     <string name="upgrade">Mise à jour</string>
     <string name="upgrade_completed_tip_dialog_cancel_btn">Plus tard</string>
@@ -4641,7 +4669,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="upgrade_dialog_btn_install">Installer maintenant</string>
     <string name="upgrade_dialog_btn_start_upgrade">Mettre à jour maintenant</string>
     <string name="upgrade_dialog_btn_upgrading_progress">Mise à jour…%s</string>
-    <string name="upgrade_dialog_content_download_completed">Mettre à jour les fichiers téléchargés ^-^ Installer et en profiter maintenant</string>
+    <string name="upgrade_dialog_content_download_completed">"Mettre à jour les fichiers téléchargés ^-^ 
+Installer et en profiter maintenant"</string>
     <string name="upgrade_dialog_title_download_completed">téléchargé !</string>
     <string name="upgrade_dialog_title_upgrade">Mise à jour disponible !</string>
     <string name="upgrade_download_succeeded">Mise à jour téléchargée</string>
@@ -4654,7 +4683,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="upgrade_pkg_downloaded">Installez la version la plus à jour</string>
     <string name="upgrade_pkg_downloaded_title">La mise à jour est disponible</string>
     <string name="upgrade_tips">Bienvenu dans Mi-Talk !</string>
-    <string name="upgrade_tips1">Mises à jour 1. MiBouton ajoutés dans les tchats. 2. Bouton ajouté pour les groupes dans les tchats</string>
+    <string name="upgrade_tips1">"Mises à jour 
+
+1. MiBouton ajoutés dans les tchats. 
+2. Bouton ajouté pour les groupes dans les tchats"</string>
     <string name="upgrade_tips2">Aucune</string>
     <string name="upgrade_tips_01_content">Maintenant, vous pouvez appeler des amis sur Mi-Talk via Micall !</string>
     <string name="upgrade_tips_01_title">Mi-Voip</string>
@@ -4683,7 +4715,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="upload_image_fail">"Impossible de télécharger l'image"</string>
     <string name="upload_my_card_failed">Impossible de poster, veuillez réessayez</string>
     <string name="upload_real_avatar">Chargez votre image</string>
-    <string name="upload_video_fail">Oops! Impossible de Charger la vidéo. veuillez faire le nécessaire pour que votre connexion réseau soit stable</string>
+    <string name="upload_video_fail">Oops ! Impossible de Charger la vidéo. veuillez faire le nécessaire pour que votre connexion réseau soit stable</string>
     <string name="upload_wifi_alert">Téléchargement via les données ?</string>
     <string name="uploading">Chargement…</string>
     <string name="upoad_real_avatar_tips">Chargez votre imagepour gagner 2 MiCrédits !</string>
@@ -4764,7 +4796,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="verification_next_step">Suivant</string>
     <string name="verification_pls_enter_4_ver">Code de vérification</string>
     <string name="verification_resend">Renvoyez</string>
-    <string name="verification_seconds_to_resend_code">"Sélectionnez de renvoyer le code de vérification si vous ne le recevez pas dans les 30 secondes. Information : Le code de vérification expire après 24 heures à partir du moment qu'il a été livré."</string>
+    <string name="verification_seconds_to_resend_code">"Sélectionnez de renvoyer le code de vérification si vous ne le recevez pas dans les 30 secondes. 
+Information: Le code de vérification expire après 24 heures à partir du moment qu'il a été livré."</string>
     <string name="verification_send_to">Code de vérification envoyé à %s</string>
     <string name="verification_succ">Enregistrement réussi !</string>
     <string name="verification_verifing">Vérification…</string>
@@ -4791,7 +4824,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="video_continue">Continuer ?</string>
     <string name="video_delete_confirm_msg">Supprimer ce message ?</string>
     <string name="video_drag_cancel">Faites glisser pour annuler</string>
-    <string name="video_duration">Durée : %ds</string>
+    <string name="video_duration">Durée: %ds</string>
     <string name="video_first_send_cancel">Quitter</string>
     <string name="video_first_send_confirm">Envoyer</string>
     <string name="video_first_success_send_hint">Tellement excitant! Souhaitez-vous envoyer votre premier message vidéo ?</string>
@@ -4807,7 +4840,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="video_not_support_lanscape_hint">Impossible de prendre en vidéo dans ce mode</string>
     <string name="video_nowifi_hint">Votre qualité de la vidéo pourrait être affectée par le réseau sans fil de votre fournisseur de données</string>
     <string name="video_open_camera_failed">Échec</string>
-    <string name="video_path">Chemin : %s</string>
+    <string name="video_path">Chemin: %s</string>
     <string name="video_picker_error">Veuillez choisir parmi la Galerie</string>
     <string name="video_record_max">"Longueurs d'enregistrement maximum atteinte"</string>
     <string name="video_record_time">%1$d/%2$ds</string>
@@ -4815,14 +4848,14 @@ groupes et rejoignez-nous etc."</string>
     <string name="video_record_wrong">Enregistrement échoué</string>
     <string name="video_recording_preparing">Soyez prêt…</string>
     <string name="video_remote_device_not_support">Cet utilisateur utilise un appareil qui ne supporte pas la vidéo</string>
-    <string name="video_size">Taille : %.2fMo</string>
+    <string name="video_size">Taille: %.2fMo</string>
     <string name="video_size_to_large">La vidéo envoyée ne peut pas dépasser 10 Mo !</string>
     <string name="video_sms_body">Message vidéo reçu. Votre version actuelle de Mi-Talk ne peut pas afficher ce type de message</string>
     <string name="video_switch_camera">Glisser</string>
     <string name="video_talk">Tchat vidéo</string>
     <string name="video_talk_title" />
     <string name="video_too_short_hint">Vidéo trop courte, envoyer de toute façon ?</string>
-    <string name="video_view_size">Taille : %1$d*%2$d</string>
+    <string name="video_view_size">Taille: %1$d*%2$d</string>
     <string name="view_cnt">%s spectateurs</string>
     <string name="view_domain">Entrez votre intérêt></string>
     <string name="view_domain_cancel">Me redemander plus tard</string>
@@ -4875,7 +4908,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="voip_feedback_confirm">Soumettre</string>
     <string name="voip_feedback_default_msg">Utilisez juste MiCall, et suggérer cette bonne qualité et sans fil gratuit pour appeler tout le monde</string>
     <string name="voip_feedback_empty_sharing_hint">Que voudriez-vous partager sur Weibo ?</string>
-    <string name="voip_feedback_goal_hint">Évaluez cet appel :</string>
+    <string name="voip_feedback_goal_hint">Évaluez cet appel:</string>
     <string name="voip_feedback_nolonger_display">Ne pas me le redemandez</string>
     <string name="voip_feedback_pls_rating_hint">Vous devez évaluer avant de soumettre</string>
     <string name="voip_feedback_pref_setting">Évaluez Mi Call</string>
@@ -4995,20 +5028,20 @@ groupes et rejoignez-nous etc."</string>
     <string name="wall_do_like_had_done">Vous avez liké ce post</string>
     <string name="wall_err_contains_forbidden">Votre message contient des mots politiquement sensibles</string>
     <string name="wall_first_person">Moi</string>
-    <string name="wall_float_input_forward_original">Message original :</string>
+    <string name="wall_float_input_forward_original">Message original:</string>
     <string name="wall_float_input_forward_original_type_image">[Image]</string>
     <string name="wall_float_input_forward_original_type_speech">[Voix]</string>
     <string name="wall_footer_invite">"Invite davantage d'amis"</string>
     <string name="wall_footer_no_message_2">Glissez vers le bas pour rafraîchir</string>
     <string name="wall_forward_failed">Impossible de poster un message. Il a été enregistré en tant que brouillon</string>
     <string name="wall_forward_succeeded">Posté !</string>
-    <string name="wall_forward_template">Message original : %s</string>
+    <string name="wall_forward_template">Message original: %s</string>
     <string name="wall_forwarding">En cours de post…</string>
-    <string name="wall_from">De : %s messages</string>
+    <string name="wall_from">De:%s messages</string>
     <string name="wall_get_more_failed">Impossible de mettre à jour les RSS, veuillez vérifier votre connexion réseau et réessayez</string>
     <string name="wall_give_up_content">Abandonner le message ?</string>
     <string name="wall_guide_text">Partager des photos, articles, et plus encore ! Les statuts de vos amis seront également affichés ici</string>
-    <string name="wall_last_update_time_text">Dernière mise à jour : %s</string>
+    <string name="wall_last_update_time_text">Dernière mise à jour: %s</string>
     <string name="wall_like_avatar_load_err">Impossible de télécharger, veuillez essayer à nouveau</string>
     <string name="wall_like_count">%d personnes aiment ça</string>
     <string name="wall_list_load_failure">Vous avez une mauvaise connexion</string>
@@ -5059,11 +5092,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="wall_sending">[Envoi]</string>
     <string name="wall_subscribe_failed">Partage échoué</string>
     <string name="wall_subscribe_low_version_tips">La version de Mi-Talk vous utilisez ne supporte pas cette fonctionnalité</string>
-    <string name="wall_subscribe_post_hint">Partager des informations de souscription</string>
+    <string name="wall_subscribe_post_hint">"Partager des informations de souscription
+"</string>
     <string name="wall_subscribe_succeeded">Partagée</string>
     <string name="wall_vote_avatar_load_err">Impossible de charger, veuillez essayer à nouveau</string>
     <string name="want_to_find_a">inviter</string>
-    <string name="want_to_find_sb_to_do_sth">veut %2$s avec %1$s</string>
+    <string name="want_to_find_sb_to_do_sth">Veut %2$s avec %1$s</string>
     <string name="ward_list_item_title">Voir la liste des prix</string>
     <string name="webview_adjust_fone_size_title">Taille de la police</string>
     <string name="webview_copy_message_failed">Impossible de copier</string>
@@ -5071,14 +5105,17 @@ groupes et rejoignez-nous etc."</string>
     <string name="wednesday">Mercredi</string>
     <string name="weibo_audio">Message vocal</string>
     <string name="weibo_gif">Mi-Talk GIF</string>
-    <string name="weibo_msg1">"\#J'utilise Mi-Talk #Mon Identifiant Mi : %s #Téléchargé ici : http://miliao.com/d @Mi-Talk"</string>
-    <string name="weibo_msg2">"\#J'utilise Mi-Talk #Mon Identifiant Mi : %s #Téléchargé ici : http://miliao.com/d @Mi-Talk"</string>
-    <string name="weibo_msg3">"\#J'utilise Mi-Talk #Mon Identifiant Mi : %s #Téléchargé ici : http://miliao.com/d @Mi-Talk"</string>
-    <string name="weibo_msg4">"\#J'utilise Mi-Talk #Mon Identifiant Mi : %s #Téléchargé ici : http://miliao.com/d @Mi-Talk"</string>
-    <string name="weibo_msg5">"\#J'utilise Mi-Talk #Mon Identifiant Mi : %s #Téléchargé ici : http://miliao.com/d @Mi-Talk"</string>
+    <string name="weibo_msg1">"\#J'utilise Mi-Talk #Mon Identifiant Mi: %s #Téléchargé ici:http://miliao.com/d @Mi-Talk"</string>
+    <string name="weibo_msg2">"\#J'utilise Mi-Talk #Mon Identifiant Mi: %s #Téléchargé ici:http://miliao.com/d @Mi-Talk"</string>
+    <string name="weibo_msg3">"\#J'utilise Mi-Talk #Mon Identifiant Mi: %s #Téléchargé ici:http://miliao.com/d @Mi-Talk"</string>
+    <string name="weibo_msg4">"\#J'utilise Mi-Talk #Mon Identifiant Mi: %s #Téléchargé ici:http://miliao.com/d @Mi-Talk"</string>
+    <string name="weibo_msg5">"\#J'utilise Mi-Talk #Mon Identifiant Mi: %s #Téléchargé ici:http://miliao.com/d @Mi-Talk"</string>
     <string name="weibo_picture">\#Photos envoyées via Mi-Talk#　</string>
     <string name="weibo_register">Inscrivez-vous à Sina Weibo</string>
-    <string name="weibo_register_hints">"Les frais pour envoyer votre texte d'inscription est 0,1€ Cette taxe est perçue par votre opérateur. 1. Tous les coûts sont déterminés par votre opérateur. 2. Les autres utilisateurs ne seront pas en mesure de voir votre numéro de téléphone"</string>
+    <string name="weibo_register_hints">"Les frais pour envoyer votre texte d'inscription est 0,1€ Cette taxe est perçue par votre opérateur. 
+
+1. Tous les coûts sont déterminés par votre opérateur. 
+2. Les autres utilisateurs ne seront pas en mesure de voir votre numéro de téléphone"</string>
     <string name="weibo_register_msg">"\#J'utilise Mi-Talk！http://miliao.com"</string>
     <string name="weibo_register_succeed">"Le nom d'utilisateur et le mot de passe seront envoyés à votre téléphone sous peu. Si vous ne recevez pas de message d'ici une minute, entrez votre numéro de téléphone, votre nom d'utilisateur et les six derniers chiffres de votre numéro de téléphone ainsi que votre mot de passe"</string>
     <string name="weibo_response_audio">Les messages vocaux ont été posté avec succès sur Weibo !</string>
@@ -5102,20 +5139,25 @@ groupes et rejoignez-nous etc."</string>
     <string name="weibosdk_toast_share_response_args_failed">Impossible de recevoir la demande du client</string>
     <string name="weibosdk_toast_share_response_args_success">Demande de Weibo reçue</string>
     <string name="weibosdk_toast_share_success">Partagé</string>
-    <string name="welcome_free_notice">"Mi-Talk est une application mobile gratuite de communication en temps réel. L'équipe de Mi-Talk travaille dur et aime trouver le moyen le plus pratique pour les utilisateurs d'interagir avec le monde à tout moment et n'importe où ! Afin de fournir le meilleur service et protéger les renseignements personnels des utilisateurs de Mi-Talk, nous suggérons fortement aux utilisateurs de s'inscrire avec un numéro de téléphone. L'équipe de Mi-Talk a développé une façon de s'assurer que toutes informations privées soient sécurisées. Maintenant, asseyez-vous et profitez de la vie en ayant Mi-Talk !"</string>
-    <string name="welcome_message_friend">Votre ami %1$s (Identifiant Mi : %2$s) utilise aussi Mi-Talk, voulez-vous lui dire bonjour ?</string>
+    <string name="welcome_free_notice">"
+Mi-Talk est une application mobile gratuite de communication en temps réel. L'équipe de Mi-Talk travaille dur et aime trouver le moyen le plus pratique pour les utilisateurs d'interagir avec le monde à tout moment et n'importe où ! 
+
+Afin de fournir le meilleur service et protéger les renseignements personnels des utilisateurs de Mi-Talk, nous suggérons fortement aux utilisateurs de s'inscrire avec un numéro de téléphone. L'équipe de Mi-Talk a développé une façon de s'assurer que toutes informations privées soient sécurisées. 
+
+Maintenant, asseyez-vous et profitez de la vie en ayant Mi-Talk !"</string>
+    <string name="welcome_message_friend">Votre ami %1$s (Identifiant Mi: %2$s) utilise aussi Mi-Talk, voulez-vous lui dire bonjour ?</string>
     <string name="welcome_message_friend_recommend">Voici les utilisateurs Mi-Talk qui ont échangé leur numéro de téléphone ou leur contacts par mail avec vous, ou vos amis SNS</string>
-    <string name="welcome_message_i_know">%1$s (Identifiant Mi : %2$s)utilise aussi Mi-Talk</string>
+    <string name="welcome_message_i_know">%1$s (Identifiant Mi: %2$s)utilise aussi Mi-Talk</string>
     <string name="welcome_message_sina">Vous pouvez synchroniser les contenus, images et messages vocaux sur Sina Weibo maintenant !</string>
     <string name="welcome_message_xiaomi_jokes">:) ? Les blagues Xiaomi vous feront-elles :D? Essayez-les !</string>
     <string name="welcome_message_xiaomi_news">Lisez les nouvelles Mi-Talk à 06h30 tous les soirs pour rester en contact avec le monde !</string>
     <string name="welcome_message_xiaomi_secretary">Comment pouvons-nous vous aider ici ?</string>
     <string name="welcome_message_xiaomi_yunshi">Xiaomi délivre des gâteaux chinois chaque semaine! Excité ? En obtenir un !</string>
-    <string name="welcome_message_you_may_know">%1$s (Identifiant Mi : %2$s) a vos informations de contact. Voulez-vous les trouver sur Mi-Talk ?</string>
+    <string name="welcome_message_you_may_know">%1$s (Identifiant Mi: %2$s) a vos informations de contact. Voulez-vous les trouver sur Mi-Talk ?</string>
     <string name="welcome_to_miliao">Bienvenue sur Mi-Talk !</string>
     <string name="welcome_userage">À propos de Mi-Talk</string>
     <string name="who_are_you">Qui est-ce ?</string>
-    <string name="whose_group_message">(Message de groupe)%1$s : %2$s</string>
+    <string name="whose_group_message">(Message de groupe)%1$s:%2$s</string>
     <string name="whose_message">Message</string>
     <string name="wip_feature">"Nous travaillons d'arrache-pied"</string>
     <string name="within_1_hour">%d minutes</string>
@@ -5128,7 +5170,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="wrong_password_for_miui">Le mot de passe que vous avez entré est incorrect</string>
     <string name="wrong_pwd">Mauvais mot de passe</string>
     <string name="x_miliao_friends_from_renren">"Trouvez %1$d amis de renren. %2$d amis qui n'utilisent pas Mi-Talk, invitez-les à vous rejoindre !"</string>
-    <string name="xiami_from">|Pour :</string>
+    <string name="xiami_from">|Pour:</string>
     <string name="xiami_next">Par</string>
     <string name="xiami_pre">À condition que</string>
     <string name="xiaoice_dialog_content">"Maître, en m'adoptant, vous pouvez parler avec moi et m'ajouter à des groupes pour vous aider dans le tchat en groupe !"</string>
@@ -5151,8 +5193,8 @@ groupes et rejoignez-nous etc."</string>
     <string name="you_can_invite_more_friends_by_free_sms">Vous pouvez envoyer des SMS gratuits pour inviter des amis dans Mi-Talk!</string>
     <string name="you_may_know">Vous connaissez peut-être (%d)</string>
     <string name="your_card">"%s carte d'identifiant Mi"</string>
-    <string name="your_miid">Votre Identifiant Mi :</string>
-    <string name="your_xiaomi_id">Identifiant Mi :</string>
+    <string name="your_miid">Votre Identifiant Mi:</string>
+    <string name="your_xiaomi_id">Identifiant Mi:</string>
     <string name="zero_added_by_me_buddy_tips">"Vous n'avez invité personne ! Voulez-vous essayer ?"</string>
     <string name="zero_added_me_buddy_tips">"Vous n'avez reçu aucunes demandes d'amis ? Voulez-vous essayer ?"</string>
     <string name="zero_buddy_tips_find_friends">"Inviter davantage d'amis"</string>
@@ -5163,7 +5205,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="ziliao">Profil</string>
     <string name="add_miliao_friend">Ajouter comme ami</string>
     <string name="chat_bottom_add_voip_btn">Voip</string>
-    <string name="common_about_message1">Version : %1$s%2$s</string>
+    <string name="common_about_message1">Version: %1$s%2$s</string>
     <string name="common_about_message2">Copyright ?2013 MiLiao.com</string>
     <string name="common_about_message3">Tous Droits Réservés</string>
     <string name="common_agree">Accepter</string>
@@ -5177,12 +5219,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="common_choose_area_code">Code Pays/Région</string>
     <string name="common_choose_area_name">Pays/Région</string>
     <string name="common_click_to_install">Appuyer pour installer</string>
-    <string name="common_congratulate_on_miid">Votre identifiant Mi :</string>
+    <string name="common_congratulate_on_miid">Votre identifiant Mi:</string>
     <string name="common_connect_welcome">Bonjour %1$s, bienvenue à %2$s</string>
     <string name="common_create_account_failed">Impossible de créer le compte</string>
     <string name="common_create_user_too_many_times">Utilisateur créé trop de fois</string>
     <string name="common_creating_account">Création du compte…</string>
-    <string name="common_current_password">Mot de passe actuel :</string>
+    <string name="common_current_password">Mot de passe actuel:</string>
     <string name="common_email_not_for_secret">Boîte de réception Public</string>
     <string name="common_email_unbinded">"Cet email n'est associé avec aucun compte"</string>
     <string name="common_err_input_account_hint">Entrez le numéro de votre compte Mi ou votre numéro de téléphone</string>
@@ -5198,7 +5240,7 @@ groupes et rejoignez-nous etc."</string>
     <string name="common_forgot_password">Avez-vous oublié votre mot de passe ?</string>
     <string name="common_get_bind_info_failed">Échec</string>
     <string name="common_hint">Allusion</string>
-    <string name="common_input_account">Entrez votre compte :</string>
+    <string name="common_input_account">Entrez votre compte:</string>
     <string name="common_input_account_hint">Entrez votre numéro de compte Mi ou numéro de téléphone</string>
     <string name="common_input_country_tips">Sélectionnez un pays et une région</string>
     <string name="common_input_current_password">Entrez votre mot de passe actuel</string>
@@ -5209,10 +5251,10 @@ groupes et rejoignez-nous etc."</string>
     <string name="common_login_connect_sina">Connectez vous à Weibo Sina</string>
     <string name="common_login_failed">Échec de connexion</string>
     <string name="common_logining">Connexion…</string>
-    <string name="common_mail_colon">Boîte de réception : %s</string>
+    <string name="common_mail_colon">Boîte de réception: %s</string>
     <string name="common_miid_unbinded">"Ce compte n'est associé ni à un numéro de téléphone ni à une adresse mail"</string>
     <string name="common_miliao_login">Se connecter</string>
-    <string name="common_mobile_phone_colon">Téléphone : %s</string>
+    <string name="common_mobile_phone_colon">Téléphone: %s</string>
     <string name="common_name_cannot_be_empty">Entrez un nom</string>
     <string name="common_need">Requis</string>
     <string name="common_need_not">Pas nécessaire</string>
@@ -5243,13 +5285,13 @@ groupes et rejoignez-nous etc."</string>
     <string name="common_search_friend_hint">Nom/Identifiant Mi/École/Entreprise</string>
     <string name="common_send_pwd_by_email">Un mot de passe vous a été envoyé à votre adresse mail</string>
     <string name="common_send_pwd_by_sms">Le mot de passe vous a été envoyé via SMS</string>
-    <string name="common_send_pwd_to">Appuyez sur le bouton pour envoyer la vérification à :</string>
+    <string name="common_send_pwd_to">Appuyez sur le bouton pour envoyer la vérification à:</string>
     <string name="common_send_sms_tips">Un code de vérification sera envoyé sur votre téléphone</string>
-    <string name="common_send_verification_code_to">Un code de vérification a été envoyé à : %s</string>
+    <string name="common_send_verification_code_to">Un code de vérification a été envoyé à: %s</string>
     <string name="common_set_name">Définissez un nom</string>
-    <string name="common_set_new_pwd">Entrez un nouveau mot de passe : (8-16 caractères)</string>
+    <string name="common_set_new_pwd">Entrez un nouveau mot de passe: (8-16 caractères)</string>
     <string name="common_set_password">Définissez un mot de passe</string>
-    <string name="common_set_pwd">Définissez un mot de passe : (6-16 caractères)</string>
+    <string name="common_set_pwd">Définissez un mot de passe: (6-16 caractères)</string>
     <string name="common_set_pwd_failed">Échec de définition du mot de passe</string>
     <string name="common_set_pwd_succeed">Mot de passe défini</string>
     <string name="common_setting_pwd">Définition du mot de passe.</string>
@@ -5275,12 +5317,12 @@ groupes et rejoignez-nous etc."</string>
     <string name="common_welcome_to_miliao">Bienvenue %s</string>
     <string name="common_wrong_password">"Le nom d'utilisateur ou mot de passe que vous avez entré n'est pas valide"</string>
     <string name="common_wrong_password_for_miui">"Le mot de passe et le nom d'utilisateur ne correspondent pas"</string>
-    <string name="common_your_miid">Votre compte Mi :</string>
+    <string name="common_your_miid">Votre compte Mi:</string>
     <string name="count">(%d)</string>
     <string name="doublecard_sim">SIM</string>
     <string name="foobar">foobar</string>
     <string name="keep_on_import_contacts">Fait ! Vous pouvez envoyer des invitations maintenant</string>
-    <string name="namecard_">DOB :</string>
+    <string name="namecard_">DOB:</string>
     <string name="new_namecard__muc">Rejoindre un groupe</string>
     <string name="private_licence">"Conditions et accord de confidentialité de l'utilisateur"</string>
     <string name="say_sth">Voulez-vous dire quelque chose ?</string>
