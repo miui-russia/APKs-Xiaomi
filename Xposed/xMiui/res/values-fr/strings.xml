@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">Module Xposed pour MIUI 7</string>
+    <string name="about">Module Xposed pour MIUI</string>
     <string name="about_developers">"\u0009• SolarWarez (Email: solar.warez@yandex.ru)
  \u0009• Andu Satria
  \u0009• Abdul Latif
@@ -21,13 +21,17 @@ Veuillez prendre en compte:
     <string name="about_qq_group_join" />
     <string name="about_qq_group_label" />
     <string name="about_summary">"Pour en apprendre plus sur les personnes qui ont créé xMIUI, où obtenir de l'aide pour cette application, etc."</string>
-    <string name="about_support">Groupe Facebook: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - MODULE XPOSED</a>"
-Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>" "</string>
+    <string name="about_support">Groupe Facebook: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - MODULE XPOSED</a>
+        \nPoster sur <a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>
+        \n
+        \nIf you have a proposal that can be implemented in a module, or you want to affect the priority of ongoing proposals, specially for this we created <a href="http://xmiui.idea.informer.com/"><b>project page</b></a> on Idea Informer service.
+        \n<b>Take an active part in the development of the module!</b>
+    </string>
     <string name="about_support_label">"Obtenir de l'aide:</string>
     <string name="about_title">À Propos</string>
     <string name="about_translator_label">Traduction Française:</string>
     <string name="about_version_label">"Version de l'application:"</string>
-    <string name="app_description">Module Xposed pour MIUI 7</string>
+    <string name="app_description">Module Xposed pour MIUI</string>
     <string name="app_killed">%s tuée</string>
     <string name="applied">Réglages appliqués</string>
     <string name="apply_summary">Appuyer pour appliquer les réglages</string>
@@ -243,9 +247,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
 Pour remonter les erreurs de traduction ou optimisation - merci d'envoyer un email à Angyann ou Fayz !"</string>
     <string name="version">Version</string>
     <string name="warnin">Attention !</string>
+
     <string name="pref_cat_keys_sensor_title">\"Sensor\" key</string>
+    <string name="pref_cat_menu_key_enable_title">Custom \"Menu\" key</string>
     <string name="pref_cat_menu_key_enable_summary">Allows to override \"Menu\" key behavior</string>
-    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
     <string name="pref_cat_back_key_enable_title">Personnaliser le bouton \"Retour\"</string>
     <string name="pref_cat_back_key_enable_summary">Allows to override \"Back\" key behavior</string>
     <string name="pref_cat_home_key_enable_title">Personnaliser le bouton \"Home\"</string>
@@ -254,16 +259,48 @@ Pour remonter les erreurs de traduction ou optimisation - merci d'envoyer un ema
     <string name="pref_cat_sensor_key_enable_summary">Allows to override \"Sensor\" key behavior</string>
     <string name="pref_cat_settings_swap_volume_keys_title">Inverser les boutons de volume</string>
     <string name="pref_cat_settings_swap_volume_keys_summary">Permet d\'échanger les boutons du volume lorsque l\'écran est tourné</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
     <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
     <string name="pref_cat_systemui_shade_statusbar_title">Barre d\'état</string>
     <string name="pref_cat_systemui_shade_statusbar_summary">Allows to shade status bar oposite icons color</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
     <string name="pref_cat_systemui_dark_notifications_icons_title">Icônes de notifications foncé</string>
     <string name="pref_cat_systemui_dark_notifications_icons_summary">Utiliser des icônes de notifications foncé dans la barre de notification et la barre de statut</string>
-    <string name="pref_cat_systemui_expand_notifications_by_side_title">Smart notification panel expand mode</string>
-    <string name="pref_cat_systemui_expand_notifications_by_side_summary">• when swipe on left half of screen then toggles panel will expand\n• when swipe on right half of screen then notifications panel will expand</string>
-    <string name="pref_cat_keyguard_shuffle_pin_title">Clavier PIN aléatoire</string>
-    <string name="pref_cat_keyguard_shuffle_pin_summary">Permet de mélanger les boutons du clavier à chaque verrouillage</string>
+    <string name="pref_cat_systemui_smart_notification_panel_mode_title">Smart notification panel expand mode</string>
+    <string name="pref_cat_systemui_smart_notification_panel_mode_summary">Allows to set which panel will be shown by swipe on left / right side of screen</string>
+    <string name="pref_cat_keyguard_shuffle_pin_title">Shuffle PIN keypad</string>
+    <string name="pref_cat_keyguard_shuffle_pin_summary">Allows to shuffle PIN keypad buttons every time after phone locking</string>
+    <string name="pref_cat_volume_override_max_title">Override max volume levels</string>
+    <string name="pref_cat_volume_override_max_summary">Allows to set max volume levels (count of volume regulation steps)</string>
+    <string name="notification_volume">Notification volume</string>
+    <string name="pref_cat_volume_panel_top_title">Volume panel top</string>
+    <string name="pref_cat_volume_panel_top_summary">Allows to set volume panel top position in percent of screen height</string>
+    <string name="pref_cat_launcher_tweaks_enable_title">Enable launcher tweaks</string>
+    <string name="pref_cat_contacts_swipe_list_item_title">Swipeable call log items</string>
+    <string name="pref_cat_contacts_swipe_list_item_summary">Allows use swipes on call log items to perform actions</string>
+    <string name="pref_cat_contacts_disable_call_by_click_list_item_title">Disable call by click on call log item</string>
+    <string name="pref_cat_contacts_disable_call_by_click_list_item_summary">Allows to disable make call by click on call log items</string>
+    <string name="pref_cat_launcher_hidden_apps_title">Hide applications</string>
+    <string name="pref_cat_launcher_hidden_apps_summary">Allows to select applications that will be hidden in launcher</string>
+    <string name="select_apps_title">Select applications</string>
+    <string name="select_app_title">Select application</string>
+    <string name="pref_cat_systemui_label_text_color_light_title">Label text light color</string>
+    <string name="pref_cat_systemui_label_text_color_light_summary">Allows to set icon label text light color</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_light_title">Label text shadow light color</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_light_summary">Allows to set icon label text shadow light color</string>
+    <string name="pref_cat_systemui_label_text_color_dark_title">Label text dark color</string>
+    <string name="pref_cat_systemui_label_text_color_dark_summary">Allows to set icon label text dark color</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_dark_title">Label text shadow dark color</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_dark_summary">Allows to set icon label text shadow dark color</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_title">Dismiss mode</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_summary">Allows to select how notifications will dismiss by swipe</string>
+    <string name="pref_cat_contacts_enable_preferred_sim_title">Preferred SIM card</string>
+    <string name="pref_cat_contacts_enable_preferred_sim_summary">Allows to select preferred SIM card for contacts phone numbers</string>
+    <string name="pref_cat_contacts_list_item_click_mode_title">Call log item click action</string>
+    <string name="pref_cat_contacts_list_item_click_mode_summary">Allows to set action that will be performed on call log item click</string>
+    <string name="pref_cat_power_title">Power</string>
+    <string name="pref_cat_power_summary">Power tweaks preferences</string>
+    <string name="pref_cat_systemui_ext_reboot_title">Advanced reboot</string>
+    <string name="pref_cat_systemui_ext_reboot_summary">Show advanced reboot options</string>
 </resources>
