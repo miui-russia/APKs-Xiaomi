@@ -40,23 +40,23 @@
     </string-array>
 
     <string-array name="smart_notification_panel_mode_ent">
-        <item>Default</item>
-        <item>Always toggles panel</item>
-        <item>Always notifications panel</item>
-        <item>Toggles / notifications panel</item>
-        <item>Notifications / toggles panel</item>
+        <item>Défaut</item>
+        <item>Toujours la barre de raccourcis</item>
+        <item>Toujours la barre de notifications</item>
+        <item>Barre de raccourcis/notifications</item>
+        <item>Barre de notifications/raccourcis</item>
     </string-array>
 
     <string-array name="keyguard_swipe_to_dismiss_notifications_mode_ent">
-        <item>Lock screen only</item>
-        <item>Lock screen and notification panel</item>
-        <item>Lock screen / Lock screen and notification panel</item>
-        <item>Lock screen and notification panel / Lock screen</item>
+        <item>"Seulement l'écran de verrouillage"</item>
+        <item>"L'écran de verrouillage et la barre de notifications"</item>
+        <item>Écran de verrouillage/écran de verrouillage et barre de notifications</item>
+        <item>Écran de verrouillage et barre de notifications/écran de verrouillage</item>
     </string-array>
 
     <string-array name="contacts_list_item_click_mode_ent">
-        <item>Make call</item>
-        <item>Show quick contact dialog</item>
-        <item>Do nothing</item>
+        <item>Passer un appel</item>
+        <item>Afficher le raccourci vers les contacts rapides</item>
+        <item>Ne rien faire</item>
     </string-array>
 </resources>
