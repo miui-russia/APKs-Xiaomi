@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">Module Xposed pour MIUI</string>
-    <string name="about_developers">"\u0009• SolarWarez (Email: solar.warez@yandex.ru)
- \u0009• Andu Satria
- \u0009• Abdul Latif
- \u0009• Fatra Megantara
- \u0009• Aris.Ho
- 
-Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru !"</string>
+    <string name="about_developers">\u0009• SolarWarez (e-mail: <a href="mailto:solar.warez@yandex.ru">solar.warez@yandex.ru</a>") \u0009• Andu Satria \u0009• Abdul Latif \u0009• Fatra Megantara \u0009• Aris.Ho 
+Si vous souhaitez aider à la traduction vers d'autres langues ou de toute autre manière - c'est à l'adresse suivante solar.warez@yandex.ru!"</string>
     <string name="about_developers_label">Développeurs de xMIUI:</string>
     <string name="about_donate" formatted="false">"Si vous aimez cette application et décidiez de faire un don - merci à vous !
  
@@ -21,13 +16,12 @@ Veuillez prendre en compte:
     <string name="about_qq_group_join" />
     <string name="about_qq_group_label" />
     <string name="about_summary">"Pour en apprendre plus sur les personnes qui ont créé xMIUI, où obtenir de l'aide pour cette application, etc."</string>
-    <string name="about_support">Groupe Facebook: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - MODULE XPOSED</a>
-        \nPoster sur <a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>
-        \n
-        \nSi vous avez une proposition qui peut être mis en œuvre dans un module, ou si vous voulez nous faire des propositions, nous avons créé spécialement pour cela  <a href="http://xmiui.idea.informer.com/"><b>une page de projet</b></a>" de service d'idées et d'informations".
-        \n<b>Prenez part au développement du module!</b>
-    </string>
-    <string name="about_support_label">"Obtenir de l'aide:</string>
+    <string name="about_support">Groupe Facebook: <a href="https://www.facebook.com/groups/1626237031033547/">xMIUI - MODULE XPOSED</a>" 
+Poster sur "<a href="http://forum.xda-developers.com/xposed/modules/xmiui-xposed-module-miui-7-tweaking-t3394130">forum.xda-developers.com</a>" 
+ 
+Si vous avez une proposition qui peut être mis en œuvre dans un module, ou si vous voulez nous faire des propositions, nous avons créé spécialement pour cela "<b><a href="http://xmiui.idea.informer.com/">une page de projet</a></b>" de service d'idées et d'informations. 
+"<b>Prenez part au développement du module!</b>" "</string>
+    <string name="about_support_label">"Obtenir de l'aide:"</string>
     <string name="about_title">À Propos</string>
     <string name="about_translator_label">Traduction Française:</string>
     <string name="about_version_label">"Version de l'application:"</string>
@@ -42,6 +36,7 @@ Veuillez prendre en compte:
     <string name="help_text">"&lt;h5>1. Pré-requis&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Pour fonctionner le module requiert que vous ayez installé &lt;a href=http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634>Xposed&lt;/a> framework et l'application &lt;a href=http://repo.xposed.info/module/de.robv.android.xposed.installer>Xposed Installer&lt;/a>. &lt;b>Sans ce module cela ne fonctionnera pas !&lt;/b>&lt;br> Pour savoir comment installer le framework Xposed sur votre téléphone, consultez les forums spécialisés à votre téléphone.&lt;/p> &lt;h5>2. Configurer votre téléphone&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Après avoir installé le framework Xposed et l'application Xposed Installer, aller dans l'application Sécurité puis Permissions ➔ Gestion du démarrage et autoriser l'application Xposed Installer.&lt;/p> &lt;h5>3. Installation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est installé comme une application classique.&lt;br> &amp;emsp;&amp;emsp;Après l'installation du premier module, il doit être activé dans l'application Xposed Installer, dans Modules, et redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer qui indique que le module est installé mais pas encore activé. &lt;/p> &lt;h5>4. Mise à jour du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;La mise à jour d'un module se déroule comme une mise à jour classique d'une application.&lt;br> &amp;emsp;&amp;emsp;Si vous avez passez l'étape 2, vous devriez avoir une notification de Xposed Installer comme quoi le module est à jour et vous devrez redémarrer votre téléphone.&lt;br> &amp;emsp;&amp;emsp;&lt;b>Si cette notification n'apparaît pas, après la mise à jour du module vous devrez ouvrir manuellement Xposed Installer , aller dans Modules et vérifier si le module est coché et redémarrer votre téléphone!&lt;/b>&lt;/p> &lt;h5>5. Désinstallation du module&lt;/h5> &lt;p>&amp;emsp;&amp;emsp;Le module est à désinstaller comme une application classique.&lt;/p>"</string>
     <string name="help_title">Aide</string>
     <string name="hidden_content">Masquer le contenu</string>
+    <string name="input_phone_number">Input phone number</string>
     <string name="need_apply_or_reboot">Pour appliquer les paramètres dont vous avez besoin soit appuyez sur le bouton \"Appliquer les réglages\" ou alors redémarrez votre téléphone.</string>
     <string name="need_reboot">Vous devez redémarrer pour appliquer les réglagess</string>
     <string name="no_previous_app_found">Aucune application précédente trouvée</string>
@@ -50,31 +45,71 @@ Veuillez prendre en compte:
 Vous devez l'activer dans l'application Xposed Installer et redémarrer le téléphone.
 Voir les détails dans la Section Aide."</string>
     <string name="nothing_to_kill">"Il n'y a rien à tuer"</string>
+    <string name="notification_volume">Volume des notifications</string>
+    <string name="pref_cat_back_key_enable_summary">Permet de remplacer le comportement du bouton \"Retour\"</string>
+    <string name="pref_cat_back_key_enable_title">Personnaliser le bouton \"Retour\"</string>
     <string name="pref_cat_contacts_audio_route_by_proximity_sensor_summary">"Permet de changer le circuit audio de l'enceinte pour l'oreille vers le haut-parleur grâce au capteur de proximité"</string>
     <string name="pref_cat_contacts_audio_route_by_proximity_sensor_title">Circuit audio via capteur de proximité</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_summary">Délai minimum, en millisecondes, entre un appel et sa réponse via le capteur de proximité pour éviter le déclenchement de faux positifs.</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_delay_title">Délai du capteur de proximité</string>
-    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">Permet de répondre à un appel entrant en plaçant le téléphone à l\'oreille</string>
+    <string name="pref_cat_contacts_call_answer_by_proximity_sensor_summary">"Permet de répondre à un appel entrant en plaçant le téléphone à l'oreille"</string>
     <string name="pref_cat_contacts_call_answer_by_proximity_sensor_title">Répondre via le capteur de proximité</string>
+    <string name="pref_cat_contacts_dial_buttons_mode_summary">Allows to set which dial buttons will be shown in dialer</string>
+    <string name="pref_cat_contacts_dial_buttons_mode_title">Dial buttons mode</string>
+    <string name="pref_cat_contacts_disable_call_by_click_list_item_summary">"Permet de désactiver les appels en appuyant sur l'élément du journal d'appels"</string>
+    <string name="pref_cat_contacts_disable_call_by_click_list_item_title">"Désactiver l'appel en appuyant sur l'élément du journal d'appels"</string>
+    <string name="pref_cat_contacts_disable_photo_crop_summary">Allows to disable cropping of full screen contact photo during call</string>
+    <string name="pref_cat_contacts_disable_photo_crop_title">Disable fullscreen photo crop</string>
+    <string name="pref_cat_contacts_enable_preferred_sim_summary">Permet de sélectionner la Carte SIM préférée pour les numéros de téléphone des contacts</string>
+    <string name="pref_cat_contacts_enable_preferred_sim_title">Préférence Carte SIM</string>
+    <string name="pref_cat_contacts_list_item_click_mode_summary">"Permet de définir l'action qui sera exécutée lors d'un appui sur un élément du journal d'appels"</string>
+    <string name="pref_cat_contacts_list_item_click_mode_title">"Action d'appui sur un élément du journal d'appels"</string>
+    <string name="pref_cat_contacts_quick_dial_2_summary">Allows to set phone number which will be dial on digit 2 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_2_title">Digit 2</string>
+    <string name="pref_cat_contacts_quick_dial_3_summary">Allows to set phone number which will be dial on digit 3 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_3_title">Digit 3</string>
+    <string name="pref_cat_contacts_quick_dial_4_summary">Allows to set phone number which will be dial on digit 4 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_4_title">Digit 4</string>
+    <string name="pref_cat_contacts_quick_dial_5_summary">Allows to set phone number which will be dial on digit 5 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_5_title">Digit 5</string>
+    <string name="pref_cat_contacts_quick_dial_6_summary">Allows to set phone number which will be dial on digit 6 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_6_title">Digit 6</string>
+    <string name="pref_cat_contacts_quick_dial_7_summary">Allows to set phone number which will be dial on digit 7 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_7_title">Digit 7</string>
+    <string name="pref_cat_contacts_quick_dial_8_summary">Allows to set phone number which will be dial on digit 8 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_8_title">Digit 8</string>
+    <string name="pref_cat_contacts_quick_dial_9_summary">Allows to set phone number which will be dial on digit 9 button long press</string>
+    <string name="pref_cat_contacts_quick_dial_9_title">Digit 9</string>
+    <string name="pref_cat_contacts_quick_dial_summary">Allows to perform quick dial by long press on digits buttons</string>
+    <string name="pref_cat_contacts_quick_dial_title">Quick dial</string>
     <string name="pref_cat_contacts_rising_ringer_volume_summary">"Lorsque le volume de la sonnerie est activé, il augmentera à partir de la plus faible valeur sélectionnée par l'utilisateur."</string>
     <string name="pref_cat_contacts_rising_ringer_volume_time_summary">"Durée en secondes de l'augmentation du volume de la sonnerie"</string>
     <string name="pref_cat_contacts_rising_ringer_volume_time_title">Augmenter la durée</string>
     <string name="pref_cat_contacts_rising_ringer_volume_title">Augmenter le volume de la sonnerie</string>
     <string name="pref_cat_contacts_summary">Personnalisation du Téléphone</string>
+    <string name="pref_cat_contacts_swipe_list_item_summary">"Permettre le glissement du journal d'appels"</string>
+    <string name="pref_cat_contacts_swipe_list_item_title">"Faire glisser le journal d'appels"</string>
     <string name="pref_cat_contacts_title">Téléphone</string>
+    <string name="pref_cat_home_key_enable_summary">Permet de remplacer le comportement du bouton \"Home\"</string>
+    <string name="pref_cat_home_key_enable_title">Personnaliser le bouton \"Home\"</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_summary">Définit pour combien de temps (en secondes) la touche doit être pressée pour déclencher le déverrouillage du téléphone</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_delay_title">Délai de pression sur la touche</string>
-    <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone.
-Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
+    <string name="pref_cat_keyguard_back_longpress_to_unlock_summary">Appui long sur la touche \"Retour\" déverrouillera le téléphone. Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de passe sont configurés !</string>
     <string name="pref_cat_keyguard_back_longpress_to_unlock_title">Appui long sur \"Retour\" pour déverrouiller</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
+    <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
     <string name="pref_cat_keyguard_hide_notifications_details_summary">"Permet de masquer les détails des notifications sur l'écran de verrouillage"</string>
     <string name="pref_cat_keyguard_hide_notifications_details_title">Masquer les détails des notifications</string>
     <string name="pref_cat_keyguard_show_next_alarm_summary">"Permet d'afficher l'alarme sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_next_alarm_title">"Afficher l'alarme"</string>
-    <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)</string>
+    <string name="pref_cat_keyguard_show_widget_summary">"Permet de sélectionner le widget qui sera affiché sur l'écran de verrouillage (peut ne pas fonctionner avec des thèmes personnalisés)"</string>
     <string name="pref_cat_keyguard_show_widget_title">"Widget sur l'écran de verrouillage"</string>
-    <string name="pref_cat_keyguard_summary">Personnalisation de l\'écran de verrouillage</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">Permet de retirer les notifications sur l\'écran de verrouillage en les faisant glisser</string>
+    <string name="pref_cat_keyguard_shuffle_pin_summary">Permettre de modifier aléatoirement le clavier pour le code PIN à chaque verrouillage du téléphone</string>
+    <string name="pref_cat_keyguard_shuffle_pin_title">Clavier aléatoire pour le code PIN</string>
+    <string name="pref_cat_keyguard_summary">"Personnalisation de l'écran de verrouillage"</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_summary">Permet de sélectionner comment disparaîtront les notifications par un glisser</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_title">Mode Rejeter</string>
+    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_summary">"Permet de retirer les notifications sur l'écran de verrouillage en les faisant glisser"</string>
     <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_title">Retirer les notifications par glissement</string>
     <string name="pref_cat_keyguard_time_pin_summary">"Lorsqu'elle est activée, vous devrez saisir votre code PIN et y ajouter l'heure actuelle pour déverrouiller votre téléphone."</string>
     <string name="pref_cat_keyguard_time_pin_title">"Saisie du code PIN + l'heure actuelle"</string>
@@ -104,8 +139,9 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_keys_longpress_action_title">"Action de l'appui long"</string>
     <string name="pref_cat_keys_menu_title">Bouton \"Menu\"</string>
     <string name="pref_cat_keys_other_title">Autre</string>
+    <string name="pref_cat_keys_sensor_title">Bouton \"Capteur\"</string>
     <string name="pref_cat_keys_singletap_action_summary">"Sélectionnez l'action du simple appui"</string>
-    <string name="pref_cat_keys_singletap_action_title">"Action du simple appui"</string>
+    <string name="pref_cat_keys_singletap_action_title">Action du simple appui</string>
     <string name="pref_cat_keys_summary">Configuration du comportement des boutons tactiles</string>
     <string name="pref_cat_keys_switch_track_by_vol_keys_summary">"Passer à la chanson suivante par un appui long sur les boutons de volume lorsque l'écran du téléphone est éteint"</string>
     <string name="pref_cat_keys_switch_track_by_vol_keys_title">Changement de chanson</string>
@@ -120,14 +156,23 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_folder_columns_count_auto_title">Nombre de colonnes auto dans les dossiers</string>
     <string name="pref_cat_launcher_folder_columns_count_summary">Nombre de colonnes dans les dossiers</string>
     <string name="pref_cat_launcher_folder_columns_count_title">Colonnes dans les dossiers</string>
+    <string name="pref_cat_launcher_folder_rows_count_summary">Number of rows on open folder</string>
+    <string name="pref_cat_launcher_folder_rows_count_title">Folder rows</string>
+    <string name="pref_cat_launcher_hidden_apps_summary">Permet de sélectionner les applications qui seront masquer sur le Bureau</string>
+    <string name="pref_cat_launcher_hidden_apps_title">Masquer des applications</string>
     <string name="pref_cat_launcher_hide_hotseat_summary">"Une fois activé la barre d'icônes située en bas sur le Bureau disparaît"</string>
     <string name="pref_cat_launcher_hide_hotseat_title">"Masquer barre d'icônes située en bas sur le Bureau"</string>
-    <string name="pref_cat_launcher_hotseat_show_icons_labels_summary">"Afficher ou masquer le nom des icônes située en bas sur le Bureau"</string>
+    <string name="pref_cat_launcher_hotseat_show_icons_labels_summary">Afficher ou masquer le nom des icônes située en bas sur le Bureau</string>
     <string name="pref_cat_launcher_hotseat_show_icons_labels_title">Afficher le nom des icônes en bas du bureau</string>
     <string name="pref_cat_launcher_multiline_icons_labels_summary">Afficher le nom des icônes sur plusieurs lignes</string>
     <string name="pref_cat_launcher_multiline_icons_labels_title">Afficher le nom des icônes sur plusieurs lignes</string>
+    <string name="pref_cat_launcher_replace_search_component_summary">Select application to run by swipe up</string>
+    <string name="pref_cat_launcher_replace_search_component_title">Application</string>
+    <string name="pref_cat_launcher_replace_search_summary">Allows to change search action by swipe up on start application</string>
+    <string name="pref_cat_launcher_replace_search_title">Search</string>
     <string name="pref_cat_launcher_summary">Personnalisation du Bureau</string>
     <string name="pref_cat_launcher_title">Bureau</string>
+    <string name="pref_cat_launcher_tweaks_enable_title">Activer la personnalisation du Bureau</string>
     <string name="pref_cat_launcher_widgets_resize_always_summary">Rendre tous les widgets redimensionnables (ne fonctionne pas pour les widgets MIUI par défaut)</string>
     <string name="pref_cat_launcher_widgets_resize_always_title">Widgets redimensionnables</string>
     <string name="pref_cat_launcher_workspace_columns_summary">Personnaliser le nombre de colonnes du Bureau</string>
@@ -140,29 +185,59 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_launcher_workspace_rows_title">Nombre de Lignes</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_summary">Afficher ou masquer le nom des icônes du Bureau</string>
     <string name="pref_cat_launcher_workspace_show_icons_labels_title">Afficher le nom des icônes</string>
+    <string name="pref_cat_menu_key_enable_summary">Permet de remplacer le comportement du bouton \"Menu\"</string>
+    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
+    <string name="pref_cat_power_summary">Préférences de la personnalisation du bouton Power</string>
+    <string name="pref_cat_power_title">Bouton Power</string>
     <string name="pref_cat_screen_summary">"Personnalisation de la teinte de l'écran"</string>
     <string name="pref_cat_screen_title">"Teinte de l'écran"</string>
+    <string name="pref_cat_sensor_key_enable_summary">Permet de remplacer le comportement du bouton \"Capteur\"</string>
+    <string name="pref_cat_sensor_key_enable_title">Personnaliser le bouton \"Sensor\"</string>
     <string name="pref_cat_settings_show_naviagation_bar_summary">"Permet d'afficher les boutons tactiles à l'écran"</string>
     <string name="pref_cat_settings_show_naviagation_bar_title">Barre de Navigation</string>
+    <string name="pref_cat_settings_swap_volume_keys_summary">"Permet d'échanger les boutons du volume lorsque l'écran est tourné"</string>
+    <string name="pref_cat_settings_swap_volume_keys_title">Inverser les boutons de volume</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_summary">"Lorsqu'elle est cochée, cela permet d'afficher ou masquer l'horloge dans la barre d'état lorsque le widget horloge est visible par défaut sur le Bureau"</string>
     <string name="pref_cat_systemui_allow_hide_statusbar_clock_title">"Forcer l'affichage de l'horloge"</string>
-    <string name="pref_cat_systemui_autoexpand_notifications_summary">Permet d\'étendre les notifications automatiquement dans la barre de notification</string>
+    <string name="pref_cat_systemui_autoexpand_notifications_summary">"Permet d'étendre les notifications automatiquement dans la barre de notification"</string>
     <string name="pref_cat_systemui_autoexpand_notifications_title">Étendre automatiquement les notifications</string>
+    <string name="pref_cat_systemui_dark_notifications_icons_summary">Utiliser des icônes de notifications foncé dans la barre de notification et la barre de statut</string>
+    <string name="pref_cat_systemui_dark_notifications_icons_title">Icônes de notifications foncé</string>
     <string name="pref_cat_systemui_dim_layer_color_summary">"Permet de sélectionner la couleur de teinte de l'écran"</string>
     <string name="pref_cat_systemui_dim_layer_color_title">Couleur</string>
     <string name="pref_cat_systemui_dim_layer_enable_summary">"Permet d'utiliser une autre couleur de teinte de l'écran"</string>
     <string name="pref_cat_systemui_dim_layer_enable_title">Activer</string>
-    <string name="pref_cat_systemui_dim_layer_power_summary">"Permet de sélectionner une valeur de teinte</string>
+    <string name="pref_cat_systemui_dim_layer_power_summary">Permet de sélectionner une valeur de teinte</string>
     <string name="pref_cat_systemui_dim_layer_power_title">Valeur de teinte</string>
     <string name="pref_cat_systemui_dim_layer_title">"Teinte de l'écran"</string>
     <string name="pref_cat_systemui_expand_notifications_by_click_summary">"Permet d'étendre les notifications en appuyant dessus"</string>
     <string name="pref_cat_systemui_expand_notifications_by_click_title">Étendre les notifications en appuyant dessus</string>
+    <string name="pref_cat_systemui_ext_reboot_summary">"Afficher les différentes options de redémarrage lors de l'appui sur le bouton Power"</string>
+    <string name="pref_cat_systemui_ext_reboot_title">Redémarrage avancé</string>
     <string name="pref_cat_systemui_fix_notifications_icons_summary">Notifications des icônes façon AOSP</string>
     <string name="pref_cat_systemui_fix_notifications_icons_title">Notifications AOSP des icônes</string>
+    <string name="pref_cat_systemui_label_text_color_dark_summary">Permet de définir la couleur du texte sombre des icônes</string>
+    <string name="pref_cat_systemui_label_text_color_dark_title">Couleur du texte sombre</string>
+    <string name="pref_cat_systemui_label_text_color_light_summary">Permet de définir la couleur du texte clair des icônes</string>
+    <string name="pref_cat_systemui_label_text_color_light_title">Couleur du texte clair</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_dark_summary">"Permet de définir la couleur de l'ombre du texte sombre des icônes"</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_dark_title">"Couleur de l'ombre du texte sombre"</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_light_summary">"Permet de définir la couleur de l'ombre du texte clair des icônes"</string>
+    <string name="pref_cat_systemui_label_text_shadow_color_light_title">"Couleur de l'ombre du texte clair"</string>
+    <string name="pref_cat_systemui_notification_panel_background_color_summary">Select notification background color</string>
+    <string name="pref_cat_systemui_notification_panel_background_color_title">Background color</string>
     <string name="pref_cat_systemui_recents_animation_angle_summary">"Angle d'animation des applications récentes"</string>
     <string name="pref_cat_systemui_recents_animation_angle_title">Angle de rotation</string>
-    <string name="pref_cat_systemui_recents_animation_enable_summary">"Activez l'animation des applications récentes""</string>
+    <string name="pref_cat_systemui_recents_animation_enable_summary">"Activez l'animation des applications récentes"</string>
     <string name="pref_cat_systemui_recents_animation_enable_title">Animation des applications récentes</string>
+    <string name="pref_cat_systemui_replace_notification_panel_background_summary">Allows to set notification panel background color</string>
+    <string name="pref_cat_systemui_replace_notification_panel_background_title">Notification panel background</string>
+    <string name="pref_cat_systemui_shade_statusbar_summary">"Permet d'inverser la couleur de l'ombre de la Barre d'État"</string>
+    <string name="pref_cat_systemui_shade_statusbar_title">"Barre d'état"</string>
+    <string name="pref_cat_systemui_show_statusbar_search_summary">Allows to hide search from expanded status bar panel</string>
+    <string name="pref_cat_systemui_show_statusbar_search_title">Status bar search</string>
+    <string name="pref_cat_systemui_smart_notification_panel_mode_summary">"Permet de définir quelle barre sera affichée par un glisser gauche ou droite de l'écran"</string>
+    <string name="pref_cat_systemui_smart_notification_panel_mode_title">Mode étendu intelligent de la barre de notifications</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_summary">Permet de sélectionner la taille du pourcentage de la batterie</string>
     <string name="pref_cat_systemui_statusbar_battery_dimens_mult_title">Taille du pourcentage de la batterie</string>
     <string name="pref_cat_systemui_statusbar_battery_pos_summary">"Permet de sélectionner la position de l'icône de la batterie dans la barre d'état"</string>
@@ -175,10 +250,10 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_clock_pos_title">Horloge</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_summary">"Permet de sélectionner la taille du texte de l'horloge"</string>
     <string name="pref_cat_systemui_statusbar_clock_text_size_title">"Taille du texte de l'horloge"</string>
-    <string name="pref_cat_systemui_statusbar_hide_battery_summary">Permet de masquer l\'icône de la batterie dans la barre d\'état</string>
-    <string name="pref_cat_systemui_statusbar_hide_battery_title">Masquer l\'icône de la batterie</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_summary">"Permet de masquer l'icône de la batterie dans la barre d'état"</string>
+    <string name="pref_cat_systemui_statusbar_hide_battery_title">"Masquer l'icône de la batterie"</string>
     <string name="pref_cat_systemui_statusbar_max_notification_icons_count_summary">"Permet de sélectionner le nombre maximum de notifications d'icônes qui s'affichent sur la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">Nombre maximum d\'icônes</string>
+    <string name="pref_cat_systemui_statusbar_max_notification_icons_count_title">"Nombre maximum d'icônes"</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_summary">"Permet de sélectionner la position de la vitesse de connexion sur la barre d'état"</string>
     <string name="pref_cat_systemui_statusbar_network_speed_pos_title">Vitesse de connexion</string>
     <string name="pref_cat_systemui_statusbar_network_speed_text_size_summary">Permet de sélectionner la taille du texte de vitesse de connexion (pour le style vitesse de connexion montante/descendante cette valeur est divisée par deux)</string>
@@ -194,11 +269,13 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_summary">"Permet d'afficher les notifications dans la barre d'état sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_on_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="pref_cat_systemui_statusbar_notification_tickers_summary">"Permet d'afficher les notifications dans la barre d'état"</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_title">Popup dans la barre d\'état</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
+    <string name="pref_cat_systemui_statusbar_notification_tickers_title">"Popup dans la barre d'état"</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_summary">"Permet d'afficher la vitesse de connexion montante et descendante"</string>
     <string name="pref_cat_systemui_statusbar_omni_network_speed_title">Vitesse de connexion montante et descendante</string>
     <string name="pref_cat_systemui_statusbar_right_wifi_icon_summary">"Permet d'afficher le signal WiFi à droite de la vitesse de connexion"</string>
-    <string name="pref_cat_systemui_statusbar_right_wifi_icon_title">Position signal  WiFi à droite</string>
+    <string name="pref_cat_systemui_statusbar_right_wifi_icon_title">Position signal WiFi à droite</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_dimens_mult_summary">Permet de sélectionner la taille du signal du réseau mobile en pourcentage</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_dimens_mult_title">Taille du signal du réseau mobile</string>
     <string name="pref_cat_systemui_statusbar_signal_cluster_pos_summary">Permet de sélectionner la position du signal du réseau mobile</string>
@@ -210,7 +287,7 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_systemui_statusbar_status_icons_pos_summary">Permet de sélectionner la position des icônes de statut</string>
     <string name="pref_cat_systemui_statusbar_status_icons_pos_title">Icônes de statut</string>
     <string name="pref_cat_systemui_ststusbar_icons_title">Position des icônes dans la barre de Notifications</string>
-    <string name="pref_cat_systemui_summary">Personnalisation de l\'interface Utilisateur"</string>
+    <string name="pref_cat_systemui_summary">"Personnalisation de l'interface Utilisateur"</string>
     <string name="pref_cat_systemui_title">Interface Utilisateur</string>
     <string name="pref_cat_systemui_toggles_panel_columns_summary">Permet de définir le nombre de colonnes dans la barre des raccourcis</string>
     <string name="pref_cat_systemui_toggles_panel_columns_title">Nombre de colonnes dans la barre des raccourcis</string>
@@ -228,8 +305,12 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_volume_media_max_title">Média</string>
     <string name="pref_cat_volume_notifications_max_summary">Permet de remplacer le volume maximum des notifications</string>
     <string name="pref_cat_volume_notifications_max_title">Notifications</string>
-    <string name="pref_cat_volume_panel_timeout_summary">Durée de l\'affichage du panneau de volume (en millisecondes)</string>
-    <string name="pref_cat_volume_panel_timeout_title">"Délai d\'affichage du panneau de volume"</string>
+    <string name="pref_cat_volume_override_max_summary">"Permet de définir des niveaux de volume max (nombre d'étapes de régulation du volume)"</string>
+    <string name="pref_cat_volume_override_max_title">Remplacer les niveaux de volume max</string>
+    <string name="pref_cat_volume_panel_timeout_summary">"Durée de l'affichage du panneau de volume (en millisecondes)"</string>
+    <string name="pref_cat_volume_panel_timeout_title">"Délai d'affichage du panneau de volume"</string>
+    <string name="pref_cat_volume_panel_top_summary">"Permet de définir la position de la barre de volume en haut en pourcentage de la hauteur de l'écran"</string>
+    <string name="pref_cat_volume_panel_top_title">Barre de volume en haut</string>
     <string name="pref_cat_volume_panels_summary">Permet de sélectionner quel panneau de volume sera utilisé</string>
     <string name="pref_cat_volume_panels_title">Panneaux de volume</string>
     <string name="pref_cat_volume_ringer_max_summary">Permet de remplacer le volume maximum de la sonnerie</string>
@@ -238,104 +319,15 @@ Attention! Le téléphone sera déverrouillé, même si le code PIN ou le mot de
     <string name="pref_cat_volume_title">Volume</string>
     <string name="pref_cat_volume_unlink_notification_summary">Permet de contrôler le volume des notifications indépendamemnt du volume de la sonnerie</string>
     <string name="pref_cat_volume_unlink_notification_title">Volume des notifications</string>
-    <string name="pref_cat_volume_use_volume_panels_summary">Permet d\'utiliser des panneaux de volume à défilement (Attention ne fonctionne pas sur tous les téléphones)</string>
+    <string name="pref_cat_volume_use_volume_panels_summary">"Permet d'utiliser des panneaux de volume à défilement (Attention ne fonctionne pas sur tous les téléphones)"</string>
     <string name="pref_cat_volume_use_volume_panels_title">Panneaux de volume étendu</string>
     <string name="pref_current_value">Valeur actuelle :</string>
+    <string name="select_app_title">Sélectionner une application</string>
+    <string name="select_apps_title">Sélectionner les applications</string>
     <string name="translator">"\u0009• Angyann (Email: ouri94@hotmail.com)
  \u0009• Fayz  (Email: fays91@miui-france.org)
  
 Pour remonter les erreurs de traduction ou optimisation - merci d'envoyer un email à Angyann ou Fayz !"</string>
     <string name="version">Version</string>
     <string name="warnin">Attention !</string>
-
-    <string name="pref_cat_keys_sensor_title">Bouton \"Capteur\"</string>
-    <string name="pref_cat_menu_key_enable_title">Personnaliser le bouton \"Menu\"</string>
-    <string name="pref_cat_menu_key_enable_summary">Permet de remplacer le comportement du bouton \"Menu\"</string>
-    <string name="pref_cat_back_key_enable_title">Personnaliser le bouton \"Retour\"</string>
-    <string name="pref_cat_back_key_enable_summary">Permet de remplacer le comportement du bouton \"Retour\"</string>
-    <string name="pref_cat_home_key_enable_title">Personnaliser le bouton \"Home\"</string>
-    <string name="pref_cat_home_key_enable_summary">Permet de remplacer le comportement du bouton \"Home\"</string>
-    <string name="pref_cat_sensor_key_enable_title">Personnaliser le bouton \"Sensor\"</string>
-    <string name="pref_cat_sensor_key_enable_summary">Permet de remplacer le comportement du bouton \"Capteur\"</string>
-    <string name="pref_cat_settings_swap_volume_keys_title">Inverser les boutons de volume</string>
-    <string name="pref_cat_settings_swap_volume_keys_summary">Permet d\'échanger les boutons du volume lorsque l\'écran est tourné</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_title">Google Smart Lock</string>
-    <string name="pref_cat_keyguard_enable_google_smartlock_summary">Activer le support Google Smart Lock</string>
-    <string name="pref_cat_systemui_shade_statusbar_title">Barre d\'état</string>
-    <string name="pref_cat_systemui_shade_statusbar_summary">"Permet d'inverser la couleur de l'ombre de la Barre d'État"</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_title">Notification taille du texte</string>
-    <string name="pref_cat_systemui_statusbar_notification_tickers_text_size_summary">Permet de définir la taille du texte des notifications</string>
-    <string name="pref_cat_systemui_dark_notifications_icons_title">Icônes de notifications foncé</string>
-    <string name="pref_cat_systemui_dark_notifications_icons_summary">Utiliser des icônes de notifications foncé dans la barre de notification et la barre de statut</string>
-    <string name="pref_cat_systemui_smart_notification_panel_mode_title">Mode étendu intelligent de la barre de notifications</string>
-    <string name="pref_cat_systemui_smart_notification_panel_mode_summary">"Permet de définir quelle barre sera affichée par un glisser gauche ou droite de l'écran"</string>
-    <string name="pref_cat_keyguard_shuffle_pin_title">Clavier aléatoire pour le code PIN</string>
-    <string name="pref_cat_keyguard_shuffle_pin_summary">Permettre de modifier aléatoirement le clavier pour le code PIN à chaque verrouillage du téléphone</string>
-    <string name="pref_cat_volume_override_max_title">Remplacer les niveaux de volume max</string>
-    <string name="pref_cat_volume_override_max_summary">"Permet de définir des niveaux de volume max (nombre d'étapes de régulation du volume)"</string>
-    <string name="notification_volume">Volume des notifications</string>
-    <string name="pref_cat_volume_panel_top_title">Barre de volume en haut</string>
-    <string name="pref_cat_volume_panel_top_summary">"Permet de définir la position de la barre de volume en haut en pourcentage de la hauteur de l'écran"</string>
-    <string name="pref_cat_launcher_tweaks_enable_title">Activer la personnalisation du Bureau</string>
-    <string name="pref_cat_contacts_swipe_list_item_title">"Faire glisser le journal d'appels"</string>
-    <string name="pref_cat_contacts_swipe_list_item_summary">"Permettre le glissement du journal d'appels"</string>
-    <string name="pref_cat_contacts_disable_call_by_click_list_item_title">"Désactiver l'appel en appuyant sur l'élément du journal d'appels"</string>
-    <string name="pref_cat_contacts_disable_call_by_click_list_item_summary">"Permet de désactiver les appels en appuyant sur l'élément du journal d'appels"</string>
-    <string name="pref_cat_launcher_hidden_apps_title">Masquer des applications</string>
-    <string name="pref_cat_launcher_hidden_apps_summary">Permet de sélectionner les applications qui seront masquer sur le Bureau</string>
-    <string name="select_apps_title">Sélectionner les applications</string>
-    <string name="select_app_title">Sélectionner une application</string>
-    <string name="pref_cat_systemui_label_text_color_light_title">Couleur du texte clair</string>
-    <string name="pref_cat_systemui_label_text_color_light_summary">Permet de définir la couleur du texte clair des icônes</string>
-    <string name="pref_cat_systemui_label_text_shadow_color_light_title">"Couleur de l'ombre du texte clair"</string>
-    <string name="pref_cat_systemui_label_text_shadow_color_light_summary">"Permet de définir la couleur de l'ombre du texte clair des icônes"</string>
-    <string name="pref_cat_systemui_label_text_color_dark_title">Couleur du texte sombre</string>
-    <string name="pref_cat_systemui_label_text_color_dark_summary">Permet de définir la couleur du texte sombre des icônes</string>
-    <string name="pref_cat_systemui_label_text_shadow_color_dark_title">"Couleur de l'ombre du texte sombre"</string>
-    <string name="pref_cat_systemui_label_text_shadow_color_dark_summary">"Permet de définir la couleur de l'ombre du texte sombre des icônes"</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_title">Mode Rejeter</string>
-    <string name="pref_cat_keyguard_swipe_to_dismiss_notifications_mode_summary">Permet de sélectionner comment disparaîtront les notifications par un glisser</string>
-    <string name="pref_cat_contacts_enable_preferred_sim_title">Préférence Carte SIM</string>
-    <string name="pref_cat_contacts_enable_preferred_sim_summary">Permet de sélectionner la Carte SIM préférée pour les numéros de téléphone des contacts</string>
-    <string name="pref_cat_contacts_list_item_click_mode_title">"Action d'appui sur un élément du journal d'appels"</string>
-    <string name="pref_cat_contacts_list_item_click_mode_summary">"Permet de définir l'action qui sera exécutée lors d'un appui sur un élément du journal d'appels"</string>
-    <string name="pref_cat_power_title">Bouton Power</string>
-    <string name="pref_cat_power_summary">Préférences de la personnalisation du bouton Power</string>
-    <string name="pref_cat_systemui_ext_reboot_title">Redémarrage avancé</string>
-    <string name="pref_cat_systemui_ext_reboot_summary">"Afficher les différentes options de redémarrage lors de l'appui sur le bouton Power"</string>
-    <string name="pref_cat_contacts_disable_photo_crop_title">Disable fullscreen photo crop</string>
-    <string name="pref_cat_contacts_disable_photo_crop_summary">Allows to disable cropping of full screen contact photo during call</string>
-    <string name="pref_cat_contacts_dial_buttons_mode_title">Dial buttons mode</string>
-    <string name="pref_cat_contacts_dial_buttons_mode_summary">Allows to set which dial buttons will be shown in dialer</string>
-    <string name="pref_cat_contacts_quick_dial_title">Quick dial</string>
-    <string name="pref_cat_contacts_quick_dial_summary">Allows to perform quick dial by long press on digits buttons</string>
-    <string name="pref_cat_contacts_quick_dial_2_title">Digit 2</string>
-    <string name="pref_cat_contacts_quick_dial_2_summary">Allows to set phone number which will be dial on digit 2 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_3_title">Digit 3</string>
-    <string name="pref_cat_contacts_quick_dial_3_summary">Allows to set phone number which will be dial on digit 3 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_4_title">Digit 4</string>
-    <string name="pref_cat_contacts_quick_dial_4_summary">Allows to set phone number which will be dial on digit 4 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_5_title">Digit 5</string>
-    <string name="pref_cat_contacts_quick_dial_5_summary">Allows to set phone number which will be dial on digit 5 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_6_title">Digit 6</string>
-    <string name="pref_cat_contacts_quick_dial_6_summary">Allows to set phone number which will be dial on digit 6 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_7_title">Digit 7</string>
-    <string name="pref_cat_contacts_quick_dial_7_summary">Allows to set phone number which will be dial on digit 7 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_8_title">Digit 8</string>
-    <string name="pref_cat_contacts_quick_dial_8_summary">Allows to set phone number which will be dial on digit 8 button long press</string>
-    <string name="pref_cat_contacts_quick_dial_9_title">Digit 9</string>
-    <string name="pref_cat_contacts_quick_dial_9_summary">Allows to set phone number which will be dial on digit 9 button long press</string>
-    <string name="input_phone_number">Input phone number</string>
-    <string name="pref_cat_launcher_folder_rows_count_title">Folder rows</string>
-    <string name="pref_cat_launcher_folder_rows_count_summary">Number of rows on open folder</string>
-    <string name="pref_cat_systemui_show_statusbar_search_title">Status bar search</string>
-    <string name="pref_cat_systemui_show_statusbar_search_summary">Allows to hide search from expanded status bar panel</string>
-    <string name="pref_cat_systemui_replace_notification_panel_background_title">Notification panel background</string>
-    <string name="pref_cat_systemui_replace_notification_panel_background_summary">Allows to set notification panel background color</string>
-    <string name="pref_cat_systemui_notification_panel_background_color_title">Background color</string>
-    <string name="pref_cat_systemui_notification_panel_background_color_summary">Select notification background color</string>
-    <string name="pref_cat_launcher_replace_search_title">Search</string>
-    <string name="pref_cat_launcher_replace_search_summary">Allows to change search action by swipe up on start application</string>
-    <string name="pref_cat_launcher_replace_search_component_title">Application</string>
-    <string name="pref_cat_launcher_replace_search_component_summary">Select application to run by swipe up</string>
 </resources>
