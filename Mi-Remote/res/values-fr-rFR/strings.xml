@@ -952,7 +952,7 @@ Ensuite, répondre à la question"</string>
     <string name="recover">Récupération à partir du lecteur</string>
     <string name="recovering">Reprise</string>
     <string name="rematch">Assortir</string>
-    <string name="remove_fav_channel">取消收藏</string>
+    <string name="remove_fav_channel">Supprimer des favoris</string>
     <string name="require_login">Connexion obligatoire</string>
     <string name="reset">Réinitialiser</string>
     <string name="screen_shot_button_title">"Capture d'écran"</string>
