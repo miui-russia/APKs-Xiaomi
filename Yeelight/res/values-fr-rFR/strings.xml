@@ -29,7 +29,6 @@
     <string name="GroupManager">Gestionnaire de groupe</string>
     <string name="InteractManager">Changer de gestionnaire</string>
     <string name="LanMode">Mode local</string>
-    <string name="New_UI">Nouveau</string>
     <string name="Pause">Pause</string>
     <string name="Play">Lecture</string>
     <string name="PlayAudio">Lire la Musique</string>
@@ -75,6 +74,7 @@
     <string name="activity_wifi_alarm_no_added_tips">Pas de minuteur encore ajouté</string>
     <string name="activity_wifi_alarm_repeat_all">Tous les jours</string>
     <string name="activity_wifi_alarm_repeat_today">"Aujourd'hui"</string>
+    <string name="add_virtual_device">Add Virtual Device</string>
     <string name="alarm_action">Type d\'action</string>
     <string name="alarm_action_turn_off">La Yeelight s\'éteint automatiquement</string>
     <string name="alarm_action_turn_on">La Yeelight s\'allume automatiquement</string>
@@ -86,7 +86,7 @@
     <string name="already_last_version">Vous avez bien la dernière version de l\'application</string>
     <string name="already_login">Déjà connecté</string>
     <string name="app_name">Yeelight</string>
-    <string name="application_build_date">160622</string>
+    <string name="application_build_date">160715</string>
     <string name="bind_failed">"L'appairage a échoué"</string>
     <string name="bind_succeed">Appairer</string>
     <string name="ble_connect_authing">Vérification des permissions de l\'appareil</string>
@@ -115,6 +115,7 @@
     <string name="common_retry">Recommencer</string>
     <string name="common_text_add">Ajouter</string>
     <string name="common_text_add_device">Ajouter votre Yeelight</string>
+    <string name="common_text_agree">Accepter</string>
     <string name="common_text_alarm_name">Schedule</string>
     <string name="common_text_alarm_no_time_setting">No schedule is set, are you sure to leave?</string>
     <string name="common_text_alarm_scene_name">Scene Setting</string>
@@ -264,7 +265,7 @@
     <string name="feature_feedback">"Retour d'Expérience utilisateur"</string>
     <string name="feature_focus">Focus</string>
     <string name="feature_fw_upgrade">Version du Firmware</string>
-    <string name="feature_geek_mode">Geek Mode</string>
+    <string name="feature_geek_mode">Mode développeur</string>
     <string name="feature_group_connect">Connexion</string>
     <string name="feature_group_device">"L'appareil"</string>
     <string name="feature_group_group">Groupe</string>
@@ -278,6 +279,7 @@
     <string name="feature_restore">Réinitialiser</string>
     <string name="feature_set_default">État par défaut</string>
     <string name="feature_share_device">Partager le périphérique</string>
+    <string name="feature_short_key_mode">Double clic</string>
     <string name="feature_unbind">Se délier</string>
     <string name="feature_wechat">Contrôler WeChat</string>
     <string name="feedback_adapter_from_self">Moi  </string>
@@ -297,9 +299,14 @@
     <string name="fte_get_yeelight_device">Faites l\'acquisition d\'un périphérique Yeelight</string>
     <string name="fte_login_your_account">Identifiez-vous ou créez un compte Mi</string>
     <string name="fte_start_yeelight_prompt">Bien démarrer avec votre Yeelight</string>
+    <string name="geek_mode_info">You can enable Yeelight 3rd-party control protocol on your device. Once enabled, your device can be discovered and controlled by any device under the same network that follows the protocol.</string>
+    <string name="geek_mode_protocol">Yeelight 3rd-party control protocol</string>
+    <string name="geek_mode_protocol_info">Yeelight 3rd-party light control protocol works under LAN, once enabled, Yeeilght device can be discovered and controlled by other devices under the same network. The discover and control meessage is not encrypted, so device owner is responsible for the security of their devices.</string>
     <string name="general_setting_about">À propos de Yeelight</string>
     <string name="general_setting_about_version">Version : %1$s</string>
     <string name="general_setting_account">Compte Mi</string>
+    <string name="general_setting_ble_share">Share ble device via WLAN</string>
+    <string name="general_setting_notification">Notification Bar Widget</string>
     <string name="get_wifi_scan_result_error">Aucun réseau Wi-Fi detecté</string>
     <string name="group_offline_prompt">The lamp group can be controlled only if at least one lamp is online</string>
     <string name="kid_mode_info">"After the \"Kid Mode\" enabled, the color temperature can be adjusted within a range of 2700K-4000K, reducing the proportion of blue light, which will protect children's eyesight because blue light will do harm to children's eyes."</string>
@@ -359,6 +366,9 @@
     <string name="login_agreement2">"conditions d'utilisation"</string>
     <string name="logout">Déconnecter</string>
     <string name="logout_confirm">Etes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="mango_set_default_info">Choose Save to set current light as the default light. Default light is the startup light after a power cycle.</string>
+    <string name="mango_set_default_save">Save</string>
+    <string name="mango_set_default_title">Set default light</string>
     <string name="mango_title_bar_brightness">Bright</string>
     <string name="mango_title_bar_ct">Color Temp</string>
     <string name="mango_title_sub_off">Lamp is off</string>
@@ -453,6 +463,12 @@
     <string name="scene_unable_use">Ce scénario n\'est pas compatible avec votre périphérique</string>
     <string name="setting_disconnect_text_1">Êtes-vous sûr de vouloir déconnecter ce périphérique ?</string>
     <string name="setting_unbind_text_1">Vous ne serez pas en mesure de contrôler cet appareil si vous le désappairez</string>
+    <string name="short_key_info_down">and activate it by a quick double-click</string>
+    <string name="short_key_info_up">You can choose your favorite function</string>
+    <string name="short_key_mode_delay">Start/cancel sleep timer</string>
+    <string name="short_key_mode_diy">Switch to favorite light</string>
+    <string name="short_key_mode_focus">Start/stop Pomodoro</string>
+    <string name="short_key_title">Customize double-click action</string>
     <string name="title_account">Compte Mi</string>
     <string name="title_activity_splash">Yeelight</string>
     <string name="title_add_ble_device">Connexion à la Yeelight</string>
