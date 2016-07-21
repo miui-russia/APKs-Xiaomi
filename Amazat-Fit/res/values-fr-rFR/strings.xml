@@ -137,7 +137,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="apk_upgrade_force_upgrade_title">La version de AmazFit est obsolète. Merci de mettre à jour avant utilisation.</string>
     <string name="apk_upgrade_no_wifi_msg">Pas de connexion Wi-Fi, les mises à jour via le réseau de données peuvent engendrer des frais importants. Continuez ?</string>
     <string name="apk_upgrade_not_upgrade">Pas maintenant</string>
-    <string name="apk_upgrade_title">Merci de mettre à jour Mi Dong.</string>
+    <string name="apk_upgrade_title">Merci de mettre à jour AmazFit.</string>
     <string name="apk_upgrade_update">Mise à jour</string>
     <string name="apk_uptodate">AmazFit est à jour</string>
     <string name="app_name">AmazFit</string>
@@ -240,7 +240,7 @@ Avec les alertes par vibrations, il vous prévient pour vous réveiller et pour 
     <string name="ble_low_system_4_3_sub_title">Android 4.4 ou supérieur est requis</string>
     <string name="ble_low_system_4_3_title">"Impossible d'appairer"</string>
     <string name="ble_no_gps_closed">"Services de localisation 
-est désactivé"</string>
+ rechercher et connecter l'appareil"</string>
     <string name="ble_no_gps_tip">Activer les services de localisation</string>
     <string name="ble_no_network_tip">"Merci de laisser votre téléphone connecté au réseau."</string>
     <string name="ble_not_open">"Merci d'activer la connexion Bluetooth"</string>
@@ -248,7 +248,7 @@ est désactivé"</string>
     <string name="ble_not_open_tips">Cliquez sur Autoriser dans la boîte de dialogue</string>
     <string name="ble_not_support_ble4">Bluetooth 4.0 est requis</string>
     <string name="ble_phone_not_support">"Impossible d'appairer"</string>
-    <string name="bmi">BMI</string>
+    <string name="bmi">IMC</string>
     <string name="bmi_label">Mince 18.5 24 28 Obèse</string>
     <string name="bmi_label_yong">Normal 17.4 19.2 Obèse</string>
     <string name="body_fat">Masse graisseuse</string>
@@ -530,17 +530,17 @@ Connectez à votre band pour voir la cadence"</string>
     <string name="login_error_passport_id_auth_denied_error">"Nous rencontrons quelques soucis et nous sommes en train d'y remédier. Merci d'essayer ultérieurement."</string>
     <string name="login_error_passport_id_token_invalid_error">Connexion expirée，merci de vous connecter à nouveau.</string>
     <string name="login_error_passport_no_login_error">Connexion expirée，merci de vous connecter à nouveau.</string>
-    <string name="login_error_passport_parse_error">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
-    <string name="login_error_passport_server_error">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
+    <string name="login_error_passport_parse_error">Connexion échouée, merci de mettre à jour AmazFit et essayer à nouveau.</string>
+    <string name="login_error_passport_server_error">Connexion échouée, merci de mettre à jour AmazFit et essayer à nouveau.</string>
     <string name="login_error_passport_timeout_error">"Nous rencontrons quelques soucis et nous sommes en train d'y remédier. Merci d'essayer ultérieurement."</string>
-    <string name="login_error_passport_tpa_denied_error">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
-    <string name="login_error_passport_tpa_done_no_result">Connexion échouée, merci de mettre à jour Mi Dong et essayer à nouveau.</string>
+    <string name="login_error_passport_tpa_denied_error">Connexion échouée, merci de mettre à jour AmazFit et essayer à nouveau.</string>
+    <string name="login_error_passport_tpa_done_no_result">Connexion échouée, merci de mettre à jour AmazFit et essayer à nouveau.</string>
     <string name="login_success">Connexion réussie</string>
     <string name="login_with_facebook">Se connecter avec Facebook</string>
     <string name="login_with_other_way">Autres options de connexion</string>
     <string name="logout">Se déconnecter</string>
     <string name="logout_sync_data_failed">Déconnection échouée，merci de vérifier vos connexions réseaux.</string>
-    <string name="low_battery">"%s%%  d'autonomie restante. Veuillez charger votre téléphone."</string>
+    <string name="low_battery">"%s%%  d'autonomie restante. Veuillez charger votre AmazFit"</string>
     <string name="m_g_magic_def_calories">≈ burned &lt;hl>%s&lt;/hl> shrimp dumplings</string>
     <string name="m_g_magic_def_steps">≈ walking around Shanghai Bund for &lt;hl>%s&lt;/hl> times</string>
     <string name="m_g_score_over">Vous avez battu %d%% d\'utilisateurs !</string>
@@ -902,9 +902,9 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="sleep_lack_title">Considérez bien la quantité de sommeil</string>
     <string name="sleep_late_desc">"Il est conseillé d'aller dormir avant 22H. Rester éveillé tardivement réduit votre immunité et accélère le vieillissement."</string>
     <string name="sleep_late_title">Se coucher tôt et se lever tôt pour être bonne santé</string>
-    <string name="sleep_level_bad">Vous avez besoin de mieux dormir</string>
-    <string name="sleep_level_good">Vous avez dormi suffisamment</string>
-    <string name="sleep_level_normal">Vous pouvez encore mieux dormir.</string>
+    <string name="sleep_level_bad">Fatigué ? Essayez de dormir pour 7-9 heures par nuit</string>
+    <string name="sleep_level_good">Vous-avez très bien dormi la nuit dernière</string>
+    <string name="sleep_level_normal">Vous-avez bien dormi la nuit dernière</string>
     <string name="sleep_level_perfect">Vous avez bien dormi</string>
     <string name="sleep_light">Lumière</string>
     <string name="sleep_over_desc">Trop dormir vous fatigue. Prenez l\'habitude de vous réveiller dès que vous avez dormi suffisament, et de ne pas accumuler trop de sommeil.</string>
@@ -927,14 +927,13 @@ Paramètres-Verrouillage de l'écran-Déverrouiller avec un appareil Bluetooth."
     <string name="state_unauthorization_success">Suppression réussie</string>
     <string name="status_calorie_goal">Objectif %d cal</string>
     <string name="status_calories_title">Vous avez brûlé</string>
-    <string name="status_daily_welcome_0">Êtes-vous prêt pour une nouvelle semaine ?</string>
-    <string name="status_daily_welcome_1">Nouvelle semaine,
-    nouveaux challenges !</string>
-    <string name="status_daily_welcome_2">N\'oubliez pas vos objectifs."</string>
-    <string name="status_daily_welcome_3">Continuez d\'avancer !</string>
-    <string name="status_daily_welcome_4">Faites plus de marches !</string>
-    <string name="status_daily_welcome_5">Joyeux vendredi!</string>
-    <string name="status_daily_welcome_6">Profitez de votre week-end !</string>
+    <string name="status_daily_welcome_0">Try a new activity today and work your muscles in a new way!</string>
+    <string name="status_daily_welcome_1">Kickstart your week by taking the stairs when you can today.</string>
+    <string name="status_daily_welcome_2">Add a few extra steps to your day today - take the long way home!</string>
+    <string name="status_daily_welcome_3">Meditation before bed can create more restful sleep - try it tonight!</string>
+    <string name="status_daily_welcome_4">Exercise not only burns calories but also improves sleep quality.</string>
+    <string name="status_daily_welcome_5">TGIF! Start your weekend off right with a run or ride.</string>
+    <string name="status_daily_welcome_6">Add some steps to your weekend with a hike or stroll.</string>
     <string name="status_sleep_time">A dormi pendant %s min</string>
     <string name="status_sleep_title">Sommeil</string>
     <string name="status_step_goal">Objectif %s</string>
@@ -1158,7 +1157,7 @@ Traduction : Miui-France"</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <string name="beenz_trade_page_no_data">已无历史数据</string>
-    <string name="com.crashlytics.android.build_id">b6e44d65-dd88-45f0-b212-3c3afc84f186</string>
+    <string name="com.crashlytics.android.build_id">abb6739f-7672-4186-8889-936edf497126</string>
     <string name="data_unknown">--</string>
     <string name="facebook_app_id">125938537776820</string>
     <string name="ga_trackingId">UA-76448473-2</string>
