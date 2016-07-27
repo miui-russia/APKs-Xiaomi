@@ -861,7 +861,7 @@ Ensuite, répondre à la question"</string>
     <string name="epg_reply_comment_prefix">\@</string>
     <string name="epg_search_box_hint">Rechercher un programme ou une chaîne</string>
     <string name="epg_search_hot_channel">Recherche de chaînes populaires</string>
-    <string name="epg_search_hot_program">Recherche de programmes populaires索</string>
+    <string name="epg_search_hot_program">Recherche de programmes populaires</string>
     <string name="epg_stb_malfunction">"Cette télécommande ne reçoit pas l'exactitude des données de la Box, veuillez ajouter ou sélectionner une télécommande différente"</string>
     <string name="epg_unbook_all">Annuler tout</string>
     <string name="epg_user_my_booked_events">Mes plannifications</string>
