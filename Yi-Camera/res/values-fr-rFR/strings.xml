@@ -275,7 +275,7 @@ Apprendre comment faire cela sur http://www.xiaoyi.com/update/sports"</string>
     <string name="firmware_downloading">Téléchargement (%s%%)</string>
     <string name="firmware_only_downloaded">Téléchargé</string>
     <string name="firmware_paused">En pause</string>
-    <string name="firmware_pausing">Pause (%s%%)</string>
+    <string name="firmware_pausing">Pause</string>
     <string name="firmware_tip_downloaded">Nouveau</string>
     <string name="firmware_total_downloaded">%sMo téléchargé</string>
     <string name="firmware_update_info">Mise à jour du firmware</string>
@@ -388,7 +388,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="list_item_download_file_textview_downloadedspeed">0Ko/s</string>
     <string name="list_item_downloaded_file_textview_downloadedsize">0Mo</string>
     <string name="live_add_tag">Ajouter un tag</string>
-    <string name="live_camera_scan">Scanner un code avec l'appareil photo en mode live</string>
+    <string name="live_camera_scan">Scanner un code avec l\'appareil photo en mode live</string>
     <string name="live_choose_platform">Choisir la plateforme</string>
     <string name="live_code_save">"Le QR code a été sauvegardé dans l'album"</string>
     <string name="live_connect_wifi">Paramétrage Wifi</string>
@@ -447,7 +447,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="long_shutter_define">En mode logement</string>
     <string name="long_shutter_power_off">Éteindre</string>
     <string name="long_shutter_switch_mode">Changer de Mode</string>
-    <string name="loop_record">ENREGISTRER EN BOUCLE</string>
+    <string name="loop_record">ENREGISTRER</string>
     <string name="loop_video_duration_max">max</string>
     <string name="low_level_sd_card">Les cartes SD avec une capacité inférieure à 4 Go ne sont pas prises en charge.</string>
     <string name="male">Homme</string>
@@ -662,7 +662,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="setting_auto_low_light">Faible luminosité automatique</string>
     <string name="setting_auto_power_off">Extinction automatique</string>
     <string name="setting_buzzer_ring">Trouver la caméra</string>
-    <string name="setting_buzzer_volume">"Volume de l'alerte"</string>
+    <string name="setting_buzzer_volume">Bips</string>
     <string name="setting_camera">Caméra</string>
     <string name="setting_camera_clock">Heure de la caméra</string>
     <string name="setting_capture_default_mode">Mode Photo par défaut</string>
@@ -703,7 +703,7 @@ Le mot de passe de la caméra changera pour 1234567890."</string>
     <string name="setting_video_standard">Vidéo Standarde</string>
     <string name="setting_video_time_stamp">Heure tampon</string>
     <string name="setting_warp_enable">Ajuster la lentille de distortion</string>
-    <string name="setting_wifi">Réglages Wi-Fi</string>
+    <string name="setting_wifi">Wi-Fi</string>
     <string name="share_choice_tag">Sélectionnez jusqu\'à trois tags</string>
     <string name="share_community_fail">Partage échoué</string>
     <string name="share_community_success">Partage réussi</string>
@@ -968,12 +968,20 @@ situés à l'arrière de la caméra"</string>
     <string name="video_splendid_menu_title">Changer</string>
     <string name="video_splendid_title">Vidéo splendide</string>
     <string name="wifi_failure_message">Vous êtes sur la version M d\'Android, connecter une caméra en Wi-Fi peut engendrer dans anomalies, souhaitez-vous connecter la caméra Wi-Fi via les réglages système ?</string>
+    <string name="adj_hightlight">Surligner</string>
+    <string name="adj_shadow">Ombre</string>
+    <string name="adj_warm">Chaud</string>
+    <string name="current_version">Current Version:</string>
     <string name="encoding">Encoder</string>
     <string name="pic_edit_btn_adjust">Ajuster</string>
+    <string name="pic_edit_filter_beau">Auto</string>
     <string name="sd_card_available_photo_video">%1$d photos ou %2$d minutes de vidéo sont disponibles</string>
+    <string name="updata_info">What Is New：</string>
     <string name="welcome_to_YI_4K_live">Bienvenu sur YI 4K live</string>
     <string name="wifi_info">Wi-Fi info</string>
     <string name="wifi_scan_success">Scan du QR code scan réussi.</string>
+    <string name="pic_edit_filter_locallight">Part Color</string>
+    <string name="pic_edit_filter_purple">CAC</string>
     <string name="yi_share">YI</string>
     <string name="ve_button_deco">Embellir</string>
     <string name="ve_button_filter">Filtre</string>
@@ -985,9 +993,6 @@ situés à l'arrière de la caméra"</string>
     <string name="ve_title_more_music">Autres musique</string>
     <string name="ve_title_proceed">Continuer</string>
     <string name="action_settings">Paramètres</string>
-    <string name="adj_hightlight">Surligner</string>
-    <string name="adj_shadow">Ombre</string>
-    <string name="adj_warm">Chaud</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
@@ -998,6 +1003,5 @@ situés à l'arrière de la caméra"</string>
     <string name="instagram">Instagram</string>
     <string name="instagram_client_inavailable">"Instagram n'est pas installé ou la version actuelle est obsolète."</string>
     <string name="twitter">Twitter</string>
-    <string name="pic_edit_filter_beau">Auto</string>
     <string name="twitter_client_inavailable">"Twitter n'est pas installé ou la version actuelle est obsolète."</string>
 </resources>
