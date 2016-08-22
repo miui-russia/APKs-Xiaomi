@@ -22,9 +22,9 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
     <string name="twofortyfouram_locale_breadcrumb_separator">" > "</string>
-    <string name="twofortyfouram_locale_menu_dontsave">Cancel</string>
-    <string name="twofortyfouram_locale_menu_help">Help</string>
-    <string name="twofortyfouram_locale_menu_save">Done</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Annuler</string>
+    <string name="twofortyfouram_locale_menu_help">Aide</string>
+    <string name="twofortyfouram_locale_menu_save">Effectué</string>
     <string name="AccountManager">Gestionnaire de compte</string>
     <string name="ConfigurateConnection">Connexion rapide</string>
     <string name="DLNA_Service">Service DLNA</string>
@@ -94,17 +94,17 @@
     <string name="application_build_date">160811</string>
     <string name="bind_failed">"L'appairage a échoué"</string>
     <string name="bind_succeed">Appairer</string>
-    <string name="ble_connect_auth_info">当灯光闪烁时,请按下情景键来绑定</string>
+    <string name="ble_connect_auth_info">Lorsque les voyants clignotent, appuyez sur la bouton pour lier une scène</string>
     <string name="ble_connect_authing">Vérification des permissions de l\'appareil</string>
     <string name="ble_connect_connecting">Connexion en Bluetooth à la Yeelight</string>
     <string name="ble_connect_firmware_upgrade">Vérification de la version du Firmware</string>
     <string name="ble_connect_success">Connexion réussie</string>
     <string name="ble_connect_success_info">"Veuillez utiliser l'application lorsque votre Yeelight est allumée"</string>
     <string name="ble_connect_sync_device">"Lecture du statut de l\'appareil"</string>
-    <string name="ble_share_info">"After “Bluetooth Device Sharing” is enabled, users under the same local area network can discover and control the bluetooth device at the same time.
+    <string name="ble_share_info">"Après avoir activé “Partage de périphériques Bluetooth”, les utilisateurs sous le même réseau local peuvent visualiser et contrôler le périphérique Bluetooth en même temps.
 Attention:
-1. Only connected bluetooth device can be discovered and shared.
-2. Only following functions are supported for shared devices: switching, light-adjusting, favorite and snap."</string>
+1. Seul un appareil Bluetooth connecté peut être visualisé et partagé.
+2. Seules les fonctions suivantes sont prises en charge pour les périphériques partagés: interrupteur, réglage de la luminosité, favoris et snap".</string>
     <string name="button_upgrade_now">Mettre à jour maintenant</string>
     <string name="call_alarm_sub_info">Lorsque\"Notification Alarme\"est activée, dans la période configurée, le Mi Band se met à clignoter pour vous le rappeler il y a un appel entrant</string>
     <string name="call_alarm_text">Notification Alarme</string>
@@ -131,9 +131,9 @@ Attention:
     <string name="common_text_alarm_scene_name">Paramétrage de la scène</string>
     <string name="common_text_allow">Autoriser</string>
     <string name="common_text_awake">Réveil en lumière</string>
-    <string name="common_text_ble_prompt">Bluetooth not enabled !</string>
+    <string name="common_text_ble_prompt">Bluetooth non activé !</string>
     <string name="common_text_browse">Feuilleter</string>
-    <string name="common_text_buy_now">Purchase</string>
+    <string name="common_text_buy_now">Achater</string>
     <string name="common_text_cancel">Annuler</string>
     <string name="common_text_clear">Clair</string>
     <string name="common_text_close">On/Off</string>
@@ -417,17 +417,17 @@ Attention:
     <string name="msg_camera_framework_bug">Erreur caméra, veuillez redémarrer votre périphérique !</string>
     <string name="msg_not_enough_devices_selected">Vous devez choisir au moins 2 périphériques</string>
     <string name="msg_same_group_already_exist">Le groupe existe déjà, veuillez le sélectionner à nouveau</string>
-    <string name="music_mode">Music Mode</string>
-    <string name="music_mode_already_open">Light is already on music mode, please stop it firstly and then restart</string>
-    <string name="music_mode_btn_start">Turn on</string>
+    <string name="music_mode">Mode Musique</string>
+    <string name="music_mode_already_open">"La lampe est déjà en mode Musique, veuiller d'abord le désactiver puis le réactiver"</string>
+    <string name="music_mode_btn_start">Allumer</string>
     <string name="music_mode_dialog_know">OK</string>
-    <string name="music_mode_dialog_set_wifi">Change Wi-Fi</string>
-    <string name="music_mode_open_failed">Music mode failed</string>
-    <string name="music_mode_should_keep_foreground">"Returning to previous view or closing Yeelight App 
-will interrupt music mode"</string>
-    <string name="music_mode_text_info">"The light will show different effects
- according to the sounds around."</string>
-    <string name="music_mode_wifi_notice">The music mode only works when your phone and lights are under the same local area network</string>
+    <string name="music_mode_dialog_set_wifi">Changer de WiFi</string>
+    <string name="music_mode_open_failed">Mode Musique échoué</string>
+    <string name="music_mode_should_keep_foreground">"Revenir à la vue précédente ou fermer l'application Yeelight 
+interrompra mode musique"</string>
+    <string name="music_mode_text_info">"La lampe affichera différents effets 
+  selon le bruit alentour."</string>
+    <string name="music_mode_wifi_notice">Le mode de musique ne fonctionne que lorsque votre téléphone et les lampes sont sous le même réseau local</string>
     <string name="night_light_retrieve_failed">Échec de la fonction \"Veilleuse\" info</string>
     <string name="night_light_sub_info">*Vous pouvez glisser la molette tactile de votre Yeelight pour ajuster la luminosité afin qu\'elle vous soit plus agréable</string>
     <string name="night_light_text">Mode nuit</string>
@@ -497,14 +497,14 @@ will interrupt music mode"</string>
     <string name="title_name_group">Nom du groupe</string>
     <string name="title_reset_device">Réinitialiser le périphérique</string>
     <string name="title_share_device_received">Fichier reçu</string>
-    <string name="title_virtual_device_experience">Try virtual device</string>
+    <string name="title_virtual_device_experience">Essayez un appareil virtuel</string>
     <string name="toast_share_device_success">Partage du périphérique avec succés</string>
-    <string name="virtual_device">(Virtual)</string>
-    <string name="virtual_device_add_device">Add a virtual device</string>
+    <string name="virtual_device">(Virtuel)</string>
+    <string name="virtual_device_add_device">Ajouter un appareil virtuel</string>
     <string name="virtual_device_cancel_btn">OK</string>
-    <string name="virtual_device_notice_content">Virtual device doesn’t support this function</string>
-    <string name="virtual_device_purchase_btn">Order one</string>
-    <string name="virtual_device_purchase_yeelight">Buy Yeelight product</string>
+    <string name="virtual_device_notice_content">"L'appareil virtuel ne supporte pas cette fonction"</string>
+    <string name="virtual_device_purchase_btn">En commander un</string>
+    <string name="virtual_device_purchase_yeelight">Acheter un produit Yeelight</string>
     <string name="wake_up_retrieve_failed">Échec de récupération des informations du réveil en lumière</string>
     <string name="wake_up_sub_info">"La lampe s’allumera faiblement 30 minutes avant l'heure de réveil et s’intensifiera lentement. Ce qui vous réveillera doucement et vous préparera pour une agréable matinée"</string>
     <string name="wake_up_time">Heure du réveil %1$s:%2$s</string>
@@ -529,20 +529,20 @@ will interrupt music mode"</string>
     <string name="xlistview_footer_hint_normal">Voir plus</string>
     <string name="xlistview_header_last_time">Dernière mise à jour:</string>
     <string name="yeelight_appstore">"Évaluer l'application Yeelight"</string>
-    <string name="yeelight_device_name_cherry">Yeelight Bedside Lamp</string>
+    <string name="yeelight_device_name_cherry">Lampe de chevet Yeelight</string>
     <string name="yeelight_device_name_color">LED Yeelight (Couleur)</string>
-    <string name="yeelight_device_name_group">Yeelight Device Group</string>
+    <string name="yeelight_device_name_group">Groupe Yeelight</string>
     <string name="yeelight_device_name_lamp">Lampe de bureau Mi-LED</string>
-    <string name="yeelight_device_name_mono">LED Yeelight (Blanhe)</string>
-    <string name="yeelight_device_name_stripe">Yeelight Stripe</string>
+    <string name="yeelight_device_name_mono">LED Yeelight (Blanche)</string>
+    <string name="yeelight_device_name_stripe">Bande Yeelight</string>
     <string name="yeelight_splash_welcome_words">Éclairez Votre Vie</string>
     <string name="yeelight_website">Site de la Yeelight</string>
     <string name="yeelight_wechat">Yeelight sur WeChat</string>
     <string name="yeelight_weibo">Yeelight sur Weibo</string>
-    <string name="feature_music_mode">Music Mode</string>
-    <string name="mi_band_bind_dialog_mi2_not_support">MiBand2 currently disabled event broadcast, we will support this function as soon as MiBand2 re-enable it.</string>
+    <string name="feature_music_mode">Mode Musique</string>
+    <string name="mi_band_bind_dialog_mi2_not_support">Support du MiBand2 actuellement désactivé, nous allons réactiver cette fonction dès que possible.</string>
     <string name="mi_band_bind_dialog_mi2_not_support_btn">OK</string>
-    <string name="mi_band_bind_dialog_mi2_not_support_title">MiBand2 is not supported yet</string>
+    <string name="mi_band_bind_dialog_mi2_not_support_title">MiBand2 pas encore supporté</string>
     <string name="ActionCleanLog">0. Effacer l\'historique</string>
     <string name="ActionDebug">Entrez en mode de débogage</string>
     <string name="ActionSubEvents">1. Abonnez-vous à l\'événement</string>
@@ -591,11 +591,11 @@ will interrupt music mode"</string>
     <string name="TestPeopleManger">Test du Gestionnaire de Personne</string>
     <string name="Unbind">"Supprimer l'appairage"</string>
     <string name="action_settings">Paramètres</string>
-    <string name="aux_virtual_aircon">Air conditionné virtuelle</string>
+    <string name="aux_virtual_aircon">Air conditionné virtuel</string>
     <string name="cancel">Annuler</string>
-    <string name="common_text_action_bright">BRIGHT</string>
-    <string name="common_text_action_close">CLOSE</string>
-    <string name="common_text_action_open">OPEN</string>
+    <string name="common_text_action_bright">BRILLANT</string>
+    <string name="common_text_action_close">FERMER</string>
+    <string name="common_text_action_open">OUVRIR</string>
     <string name="common_text_action_scene">SCENE</string>
     <string name="common_text_action_toggle">TOGGLE</string>
     <string name="device_manager">Test du Gestionnaire de périphériques</string>
@@ -603,7 +603,7 @@ will interrupt music mode"</string>
     <string name="hello_world">Bonjour tout le monde !</string>
     <string name="ignore">Ignorer</string>
     <string name="invoke_actions">Invoquer des actions</string>
-    <string name="k_s">KB/s</string>
+    <string name="k_s">Ko/s</string>
     <string name="know_button">Je sais</string>
     <string name="login_account_hint">E-mail / numéro de téléphone / Compte Mi</string>
     <string name="login_account_login">Connectez-vous</string>
@@ -632,7 +632,7 @@ will interrupt music mode"</string>
     <string name="miot_button_cancel">Annuler</string>
     <string name="miot_button_ok">Déterminer</string>
     <string name="ok_button">Déterminer</string>
-    <string name="plugin_name">Yeelight Device</string>
+    <string name="plugin_name">Yeelight</string>
     <string name="pull_down_refresh">Tirer vers le bas pour rafraîchir</string>
     <string name="release_to_refresh">Actualiser</string>
     <string name="retrieve_failed">Échec de la récupération</string>
